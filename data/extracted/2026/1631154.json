@@ -5,17 +5,17 @@
   "title": "Versuchtes Tötungsdelikt – 5. Mordkommission ermittelt",
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
-    "category": "homicide",
+    "category": "assault",
     "incidentDate": "2026-01-06",
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": "Görlitzer Park",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 47-year-old man was found bound and injured in Görlitzer Park and left in the cold. He was taken to hospital, and a homicide unit has taken over the attempted killing investigation.",
+    "summaryEn": "A 47-year-old man was found bound and injured in Görlitzer Park and left in the cold; he was taken to hospital. The homicide unit has taken over the investigation of the suspected attempted killing.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:50:50.278Z"
+  "extractedAt": "2026-11-13T19:01:15.161Z"
 }

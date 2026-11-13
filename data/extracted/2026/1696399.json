@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 43-year-old man is suspected of fatally stabbing his 65-year-old mother on a balcony in Mariendorf; the 7th Homicide Commission is investigating. Police and emergency services attempted resuscitation, but she died in hospital.",
+    "summaryEn": "A 43-year-old man allegedly stabbed his 65-year-old mother on a balcony in Mariendorf; she died in hospital. The 7th Homicide Commission is investigating and the suspect was arrested.",
     "injured": 0,
     "dead": 1,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:50:32.938Z"
+  "extractedAt": "2026-11-13T19:01:03.811Z"
 }

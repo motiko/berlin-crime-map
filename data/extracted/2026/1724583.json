@@ -5,17 +5,17 @@
   "title": "Vorrichtungen zum Anbringen von versteckten Kameras entdeckt",
   "location": "Lichtenberg",
   "extraction": {
-    "category": "other",
+    "category": "political",
     "incidentDate": "2026-10-12",
     "street": "Alt-Friedrichsfelde",
     "houseNumberOrCrossing": null,
     "placeName": "Lichtenberger Campus der Hochschule für Wirtschaft und Recht",
     "district": "Lichtenberg",
-    "summaryEn": "Witness found several suspected devices for mounting hidden cameras in women's toilets at a university campus; police seized them and found no cameras. Investigations are ongoing.",
+    "summaryEn": "Several suspected devices for hiding cameras were found in women's toilets at a university campus in Lichtenberg and seized by police. No cameras were found; investigations continue.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:49:04.262Z"
+  "extractedAt": "2026-11-13T19:00:56.844Z"
 }

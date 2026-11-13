@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Berlin-Gatow",
     "district": "Spandau",
-    "summaryEn": "Police issued a general order establishing a restricted zone from 30 September 2026 for explosive ordnance clearance in Brandenburg, extending into Berlin-Gatow. Entry to streets and buildings in the zone is prohibited and public transport is suspended.",
+    "summaryEn": "A restricted zone reaching into Berlin-Gatow will be set up from 9:30 on 30 September 2026 for a bomb-disposal operation in Brandenburg. Public roads, public transport and gatherings in the zone will be closed off, and residents must leave the area.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:49:04.152Z"
+  "extractedAt": "2026-11-13T19:00:58.603Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Sonnenallee",
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "A 27-year-old man was fatally shot at the Planetenstraße/Sonnenallee crossing in Neukölln in the early hours of 7 September 2026. Police are seeking witnesses; the homicide unit is investigating.",
+    "summaryEn": "A 27-year-old man was fatally shot at the corner of Planetenstraße and Sonnenallee in the early hours. Police homicide unit is investigating; at least two suspects fled in a dark vehicle.",
     "injured": 0,
     "dead": 1,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:50:27.859Z"
+  "extractedAt": "2026-11-13T19:01:00.315Z"
 }

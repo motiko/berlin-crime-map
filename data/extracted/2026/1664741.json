@@ -5,17 +5,17 @@
   "title": "Ermittlungen wegen des Verdachts des versuchten Mordes - Mordkommission sucht Zeugen",
   "location": "Tempelhof-Schöneberg",
   "extraction": {
-    "category": "other",
+    "category": "assault",
     "incidentDate": "2026-04-26",
     "street": "Hermann-Ganswindt-Brücke",
     "houseNumberOrCrossing": "BAB 100",
-    "placeName": "BAB 100 (Stadtautobahn)",
+    "placeName": "BAB 100 (Stadtautobahn), Schöneberg",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Unknown persons threw an e-scooter from the Hermann-Ganswindt-Brücke onto the BAB 100 motorway, narrowly missing a driver. Homicide investigators are treating it as an attempted killing and seeking witnesses.",
+    "summaryEn": "Unknown persons threw an e-scooter from the Hermann-Ganswindt-Brücke onto the BAB 100 motorway, narrowly missing a driver. Homicide investigators are treating it as an attempted killing and appealing for witnesses and dash-cam footage.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:49:04.418Z"
+  "extractedAt": "2026-11-13T19:01:09.725Z"
 }

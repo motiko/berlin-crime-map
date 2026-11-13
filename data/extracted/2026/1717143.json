@@ -9,13 +9,13 @@
     "incidentDate": "2026-09-26",
     "street": null,
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Berlin-Marathon route, Mitte",
     "district": "Mitte",
-    "summaryEn": "Police issued a temporary general order banning weapons and knives in a area of Mitte along the Berlin Marathon route on 26 and 27 September 2026, from 6am to 5pm each day. The ban also covers blank-firing, pepper and signal guns.",
+    "summaryEn": "Police issued a temporary general order banning knives and weapons along parts of the Berlin Marathon route in Mitte on 26 and 27 September 2026, from 6am to 5pm. Road closures are expected.",
     "injured": 0,
     "dead": 0,
-    "weaponType": null
+    "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:49:04.314Z"
+  "extractedAt": "2026-11-13T19:00:59.540Z"
 }

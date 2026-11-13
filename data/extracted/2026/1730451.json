@@ -7,15 +7,15 @@
   "extraction": {
     "category": "other",
     "incidentDate": "2026-10-23",
-    "street": null,
-    "houseNumberOrCrossing": null,
-    "placeName": "U-Bahn-Abstellgleis zwischen U-Bahnhof Kochstraße und U-Bahnhof Hallesches Tor",
+    "street": "Abstellgleis",
+    "houseNumberOrCrossing": "Kochstraße–Hallesches Tor",
+    "placeName": "U-Bahn zwischen U-Bahnhof Kochstraße und U-Bahnhof Hallesches Tor",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Police arrested two suspects after a group was seen spraying graffiti on subway cars on a siding between Kochstraße and Hallesches Tor stations overnight. Four others fled, and spray cans were seized.",
+    "summaryEn": "Six people sprayed graffiti on several subway cars parked on a siding in Kreuzberg overnight; two were arrested and four fled. Investigations for criminal property damage are ongoing.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:49:04.329Z"
+  "extractedAt": "2026-11-13T19:00:55.552Z"
 }

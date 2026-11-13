@@ -5,17 +5,17 @@
   "title": "DEIG-Einsatz gegen akut eigengefährdete Frau",
   "location": "Mitte",
   "extraction": {
-    "category": "other",
+    "category": "assault",
     "incidentDate": "2026-01-23",
     "street": "Hilda-Geiringer-Weg",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "Police used a conducted energy device (DEIG) against a 30-year-old woman who was threatening self-harm with a knife in Moabit. She was taken to hospital and the knife was secured.",
+    "summaryEn": "Police used a stun device against a 30-year-old woman who was threatening self-harm with a knife in Moabit. She was injured by a self-inflicted cut before the stun device was used, and was taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:42:21.584Z"
+  "extractedAt": "2026-11-13T19:01:14.908Z"
 }

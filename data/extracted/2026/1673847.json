@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 69-year-old woman was found dead with a gunshot wound in her apartment in Lichtenrade. Her 84-year-old husband was temporarily arrested, and the homicide unit has taken over the investigation.",
+    "summaryEn": "A 69-year-old woman was found dead with a gunshot wound in her apartment in Lichtenrade. Her 84-year-old husband was provisionally arrested, and the homicide unit has taken over the investigation.",
     "injured": 0,
     "dead": 1,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:50:38.798Z"
+  "extractedAt": "2026-11-13T19:01:06.981Z"
 }

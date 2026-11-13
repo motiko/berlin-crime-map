@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Joint police and Bundespolizei prevention campaign on public transport security, with information stands at several S-Bahn and train stations in July 2026. Topics include civil courage, pickpocketing protection and victim support.",
-    "injured": null,
-    "dead": null,
+    "summaryEn": "Joint Berlin police and Federal Police prevention campaign on public transport safety at several S-Bahn and train stations in July 2026, covering pickpocketing and civil courage. No incident occurred.",
+    "injured": 0,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:49:04.210Z"
+  "extractedAt": "2026-11-13T19:01:05.289Z"
 }

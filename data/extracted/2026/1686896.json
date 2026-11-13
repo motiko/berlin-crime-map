@@ -5,17 +5,17 @@
   "title": "Versammlungsgeschehen zu einem angezeigten Aufzug anlässlich des 10. Muharram",
   "location": "Mitte",
   "extraction": {
-    "category": "other",
+    "category": "political",
     "incidentDate": "2026-06-27",
     "street": "Unter den Linden",
     "houseNumberOrCrossing": null,
     "placeName": "Berliner Dom",
     "district": "Mitte",
-    "summaryEn": "A registered procession (\"Aschura-Marsch\") with up to about 600 participants ran from the Berliner Dom to Gendarmenmarkt. Police banned a re-enactment involving children, several people needed medical care for heat-related illness, and the event remained peaceful.",
+    "summaryEn": "A registered assembly (\"Aschura-Marsch\") with about 600 participants marched from the Berliner Dom to Gendarmenmarkt. A staged depiction of children bound together was banned by police, and several participants needed medical treatment for heat-related circulatory problems; the assembly was otherwise peaceful.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:49:04.194Z"
+  "extractedAt": "2026-11-13T19:01:06.139Z"
 }

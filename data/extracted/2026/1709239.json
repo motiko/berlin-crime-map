@@ -6,16 +6,16 @@
   "location": "Steglitz-Zehlendorf",
   "extraction": {
     "category": "other",
-    "dead": null,
-    "district": "Steglitz-Zehlendorf",
-    "houseNumberOrCrossing": null,
     "incidentDate": "2026-09-03",
-    "injured": null,
-    "placeName": "Sprengplatz Grunewald",
     "street": "Kronprinzessinnenweg",
-    "summaryEn": "Police will detonate a World War II bomb found and defused last week at the Grunewald demolition site on 3 September 2026, with a 500-metre safety zone during the blast window of 10:00 to 13:00. Residents inside the zone will be asked to leave, and the AVUS and rail traffic are not affected.",
-    "weaponType": null
+    "houseNumberOrCrossing": null,
+    "placeName": "Sprengplatz Grunewald",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "Police will detonate a World War II bomb found and defused last week at the Grunewald demolition site on 3 September 2026, with a 500-metre safety zone in place. Residents within the zone will be asked to leave.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "explosive"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:49:04.470Z"
+  "extractedAt": "2026-11-13T19:01:01.582Z"
 }

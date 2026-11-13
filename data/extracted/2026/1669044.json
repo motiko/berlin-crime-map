@@ -6,16 +6,16 @@
   "location": "bezirksübergreifend",
   "extraction": {
     "category": "other",
-    "incidentDate": "2026-05-08",
+    "incidentDate": "2026-05-07",
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": "Sowjetische Ehrenmale (Treptower Park, Tiergarten, Schönholzer Heide)",
     "district": null,
-    "summaryEn": "Police issued a general order restricting certain symbols, uniforms and songs around Soviet war memorials in Treptow-Köpenick, Mitte and Pankow for 8 and 9 May 2026. The order covers the commemoration days and is not a specific incident.",
+    "summaryEn": "Police issued a general order restricting certain symbols, uniforms and songs around Soviet war memorials in Treptow-Köpenick, Mitte and Pankow for 8–9 May 2026. The order is an official notice, not a specific incident.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:49:04.199Z"
+  "extractedAt": "2026-11-13T19:01:08.598Z"
 }

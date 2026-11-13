@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Grünanlage",
     "district": "Lichtenberg",
-    "summaryEn": "A 40-year-old woman was found dead in a green area in Alt-Hohenschönhausen, and a 46-year-old suspect was arrested at the scene. The homicide unit is investigating.",
+    "summaryEn": "A 40-year-old woman was found dead in a green area in Alt-Hohenschönhausen and a 46-year-old suspect was arrested at the scene. The 1st Homicide Commission is investigating.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:50:47.865Z"
+  "extractedAt": "2026-11-13T19:01:13.359Z"
 }

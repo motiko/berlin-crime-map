@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Police Berlin run a traffic accident prevention campaign week from 16 to 20 March 2026 to protect elderly pedestrians, with events at weekly markets across the city. The events offer reaction tests and safety tips for seniors.",
+    "summaryEn": "Berlin police announced a traffic accident prevention week from 16 to 20 March 2026 to protect elderly pedestrians, with information stands at weekly markets across several districts. The events include reaction-time tests and safety tips.",
     "injured": null,
     "dead": null,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:42:21.631Z"
+  "extractedAt": "2026-11-13T19:01:12.620Z"
 }

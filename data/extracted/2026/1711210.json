@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "After his father called for help, police found a 36-year-old man in a mental crisis setting fire in a house in Marienfelde. He collapsed during restraint, died in hospital, and the homicide unit took over the investigation.",
+    "summaryEn": "Police were called to a house in Marienfelde where a 36-year-old man was setting fires in a psychological crisis. After he was restrained and taken out of the house he collapsed and died in hospital, and the homicide unit has taken over the investigation.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:50:28.264Z"
+  "extractedAt": "2026-11-13T19:01:01.268Z"
 }

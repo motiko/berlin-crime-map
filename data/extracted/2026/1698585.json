@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Denkmal für die im Nationalsozialismus ermordeten Sinti und Roma Europas",
     "district": "Mitte",
-    "summaryEn": "The police issued a general order (Allgemeinverfügung) banning assemblies and events in the government district around the Memorial to the Sinti and Roma murdered under National Socialism on 2 August 2026, the day of commemoration. The order runs from 6:00 to 23:59.",
+    "summaryEn": "Police issued a general order (Allgemeinverfügung) banning assemblies and events in the government district around the Sinti and Roma memorial on 2 August 2026, the memorial day for the Nazi genocide of Sinti and Roma. The order applies from 6:00 to 23:59.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:49:04.263Z"
+  "extractedAt": "2026-11-13T19:01:03.680Z"
 }

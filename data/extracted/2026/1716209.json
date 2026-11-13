@@ -6,16 +6,16 @@
   "location": "berlinweit",
   "extraction": {
     "category": "other",
-    "incidentDate": "2026-09-18",
+    "incidentDate": "2026-09-21",
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Berlin police announce a road safety prevention campaign for senior pedestrians on 21, 22, 23 and 25 September 2026 at four locations. The events include reaction tests, a traffic quiz and burglary prevention tips.",
+    "summaryEn": "Police run a road safety prevention campaign for senior pedestrians on several dates from 21 to 25 September 2026, with stands at four locations across Berlin. The events include reaction tests, a traffic knowledge quiz and burglary prevention tips.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:49:04.279Z"
+  "extractedAt": "2026-11-13T19:01:00.146Z"
 }

@@ -9,13 +9,13 @@
     "incidentDate": "2026-11-01",
     "street": "Salvador-Allende-Straße",
     "houseNumberOrCrossing": "Strandschloßweg",
-    "placeName": "Rettungsstelle eines Krankenhauses",
+    "placeName": null,
     "district": "Treptow-Köpenick",
-    "summaryEn": "A 42-year-old man in a psychological crisis left a hospital emergency room and was found by police. He held a lighter, not a weapon, and was taken back to hospital for treatment.",
+    "summaryEn": "A 42-year-old man in a psychological crisis left a hospital emergency room and was found by police. He calmed down after officers threatened to use a stun device, and he was taken to hospital for treatment.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:49:04.161Z"
+  "extractedAt": "2026-11-13T19:00:55.292Z"
 }

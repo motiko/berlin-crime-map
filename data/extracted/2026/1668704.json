@@ -9,13 +9,13 @@
     "incidentDate": "2026-04-23",
     "street": "Wolfacher Pfad",
     "houseNumberOrCrossing": "3",
-    "placeName": "Waldgabelung, Waidmannslust",
+    "placeName": "Waidmannslust",
     "district": "Reinickendorf",
-    "summaryEn": "A second suspect, aged 32, was remanded in custody over the abduction of a man in Waidmannslust on 23 April 2026. The police now investigate a homicide after a male body was found in a wooded area near Potsdam on 22 May.",
+    "summaryEn": "A man was allegedly abducted in a forest area in Waidmannslust in April 2026 and later a male body was found in a forest near Potsdam. The homicide unit now investigates a suspected killing, and a second suspect, age 32, has been placed in pre-trial detention.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:50:38.236Z"
+  "extractedAt": "2026-11-13T19:01:07.142Z"
 }

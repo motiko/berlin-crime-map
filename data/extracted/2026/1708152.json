@@ -7,15 +7,15 @@
   "extraction": {
     "category": "other",
     "incidentDate": "2026-09-01",
-    "street": null,
+    "street": "Heinrich-von-Gagern-Straße",
     "houseNumberOrCrossing": null,
     "placeName": "Gedenkort für Polen 1939 – 1945, Platz der Republik",
     "district": "Mitte",
-    "summaryEn": "General order (Allgemeinverfügung) with security measures and traffic closures in the government district around the Tiergarten on 1 September 2026, for a commemoration of the German invasion of Poland. Entry is limited to residents and authorised persons, and parking is banned in the area.",
+    "summaryEn": "A general order (Allgemeinverfügung) imposes security measures and road closures around the Tiergarten and government quarter on 1 September 2026 for a commemoration of the 1939 invasion of Poland. Access is restricted to residents and authorised persons.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:49:04.093Z"
+  "extractedAt": "2026-11-13T19:01:01.872Z"
 }

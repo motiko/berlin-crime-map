@@ -3,6 +3,7 @@
     "lat": 52.4692,
     "lng": 13.3901
   },
+  "Abstellgleis, Friedrichshain-Kreuzberg, Berlin": null,
   "Achillesstraße, Pankow, Berlin": {
     "lat": 52.6173,
     "lng": 13.48968
@@ -293,6 +294,7 @@
     "lng": 13.13868
   },
   "Berlin-Marathon route, Mitte, Berlin": null,
+  "Berlin-Marathon route, Mitte, Mitte, Berlin": null,
   "Berliner Allee, Pankow, Berlin": {
     "lat": 52.54847,
     "lng": 13.45132
@@ -1429,6 +1431,10 @@
     "lat": 52.48698,
     "lng": 13.60477
   },
+  "Humboldt Forum, Mitte, Berlin": {
+    "lat": 52.51703,
+    "lng": 13.40123
+  },
   "Hüttenweg, Charlottenburg-Wilmersdorf, Berlin": {
     "lat": 52.47058,
     "lng": 13.22901
@@ -2531,6 +2537,10 @@
     "lat": 52.41086,
     "lng": 13.59071
   },
+  "Regierungsviertel, Mitte, Berlin": {
+    "lat": 52.52076,
+    "lng": 13.3793
+  },
   "Reginhardstraße, Reinickendorf, Berlin": {
     "lat": 52.56064,
     "lng": 13.37127
@@ -3194,6 +3204,7 @@
   "U-Bahn between Louis-Lewin-Straße and Hönow stations, Marzahn-Hellersdorf, Berlin": null,
   "U-Bahn Linie U3 Schlesisches Tor, Friedrichshain-Kreuzberg, Berlin": null,
   "U-Bahn Linie U9, Charlottenburg-Wilmersdorf, Berlin": null,
+  "U-Bahn zwischen U-Bahnhof Kochstraße und U-Bahnhof Hallesches Tor, Friedrichshain-Kreuzberg, Berlin": null,
   "U-Bahn-Abstellgleis zwischen U-Bahnhof Kochstraße und U-Bahnhof Hallesches Tor, Friedrichshain-Kreuzberg, Berlin": null,
   "U-Bahn-Linie U3, Friedrichshain-Kreuzberg, Berlin": null,
   "U-Bahnhof Alexanderplatz, Mitte, Berlin": {

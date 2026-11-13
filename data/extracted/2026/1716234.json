@@ -6,16 +6,16 @@
   "location": "berlinweit",
   "extraction": {
     "category": "other",
-    "incidentDate": "2026-09-17",
+    "incidentDate": "2026-09-16",
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Police report results of traffic checks on drug driving over 15-17 September 2026 at three Berlin locations, with 1,366 people checked and 68 blood tests ordered. Several drug and assault cases were recorded during the operation.",
-    "injured": 2,
+    "summaryEn": "Berlin police report results of traffic checks focused on drug detection during the 7th Berlin DiS days, held 15 to 17 September 2026 at three locations. Checks covered 1,330 vehicles and 1,366 people, with 68 blood tests ordered and multiple drug and traffic offences recorded.",
+    "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:50:27.861Z"
+  "extractedAt": "2026-11-13T19:00:59.992Z"
 }

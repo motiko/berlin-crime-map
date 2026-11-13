@@ -6,16 +6,16 @@
   "location": "berlinweit",
   "extraction": {
     "category": "other",
-    "incidentDate": "2026-10-25",
+    "incidentDate": "2026-09-28",
     "street": null,
     "houseNumberOrCrossing": null,
-    "placeName": "Foyer des Polizeipräsidiums",
+    "placeName": null,
     "district": null,
-    "summaryEn": "Police Berlin and the carpenters' guild invite the public to a burglary-prevention day on 25 October 2026, with a live break-in demonstration at 13:00. The event is held at the police headquarters foyer.",
+    "summaryEn": "Police and a carpentry guild announce a burglary-prevention advice event on 25 October 2026 at the police headquarters foyer, including a live break-in demonstration. The event is a prevention campaign, not a specific incident.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:49:04.235Z"
+  "extractedAt": "2026-11-13T19:00:58.411Z"
 }

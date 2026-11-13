@@ -6,16 +6,16 @@
   "location": "Charlottenburg-Wilmersdorf",
   "extraction": {
     "category": "other",
-    "incidentDate": "2026-02-09",
-    "street": "Spichernstraße",
-    "houseNumberOrCrossing": "Geisbergstraße",
-    "placeName": "U-Bahnhof Spichernstraße",
-    "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Two 21-year-old men were arrested after allegedly spraying graffiti on two BVG subway cars at Spichernstraße station in the early hours. Spray cans and other evidence were seized.",
-    "injured": 0,
     "dead": 0,
+    "district": "Charlottenburg-Wilmersdorf",
+    "houseNumberOrCrossing": "Geisbergstraße",
+    "incidentDate": "2026-02-09",
+    "injured": 0,
+    "placeName": "U-Bahnhof Spichernstraße",
+    "street": "Spichernstraße",
+    "summaryEn": "Two men were caught after spraying graffiti on two BVG subway cars at Spichernstraße station and fleeing into the tunnel. Both 21-year-old suspects were arrested at an emergency exit and their spray cans seized.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:42:21.588Z"
+  "extractedAt": "2026-11-13T19:01:13.587Z"
 }

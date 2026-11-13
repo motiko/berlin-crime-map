@@ -5,17 +5,17 @@
   "title": "Verfolgung auf der Müggelspree – Festnahme nach Bootsdiebstahl",
   "location": "Treptow-Köpenick",
   "extraction": {
-    "category": "other",
+    "category": "burglary",
     "incidentDate": "2026-07-19",
     "street": "Azaleenstraße",
     "houseNumberOrCrossing": null,
     "placeName": "Müggelspree",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A 19-year-old took a moored sports boat in Köpenick and fled across the Müggelspree, where he was later arrested. He was then held overnight after resisting police and insulting officers.",
+    "summaryEn": "A 19-year-old man allegedly stole a moored sports boat in Köpenick and fled across the Müggelspree, where he was arrested. He later resisted officers and spat at and insulted them at the police station.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:49:04.465Z"
+  "extractedAt": "2026-11-13T19:01:04.713Z"
 }

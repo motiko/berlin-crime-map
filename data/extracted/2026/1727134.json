@@ -5,17 +5,17 @@
   "title": "Versuchtes Tötungsdelikt – Zeuginnen und Zeugen gesucht",
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
-    "category": "other",
+    "category": "assault",
     "incidentDate": "2026-10-17",
     "street": "Oranienstraße",
     "houseNumberOrCrossing": "177",
     "placeName": "Spätkauf",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Early on 17 October 2026, a group attacked a 28-year-old man outside a late-night shop on Oranienstraße, kicking and beating his head; he was left in life-threatening condition. Police are seeking witnesses and information on a dark car used by the suspects.",
+    "summaryEn": "A group attacked a 28-year-old man at a late-night shop on Oranienstraße, beating and kicking his head so he was left in life-threatening condition. Police and prosecutors are seeking witnesses and information on a dark car used by some suspects.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:49:04.327Z"
+  "extractedAt": "2026-11-13T19:00:56.939Z"
 }

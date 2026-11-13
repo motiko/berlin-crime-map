@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Freybrücke",
     "district": "Spandau",
-    "summaryEn": "A 45-year-old man was found dead in the Havel at the Freybrücke in Spandau on the morning of 9 March 2026. Police are treating it as a homicide and have appealed for witnesses.",
+    "summaryEn": "A 45-year-old man was found dead in the Havel at the Freybrücke bridge in Spandau. Police are treating it as a homicide and have appealed for witnesses.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:50:45.999Z"
+  "extractedAt": "2026-11-13T19:01:13.181Z"
 }

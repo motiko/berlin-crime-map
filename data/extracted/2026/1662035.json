@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "A 25-year-old company manager was fatally stabbed during an argument at company premises in Gesundbrunnen. Police and prosecutors have taken over the investigation, and two suspects were arrested nearby.",
+    "summaryEn": "A 25-year-old company manager was fatally stabbed during an argument at a company office in Gesundbrunnen. Two men, including the suspect, were arrested shortly afterwards and the homicide unit took over the investigation.",
     "injured": 2,
     "dead": 1,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:50:43.015Z"
+  "extractedAt": "2026-11-13T19:01:10.266Z"
 }

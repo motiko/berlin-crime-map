@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Weißensee",
     "district": "Pankow",
-    "summaryEn": "A 44-year-old man was fatally shot in his van in Weißensee after unknown offenders fired from a passing car. The homicide squad is seeking witnesses.",
+    "summaryEn": "Shots were fired from a car at a parked van in Weißensee, killing a 44-year-old man inside. The perpetrators fled with the suspected vehicle, and the homicide unit is seeking witnesses.",
     "injured": 0,
     "dead": 1,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:50:48.290Z"
+  "extractedAt": "2026-11-13T19:01:13.610Z"
 }

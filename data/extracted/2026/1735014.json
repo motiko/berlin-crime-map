@@ -9,13 +9,13 @@
     "incidentDate": "2026-11-04",
     "street": null,
     "houseNumberOrCrossing": null,
-    "placeName": "Hotel in Berlin-Mitte",
+    "placeName": "Hotelzimmer",
     "district": "Mitte",
-    "summaryEn": "A man was found dead in a hotel room in Berlin-Mitte. A death investigation was opened by the prosecutor and the homicide unit to determine the cause and rule out third-party involvement.",
+    "summaryEn": "A politician was found dead in a hotel room in Berlin-Mitte. Prosecutors and the 6th Homicide Commission opened a death investigation to determine the cause and rule out third-party involvement.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:50:22.740Z"
+  "extractedAt": "2026-11-13T19:00:55.153Z"
 }

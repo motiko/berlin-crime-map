@@ -6,16 +6,16 @@
   "location": "bundeslandübergreifend",
   "extraction": {
     "category": "other",
-    "incidentDate": "2026-10-05",
-    "street": "Babelsberger Straße",
-    "houseNumberOrCrossing": "16",
-    "placeName": "Bahnhofspassagen Potsdam",
+    "incidentDate": "2026-10-01",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
     "district": null,
-    "summaryEn": "Joint police and federal police prevention week on pickpocketing kicks off with an event in Potsdam on 5 October 2026. The week runs until 9 October and gives practical protection tips.",
+    "summaryEn": "Joint police and federal police prevention week against pickpocketing announced, kicking off with an event in Potsdam on 5 October 2026. No specific criminal incident is reported.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:49:04.459Z"
+  "extractedAt": "2026-11-13T19:00:57.917Z"
 }

@@ -6,16 +6,16 @@
   "location": "Tempelhof-Schöneberg",
   "extraction": {
     "category": "other",
-    "incidentDate": "2026-03-30",
-    "street": "Rubensstraße",
-    "houseNumberOrCrossing": "Baumeisterstraße",
-    "placeName": "Unterführung",
-    "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Four men aged 22 to 30 were arrested after spraying walls in an underpass in Schöneberg during the night. Spray cans and mobile phones were seized, and the State Criminal Police Office took over the investigation.",
-    "injured": 0,
     "dead": 0,
+    "district": "Tempelhof-Schöneberg",
+    "houseNumberOrCrossing": "Baumeisterstraße",
+    "incidentDate": "2026-03-29",
+    "injured": 0,
+    "placeName": "Unterführung Rubensstraße, Schöneberg",
+    "street": "Rubensstraße",
+    "summaryEn": "Four men aged 22 to 30 were arrested after spraying graffiti on walls in an underpass in Schöneberg. Spray cans and mobile phones were seized.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:42:21.608Z"
+  "extractedAt": "2026-11-13T19:01:11.363Z"
 }

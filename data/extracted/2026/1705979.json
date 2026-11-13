@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Zeiss-Großplanetarium",
     "district": "Pankow",
-    "summaryEn": "A 46-year-old woman was found dead in bushes near the Zeiss-Großplanetarium in Prenzlauer Berg; homicide investigators suspect a killing. Police and prosecutors are appealing to the public for information.",
+    "summaryEn": "A 46-year-old woman was found dead in bushes near the Zeiss-Großplanetarium in Prenzlauer Berg; the 4th Homicide Commission is investigating a killing and appeals for witnesses.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:50:31.243Z"
+  "extractedAt": "2026-11-13T19:01:01.846Z"
 }

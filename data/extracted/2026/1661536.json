@@ -5,17 +5,17 @@
   "title": "Steinwürfe auf U-Bahn",
   "location": "Marzahn-Hellersdorf",
   "extraction": {
-    "category": "other",
+    "category": "assault",
     "incidentDate": "2026-04-15",
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": "U-Bahn between Louis-Lewin-Straße and Hönow stations",
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "Unknown persons threw two stones at the windows of a moving U-Bahn train, destroying both panes. Nobody was hurt.",
+    "summaryEn": "Unknown persons threw two stones at the windows of a moving U-Bahn train between Louis-Lewin-Straße and Hönow stations, destroying both windows. Nobody was hurt.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:49:04.227Z"
+  "extractedAt": "2026-11-13T19:01:10.252Z"
 }

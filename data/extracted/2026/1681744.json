@@ -8,14 +8,14 @@
     "category": "other",
     "incidentDate": "2026-06-17",
     "street": "Heinrich-von-Gagern-Straße",
-    "houseNumberOrCrossing": "Platz der Republik",
+    "houseNumberOrCrossing": null,
     "placeName": "Gedenkort für Polen 1939-1945",
     "district": "Mitte",
-    "summaryEn": "Police issued a general order restricting assemblies and events at the memorial for Polish victims of Nazi rule in Berlin-Mitte on 17 June 2026, to protect the commemoration. The order runs from 6:00 to 22:00 that day.",
+    "summaryEn": "Police issued a general order banning assemblies, marches and events at the Memorial to Poles 1939-1945 on 17 June 2026 to protect the commemoration. The restriction runs from 6:00 to 22:00.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:49:04.164Z"
+  "extractedAt": "2026-11-13T19:01:06.909Z"
 }

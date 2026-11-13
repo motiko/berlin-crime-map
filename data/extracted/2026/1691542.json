@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A dead infant was found on a lawn in a residential complex in Lichterfelde, and a juvenile female suspect has been identified by the homicide unit. The investigation is ongoing.",
+    "summaryEn": "A dead infant was found on a lawn in a residential complex in Lichterfelde; a juvenile female suspect has been identified by the homicide unit. Investigations are ongoing.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:50:34.346Z"
+  "extractedAt": "2026-11-13T19:01:04.972Z"
 }

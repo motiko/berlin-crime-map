@@ -5,17 +5,17 @@
   "title": "Polizei Berlin zieht Bilanz zur Versammlungslage am 1. Mai 2026",
   "location": "berlinweit",
   "extraction": {
-    "category": "other",
+    "category": "assault",
     "incidentDate": "2026-05-01",
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Police report on the 1 May 2026 assembly situation in Berlin, with over 90 assemblies and more than 70,000 participants, largely peaceful. Police recorded 87 restraint or detention measures, 121 criminal investigations and 15 injured officers.",
+    "summaryEn": "Berlin's May Day demonstrations on 1 May 2026 were largely peaceful, with over 90 assemblies and more than 70,000 participants. Police reported 87 custodial measures, 121 criminal investigations, and 15 officers injured, including during a clash along the Oranienplatz to Südstern march.",
     "injured": 15,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:49:04.425Z"
+  "extractedAt": "2026-11-13T19:01:08.657Z"
 }

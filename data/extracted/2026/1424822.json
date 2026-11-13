@@ -5,17 +5,17 @@
   "title": "Toter identifiziert",
   "location": "Steglitz-Zehlendorf",
   "extraction": {
-    "category": "other",
-    "dead": null,
+    "category": "missing",
+    "dead": 1,
     "district": "Steglitz-Zehlendorf",
     "houseNumberOrCrossing": null,
     "incidentDate": "2023-12-15",
-    "injured": null,
+    "injured": 0,
     "placeName": "Insel Schwanenwerder",
-    "street": null,
-    "summaryEn": "A man found dead in the Havel near the Schwanenwerder island in December 2023 has now been identified. The follow-up report announces the identification of the previously unknown body.",
+    "street": "Havel",
+    "summaryEn": "An unidentified man found dead in the Havel near Schwanenwerder island in December 2023 has now been identified. The police had sought public help to establish his identity.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:49:04.209Z"
+  "extractedAt": "2026-11-13T19:01:04.451Z"
 }

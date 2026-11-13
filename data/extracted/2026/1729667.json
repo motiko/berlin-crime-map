@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Polizeipräsidium Platz der Luftbrücke",
     "district": null,
-    "summaryEn": "Police and a carpentry guild invite the public to a free burglary prevention advice day on 25 October 2026 at the police headquarters. Security equipment will be shown and a window break-in test demonstrated.",
-    "injured": null,
-    "dead": null,
+    "summaryEn": "Berlin police and a carpentry guild invite the public to a free burglary-prevention advice day on 25 October 2026 at police headquarters. Security technology is shown, including a live forced-entry demonstration at 13:00.",
+    "injured": 0,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:49:04.101Z"
+  "extractedAt": "2026-11-13T19:00:56.456Z"
 }

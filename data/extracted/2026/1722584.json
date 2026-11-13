@@ -6,16 +6,16 @@
   "location": "Neukölln",
   "extraction": {
     "category": "other",
-    "dead": 0,
-    "district": "Neukölln",
-    "houseNumberOrCrossing": null,
     "incidentDate": "2026-10-06",
-    "injured": 1,
-    "placeName": "Unterkunft für wohnungslose Menschen",
     "street": "Lahnstraße",
-    "summaryEn": "A six-year-old girl fell from a third-floor window of a shelter for homeless people in Neukölln and was caught by a resident. She suffered grazes and was taken to hospital for observation.",
+    "houseNumberOrCrossing": null,
+    "placeName": "Unterkunft für wohnungslose Menschen",
+    "district": "Neukölln",
+    "summaryEn": "A six-year-old girl fell from a third-floor window of a shelter for homeless people in Lahnstraße and was caught by a resident. She suffered grazes and was taken to hospital for observation.",
+    "injured": 1,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:49:04.145Z"
+  "extractedAt": "2026-11-13T19:00:56.826Z"
 }

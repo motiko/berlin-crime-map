@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Treptower Park",
     "district": "Treptow-Köpenick",
-    "summaryEn": "Police issued a general order restricting assemblies in Treptower Park from 1 May 2026, 6 a.m., to 2 May 2026, 6 a.m. The order protects the green space and listed garden monument.",
+    "summaryEn": "Police issued a general order restricting assemblies in Treptower Park from 1 May 2026, 6:00, to 2 May 2026, 6:00. The order covers the area between the Spree, Bulgarische Straße, Am Treptower Park and the S-Bahn line.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:49:04.278Z"
+  "extractedAt": "2026-11-13T19:01:09.923Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Polizeiakademie",
     "district": "Spandau",
-    "summaryEn": "The Berlin police open day at the Polizeiakademie drew about 20,000 visitors. Two children aged eight and ten were hit in the legs by training ammunition fragments during a demonstration and taken to hospital as a precaution.",
+    "summaryEn": "About 20,000 visitors attended the Berlin police open day on 13 September 2026. Two children aged eight and ten were hit in the legs by training ammunition during a demonstration and were taken to hospital as a precaution.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:49:04.375Z"
+  "extractedAt": "2026-11-13T19:01:00.249Z"
 }
