@@ -27,6 +27,8 @@ export interface Batch {
   usage?: { prompt_tokens: number; completion_tokens: number; cost: number };
   expires_at?: string;
   errors?: unknown;
+  /** Set when the whole batch failed, e.g. a request rejected by moderation in preflight. */
+  error?: { message?: string } | null;
 }
 
 export const FINAL: BatchStatus[] = ['completed', 'failed', 'expired', 'cancelled'];
@@ -49,4 +51,13 @@ export function submitBatch(reports: RawReport[], apiKey: string): Promise<Batch
 
 export function getBatch(id: string, apiKey: string): Promise<Batch> {
   return call<Batch>(`${BATCHES}/${id}`, apiKey);
+}
+
+/**
+ * Anthropic batches on OpenRouter go through moderation first; one flagged request fails the
+ * whole batch ("Preflight failed for batch request '1678095': ... flagged for ..."). Returns
+ * the custom_id of that request, if the error names one.
+ */
+export function flaggedRequestId(batch: Batch): string | null {
+  return batch.error?.message?.match(/batch request '([^']+)'/)?.[1] ?? null;
 }

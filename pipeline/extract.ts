@@ -18,7 +18,7 @@ import { existsSync } from 'node:fs';
 import { readdir, rm } from 'node:fs/promises';
 import { join } from 'node:path';
 import type { ExtractedReport, RawReport } from '../shared/types.ts';
-import { FINAL, getBatch, submitBatch } from './lib/batch.ts';
+import { FINAL, flaggedRequestId, getBatch, submitBatch } from './lib/batch.ts';
 import { type ExtractResult, MODEL, extract, parseChatResponse } from './lib/extraction.ts';
 import { sleep } from './lib/http.ts';
 import {
@@ -119,12 +119,41 @@ async function collectAll() {
         }
       }
       totals.cost += batch.usage?.cost ?? 0;
-      if (batch.status !== 'completed') console.warn(`  batch ended as ${batch.status}; its missing reports will be resubmitted next run`);
       await rm(join(BATCH_DIR, `${record.id}.json`));
+      if (batch.status !== 'completed') await recoverFailedBatch(record, batch);
     }
     pending = await pendingBatches();
     if (pending.length) await sleep(60_000);
   }
+}
+
+/**
+ * A batch that ended without results for some reports. If moderation flagged one request,
+ * resubmit the others as a new batch and try the flagged one with a direct call; otherwise
+ * count the missing reports as failed (they are picked up again by the next run).
+ */
+async function recoverFailedBatch(record: BatchRecord, batch: Awaited<ReturnType<typeof getBatch>>) {
+  const done = new Set((batch.results ?? []).map((r) => r.custom_id));
+  const missing = Object.entries(record.items).filter(([id]) => !done.has(id));
+  if (!missing.length) return;
+  console.warn(`  batch ${record.id} ended as ${batch.status}: ${batch.error?.message ?? 'no error message'}`);
+
+  const flagged = flaggedRequestId(batch);
+  const load = (id: string, year: number) =>
+    readJson<RawReport>(join(RAW_DIR, String(year), `${id}.json`)).then((report) => ({ year, report }));
+  if (flagged && record.items[flagged] !== undefined && missing.length > 1) {
+    const rest = await Promise.all(missing.filter(([id]) => id !== flagged).map(([id, year]) => load(id, year)));
+    console.warn(`  report ${flagged} was flagged; resubmitting the other ${rest.length} and trying it directly`);
+    await submitAll(rest);
+    await runDirect([await load(flagged, record.items[flagged])]);
+    return;
+  }
+  if (flagged && missing.length === 1) {
+    await runDirect([await load(flagged, record.items[flagged])]);
+    return;
+  }
+  totals.failed += missing.length;
+  console.warn(`  ${missing.length} reports not extracted; rerun the command to resubmit them`);
 }
 
 async function runDirect(queue: { year: number; report: RawReport }[]) {
