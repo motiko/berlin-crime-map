@@ -16,7 +16,7 @@ berlin.de archive ──scrape──▶ data/raw (local only)
 ```
 
 - **Scrape** (`pipeline/scrape.ts`): reads the yearly archive listings and each new report, one request at a time with a pause between them. berlin.de rate-limits parallel requests.
-- **Extract** (`pipeline/extract.ts`): Claude (`claude-haiku-5-5`) reads each German report and returns the category, street, date, harm counts and a two-sentence English summary without personal names.
+- **Extract** (`pipeline/extract.ts`): an LLM via [OpenRouter](https://openrouter.ai) (default `anthropic/claude-haiku-5.5`) reads each German report and returns the category, street, date, harm counts and a two-sentence English summary without personal names.
 - **Geocode** (`pipeline/geocode.ts`): places streets with OpenStreetMap Nominatim at one request per second, caching every query. Reports without a street are drawn as hollow dots at the district centre.
 - **Build** (`pipeline/build-data.ts`): writes the per-year JSON files the site loads. The full German report text is not republished; every entry links to the original.
 
@@ -36,12 +36,12 @@ pnpm build
 
 ## Data pipeline
 
-Set `ANTHROPIC_API_KEY` in your environment or in a `.env` file (gitignored).
+Set `OPENROUTER_API_KEY` in your environment or in a `.env` file (gitignored). `OPENROUTER_MODEL` switches to any other OpenRouter model with tool support.
 
 ```bash
 pnpm daily                                  # current year: scrape new, extract, geocode, build
 pnpm scrape --year 2026 --limit 100         # fetch at most 100 new reports
-pnpm extract --year 2026 --limit 100        # extract them and print token usage per report
+pnpm extract --year 2026 --limit 100        # extract them and print tokens and cost per report
 pnpm geocode --year 2026
 pnpm build-data
 ```
@@ -52,10 +52,9 @@ The archive goes back to 2020 in the current format. Scraping is slow by design 
 
 ```bash
 pnpm backfill --from 2020 --to 2025
-# Extraction runs as one Message Batch (half price). If the process stops while waiting:
-pnpm extract --resume-batch <batch id printed earlier>
+pnpm backfill --from 2020 --to 2025 --skip-scrape   # when the reports are already downloaded
 ```
 
 ## Automation
 
-`.github/workflows/daily.yml` runs `pnpm daily` at 06:00 UTC and commits new data. Vercel redeploys on every push to `main`. The workflow needs the repository secret `ANTHROPIC_API_KEY`.
+`.github/workflows/daily.yml` runs `pnpm daily` at 06:00 UTC and commits new data. Vercel redeploys on every push to `main`. The workflow needs the repository secret `OPENROUTER_API_KEY`.

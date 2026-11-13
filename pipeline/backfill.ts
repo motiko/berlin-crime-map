@@ -1,10 +1,11 @@
 /**
  * One-off historical import. Resumable: rerun the same command after an interruption.
  *
- *   pnpm backfill --from 2020 --to 2026
+ *   pnpm backfill --from 2020 --to 2025
+ *   pnpm backfill --from 2020 --to 2025 --skip-scrape   # reports already downloaded
  *
- * Steps: scrape every year (about 3.5 s per request, so many hours for several years),
- * extract all new reports in one Message Batch, geocode, rebuild the public data.
+ * Steps: scrape every year (about 3.5 s per request, so hours per year), extract all new
+ * reports via OpenRouter, geocode, rebuild the public data.
  */
 import { execFileSync } from 'node:child_process';
 import { scrapeYear } from './scrape.ts';
@@ -14,15 +15,14 @@ import { parseArgs, yearsFromArgs } from './lib/store.ts';
 
 const args = parseArgs();
 const years = yearsFromArgs(args);
-const skipScrape = !!args['skip-scrape'];
 
-if (!skipScrape) {
+if (!args['skip-scrape']) {
   for (const year of years) console.log(`${year}:`, await scrapeYear(year));
 }
 
 execFileSync(
   'pnpm',
-  ['exec', 'tsx', 'pipeline/extract.ts', '--from', String(years[0]), '--to', String(years.at(-1)), '--batch'],
+  ['exec', 'tsx', 'pipeline/extract.ts', '--from', String(years[0]), '--to', String(years.at(-1)), '--concurrency', '8'],
   { stdio: 'inherit' },
 );
 

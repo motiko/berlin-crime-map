@@ -28,7 +28,7 @@ jobs:
       - name: Scrape, extract, geocode, build data
         run: pnpm daily
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
 
       - name: Commit new data
         run: |

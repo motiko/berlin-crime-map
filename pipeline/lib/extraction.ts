@@ -1,9 +1,10 @@
-import type Anthropic from '@anthropic-ai/sdk';
 import { CATEGORIES, DISTRICTS } from '../../shared/categories.ts';
 import type { Extraction, RawReport } from '../../shared/types.ts';
 
-export const MODEL = 'claude-haiku-5-5';
+/** Any OpenRouter model with tool support works; override with OPENROUTER_MODEL. */
+export const MODEL = process.env.OPENROUTER_MODEL || 'anthropic/claude-haiku-5.5';
 export const MAX_TOKENS = 600;
+const ENDPOINT = 'https://openrouter.ai/api/v1/chat/completions';
 
 export const SYSTEM_PROMPT = `You extract structured data from Berlin police press releases, which are written in German.
 Call the record_incident tool exactly once.
@@ -23,64 +24,111 @@ Rules:
 - injured / dead: number of people injured or killed as stated, 0 if the text says nobody was hurt, null if not stated.
 - weaponType: e.g. "firearm", "blank-firing gun", "knife", "explosive", "vehicle", or null.`;
 
-export const TOOL: Anthropic.Tool = {
-  name: 'record_incident',
-  description: 'Record the structured data extracted from one police press release.',
-  input_schema: {
-    type: 'object',
-    properties: {
-      category: { type: 'string', enum: [...CATEGORIES] },
-      incidentDate: { type: ['string', 'null'], description: 'YYYY-MM-DD' },
-      street: { type: ['string', 'null'] },
-      houseNumberOrCrossing: { type: ['string', 'null'] },
-      placeName: { type: ['string', 'null'] },
-      district: { type: ['string', 'null'], enum: [...DISTRICTS, null] },
-      summaryEn: { type: 'string' },
-      injured: { type: ['integer', 'null'] },
-      dead: { type: ['integer', 'null'] },
-      weaponType: { type: ['string', 'null'] },
-    },
-    required: [
-      'category',
-      'incidentDate',
-      'street',
-      'houseNumberOrCrossing',
-      'placeName',
-      'district',
-      'summaryEn',
-      'injured',
-      'dead',
-      'weaponType',
-    ],
-  },
-};
-
-export function buildRequest(report: RawReport): Anthropic.MessageCreateParamsNonStreaming {
-  return {
-    model: MODEL,
-    max_tokens: MAX_TOKENS,
-    system: SYSTEM_PROMPT,
-    tools: [TOOL],
-    tool_choice: { type: 'tool', name: TOOL.name },
-    messages: [
-      {
-        role: 'user',
-        content: [
-          `Published: ${report.publishedAt}`,
-          `Location given by police (Ereignisort): ${report.location ?? 'none'}`,
-          `Title: ${report.title}`,
-          '',
-          report.body,
-        ].join('\n'),
+const TOOL = {
+  type: 'function',
+  function: {
+    name: 'record_incident',
+    description: 'Record the structured data extracted from one police press release.',
+    parameters: {
+      type: 'object',
+      properties: {
+        category: { type: 'string', enum: [...CATEGORIES] },
+        incidentDate: { type: ['string', 'null'], description: 'YYYY-MM-DD' },
+        street: { type: ['string', 'null'] },
+        houseNumberOrCrossing: { type: ['string', 'null'] },
+        placeName: { type: ['string', 'null'] },
+        district: { type: ['string', 'null'], enum: [...DISTRICTS, null] },
+        summaryEn: { type: 'string' },
+        injured: { type: ['integer', 'null'] },
+        dead: { type: ['integer', 'null'] },
+        weaponType: { type: ['string', 'null'] },
       },
-    ],
-  };
+      required: [
+        'category',
+        'incidentDate',
+        'street',
+        'houseNumberOrCrossing',
+        'placeName',
+        'district',
+        'summaryEn',
+        'injured',
+        'dead',
+        'weaponType',
+      ],
+    },
+  },
+} as const;
+
+export function userMessage(report: RawReport): string {
+  return [
+    `Published: ${report.publishedAt}`,
+    `Location given by police (Ereignisort): ${report.location ?? 'none'}`,
+    `Title: ${report.title}`,
+    '',
+    report.body,
+  ].join('\n');
 }
 
-export function readExtraction(message: Anthropic.Message): Extraction {
-  const block = message.content.find((b): b is Anthropic.ToolUseBlock => b.type === 'tool_use');
-  if (!block) throw new Error(`No tool call in response (stop_reason: ${message.stop_reason})`);
-  const input = block.input as Extraction;
-  if (!(CATEGORIES as readonly string[]).includes(input.category)) input.category = 'other';
-  return input;
+export interface ExtractResult {
+  extraction: Extraction;
+  model: string;
+  inputTokens: number;
+  outputTokens: number;
+  /** USD, as reported by OpenRouter. */
+  cost: number;
+}
+
+interface ChatResponse {
+  model: string;
+  choices: { message: { tool_calls?: { function: { arguments: string } }[] }; finish_reason: string }[];
+  usage?: { prompt_tokens: number; completion_tokens: number; cost?: number };
+  error?: { message: string };
+}
+
+const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
+
+export async function extract(report: RawReport, apiKey: string, maxAttempts = 4): Promise<ExtractResult> {
+  for (let attempt = 1; ; attempt++) {
+    const res = await fetch(ENDPOINT, {
+      method: 'POST',
+      headers: {
+        Authorization: `Bearer ${apiKey}`,
+        'Content-Type': 'application/json',
+        'HTTP-Referer': 'https://github.com/motiko/berlin-crime-map',
+        'X-Title': 'Berlin Crime Map',
+      },
+      body: JSON.stringify({
+        model: MODEL,
+        max_tokens: MAX_TOKENS,
+        temperature: 0,
+        messages: [
+          { role: 'system', content: SYSTEM_PROMPT },
+          { role: 'user', content: userMessage(report) },
+        ],
+        tools: [TOOL],
+        tool_choice: { type: 'function', function: { name: TOOL.function.name } },
+        usage: { include: true },
+      }),
+    });
+
+    if ((res.status === 429 || res.status >= 500) && attempt < maxAttempts) {
+      await sleep(3000 * 2 ** (attempt - 1));
+      continue;
+    }
+    const data = (await res.json()) as ChatResponse;
+    if (!res.ok || data.error) throw new Error(`OpenRouter ${res.status}: ${data.error?.message ?? 'request failed'}`);
+
+    const call = data.choices[0]?.message.tool_calls?.[0];
+    if (!call) throw new Error(`No tool call in response (finish_reason: ${data.choices[0]?.finish_reason})`);
+    const extraction = JSON.parse(call.function.arguments) as Extraction;
+    if (!(CATEGORIES as readonly string[]).includes(extraction.category)) extraction.category = 'other';
+
+    return {
+      extraction,
+      model: data.model,
+      inputTokens: data.usage?.prompt_tokens ?? 0,
+      outputTokens: data.usage?.completion_tokens ?? 0,
+      cost: data.usage?.cost ?? 0,
+    };
+  }
 }
