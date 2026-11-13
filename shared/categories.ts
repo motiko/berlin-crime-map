@@ -51,7 +51,7 @@ const META: Record<Category, CategoryMeta> = {
       'Stabbing, cutting or an attack with a knife or other blade (Messerangriff), or a blade drawn against a person.' },
   homicide: { label: 'Homicide / death', family: 'people', description: 'Killing, attempted killing or a death under investigation',
     definition:
-      'Someone was killed by another person (Mord, Totschlag, Körperverletzung mit Todesfolge), or a death is investigated by a homicide unit (Mordkommission). Accidental deaths keep their own category: a fatal traffic accident is traffic, a death in a fire is fire. An attempted killing where nobody died goes under the weapon used (shooting, knife) or assault.' },
+      'Only when someone actually died. Someone was killed by another person (Mord, Totschlag, Körperverletzung mit Todesfolge), or a death is investigated by a homicide unit (Mordkommission). Accidental deaths keep their own category: a fatal traffic accident is traffic, a death in a fire is fire. An attempted killing (versuchter Mord, versuchter Totschlag, versuchtes Tötungsdelikt) where nobody died goes under the weapon used (shooting, knife), and otherwise under assault, never other.' },
   explosion: { label: 'Explosion', family: 'property', description: 'Cash machine or vending machine blasts, explosive devices',
     definition:
       'Blasts and explosive devices: cash machines or vending machines blown up, pyrotechnics or bombs used as a weapon.' },
@@ -63,7 +63,7 @@ const META: Record<Category, CategoryMeta> = {
       'Theft without force against a person: Diebstahl, Taschendiebstahl (pickpocketing), Ladendiebstahl (shoplifting), Einbruch (break-ins, smash-and-grab), and theft of cars, motorbikes, bikes or number plates. Includes Trickdiebstahl (distraction theft, e.g. by people posing as care workers or tradespeople), where things are taken rather than handed over.' },
   assault: { label: 'Assault', family: 'people', description: 'Bodily harm without a knife or gun',
     definition:
-      'Violence, threats or coercion against a person with no blade used and no shot fired: Körperverletzung, Bedrohung (including threats with a gun that was not fired, where nothing is demanded), Nötigung, attacks on police or emergency services.' },
+      'Violence, threats or coercion against a person with no blade used and no shot fired: Körperverletzung, Bedrohung (including threats with a gun that was not fired, where nothing is demanded), Nötigung, attacks on police or emergency services, and attempted killings by other means (beating, throwing objects onto a road, pushing in front of a train), even if nobody was hurt.' },
   political: { label: 'Political / hate', family: 'police', description: 'Politically motivated, antisemitic, racist, homophobic or other hate crime',
     definition:
       'Anything the police treat as politically motivated or as hate crime: cases taken over by the Staatsschutz (state security unit), antisemitic, racist, homophobic, misogynist or extremist acts.' },

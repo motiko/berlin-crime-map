@@ -1,0 +1,13 @@
+{
+  "_note": "Hand-checked corrections applied by `pnpm build-data` on top of the model's extraction. Use for single reports the model gets wrong or flips on; fix systematic errors in the category definitions instead (and add an eval case). Fields: category, injured, dead; always give a reason.",
+  "reports": {
+    "1724583": {
+      "category": "other",
+      "why": "Hidden-camera mounts in women's toilets at a university: no political motive stated; the model flips between political and other"
+    },
+    "1727134": {
+      "injured": 1,
+      "why": "The report names one man with life-threatening injuries; the model counted 2"
+    }
+  }
+}

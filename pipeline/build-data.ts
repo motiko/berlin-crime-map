@@ -10,10 +10,19 @@ import { existsSync } from 'node:fs';
 import { join } from 'node:path';
 import type { DataIndex, ExtractedReport, Incident } from '../shared/types.ts';
 import { type GeocodeCache, locate } from './lib/geo.ts';
-import { EXTRACTED_DIR, GEOCODE_CACHE, PUBLIC_DATA, readJson, readYear, writeJson, yearsWithData } from './lib/store.ts';
+import { EXTRACTED_DIR, GEOCODE_CACHE, PUBLIC_DATA, ROOT, readJson, readYear, writeJson, yearsWithData } from './lib/store.ts';
 
-export function toIncident(report: ExtractedReport, cache: GeocodeCache): Incident {
-  const x = report.extraction;
+/** Hand-checked corrections for single reports (data/overrides.json). */
+export interface Override {
+  category?: Incident['category'];
+  injured?: number | null;
+  dead?: number | null;
+  why: string;
+}
+export const OVERRIDES_FILE = join(ROOT, 'data/overrides.json');
+
+export function toIncident(report: ExtractedReport, cache: GeocodeCache, override?: Override): Incident {
+  const x = { ...report.extraction, ...(override && { ...override, why: undefined }) };
   const where = locate(report, cache);
   const validDate = x.incidentDate && /^\d{4}-\d{2}-\d{2}$/.test(x.incidentDate) ? x.incidentDate : null;
   return {
@@ -37,10 +46,13 @@ export function toIncident(report: ExtractedReport, cache: GeocodeCache): Incide
 export async function buildData() {
   const cache: GeocodeCache = existsSync(GEOCODE_CACHE) ? await readJson<GeocodeCache>(GEOCODE_CACHE) : {};
   const index: DataIndex = { updatedAt: new Date().toISOString(), years: [] };
+  const overrides = existsSync(OVERRIDES_FILE)
+    ? (await readJson<{ reports: Record<string, Override> }>(OVERRIDES_FILE)).reports
+    : {};
 
   for (const year of await yearsWithData(EXTRACTED_DIR)) {
     const incidents = (await readYear<ExtractedReport>(EXTRACTED_DIR, year))
-      .map((r) => toIncident(r, cache))
+      .map((r) => toIncident(r, cache, overrides[r.id]))
       .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
     await writeJson(join(PUBLIC_DATA, `${year}.json`), incidents, false);
     index.years.push({ year, count: incidents.length });

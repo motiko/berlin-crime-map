@@ -130,6 +130,16 @@
       "id": "1710543",
       "expected": "raid",
       "why": "A loaded gun seized in Spandau: a weapons seizure, not drugs"
+    },
+    {
+      "id": "1664741",
+      "expected": "assault",
+      "why": "E-scooter thrown onto the A100, attempted murder, nobody hurt: attempted killing without gun or blade is assault"
+    },
+    {
+      "id": "1727134",
+      "expected": "assault",
+      "why": "Group beat and kicked a man's head, attempted killing: assault, not other"
     }
   ]
 }
