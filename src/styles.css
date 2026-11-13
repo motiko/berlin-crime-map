@@ -23,12 +23,19 @@
   --family-police: #199e70;
   --family-other: #898781;
 
+  /* Icons carry the family, so they need 3:1 against the panel and the card
+     (ui-ux-pro-max: icon contrast). Green and grey are a step darker than on the map. */
+  --icon-people: #d63b3a;
+  --icon-property: #2a6fc4;
+  --icon-police: #12795a;
+  --icon-other: #6b6a65;
+
   --sans: Barlow, 'DIN Alternate', 'Arial Nova', system-ui, sans-serif;
   --condensed: 'Barlow Condensed', 'DIN Condensed', 'Arial Narrow', sans-serif;
 
   color-scheme: light;
   font-family: var(--sans);
-  font-size: 15px;
+  font-size: 16px; /* ui-ux-pro-max: 16px base for body text */
   line-height: 1.45;
   color: var(--ink);
   font-variant-numeric: tabular-nums;
@@ -47,6 +54,10 @@
     --skeleton: #262b32;
     --family-people: #e66767;
     --family-property: #3987e5;
+    --icon-people: #ef7b7a;
+    --icon-property: #5d9dec;
+    --icon-police: #3cbf8f;
+    --icon-other: #a3a29c;
     color-scheme: dark;
   }
 }
@@ -309,6 +320,22 @@ select:hover {
 .cat-icon {
   flex: none;
   display: inline-flex;
+}
+
+/* Touch screens: 44px targets for every control (ui-ux-pro-max: touch target minimum). */
+@media (pointer: coarse) {
+  .chip,
+  .stat,
+  .item,
+  .link,
+  .close {
+    min-height: 44px;
+  }
+
+  .chip,
+  .close {
+    min-width: 44px;
+  }
 }
 
 .dot {
