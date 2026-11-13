@@ -17,7 +17,7 @@ const BERLIN_CENTER: [number, number] = [13.405, 52.515];
 const BERLIN_ZOOM = 10;
 const DISTRICTS_URL = '/data/districts.geojson';
 /** From this zoom on, single incidents show as icon markers instead of dots. */
-const ICON_ZOOM = 13;
+const ICON_ZOOM = 11;
 const INK = '#15181d';
 const SIGNAL = '#ffd400';
 
@@ -189,7 +189,7 @@ export function MapView({ incidents, selectedId, district, onSelect, onBoundsCha
         type: 'circle',
         source: 'incidents',
         filter: ['==', ['get', 'id'], ''],
-        paint: { 'circle-radius': ['step', ['zoom'], 13, ICON_ZOOM, 19], 'circle-color': SIGNAL, 'circle-opacity': 0.55, 'circle-stroke-width': 2.5, 'circle-stroke-color': INK },
+        paint: { 'circle-radius': ['interpolate', ['linear'], ['zoom'], ICON_ZOOM - 0.01, 13, ICON_ZOOM, 16, 14, 19], 'circle-color': SIGNAL, 'circle-opacity': 0.55, 'circle-stroke-width': 2.5, 'circle-stroke-color': INK },
       }, 'points'); // a yellow halo under the selected point
 
       // Icon markers for single incidents once zoomed in; added when their images are drawn.
@@ -204,6 +204,8 @@ export function MapView({ incidents, selectedId, district, onSelect, onBoundsCha
             filter: ['!', ['has', 'point_count']],
             layout: {
               'icon-image': ['concat', 'cat-', ['get', 'category'], ['case', ['==', ['get', 'precision'], 'district'], '-hollow', '']],
+              // Slightly smaller at district zoom, full size from street zoom.
+              'icon-size': ['interpolate', ['linear'], ['zoom'], ICON_ZOOM, 0.8, 14, 1],
               'icon-allow-overlap': true,
               'icon-ignore-placement': true,
             },
