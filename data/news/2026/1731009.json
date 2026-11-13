@@ -1,0 +1,26 @@
+{
+  "id": "1731009",
+  "searches": [
+    "2026-11-13T19:33:41.516Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.rbb24.de/panorama/beitrag/2026/10/drei-maenner-berlin-stichattacken-schwer-verletzt.html",
+      "title": "Berlin: Drei Männer bei Stichattacken schwer verletzt",
+      "outlet": "rbb24.de",
+      "type": "round-up",
+      "date": "2026-10-26",
+      "confidence": "high",
+      "reason": "Covers the Tempelhofer Damm stabbing around 20:00 on the same evening, though within a roundup of three attacks; details (vehicle, two arrests) differ slightly from the police release."
+    },
+    {
+      "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/kriminalitaet--drei-maenner-in-berlin-bei-stichattacken-schwer-verletzt-38451454.html",
+      "title": "Kriminalität: Drei Männer in Berlin bei Stichattacken schwer verletzt",
+      "outlet": "stern.de",
+      "type": "round-up",
+      "date": "2026-10-26",
+      "confidence": "high",
+      "reason": "Reports the Tempelhofer Damm stabbing from the Sunday evening alongside two other attacks; same incident as the police release, in a multi-incident roundup."
+    }
+  ]
+}

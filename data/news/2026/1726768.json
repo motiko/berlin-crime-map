@@ -1,0 +1,62 @@
+{
+  "id": "1726768",
+  "searches": [
+    "2026-11-13T19:34:11.588Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.tag24.de/berlin/crime/brutalo-trio-ueberfaellt-mann-am-helllichten-tag-schlaege-stellen-sich-als-stiche-heraus-3540817",
+      "title": "Brutalo-Trio überfällt Mann in Berlin-Marzahn am helllichten Tag - Schläge stellen sich als Stiche heraus",
+      "outlet": "tag24.de",
+      "type": "report",
+      "date": "2026-10-16",
+      "confidence": "high",
+      "reason": "Same 24-year-old, three men, Belziger Ring bus stop, Thursday midday stabbing/beating as in the police report."
+    },
+    {
+      "url": "https://www.n-tv.de/regionales/berlin-und-brandenburg/Drei-Maenner-verletzen-24-Jaehrigen-in-Marzahn-mit-Stichen-id31426166.html",
+      "title": "Berlin & Brandenburg: Drei Männer verletzen 24-Jährigen in Marzahn mit Stichen",
+      "outlet": "n-tv.de",
+      "type": "report",
+      "date": "2026-10-16",
+      "confidence": "high",
+      "reason": "dpa report on the same attack at Belziger Ring, same victim and circumstances."
+    },
+    {
+      "url": "https://www.welt.de/regionales/berlin/article6ad20db20e64c69ce0e15b6d/drei-maenner-verletzen-24-jaehrigen-in-marzahn-mit-stichen.html",
+      "title": "Drei Männer verletzen 24-Jährigen in Marzahn mit Stichen",
+      "outlet": "welt.de",
+      "type": "report",
+      "date": "2026-10-16",
+      "confidence": "high",
+      "reason": "dpa report on the same attack at Belziger Ring, same victim and circumstances."
+    },
+    {
+      "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/nach-tat-im-krankenhaus--drei-maenner-verletzen-24-jaehrigen-in-marzahn-mit-stichen-38407998.html",
+      "title": "Nach Tat im Krankenhaus: Drei Männer verletzen 24-Jährigen in Marzahn mit Stichen",
+      "outlet": "stern.de",
+      "type": "report",
+      "date": "2026-10-16",
+      "confidence": "high",
+      "reason": "dpa report on the same attack at Belziger Ring, same victim and circumstances."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/dpa-nach-tat-im-krankenhaus-drei-manner-verletzen-24-jahrigen-in-marzahn-mit-stichen-16170284.html",
+      "title": "Nach Tat im Krankenhaus: Drei Männer verletzen 24-Jährigen in Marzahn mit Stichen",
+      "outlet": "tagesspiegel.de",
+      "type": "report",
+      "date": null,
+      "confidence": "high",
+      "reason": "dpa report on the same attack, same victim and circumstances; excerpt shows only 'Stand: heute, 13:41 Uhr'."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/dpa-unbekannte-stechen-auf-24-jahrigen-in-berlin-marzahn-ein-16170284.html",
+      "title": "Auf dem Weg zur Bushaltestelle: Unbekannte stechen auf 24-Jährigen in Berlin-Marzahn ein",
+      "outlet": "tagesspiegel.de",
+      "type": "report",
+      "date": "2026-10-16",
+      "confidence": "high",
+      "reason": "dpa report on the same attack, same victim, place and circumstances."
+    }
+  ]
+}

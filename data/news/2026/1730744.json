@@ -1,0 +1,62 @@
+{
+  "id": "1730744",
+  "searches": [
+    "2026-11-13T19:20:14.749Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.rbb24.de/panorama/beitrag/2026/10/bar-berlin-wilmersdorf-schuesse-ferrum.html",
+      "title": "Bar in Berlin-Wilmersdorf beschossen - BAO \"Ferrum\"…",
+      "outlet": "rbb24.de",
+      "type": "report",
+      "date": null,
+      "confidence": "high",
+      "reason": "Describes shots at a Wilmersdorf bar window around 6:30 on 24.10.2026, no injuries, BAO Ferrum investigating, matching the police report."
+    },
+    {
+      "url": "https://www.tag24.de/berlin/crime/schuesse-auf-bar-in-wilmersdorf-diesmal-waren-noch-mitarbeiter-da-3542661",
+      "title": "Schüsse auf Bar in Berlin-Wilmersdorf - diesmal waren noch Mitarbeiter da",
+      "outlet": "tag24.de",
+      "type": "report",
+      "date": "2026-10-24",
+      "confidence": "high",
+      "reason": "Same Wilmersdorf bar shooting on Saturday morning around 6:30, window damaged, cartridge casings found, Ferrum investigating."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/schusse-auf-berliner-bar-unbekannter-feuert-in-wilmersdorf-auf-fensterfront-16197146.html",
+      "title": "Schüsse auf Berliner Bar: Unbekannter feuert in…",
+      "outlet": "tagesspiegel.de",
+      "type": "report",
+      "date": "2026-10-24",
+      "confidence": "high",
+      "reason": "Same shooting at a Wilmersdorf bar on 24.10.2026 around 6:30 with damaged windows and unharmed guests."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/dpa-wilmersdorf-schusse-auf-bar-sondereinheit-des-lka-ermittelt-16197180.html",
+      "title": "Wilmersdorf: Schüsse auf Bar - Sondereinheit des LKA ermittelt",
+      "outlet": "tagesspiegel.de",
+      "type": "report",
+      "date": "2026-10-24",
+      "confidence": "high",
+      "reason": "dpa report of the same shooting at the Charlottenburg-Wilmersdorf bar around 6:30, no injuries, BAO Ferrum investigating."
+    },
+    {
+      "url": "https://www.welt.de/regionales/berlin/article6ade02de51fb647ba7e7c79a/polizei-registriert-mehr-schusswaffengebrauch-in-berlin.html",
+      "title": "Polizei registriert mehr Schusswaffengebrauch in Berlin",
+      "outlet": "welt.de",
+      "type": "round-up",
+      "date": null,
+      "confidence": "medium",
+      "reason": "Mainly about rising police firearm use, but briefly mentions the Saturday morning shooting at a Charlottenburg-Wilmersdorf bar; excerpt is thin."
+    },
+    {
+      "url": "https://www.morgenpost.de/berlin/article413450398/berlin-blaulicht-polizei-feuerwehr-aktuell-news-unfall-brand-hellersdorf.html",
+      "title": "Berlin: Feuer an Lichtenberger Kita ++ Schweine lösen…",
+      "outlet": "morgenpost.de",
+      "type": "live-blog",
+      "date": "2026-10-24",
+      "confidence": "high",
+      "reason": "Berlin news ticker with a section on the shots at a Wilmersdorf bar on Saturday around 6:30, matching details including casings and Ferrum."
+    }
+  ]
+}

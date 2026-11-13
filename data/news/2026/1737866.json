@@ -1,0 +1,62 @@
+{
+  "id": "1737866",
+  "searches": [
+    "2026-11-13T19:55:00.195Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.bz-berlin.de/polizei/explosion-bei-kaufland-geldautomat-gesprengt-truemmer-fliegen-in-apotheke-6af56d545596369bf0edc0ef",
+      "title": "Heftige Explosion: Geldautomat bei Kaufland in die Luft gesprengt",
+      "outlet": "bz-berlin.de",
+      "type": "report",
+      "date": "2026-11-12",
+      "confidence": "high",
+      "reason": "Describes the ATM blast at the Kaufland/supermarket vestibule on Sewanstraße around 3:20 on Wednesday, with damage to the adjacent pharmacy."
+    },
+    {
+      "url": "https://www.morgenpost.de/berlin/article413623688/berlin-brandenburg-blaulicht-news-aktuell-11-november-explosion-geldautomat.html",
+      "title": "Berlin: Mann soll Freundin in Adlershof bedroht haben",
+      "outlet": "morgenpost.de",
+      "type": "live-blog",
+      "date": "2026-11-11",
+      "confidence": "high",
+      "reason": "Blaulicht news ticker section on the same Sewanstraße ATM explosion, 3:20 Wednesday night, with police details."
+    },
+    {
+      "url": "https://www.bz-berlin.de/berlin/vier-autos-beschaedigt-zigarettenautomat-in-marzahn-gesprengt-6af4622fdb4e2fa8f6eb7611",
+      "title": "Vier Autos beschädigt: Zigarettenautomat in Marzahn gesprengt",
+      "outlet": "bz-berlin.de",
+      "type": "round-up",
+      "date": null,
+      "confidence": "medium",
+      "reason": "Roundup about a cigarette machine blast in Marzahn that also mentions the same Sewanstraße supermarket ATM explosion early Wednesday."
+    },
+    {
+      "url": "https://www.welt.de/regionales/berlin/article6af45b7edb4e2fa8f6eb753d/unbekannte-sprengen-geldautomaten-in-berlin-lichtenberg.html",
+      "title": "Unbekannte sprengen Geldautomaten in Berlin-Lichtenberg",
+      "outlet": "welt.de",
+      "type": "report",
+      "date": null,
+      "confidence": "high",
+      "reason": "Reports the police-announced ATM blast in a supermarket vestibule on Sewanstraße, Lichtenberg, with adjacent pharmacy damage."
+    },
+    {
+      "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/kriminalitaet--unbekannte-sprengen-geldautomaten-in-berlin-lichtenberg-38533790.html",
+      "title": "Kriminalität: Unbekannte sprengen Geldautomaten in Berlin-Lichtenberg",
+      "outlet": "stern.de",
+      "type": "report",
+      "date": "2026-11-11",
+      "confidence": "high",
+      "reason": "dpa report of the Sewanstraße supermarket ATM blast in early morning, with pharmacy damage and unclear loot."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/dpa-kriminalitat-unbekannte-sprengen-geldautomaten-in-berlin-lichtenberg-16272927.html",
+      "title": "Kriminalität: Unbekannte sprengen Geldautomaten in Berlin-Lichtenberg",
+      "outlet": "tagesspiegel.de",
+      "type": "report",
+      "date": null,
+      "confidence": "high",
+      "reason": "dpa report of the Sewanstraße supermarket ATM blast in Lichtenberg with pharmacy damage and unclear loot."
+    }
+  ]
+}

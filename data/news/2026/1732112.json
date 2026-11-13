@@ -1,0 +1,62 @@
+{
+  "id": "1732112",
+  "searches": [
+    "2026-11-13T19:19:50.111Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-lichtenrade-mann-angeschossen-verletzt.html",
+      "title": "Berlin: 31-Jähriger in Lichtenrade angeschossen",
+      "outlet": "rbb24.de",
+      "type": "report",
+      "date": "2026-10-28",
+      "confidence": "high",
+      "reason": "Same shooting in Nahariyastraße Lichtenrade on Tuesday ~19:45 of a 31-year-old, with emergency surgery and manhunt, matching the police report."
+    },
+    {
+      "url": "https://www.berliner-zeitung.de/article/schuesse-auf-47-jaehrigen-in-lichtenrade-10537679",
+      "title": "Schüsse in Berlin-Lichtenrade: 47-Jähriger muss notoperiert werden",
+      "outlet": "berliner-zeitung.de",
+      "type": "report",
+      "date": "2026-10-28",
+      "confidence": "high",
+      "reason": "Same shooting in Nahariyastraße Tuesday evening, Mordkommission investigating; reports the victim as 47, the initially wrong age."
+    },
+    {
+      "url": "https://www.bild.de/regional/berlin/schon-wieder-berlin-schuesse-vor-cafe-mann-lebensgefaehrlich-verletzt-6ae1044e2dbd110b77800e4f",
+      "title": "Schon wieder Berlin: Schüsse vor Café! Mann lebensgefährlich verletzt",
+      "outlet": "bild.de",
+      "type": "report",
+      "date": "2026-10-27",
+      "confidence": "high",
+      "reason": "Same Lichtenrade shooting near Nahariyastraße on Tuesday evening, man seriously injured and taken to hospital for surgery."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/schusse-in-berlin-lichtenrade-47-jahriger-mann-muss-notoperiert-werden-16208337.html",
+      "title": "Schüsse in Berlin-Lichtenrade: 31-jähriger Mann muss notoperiert werden",
+      "outlet": "tagesspiegel.de",
+      "type": "report",
+      "date": "2026-10-28",
+      "confidence": "high",
+      "reason": "Same incident: Tuesday evening shooting in Nahariyastraße, 31-year-old, emergency surgery, single shooter sought."
+    },
+    {
+      "url": "https://www.morgenpost.de/berlin/article413524933/schuesse-in-lichtenrade-47-jaehriger-mann-muss-notoperiert-werden.html",
+      "title": "Schüsse auf 31-Jährigen in Lichtenrade: Ermittler vermuten Clan-Zusammenhang",
+      "outlet": "morgenpost.de",
+      "type": "report",
+      "date": "2026-10-28",
+      "confidence": "high",
+      "reason": "Report on the shooting of a 31-year-old in Lichtenrade on Tuesday; excerpt is thin but the details match the same incident."
+    },
+    {
+      "url": "https://www.morgenpost.de/berlin/article413535065/opposition-mit-wenig-frauen.html",
+      "title": "Berlins neue Opposition: Männer unter sich?",
+      "outlet": "morgenpost.de",
+      "type": "round-up",
+      "date": "2026-10-29",
+      "confidence": "medium",
+      "reason": "Opinion column on Berlin's opposition that only mentions the Nahariyastraße shooting in passing; the same incident but not mainly about it."
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "id": "1731975",
+  "searches": [
+    "2026-11-13T19:19:56.355Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.bz-berlin.de/berlin/auto-abgedraengt-schuesse-in-spandau-vier-personen-festgenommen-6ae1ad029d8212885d5291b3",
+      "title": "BMW-Fahrer abgedrängt: Schüsse in Spandau! Vier Männer  festgenommen",
+      "outlet": "bz-berlin.de",
+      "type": "report",
+      "date": "2026-10-28",
+      "confidence": "high",
+      "reason": "Reports the same Altstädter Ring/Falkenseer Platz shooting on Tuesday evening with four arrests, matching the police release, though it says shots were fired into the air and places the scene at Juliusturm."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/dpa-auto-abgedrangt-dann-schiesst-jemand--polizei-fasst-vier-verdachtige-16208713.html",
+      "title": "Schüsse auch in Berlin-Spandau: Auto abgedrängt, dann schießt jemand – Polizei fasst vier Verdächtige",
+      "outlet": "tagesspiegel.de",
+      "type": "report",
+      "date": "2026-10-28",
+      "confidence": "high",
+      "reason": "dpa report on the same forced-off-road BMW shooting at Falkenseer Platz on 27 October with four suspects arrested and handed to Ferrum."
+    },
+    {
+      "url": "https://www.berliner-zeitung.de/article/vier-maenner-nach-schuessen-in-spandau-festgenommen-10538406",
+      "title": "Schüsse in Spandau: Vier Männer nach Vorfall mit abgedrängtem Auto festgenommen",
+      "outlet": "berliner-zeitung.de",
+      "type": "report",
+      "date": "2026-10-28",
+      "confidence": "high",
+      "reason": "Describes the same Tuesday evening incident with three cars, the BMW driven into a bush, shots, and four arrests aged 21 to 31."
+    },
+    {
+      "url": "https://www.tag24.de/berlin/crime/schuesse-in-spandau-bmw-abgedraengt-und-unter-feuer-genommen-3543581",
+      "title": "Berlin: Schüsse in Spandau - BMW abgedrängt und unter Feuer genommen",
+      "outlet": "tag24.de",
+      "type": "report",
+      "date": "2026-10-28",
+      "confidence": "high",
+      "reason": "Covers the same BMW forced into a bush at Falkenseer Platz at about 20.20 with shots, the 29-year-old's hospital treatment and four arrests."
+    }
+  ]
+}

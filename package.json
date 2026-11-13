@@ -20,7 +20,8 @@
     "backfill": "tsx pipeline/backfill.ts",
     "districts": "tsx pipeline/districts.ts",
     "eval": "tsx pipeline/eval.ts",
-    "news-pilot": "tsx pipeline/news-pilot.ts"
+    "news-pilot": "tsx pipeline/news-pilot.ts",
+    "news": "tsx pipeline/news.ts"
   },
   "dependencies": {
     "@fontsource/barlow": "^5.3.0",

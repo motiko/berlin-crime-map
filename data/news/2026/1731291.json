@@ -1,0 +1,53 @@
+{
+  "id": "1731291",
+  "searches": [
+    "2026-11-13T19:20:03.579Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.tag24.de/justiz/polizei/lauter-knall-in-der-nacht-unbekannter-schiesst-auf-wohnungstuer-in-lankwitz-3543292",
+      "title": "Unbekannter schießt auf Wohnungstür in Berlin-Lankwitz",
+      "outlet": "tag24.de",
+      "type": "report",
+      "date": "2026-10-27",
+      "confidence": "high",
+      "reason": "Reports the same shot at a Wohnungstür in Wedellstraße, Lankwitz, around 3:30 on the night to 27 October, no injuries."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/schon-wieder-schusse-auf-ein-wohnhaus-bewohner-entdeckt-einschussloch-an-mehrfamilienhaus-in-berlin-lankwitz-16204324.html",
+      "title": "Schon wieder Schüsse auf ein Wohnhaus: Bewohner entdeckt Einschussloch an Mehrfamilienhaus in Berlin-Lankwitz",
+      "outlet": "tagesspiegel.de",
+      "type": "report",
+      "date": "2026-10-27",
+      "confidence": "high",
+      "reason": "Same incident: shot at apartment door in Wedellstraße, Lankwitz, night to Tuesday, around 3:30, no injuries."
+    },
+    {
+      "url": "https://www.n-tv.de/regionales/berlin-und-brandenburg/Schuss-auf-Wohnungstuer-einer-Familie-im-Berliner-Sueden-id31463394.html",
+      "title": "Berlin & Brandenburg: Schuss auf Wohnungstür einer Familie im Berliner Süden",
+      "outlet": "n-tv.de",
+      "type": "report",
+      "date": "2026-10-27",
+      "confidence": "high",
+      "reason": "Same Wedellstraße Lankwitz shot at apartment door, same night, no injuries reported."
+    },
+    {
+      "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/keine-verletzten--schuss-auf-wohnungstuer-einer-familie-im-berliner-sueden-38458660.html",
+      "title": "Keine Verletzten: Schuss auf Wohnungstür einer Familie im Berliner Süden",
+      "outlet": "stern.de",
+      "type": "report",
+      "date": "2026-10-27",
+      "confidence": "high",
+      "reason": "Same Wedellstraße Lankwitz door shooting on the night of 27 October, dpa text identical to n-tv."
+    },
+    {
+      "url": "https://www.welt.de/regionales/berlin/article6ae0953a41a652332eb6d924/schuss-auf-wohnungstuer-einer-familie-im-berliner-sueden.html",
+      "title": "Schuss auf Wohnungstür einer Familie im Berliner Süden",
+      "outlet": "welt.de",
+      "type": "report",
+      "date": "2026-10-27",
+      "confidence": "high",
+      "reason": "Same Wedellstraße Lankwitz apartment-door shooting, same night, no injuries; dpa wording matches."
+    }
+  ]
+}

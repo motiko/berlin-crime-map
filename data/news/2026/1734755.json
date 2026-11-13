@@ -1,0 +1,62 @@
+{
+  "id": "1734755",
+  "searches": [
+    "2026-11-13T19:19:12.148Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.bz-berlin.de/berlin/verfolgungsjagd-polizei-schiesst-fluechtiger-drohte-sie-zu-ueberfahren-6ae9f8ba70820d59f932a35c",
+      "title": "Verfolgungsjagd: Polizei schießt! Flüchtiger drohte sie zu überfahren",
+      "outlet": "bz-berlin.de",
+      "type": "report",
+      "date": "2026-11-03",
+      "confidence": "high",
+      "reason": "Same Uhlandstraße chase on 3 Nov 2026 with a police shot at the tyre and two arrests; time given as 13.45 Uhr rather than 13:15, but otherwise matching."
+    },
+    {
+      "url": "https://www.berliner-zeitung.de/article/polizei-schiesst-auf-fluechtendes-auto-in-charlottenburg-10560245",
+      "title": "Verfolgungsjagd in Charlottenburg: Polizei schießt auf Auto",
+      "outlet": "berliner-zeitung.de",
+      "type": "report",
+      "date": "2026-11-03",
+      "confidence": "high",
+      "reason": "Same Charlottenburg chase on Uhlandstraße, shot at tyre, driver and passenger arrested on 3 Nov 2026."
+    },
+    {
+      "url": "https://www.n-tv.de/panorama/Polizei-stoppt-Fahrzeug-am-Berliner-Kudamm-mit-Schuss-in-Reifen-id31491483.html",
+      "title": "\"Aus dem Rennen genommen\": Polizei stoppt Fahrzeug am Berliner Kudamm mit Schuss in Reifen",
+      "outlet": "n-tv.de",
+      "type": "report",
+      "date": "2026-11-03",
+      "confidence": "high",
+      "reason": "Same Uhlandstraße pursuit on the afternoon of 3 Nov 2026, police shot at tyre, passenger woman present."
+    },
+    {
+      "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/kriminalitaet--fahrer-rast-auf-beamte-zu---polizist-schiesst-auf-reifen-38497336.html",
+      "title": "Kriminalität: Fahrer rast auf Beamte zu - Polizist schießt auf Reifen",
+      "outlet": "stern.de",
+      "type": "report",
+      "date": "2026-11-04",
+      "confidence": "high",
+      "reason": "Same Charlottenburg incident with shot at tyre on Dienstagmittag and arrests of driver and passenger."
+    },
+    {
+      "url": "https://www.morgenpost.de/berlin/article413586120/auto-rast-bei-verfolgungsjagd-nahe-kudamm-ueber-gehweg-haette-jeden-totgefahren.html",
+      "title": "Nahe Kudamm: Auto rast bei Verfolgungsjagd über Gehweg",
+      "outlet": "morgenpost.de",
+      "type": "report",
+      "date": "2026-11-04",
+      "confidence": "medium",
+      "reason": "Excerpt describes a chase near Kudamm over sidewalks on 4 Nov 2026 article date; excerpt does not mention the shot or arrests, but the event appears to match."
+    },
+    {
+      "url": "https://www.n-tv.de/der_tag/Autofahrer-brettert-bei-wilder-Flucht-ueber-Gehweg-id31491517.html",
+      "title": "Der Tag: Autofahrer brettert bei wilder Flucht über Gehweg",
+      "outlet": "n-tv.de",
+      "type": "round-up",
+      "date": "2026-11-03",
+      "confidence": "high",
+      "reason": "News overview ('Der Tag') entry covering the same Uhlandstraße chase, tyre shot and arrests of man and woman on 3 Nov 2026."
+    }
+  ]
+}

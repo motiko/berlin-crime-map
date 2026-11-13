@@ -1,0 +1,62 @@
+{
+  "id": "1733480",
+  "searches": [
+    "2026-11-13T19:19:31.317Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.rbb24.de/panorama/beitrag/2026/11/schuesse-mehrfamilienhaus-lankwitz.html",
+      "title": "Erneut Schüsse in Berlin - auf Mehrfamilienhaus und vor Restaurant",
+      "outlet": "rbb24.de",
+      "type": "report",
+      "date": "2026-11-01",
+      "confidence": "high",
+      "reason": "Reports the Knesebeckstraße restaurant shooting of 1 Nov 2026 with the same dispute, timing, and circumstances as the police report."
+    },
+    {
+      "url": "https://www.bz-berlin.de/berlin/berlin-das-war-wie-wildwest-zwei-schiessereien-in-einer-nacht-in-berlin-6ae72b5caedea8cd9ffc093c",
+      "title": "Berlin: „Das war wie Wildwest“ – Zwei Schießereien in einer Nacht in Berlin",
+      "outlet": "bz-berlin.de",
+      "type": "report",
+      "date": "2026-11-01",
+      "confidence": "high",
+      "reason": "Describes the same Knesebeckstraße restaurant shooting with the earlier altercation, shots from a moving car, and shell casings."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/das-jahr-der-schusse-in-berlin-eine-chronik-der-eskalierenden-gewalt-auf-den-strassen-15385652.html",
+      "title": "Das Jahr der Schüsse in Berlin: Eine Chronik…",
+      "outlet": "tagesspiegel.de",
+      "type": "round-up",
+      "date": "2026-11-06",
+      "confidence": "high",
+      "reason": "Chronicle listing the 1 November Knesebeckstraße shooting among many incidents; it matches the police report but is a round-up."
+    },
+    {
+      "url": "https://www.welt.de/regionales/berlin/article6ae72d316a5ed9f213134745/schuesse-auf-wohnhaus-und-restaurant-in-berlin.html",
+      "title": "Schüsse auf Wohnhaus und Restaurant in Berlin",
+      "outlet": "welt.de",
+      "type": "report",
+      "date": "2026-11-01",
+      "confidence": "high",
+      "reason": "Reports the Charlottenburg-Wilmersdorf restaurant shooting from a car, preceded by the dispute with the employee threatened, matching the police report."
+    },
+    {
+      "url": "https://www.morgenpost.de/berlin/article413504829/berlin-brandenburg-blaulicht-news-aktuell-halloween-pyrotechnik-bvg.html",
+      "title": "Halloween-Bilanz der Polizei: Buslinien wegen…",
+      "outlet": "morgenpost.de",
+      "type": "live-blog",
+      "date": "2026-11-01",
+      "confidence": "high",
+      "reason": "Blaulicht news page with a section on the same Knesebeckstraße shooting, matching time, place and circumstances; it is a news overview rather than a dedicated report."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/dpa-unbekannte-schiessen-auf-wohnhaus-und-restaurant-in-berlin-16226424.html",
+      "title": "Keine Verletzten: Unbekannte schießen auf Wohnhaus und Restaurant in Berlin",
+      "outlet": "tagesspiegel.de",
+      "type": "report",
+      "date": "2026-11-01",
+      "confidence": "high",
+      "reason": "dpa report on the same restaurant shooting in Charlottenburg after the dispute, with no injuries and shell casings found."
+    }
+  ]
+}

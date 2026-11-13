@@ -1,0 +1,53 @@
+{
+  "id": "1737951",
+  "searches": [
+    "2026-11-13T19:18:39.942Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-schoeneberg-mann-schuesse-bein-verletzt.html",
+      "title": "Mann durch Schüsse in Berlin-Schöneberg verletzt",
+      "outlet": "rbb24.de",
+      "type": "report",
+      "date": "2026-11-11",
+      "confidence": "high",
+      "reason": "Same Steinmetzstraße shooting, about 2 Uhr, 40-year-old shot in leg, same police details; published 11.11.2026."
+    },
+    {
+      "url": "https://www.tag24.de/berlin/crime/blutiger-zwischenfall-in-schoeneberg-haben-taeter-ihre-waffen-zurueckgelassen-3548649",
+      "title": "Berlin: Blutiger Zwischenfall in Schöneberg - haben Täter ihre Waffen zurückgelassen?",
+      "outlet": "tag24.de",
+      "type": "report",
+      "date": "2026-11-11",
+      "confidence": "high",
+      "reason": "Same Steinmetzstraße shooting in the night to Wednesday, 40-year-old, two firearms secured; dated 11.11.2026 16:13."
+    },
+    {
+      "url": "https://www.morgenpost.de/berlin/article413645271/schuesse-mitten-in-der-nacht-mann-in-schoeneberg-verletzt-taeter-fluechtig.html",
+      "title": "Schöneberg: Mann in der Nacht angeschossen und verletzt",
+      "outlet": "morgenpost.de",
+      "type": "report",
+      "date": "2026-11-11",
+      "confidence": "high",
+      "reason": "Same Steinmetzstraße shooting around 2 Uhr with 40-year-old victim and fleeing perpetrators; dated 11.11.2026 09:22."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/mann-wird-in-schoneberg-verletzt-und-muss-notoperiert-werden--tater-auf-der-flucht-16270678.html",
+      "title": "Erneut Schüsse in Berlin: Mann wird in Schöneberg verletzt und muss notoperiert werden – Täter auf der Flucht",
+      "outlet": "tagesspiegel.de",
+      "type": "report",
+      "date": "2026-11-11",
+      "confidence": "high",
+      "reason": "Same Steinmetzstraße shooting with 40-year-old, two weapons and notoperation; Stand 11.11.2026 13:58."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/bezirke/tempelhof-schoeneberg/",
+      "title": "Tempelhof-Schöneberg-News: Aktuelle Meldungen von…",
+      "outlet": "tagesspiegel.de",
+      "type": "round-up",
+      "date": null,
+      "confidence": "medium",
+      "reason": "District news overview page whose excerpt headlines the same Schöneberg shooting; it is a listing, not a dedicated report."
+    }
+  ]
+}

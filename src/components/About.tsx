@@ -30,6 +30,11 @@ export function About({ open, onClose }: Props) {
         <li>An AI model reads each German report and records the category, the street, the date and a short English summary.</li>
         <li>Streets are placed with OpenStreetMap geocoding. Hollow dots sit at a district centre because the report names no street.</li>
         <li>Each entry links to the original report. The full text is not copied here.</li>
+        <li>
+          For recent shootings, killings, knife attacks and explosions, a web search finds news articles about the incident, and the AI
+          checks that each one is about the same event. Linked articles are the outlets' own reporting: they may name the people
+          involved, and some are paywalled.
+        </li>
       </ul>
       <h3>Keep in mind</h3>
       <ul>

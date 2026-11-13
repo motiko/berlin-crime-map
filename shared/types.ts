@@ -56,6 +56,18 @@ export interface Incident {
   injured: number | null;
   dead: number | null;
   url: string;
+  /** News coverage, if searched (see docs/news-links). */
+  news?: NewsLink[];
+}
+
+export interface NewsLink {
+  url: string;
+  /** Headline for articles; null for mentions (round-ups, live blogs), whose page title is about something else. */
+  title: string | null;
+  /** Domain, e.g. "rbb24.de". */
+  outlet: string;
+  date: string | null;
+  kind: 'article' | 'mention';
 }
 
 export interface DataIndex {

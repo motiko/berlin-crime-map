@@ -1,0 +1,53 @@
+{
+  "id": "1735478",
+  "searches": [
+    "2026-11-13T19:18:58.078Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-wedding-schuesse-polizei.html",
+      "title": "22-Jähriger in Berlin-Wedding durch mehrere Schüsse verletzt - Hintergründe unklar",
+      "outlet": "rbb24.de",
+      "type": "report",
+      "date": "2026-11-05",
+      "confidence": "high",
+      "reason": "22-year-old shot in Seestraße, Wedding, on Wednesday around 18:00, matching the police report; published 05.11.2026 per Inforadio timestamp."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/mordkommission-ermittelt-schusse-vor-spatkauf-in-berlin-wedding--22-jahriger-mit-verletzungen-im-krankenhaus-16243050.html",
+      "title": "Mordkommission ermittelt: Schüsse vor Spätkauf in Berlin-Wedding – 22-Jähriger mit Verletzungen im Krankenhaus",
+      "outlet": "tagesspiegel.de",
+      "type": "report",
+      "date": "2026-11-05",
+      "confidence": "high",
+      "reason": "Shots at Seestraße corner Lütticher Straße on Wednesday around 18:10 wounding a 22-year-old; Mordkommission investigating, matching the police report."
+    },
+    {
+      "url": "https://www.bild.de/regional/berlin/ein-schwerverletzter-schuesse-nach-streit-vor-berliner-spaetkauf-6aeb789feca9cecdd5d46ddd",
+      "title": "Ein Schwerverletzter: Schüsse nach Streit vor Berliner Spätkauf",
+      "outlet": "bild.de",
+      "type": "report",
+      "date": "2026-11-04",
+      "confidence": "high",
+      "reason": "Multiple shots before a Spätkauf at Seestraße corner Lütticher Straße on Wednesday around 18:10 with one seriously injured person; same incident."
+    },
+    {
+      "url": "https://www.n-tv.de/regionales/berlin-und-brandenburg/Mann-in-Berlin-Wedding-durch-mehrere-Schuesse-verletzt-id31496447.html",
+      "title": "Berlin & Brandenburg: Mann in Berlin-Wedding durch mehrere Schüsse verletzt",
+      "outlet": "n-tv.de",
+      "type": "report",
+      "date": "2026-11-04",
+      "confidence": "high",
+      "reason": "dpa report of a man shot multiple times on Seestraße corner Lütticher Straße on Wednesday evening, matching the incident."
+    },
+    {
+      "url": "https://www.welt.de/regionales/berlin/article6aeb8332c2e67e63d0264505/mann-in-berlin-wedding-durch-mehrere-schuesse-verletzt.html",
+      "title": "Mann in Berlin-Wedding durch mehrere Schüsse verletzt",
+      "outlet": "welt.de",
+      "type": "report",
+      "date": null,
+      "confidence": "high",
+      "reason": "Same dpa text about a man shot multiple times on Seestraße corner Lütticher Straße in the evening; same incident."
+    }
+  ]
+}

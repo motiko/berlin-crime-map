@@ -1,0 +1,53 @@
+{
+  "id": "1736190",
+  "searches": [
+    "2026-11-13T19:33:29.555Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.bz-berlin.de/polizei/niederschoeneweide-person-bei-messer-attacke-schwer-verletzt-6aeee8456d99b05981e8982e",
+      "title": "Niederschöneweide: Person bei Messer-Attacke schwer verletzt",
+      "outlet": "bz-berlin.de",
+      "type": "report",
+      "date": "2026-11-07",
+      "confidence": "high",
+      "reason": "Same Schnellerstraße stabbing in Niederschöneweide on the night of 6–7 Nov 2026, with the victim taken to hospital and perpetrators fleeing."
+    },
+    {
+      "url": "https://www.morgenpost.de/berlin/article413563505/berlin-brandenburg-blaulicht-news-aktuell-7-november-messerstiche-schoeneweide.html",
+      "title": "Berlin-Schöneweide: Offenbar wieder Mann durch Messerstiche schwer verletzt",
+      "outlet": "morgenpost.de",
+      "type": "live-blog",
+      "date": "2026-11-08",
+      "confidence": "high",
+      "reason": "Blaulicht news page whose entry describes the same Schnellerstraße stabbing: 25-year-old, cuts to hands and leg, fleeing car toward Oberspreestraße."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/dpa-passanten-finden-mann-mit-schnittwunden-in-berlin-niederschoneweide-16255518.html",
+      "title": "25-Jähriger in Klinik gebracht: Passanten finden Mann mit Schnittwunden in Berlin-Niederschöneweide",
+      "outlet": "tagesspiegel.de",
+      "type": "report",
+      "date": "2026-11-07",
+      "confidence": "high",
+      "reason": "dpa report on the same Schnellerstraße incident with matching time, injuries, weapon description and getaway direction."
+    },
+    {
+      "url": "https://www.tag24.de/berlin/crime/blutiger-messer-streit-in-berlin-passanten-finden-verletzten-mann-am-boden-3547780",
+      "title": "Blutiger Streit in Berlin-Niederschöneweide: Passanten finden verletzten Mann am Boden",
+      "outlet": "tag24.de",
+      "type": "report",
+      "date": "2026-11-07",
+      "confidence": "high",
+      "reason": "Same incident: 25-year-old found with cuts in Schnellerstraße around 23:40, attacker fled by car toward Oberspreestraße."
+    },
+    {
+      "url": "https://www.n-tv.de/regionales/berlin-und-brandenburg/Im-Streit-verletzt-Schnitte-an-Haenden-und-Bein-id31506799.html",
+      "title": "Berlin & Brandenburg: Im Streit verletzt: Schnitte an Händen und Bein",
+      "outlet": "n-tv.de",
+      "type": "report",
+      "date": "2026-11-07",
+      "confidence": "high",
+      "reason": "dpa report on the same Schnellerstraße incident with the same injuries, weapon and getaway details."
+    }
+  ]
+}

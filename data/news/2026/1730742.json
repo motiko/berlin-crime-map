@@ -1,0 +1,62 @@
+{
+  "id": "1730742",
+  "searches": [
+    "2026-11-13T19:33:53.929Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-neukoelln-messer-angriff-pannierstrasse-bussi-bar.html",
+      "title": "Zwei Verletzte bei Messerangriff vor queerfreundlicher Bar",
+      "outlet": "rbb24.de",
+      "type": "report",
+      "date": "2026-10-24",
+      "confidence": "high",
+      "reason": "Same Pannierstraße knife attack, night to Saturday ~3:40, two men injured after bar worker was refused entry."
+    },
+    {
+      "url": "https://www.n-tv.de/regionales/berlin-und-brandenburg/Messerangriff-vor-Bar-in-Neukoelln-zwei-Schwerverletzte-id31453909.html",
+      "title": "Berlin & Brandenburg: Messerangriff vor Bar in Neukölln - zwei Schwerverletzte",
+      "outlet": "n-tv.de",
+      "type": "report",
+      "date": "2026-10-24",
+      "confidence": "high",
+      "reason": "Same attack in Pannierstraße with identical details (ages, injuries, flight, 3:40 timing)."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/dpa-zwei-verletzte-in-der-pannierstrasse--tater-geflohen-16197031.html",
+      "title": "Messerangriff vor einer Bar in Berlin-Neukölln: Zwei Verletzte in der Pannierstraße – Täter geflohen",
+      "outlet": "tagesspiegel.de",
+      "type": "report",
+      "date": null,
+      "confidence": "medium",
+      "reason": "Same Pannierstraße knife attack on two men around 3:40 a.m.; brief excerpt with few details but consistent."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/dpa-drei-verletzte-in-der-pannierstrasse--polizei-sucht-tater-16197031.html",
+      "title": "Messerangriff vor Neuköllner Bar: Drei Verletzte in der Pannierstraße – Polizei sucht Täter",
+      "outlet": "tagesspiegel.de",
+      "type": "report",
+      "date": "2026-10-24",
+      "confidence": "high",
+      "reason": "Same incident with matching details: bar worker, two helpers aged 36 and 31, stab injuries, failed search."
+    },
+    {
+      "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/angriff-vor-bar--messerangriff-in-neukoellner-pannierstrasse---zwei-verletzte-38445606.html",
+      "title": "Angriff vor Bar: Messerangriff in Neuköllner Pannierstraße - zwei Verletzte",
+      "outlet": "stern.de",
+      "type": "report",
+      "date": "2026-10-24",
+      "confidence": "medium",
+      "reason": "Same Neukölln Pannierstraße knife attack at about 3:40 a.m. with two injured men; brief dpa-style excerpt."
+    },
+    {
+      "url": "https://www.morgenpost.de/berlin/article413450398/berlin-blaulicht-polizei-feuerwehr-aktuell-news-unfall-brand-hellersdorf.html",
+      "title": "Berlin: Feuer an Lichtenberger Kita ++ Schweine lösen…",
+      "outlet": "morgenpost.de",
+      "type": "round-up",
+      "date": "2025-10-25",
+      "confidence": "high",
+      "reason": "Live-ticker page covering many Berlin incidents, but contains a dedicated section on the same Pannierstraße attack with matching details."
+    }
+  ]
+}

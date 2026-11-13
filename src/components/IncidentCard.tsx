@@ -4,6 +4,7 @@ import { CATEGORY_META } from '../../shared/categories.ts';
 import type { Incident } from '../../shared/types.ts';
 import { formatDate, placeLabel } from '../lib/filter.ts';
 import { CategoryIcon } from './CategoryIcon.tsx';
+import { NewsLinks } from './NewsLinks.tsx';
 
 interface Props {
   incident: Incident;
@@ -90,6 +91,7 @@ export function IncidentCard({ incident, position, onNewer, onOlder, onClose }: 
         <a className="source" href={incident.url} target="_blank" rel="noreferrer">
           Read the police report (German) ↗
         </a>
+        {incident.news && <NewsLinks links={incident.news} />}
       </div>
 
       <footer className="card-nav">

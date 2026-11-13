@@ -1,0 +1,44 @@
+{
+  "id": "1729638",
+  "searches": [
+    "2026-11-13T19:33:59.938Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.bz-berlin.de/polizei/junger-mann-nach-streit-in-katholischer-schule-niedergestochen-6ad976b12c40700de08013ff",
+      "title": "Junger Mann nach Streit in Katholischer Schule niedergestochen",
+      "outlet": "bz-berlin.de",
+      "type": "report",
+      "date": "2026-10-22",
+      "confidence": "high",
+      "reason": "Same 20-year-old stabbed in the buttock on the St. Marien school grounds, Donaustraße, night to Thursday 22 Oct 2026."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/dpa-20-jahriger-wird-auf-schulgelande-schwer-verletzt-16187158.html",
+      "title": "Messerangriff in Berlin-Neukölln: 20-Jähriger wird auf Schulgelände schwer verletzt",
+      "outlet": "tagesspiegel.de",
+      "type": "report",
+      "date": "2026-10-22",
+      "confidence": "high",
+      "reason": "Same stabbing of a 20-year-old in the courtyard of St. Marien school, Donaustraße, with the same police details."
+    },
+    {
+      "url": "https://www.morgenpost.de/berlin/article413477825/auf-schulgelaende-im-park-zwei-junge-maenner-bei-messerattacken-schwer-verletzt.html",
+      "title": "Berlin: Messerangriffe auf Schulgelände & im Park – zwei…",
+      "outlet": "morgenpost.de",
+      "type": "round-up",
+      "date": "2026-10-22",
+      "confidence": "high",
+      "reason": "Covers the same school-yard stabbing in Donaustraße alongside a park attack; the Neukölln case matches in date, place and circumstances."
+    },
+    {
+      "url": "https://www.zeit.de/news/2026-10/22/20-jaehriger-bei-attacke-in-neukoelln-schwer-verletzt",
+      "title": "Kriminalität: 20-Jähriger bei Attacke in Neukölln schwer verletzt",
+      "outlet": "zeit.de",
+      "type": "report",
+      "date": "2026-10-22",
+      "confidence": "high",
+      "reason": "dpa report on the 20-year-old stabbed on the St. Marien school grounds in Neukölln, night to Thursday."
+    }
+  ]
+}

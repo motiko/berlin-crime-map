@@ -1,0 +1,62 @@
+{
+  "id": "1733482",
+  "searches": [
+    "2026-11-13T19:55:00.195Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.bz-berlin.de/berlin/in-der-halloween-nacht-vermummte-werfen-molotow-cocktail-in-neukoellner-kneipe-6ae7479c82dfc5c67ce5a65f",
+      "title": "In der Halloween-Nacht: Vermummte werfen Molotow-Cocktail in Neuköllner Kneipe",
+      "outlet": "bz-berlin.de",
+      "type": "report",
+      "date": "2026-11-01",
+      "confidence": "high",
+      "reason": "Same Juliusstraße Neukölln Kneipe attack on 31.10. evening with vermummte pair, four guests at bar, no injuries, prior Böller."
+    },
+    {
+      "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-neukoelln-molotowcocktail-kneipe-polizei.html",
+      "title": "Berlin-Neukölln: Molotowcocktail in Kneipe in Berlin geworfen",
+      "outlet": "rbb24.de",
+      "type": "report",
+      "date": "2026-11-01",
+      "confidence": "high",
+      "reason": "Same Saturday-evening Neukölln Kneipe Molotov attack with masked persons and earlier Böller, matching the police report."
+    },
+    {
+      "url": "https://www.morgenpost.de/berlin/article413504829/berlin-brandenburg-blaulicht-news-aktuell-halloween-pyrotechnik-bvg.html",
+      "title": "Halloween-Bilanz der Polizei: Buslinien wegen…",
+      "outlet": "morgenpost.de",
+      "type": "round-up",
+      "date": "2026-11-01",
+      "confidence": "medium",
+      "reason": "Live news/Blaulicht page that includes a section on the same Juliusstraße Kneipe attack, though it is a multi-topic overview."
+    },
+    {
+      "url": "https://www.welt.de/regionales/berlin/article6ae744a2aedea8cd9ffc0b25/molotowcocktail-in-kneipe-in-berlin-geworfen.html",
+      "title": "Molotowcocktail in Kneipe in Berlin geworfen",
+      "outlet": "welt.de",
+      "type": "report",
+      "date": "2026-11-01",
+      "confidence": "high",
+      "reason": "Same Neukölln Kneipe Molotov attack on Saturday evening with masked persons and earlier Böller."
+    },
+    {
+      "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/kriminalitaet--molotowcocktail-in-kneipe-in-berlin-geworfen-38485272.html",
+      "title": "Kriminalität: Molotowcocktail in Kneipe in Berlin geworfen",
+      "outlet": "stern.de",
+      "type": "report",
+      "date": "2026-11-01",
+      "confidence": "high",
+      "reason": "dpa report of the same Neukölln Kneipe Molotov attack with two masked people and prior Böller."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/dpa-kriminalitat-molotowcocktail-in-kneipe-in-berlin-geworfen-16226846.html",
+      "title": "Kriminalität: Molotowcocktail in Kneipe in Berlin geworfen",
+      "outlet": "tagesspiegel.de",
+      "type": "report",
+      "date": "2026-11-01",
+      "confidence": "high",
+      "reason": "Same dpa report of the Neukölln Kneipe Molotov attack on Saturday evening with masked persons and earlier Böller."
+    }
+  ]
+}

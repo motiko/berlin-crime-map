@@ -1,0 +1,62 @@
+{
+  "id": "1732557",
+  "searches": [
+    "2026-11-13T19:55:00.195Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-mariendorf-feuerwerkskoerper-explosion-balkon.html",
+      "title": "Explosion auf Balkon in Berlin-Mariendorf",
+      "outlet": "rbb24.de",
+      "type": "report",
+      "date": "2026-10-29",
+      "confidence": "high",
+      "reason": "Same Ullsteinstraße balcony explosion around 0:30 on 29.10.2026, with police statements and rbb reporting."
+    },
+    {
+      "url": "https://www.bz-berlin.de/polizei/mariendorf-streit-einer-arabischer-familie-kugelbombe-explodiert-6ae28f3621fd087fed7ee151",
+      "title": "Mariendorf: Streit einer arabischer Familie – Kugelbombe explodiert",
+      "outlet": "bz-berlin.de",
+      "type": "report",
+      "date": "2026-10-29",
+      "confidence": "high",
+      "reason": "Same balcony explosion in Mariendorf/Ullsteinstraße with 67-year-old woman affected, published 29.10.2026."
+    },
+    {
+      "url": "https://www.morgenpost.de/berlin/article413538302/explosion-in-mariendorf-kugelbombe-zerstoert-balkon-und-wohnung.html",
+      "title": "Berlin: Explosion in Tempelhof – Kugelbombe zerstört Balkon und Wohnung",
+      "outlet": "morgenpost.de",
+      "type": "report",
+      "date": "2026-10-29",
+      "confidence": "high",
+      "reason": "Matches police report details: Ullsteinstraße, around 0.30 Uhr, 67-year-old and 16-year-old, no injuries."
+    },
+    {
+      "url": "https://www.tag24.de/berlin/crime/kugelbombe-verwuestet-balkon-in-tempelhof-3544332",
+      "title": "Berlin: Kugelbombe verwüstet Balkon in Tempelhof",
+      "outlet": "tag24.de",
+      "type": "report",
+      "date": "2026-10-29",
+      "confidence": "high",
+      "reason": "Same Ullsteinstraße balcony explosion at 0.30 Uhr reported with the police details."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/schwere-schaden-an-mehrfamilienhaus-explosion-auf-balkon-in-berlin-tempelhof-16214321.html",
+      "title": "Schwere Schäden an Mehrfamilienhaus: Explosion auf Balkon in Berlin-Tempelhof",
+      "outlet": "tagesspiegel.de",
+      "type": "report",
+      "date": "2026-10-29",
+      "confidence": "high",
+      "reason": "Same Ullsteinstraße balcony explosion, police details and LKA Sprengstoff investigation match."
+    },
+    {
+      "url": "https://www.n-tv.de/regionales/berlin-und-brandenburg/Explosion-beschaedigt-Balkon-und-Wohnung-in-Tempelhof-id31471990.html",
+      "title": "Berlin & Brandenburg: Explosion beschädigt Balkon und Wohnung in Tempelhof",
+      "outlet": "n-tv.de",
+      "type": "report",
+      "date": "2026-10-29",
+      "confidence": "high",
+      "reason": "dpa report of the same Ullsteinstraße balcony explosion in the night, matching police details."
+    }
+  ]
+}

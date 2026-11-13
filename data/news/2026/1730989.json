@@ -1,0 +1,53 @@
+{
+  "id": "1730989",
+  "searches": [
+    "2026-11-13T19:20:09.056Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.n-tv.de/panorama/Berlin-Unbekannte-schiessen-durch-Wohnungstuer-und-treffen-Kuehlschrank-id31459026.html",
+      "title": "Berlin: Unbekannte schießen durch Wohnungstür und treffen Kühlschrank",
+      "outlet": "n-tv.de",
+      "type": "report",
+      "date": "2026-10-26",
+      "confidence": "high",
+      "reason": "Same Iburger Ufer door shot, fridge hit and cartridge case on 26.10.2026 morning."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/familie-entdeckt-loch-in-der-wohnungstur-unbekannter-schiesst-auf-tur-in-einem-wohnhaus-in-berlin-charlottenburg-16202118.html",
+      "title": "Familie entdeckt Loch in der Wohnungstür: Unbekannter schießt auf Tür in einem Haus in Berlin-Charlottenburg",
+      "outlet": "tagesspiegel.de",
+      "type": "report",
+      "date": "2026-10-26",
+      "confidence": "high",
+      "reason": "Same building at Iburger Ufer, same family discovery around 7.20 Uhr on 26.10.2026."
+    },
+    {
+      "url": "https://www.tag24.de/berlin/schuss-auf-wohnungstuer-berliner-familie-macht-beunruhigende-entdeckung-3543101",
+      "title": "Schuss auf Wohnungstür? Berliner Familie macht beunruhigende Entdeckung",
+      "outlet": "tag24.de",
+      "type": "report",
+      "date": "2026-10-26",
+      "confidence": "high",
+      "reason": "Same Iburger Ufer incident with fridge bullet hole, cartridge case and 7.20 Uhr discovery."
+    },
+    {
+      "url": "https://www.stern.de/news/berlin--unbekannte-schiessen-auf-wohnungstuer-und-treffen-kuehlschrank-von-familie-38452968.html",
+      "title": "Berlin: Unbekannte schießen auf Wohnungstür und treffen Kühlschrank von Familie",
+      "outlet": "stern.de",
+      "type": "report",
+      "date": "2026-10-26",
+      "confidence": "medium",
+      "reason": "Same Charlottenburg door-and-fridge shooting on 26 Oct, though it misnames the street as Spreeufer."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/das-jahr-der-schusse-in-berlin-eine-chronik-der-eskalierenden-gewalt-auf-den-strassen-15385652.html",
+      "title": "Das Jahr der Schüsse in Berlin: Eine Chronik der eskalierenden Gewalt…",
+      "outlet": "tagesspiegel.de",
+      "type": "round-up",
+      "date": "2026-11-06",
+      "confidence": "medium",
+      "reason": "Chronicle entry mentions the same 26 Oct Iburger Ufer door shot among many incidents."
+    }
+  ]
+}

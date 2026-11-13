@@ -1,0 +1,26 @@
+{
+  "id": "1736492",
+  "searches": [
+    "2026-11-13T19:18:45.741Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.tag24.de/berlin/schuesse-auf-fahrschule-in-wittenau-spezialermittler-eingeschaltet-3548145",
+      "title": "Schüsse auf Fahrschule in Berlin-Wittenau: Spezialermittler eingeschaltet",
+      "outlet": "tag24.de",
+      "type": "report",
+      "date": "2026-11-09",
+      "confidence": "high",
+      "reason": "Same Wittenau Fahrschule office in Oranienburger Straße, Sunday morning shots, BAO Ferrum investigating."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/dpa-sek-einsatz-in-steglitz-schusse-auf-fahrschule-in-wittenau-16260221.html",
+      "title": "Gebäude in Berlin beschossen: SEK-Einsatz in Steglitz, Schüsse auf Fahrschule in Wittenau",
+      "outlet": "tagesspiegel.de",
+      "type": "round-up",
+      "date": null,
+      "confidence": "high",
+      "reason": "Live-style overview of several shootings; includes the Wittenau Fahrschule office shooting on Sunday morning in Oranienburger Straße."
+    }
+  ]
+}

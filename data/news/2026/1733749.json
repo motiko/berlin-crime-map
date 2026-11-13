@@ -1,0 +1,53 @@
+{
+  "id": "1733749",
+  "searches": [
+    "2026-11-13T19:19:18.359Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.berliner-zeitung.de/article/angestellte-weigert-sich-dann-faellt-ein-schuss-maskierte-rauben-tankstelle-in-koepenick-aus-10555968",
+      "title": "Angestellte weigert sich, dann fällt ein Schuss: Maskierte rauben Tankstelle in Köpenick aus",
+      "outlet": "berliner-zeitung.de",
+      "type": "report",
+      "date": "2026-11-02",
+      "confidence": "high",
+      "reason": "Same Friedrichshagener Straße gas station robbery, 23:20, masked men, shot at ceiling, cash taken."
+    },
+    {
+      "url": "https://www.tag24.de/berlin/masken-maenner-ueberfallen-tankstelle-in-koepenick-3546265",
+      "title": "Masken-Männer überfallen Tankstelle in Berlin-Köpenick",
+      "outlet": "tag24.de",
+      "type": "report",
+      "date": "2026-11-02",
+      "confidence": "high",
+      "reason": "Same robbery at Friedrichshagener Straße on Sunday evening around 23:20 with shot toward ceiling."
+    },
+    {
+      "url": "https://www.n-tv.de/regionales/berlin-und-brandenburg/Tankstellenueberfall-in-Koepenick-Taeter-erbeuten-Bargeld-id31485393.html",
+      "title": "Berlin & Brandenburg: Tankstellenüberfall in Köpenick - Täter erbeuten Bargeld",
+      "outlet": "n-tv.de",
+      "type": "report",
+      "date": "2026-11-02",
+      "confidence": "high",
+      "reason": "dpa report of the same robbery at Friedrichshagener Straße, 23:20, shot at ceiling, cash taken."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/dpa-kriminalitat-tankstellenuberfall-in-kopenick-tater-erbeuten-bargeld-16230982.html",
+      "title": "Kriminalität: Tankstellenüberfall in Köpenick - Täter erbeuten Bargeld",
+      "outlet": "tagesspiegel.de",
+      "type": "report",
+      "date": null,
+      "confidence": "high",
+      "reason": "Same dpa report of the Friedrichshagener Straße robbery with shot at ceiling; publication date only shown as 'heute'."
+    },
+    {
+      "url": "https://www.welt.de/regionales/berlin/article6ae88a6a1d5fd399fd461563/tankstellenueberfall-in-koepenick-taeter-erbeuten-bargeld.html",
+      "title": "Tankstellenüberfall in Köpenick - Täter erbeuten Bargeld",
+      "outlet": "welt.de",
+      "type": "report",
+      "date": null,
+      "confidence": "high",
+      "reason": "Same dpa report of the Köpenick gas station robbery with masked men, shot toward ceiling, cash taken."
+    }
+  ]
+}

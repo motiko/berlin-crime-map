@@ -1,0 +1,62 @@
+{
+  "id": "1735014",
+  "searches": [
+    "2026-11-13T19:19:04.119Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.n-tv.de/politik/Aiwangers-Leiche-wird-heute-noch-obduziert-id31498308.html",
+      "title": "Nach Tod in Berliner Hotelzimmer: Aiwangers Leiche wird heute noch obduziert",
+      "outlet": "n-tv.de",
+      "type": "follow-up",
+      "date": null,
+      "confidence": "high",
+      "reason": "Reports on the same death of Hubert Aiwanger in a Berlin hotel room and the Todesermittlungsverfahren, with autopsy the following day."
+    },
+    {
+      "url": "https://www.morgenpost.de/politik/article413593873/suche-nach-aiwangers-todesursache-darum-ermittelt-die-mordkommission.html",
+      "title": "Aiwanger: Suche nach Todesursache – darum ermittelt die Mordkommission",
+      "outlet": "morgenpost.de",
+      "type": "report",
+      "date": "2026-11-05",
+      "confidence": "high",
+      "reason": "Covers Aiwanger found dead in a Berlin-Mitte hotel room on Wednesday evening and the Todesermittlungsverfahren by the Mordkommission."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/chef-der-freien-wahler-hubert-aiwanger-tot-in-hotel-in-berlin-aufgefunden-16243175.html",
+      "title": "Chef der Freien Wähler in Berliner Hotel gestorben: Obduktion nach Tod von Hubert Aiwanger liefert keine Hinweise auf eine Straftat",
+      "outlet": "tagesspiegel.de",
+      "type": "report",
+      "date": "2026-11-05",
+      "confidence": "high",
+      "reason": "Reports Aiwanger's death in a Berlin hotel (Neuer Fritz) and the autopsy results after the Todesermittlungsverfahren was opened."
+    },
+    {
+      "url": "https://www.morgenpost.de/politik/article413592189/hubert-aiwanger-tot-hotel-zimmer-berlin-zimmer-freie-waehler.html",
+      "title": "Hubert Aiwanger tot: In diesem Berliner Hotel starb der Freie-Wähler-Chef",
+      "outlet": "morgenpost.de",
+      "type": "report",
+      "date": "2026-11-06",
+      "confidence": "high",
+      "reason": "Reports Aiwanger found dead in a Berlin-Mitte hotel room and the investigation procedure opened by police and prosecutors."
+    },
+    {
+      "url": "https://www.welt.de/politik/deutschland/article6aec550c0ed738572938c606/hubert-aiwanger-markus-soeder-will-koalition-in-aiwangers-sinne-fortsetzen-leiche-wird-in-berlin-obduziert.html",
+      "title": "Hubert Aiwanger ✝: Markus Söder will Koalition in Aiwangers Sinne fortsetzen – Leiche wird in Berlin obduziert",
+      "outlet": "welt.de",
+      "type": "report",
+      "date": null,
+      "confidence": "high",
+      "reason": "Covers Aiwanger's death and the Todesermittlungsverfahren with autopsy in Berlin; excerpt is brief but matches the incident."
+    },
+    {
+      "url": "https://www.berliner-zeitung.de/article/hubert-aiwanger-tot-aufgefunden-10564823",
+      "title": "Hubert Aiwanger: Bayerischer Minister tot in Berliner Hotel…",
+      "outlet": "berliner-zeitung.de",
+      "type": "report",
+      "date": "2026-11-05",
+      "confidence": "high",
+      "reason": "Reports Aiwanger found dead in a Friedrichstraße hotel in Berlin-Mitte with the Todesermittlungsverfahren by police and prosecutors."
+    }
+  ]
+}

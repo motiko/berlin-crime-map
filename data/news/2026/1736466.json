@@ -1,0 +1,35 @@
+{
+  "id": "1736466",
+  "searches": [
+    "2026-11-13T19:33:18.138Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.morgenpost.de/berlin/article413626911/stiche-in-den-ruecken-18-jaehriger-bei-messerangriff-in-spandau-verletzt.html",
+      "title": "Berlin-Spandau: 19-Jähriger bei Messerangriff verletzt – Festnahmen",
+      "outlet": "morgenpost.de",
+      "type": "report",
+      "date": "2026-11-09",
+      "confidence": "high",
+      "reason": "Same Sunday evening stabbing at Münsinger Park/Seegefelder Straße, 19-year-old victim, two suspects aged 20 and 40 arrested at scene."
+    },
+    {
+      "url": "https://www.tag24.de/berlin/19-jaehriger-mit-messer-in-spandau-verletzt-zufaellig-kommt-die-polizei-vorbei-3548125",
+      "title": "19-Jähriger mit Messer in Berlin-Spandau verletzt: Zufällig kommt die Polizei vorbei",
+      "outlet": "tag24.de",
+      "type": "report",
+      "date": "2026-11-09",
+      "confidence": "high",
+      "reason": "Same incident: 19-year-old stabbed near Münsinger Park, suspects aged 20 and 40 arrested, police drove by by chance."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/dpa-18-jahriger-in-berlin-spandau-mit-messer-verletzt-16259975.html",
+      "title": "Zwei Tatverdächtige festgenommen: 18-Jähriger in Berlin-Spandau mit Messer verletzt",
+      "outlet": "tagesspiegel.de",
+      "type": "report",
+      "date": "2026-11-09",
+      "confidence": "high",
+      "reason": "Same Sunday evening knife attack in Spandau with suspects aged 20 and 40 arrested at scene; victim age given as 18 is a minor discrepancy."
+    }
+  ]
+}

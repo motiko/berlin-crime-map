@@ -1,0 +1,62 @@
+{
+  "id": "1734546",
+  "searches": [
+    "2026-11-13T19:18:33.961Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.berliner-zeitung.de/article/polizei-sucht-zeugen-fuer-auto-im-fall-der-getoeteten-lisa-10588935",
+      "title": "Polizei sucht Zeugen für Auto im Fall der getöteten Lisa",
+      "outlet": "berliner-zeitung.de",
+      "type": "report",
+      "date": null,
+      "confidence": "high",
+      "reason": "Reports the police appeal for witnesses about the same Citroën C5 in the Lisa T. homicide case in Altglietzen."
+    },
+    {
+      "url": "https://www.rbb24.de/panorama/beitrag/2026/11/fall-lisa-t-ermittlungen-tatfahrzeug-polizei.html",
+      "title": "Fall Lisa T.: Polizei veröffentlicht Fotos eines mutmaßlichen Tatfahrzeugs",
+      "outlet": "rbb24.de",
+      "type": "report",
+      "date": null,
+      "confidence": "high",
+      "reason": "Covers the same police/prosecutors' appeal for the suspected getaway vehicle in the Lisa T. case, with Altglietzen context."
+    },
+    {
+      "url": "https://www.bz-berlin.de/polizei/polizeifahndung-mordfall-lisa-wurde-sie-in-diesem-wagen-entfuehrt-6af4910de22aeb9481420380",
+      "title": "Polizeifahndung: Mordfall Lisa! Wurde sie in diesem Wagen entführt?",
+      "outlet": "bz-berlin.de",
+      "type": "report",
+      "date": null,
+      "confidence": "high",
+      "reason": "Reports the same vehicle search (plate FG 85027, Altglietzen) for the murdered Lisa T. case."
+    },
+    {
+      "url": "https://www.stern.de/panorama/verbrechen/top-38547626.html",
+      "title": "Lisa T. aus Berlin: Ermittler suchen Hinweise zu silberfarbenem Kombi",
+      "outlet": "stern.de",
+      "type": "follow-up",
+      "date": "2026-11-13",
+      "confidence": "high",
+      "reason": "Dated 13 November, discusses the same silver Citroën appeal and the deceased suspect in the Lisa T. case."
+    },
+    {
+      "url": "https://www.morgenpost.de/berlin/article413654478/lisa-t-verdaechtiges-auto-in-altglietzen-gefunden-polizei-sucht-zeugen.html",
+      "title": "Mordfall Lisa T.: Verdächtiges Auto in Altglietzen gefunden — Polizei sucht Zeugen",
+      "outlet": "morgenpost.de",
+      "type": "report",
+      "date": null,
+      "confidence": "high",
+      "reason": "Reproduces the police release on the same Citroën C5 and Altglietzen discovery in the Lisa T. case."
+    },
+    {
+      "url": "https://www.tag24.de/berlin/lisa-t-13-aus-berlin-marzahn-getoetet-beschaedigter-kombi-gibt-polizei-raetsel-auf-3548864",
+      "title": "Lisa T. (13) aus Berlin-Marzahn getötet: Polizei sucht Zeugen zu diesem Auto",
+      "outlet": "tag24.de",
+      "type": "report",
+      "date": null,
+      "confidence": "high",
+      "reason": "Reports on the same plate FG 85027 vehicle found in Altglietzen and its possible use in the Lisa T. case."
+    }
+  ]
+}

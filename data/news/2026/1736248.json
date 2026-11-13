@@ -1,0 +1,53 @@
+{
+  "id": "1736248",
+  "searches": [
+    "2026-11-13T19:33:23.520Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.bz-berlin.de/polizei/kreuzberg-polizei-prueft-zusammenhang-nach-zwei-messer-attacken-6af05bb8d487d5232edf0c17",
+      "title": "Kreuzberg: Polizei prüft Zusammenhang nach zwei Messer-Attacken",
+      "outlet": "bz-berlin.de",
+      "type": "report",
+      "date": "2026-11-08",
+      "confidence": "high",
+      "reason": "Reports the same two knife attacks at Schlesische Straße/Falckensteinstraße on the night of 7–8 Nov 2026 (22 Uhr and 4 Uhr)."
+    },
+    {
+      "url": "https://www.tag24.de/thema/messerattacke/innerhalb-weniger-stunden-zwei-maenner-in-kreuzberg-niedergestochen-3547922",
+      "title": "Berlin: Zwei Männer in Kreuzberg niedergestochen",
+      "outlet": "tag24.de",
+      "type": "report",
+      "date": "2026-11-08",
+      "confidence": "high",
+      "reason": "Covers both knife attacks at the same junction and times as the police report."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/dpa-zwei-manner-in-kreuzberg-mit-messer-verletzt-16257814.html",
+      "title": "Berliner Polizei prüft Zusammenhang: Zwei Männer in Kreuzberg mit Messer verletzt",
+      "outlet": "tagesspiegel.de",
+      "type": "report",
+      "date": "2026-11-08",
+      "confidence": "high",
+      "reason": "dpa report on the same two stabbings at the same location and times, with the police checking a connection."
+    },
+    {
+      "url": "https://www.n-tv.de/regionales/berlin-und-brandenburg/Zwei-Maenner-nach-Messerangriffen-schwer-verletzt-id31508611.html",
+      "title": "Berlin & Brandenburg: Zwei Männer nach Messerangriffen schwer verletzt",
+      "outlet": "n-tv.de",
+      "type": "report",
+      "date": "2026-11-08",
+      "confidence": "high",
+      "reason": "dpa report on the same two knife attacks in Kreuzberg, 40-year-old at 22 Uhr and 24-year-old at 4 Uhr."
+    },
+    {
+      "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/kriminalitaet--zwei-maenner-nach-messerangriffen-schwer-verletzt-38517446.html",
+      "title": "Kriminalität: Zwei Männer nach Messerangriffen schwer verletzt",
+      "outlet": "stern.de",
+      "type": "report",
+      "date": "2026-11-08",
+      "confidence": "high",
+      "reason": "dpa report on the same two Kreuzberg knife attacks at the same place and times."
+    }
+  ]
+}

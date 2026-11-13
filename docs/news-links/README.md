@@ -2,7 +2,15 @@
 
 Goal: show, for each incident on the map, links to news articles that report on it ("In the news"), and later to public discussions (Reddit and similar).
 
-Status: **pilot**. Nothing here feeds the site yet. Results of the first run (245 incidents, 92% with at least one article, 53 of 54 hand-checked links correct, $2.05) are in [pilot-2026.md](pilot-2026.md).
+Status: **live for recent serious incidents.** Since 13 November 2026, shootings, homicides, knife attacks and explosions from the last 30 days get news links, searched daily by `pnpm daily` (budget $0.50 a day). Results of the pilot that led here (245 incidents, 92% with at least one article, 53 of 54 hand-checked links correct, $2.05) are in [pilot-2026.md](pilot-2026.md).
+
+## On the site
+
+- [`pipeline/news.ts`](../../pipeline/news.ts) (`pnpm news`) searches incidents when they first appear and once more at least 3 days after the police report, and stores the accepted articles in `data/news/<year>/<id>.json`: links, headlines, outlet, date and article type, no article text.
+- The check also sorts each article into report, follow-up, round-up or live blog, and gives the article date only when the page shows one.
+- [`linksToShow`](../../pipeline/lib/news.ts) picks what the incident panel shows: up to 3 articles about the incident (Berlin outlets first, at most one national outlet, each headline once), then up to 2 round-ups or live blogs as "Also mentioned in", with outlet and date but no headline.
+- Tabloids (BILD, B.Z., TAG24, Berliner Kurier) are included.
+- To widen the scope: `pnpm news --days 90` or `--categories shooting,homicide,knife,explosion,robbery`.
 
 ## How it works
 

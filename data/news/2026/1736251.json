@@ -1,0 +1,62 @@
+{
+  "id": "1736251",
+  "searches": [
+    "2026-11-13T19:18:51.011Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-charlottenburg-mann-schuesse-bein-verletzt.html",
+      "title": "Mann in Berlin-Charlottenburg angeschossen und am Bein verletzt",
+      "outlet": "rbb24.de",
+      "type": "report",
+      "date": "2026-11-08",
+      "confidence": "high",
+      "reason": "Same Krumme Straße shooting of a 45-year-old around 23:20 on the Saturday, leg injury, flight toward Kantstraße."
+    },
+    {
+      "url": "https://www.bz-berlin.de/polizei/schuesse-in-charlottenburg-mann-getroffen-taeter-fluechtig-6af02e2280d3a1c6aa66ccd3",
+      "title": "Schüsse in Charlottenburg: Mann getroffen, Täter flüchtig",
+      "outlet": "bz-berlin.de",
+      "type": "report",
+      "date": "2026-11-08",
+      "confidence": "high",
+      "reason": "Same shooting of a 45-year-old in Krumme Straße, Charlottenburg, night to Sunday, shooter fled."
+    },
+    {
+      "url": "https://www.morgenpost.de/berlin/article413617188/charlottenburg-mann-wird-niedergeschossen-und-dabei-schwer-verletzt.html",
+      "title": "Berlin: Mann wird in Charlottenburg niedergeschossen und schwer verletzt",
+      "outlet": "morgenpost.de",
+      "type": "report",
+      "date": "2026-11-08",
+      "confidence": "high",
+      "reason": "Same incident: 23:20 shooting in Krumme Straße near Karl-August-Platz, same witness account and injuries."
+    },
+    {
+      "url": "https://www.n-tv.de/regionales/berlin-und-brandenburg/Mann-in-Charlottenburg-angeschossen-id31508670.html",
+      "title": "Berlin & Brandenburg: Mann in Charlottenburg angeschossen",
+      "outlet": "n-tv.de",
+      "type": "report",
+      "date": "2026-11-08",
+      "confidence": "high",
+      "reason": "dpa report of the same shooting of a 45-year-old in Krumme Straße on the night to Sunday."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/dpa-mann-bei-streit-in-charlottenburg-verletzt-16257879.html",
+      "title": "Schüsse in Berlin: Mann bei Streit in Charlottenburg verletzt",
+      "outlet": "tagesspiegel.de",
+      "type": "report",
+      "date": "2026-11-08",
+      "confidence": "high",
+      "reason": "dpa report of the same Krumme Straße shooting at about 23:20, leg injury, suspects fled toward Kantstraße."
+    },
+    {
+      "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/kriminalitaet--mann-in-charlottenburg-angeschossen-38517536.html",
+      "title": "Kriminalität: Mann in Charlottenburg angeschossen",
+      "outlet": "stern.de",
+      "type": "report",
+      "date": "2026-11-08",
+      "confidence": "high",
+      "reason": "Same dpa report of the shooting of a 45-year-old in Krumme Straße, Charlottenburg, night to Sunday."
+    }
+  ]
+}

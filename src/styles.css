@@ -494,6 +494,61 @@ select:hover {
   text-decoration-thickness: 3px;
 }
 
+.news {
+  margin-top: 16px;
+  padding-top: 12px;
+  border-top: 1px solid var(--rule);
+}
+
+.news h3 {
+  margin: 0 0 6px;
+  font-size: 0.95rem;
+}
+
+.news-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.news-list a,
+.news-mentions a {
+  color: var(--ink);
+  text-underline-offset: 3px;
+}
+
+.news-list a {
+  display: block;
+  font-size: 0.92rem;
+  line-height: 1.35;
+}
+
+.news-list a:hover,
+.news-mentions a:hover {
+  text-decoration-color: var(--signal);
+  text-decoration-thickness: 3px;
+}
+
+.news-source {
+  display: flex;
+  gap: 8px;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: var(--muted);
+}
+
+.news-source time {
+  font-weight: 400;
+}
+
+.news-mentions {
+  margin: 10px 0 0;
+  font-size: 0.85rem;
+}
+
 /* ---------- Incident log, grouped by day ---------- */
 
 .list-head {

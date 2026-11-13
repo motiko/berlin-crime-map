@@ -1,0 +1,53 @@
+{
+  "id": "1726838",
+  "searches": [
+    "2026-11-13T19:20:20.292Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.rbb24.de/panorama/beitrag/2026/10/berlin-neukoelln-schuesse-erneuter-angriff-auf-cafe.html",
+      "title": "Erneut im Visier: Neuköllner Café zum zweiten Mal beschossen",
+      "outlet": "rbb24.de",
+      "type": "report",
+      "date": "2026-10-16",
+      "confidence": "high",
+      "reason": "Reports shots at the closed Café in Silbersteinstraße early Friday around 5:40 from a car, matching the police report."
+    },
+    {
+      "url": "https://www.bz-berlin.de/polizei/zweimal-in-dieser-woche-schon-wieder-schuesse-auf-cafe-in-neukoelln-6ad1f000d2eabbd56ed69ae0",
+      "title": "Zweimal in dieser Woche: Schon wieder Schüsse auf Café in Neukölln!",
+      "outlet": "bz-berlin.de",
+      "type": "report",
+      "date": "2026-10-16",
+      "confidence": "high",
+      "reason": "Describes the Friday ~5:40 shots at Silbersteinstraße café from a car, matching the police report."
+    },
+    {
+      "url": "https://www.berliner-zeitung.de/article/erneut-schuesse-auf-cafe-in-berlin-neukoelln-10500934",
+      "title": "Schüsse auf Lokal in Neukölln: Unbekannter feuert erneut auf dasselbe Café",
+      "outlet": "berliner-zeitung.de",
+      "type": "report",
+      "date": "2026-10-16",
+      "confidence": "high",
+      "reason": "Reports shots at the Silbersteinstraße café early Friday shortly before 6 am, with bullet holes in the shop window, consistent with the police report."
+    },
+    {
+      "url": "https://www.tag24.de/berlin/zweimal-in-nur-vier-tagen-schon-wieder-schuesse-auf-neukoellner-cafe-3540825",
+      "title": "Zweimal in nur vier Tagen: Schon wieder Schüsse auf Neuköllner Café",
+      "outlet": "tag24.de",
+      "type": "report",
+      "date": "2026-10-16",
+      "confidence": "high",
+      "reason": "Describes the Friday 5:40 shots from a car on the closed café in Silbersteinstraße, matching the police report."
+    },
+    {
+      "url": "https://www.tagesspiegel.de/berlin/dpa-unbekannte-schiessen-erneut-auf-cafe-in-berlin-neukolln-16168810.html",
+      "title": "Schüsse bereits am Dienstag: Unbekannte schießen erneut auf Café in Berlin-Neukölln",
+      "outlet": "tagesspiegel.de",
+      "type": "report",
+      "date": "2026-10-16",
+      "confidence": "high",
+      "reason": "Reports the Friday shortly-before-6 shots on the Silbersteinstraße café, matching the police report."
+    }
+  ]
+}

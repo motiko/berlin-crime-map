@@ -1,0 +1,26 @@
+{
+  "id": "1730978",
+  "searches": [
+    "2026-11-13T19:33:47.638Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.tagesspiegel.de/berlin/dpa-manner-nach-messerattacken-schwer-verletzt--mehrere-festnahmen-in-berlin-16201208.html",
+      "title": "Drei Messerangriffe in Berlin an einem Abend: Opfer schwer verletzt – Polizei nimmt Tatverdächtige fest",
+      "outlet": "tagesspiegel.de",
+      "type": "round-up",
+      "date": "2026-10-26",
+      "confidence": "high",
+      "reason": "Covers three knife attacks on one evening, including the Oderberger Straße stabbing at about 20:40 with an arrest in a bar, matching the police report."
+    },
+    {
+      "url": "https://www.bz-berlin.de/polizei/drei-messer-attacken-in-berlin-drei-schwerverletzte-6ade6123247c1fa201306b0e",
+      "title": "Drei Messer-Attacken in Berlin: Drei Schwerverletzte",
+      "outlet": "bz-berlin.de",
+      "type": "round-up",
+      "date": "2025-10-25",
+      "confidence": "high",
+      "reason": "Describes three knife attacks including the 20:40 Oderberger Straße stabbing with the suspect arrested at the scene; date shown is 25.10.2026 22:13."
+    }
+  ]
+}
