@@ -17,7 +17,8 @@
     "geocode": "tsx pipeline/geocode.ts",
     "build-data": "tsx pipeline/build-data.ts",
     "daily": "tsx pipeline/daily.ts",
-    "backfill": "tsx pipeline/backfill.ts"
+    "backfill": "tsx pipeline/backfill.ts",
+    "districts": "tsx pipeline/districts.ts"
   },
   "dependencies": {
     "maplibre-gl": "^6.18.0",

@@ -111,7 +111,7 @@ export function App() {
       </aside>
 
       <main className="map-wrap">
-        <MapView incidents={filtered} selectedId={selectedId} onSelect={setSelectedId} onBoundsChange={setBounds} />
+        <MapView incidents={filtered} selectedId={selectedId} district={filters.district} onSelect={setSelectedId} onBoundsChange={setBounds} />
       </main>
 
       <About open={aboutOpen} onClose={() => setAboutOpen(false)} />
