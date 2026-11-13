@@ -5,7 +5,7 @@
  *   pnpm backfill --from 2020 --to 2025 --skip-scrape   # reports already downloaded
  *
  * Steps: scrape every year (about 3.5 s per request, so hours per year), extract all new
- * reports via OpenRouter, geocode, rebuild the public data.
+ * reports via the OpenRouter Batch API (about half price, up to 24 h), geocode, rebuild the public data.
  */
 import { execFileSync } from 'node:child_process';
 import { scrapeYear } from './scrape.ts';
@@ -22,7 +22,7 @@ if (!args['skip-scrape']) {
 
 execFileSync(
   'pnpm',
-  ['exec', 'tsx', 'pipeline/extract.ts', '--from', String(years[0]), '--to', String(years.at(-1)), '--concurrency', '8'],
+  ['exec', 'tsx', 'pipeline/extract.ts', '--from', String(years[0]), '--to', String(years.at(-1)), '--batch'],
   { stdio: 'inherit' },
 );
 

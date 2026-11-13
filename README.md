@@ -41,7 +41,9 @@ Set `OPENROUTER_API_KEY` in your environment or in a `.env` file (gitignored). `
 ```bash
 pnpm daily                                  # current year: scrape new, extract, geocode, build
 pnpm scrape --year 2026 --limit 100         # fetch at most 100 new reports
-pnpm extract --year 2026 --limit 100        # extract them and print tokens and cost per report
+pnpm extract --year 2026 --limit 100 --direct   # extract them now and print tokens and cost per report
+pnpm extract --year 2026                    # more than 50 reports go through the Batch API (about half price)
+pnpm extract --collect                      # wait for and save batches submitted earlier
 pnpm geocode --year 2026
 pnpm build-data
 ```
@@ -53,6 +55,12 @@ The archive goes back to 2020 in the current format. Scraping is slow by design 
 ```bash
 pnpm backfill --from 2020 --to 2025
 pnpm backfill --from 2020 --to 2025 --skip-scrape   # when the reports are already downloaded
+```
+
+Extraction for the backfill goes through the [OpenRouter Batch API](https://openrouter.ai/docs/batch-quickstart), which costs about half and returns results within 24 hours. Submitted batches are recorded in `data/batches/` (gitignored). If the process stops while waiting, collect them later:
+
+```bash
+pnpm extract --collect
 ```
 
 ## Automation

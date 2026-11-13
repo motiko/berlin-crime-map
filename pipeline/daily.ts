@@ -14,7 +14,7 @@ console.log('scrape:', result);
 // Extraction runs as its own process so it loads .env / OPENROUTER_API_KEY the same way as when run by hand.
 // A few failed reports should not stop the rest from being published; they are retried tomorrow.
 try {
-  execFileSync('pnpm', ['exec', 'tsx', 'pipeline/extract.ts', '--year', String(year)], { stdio: 'inherit' });
+  execFileSync('pnpm', ['exec', 'tsx', 'pipeline/extract.ts', '--year', String(year), '--direct'], { stdio: 'inherit' });
 } catch {
   console.warn('extract: some reports failed, continuing with the ones that succeeded');
 }

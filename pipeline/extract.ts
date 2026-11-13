@@ -1,18 +1,37 @@
 /**
  * Extract category, location and an English summary from scraped reports, via OpenRouter.
  *
- *   pnpm extract --year 2026               # every report not yet extracted
- *   pnpm extract --year 2026 --limit 100   # dry run: prints tokens and cost per report
- *   pnpm extract --from 2020 --to 2025 --concurrency 8
- *   pnpm extract --ids 1701194,1689852     # specific reports (any year)
+ *   pnpm extract --year 2026                 # batch if more than 50 reports, else direct calls
+ *   pnpm extract --from 2020 --to 2025       # backfill: submitted as batches (about half price)
+ *   pnpm extract --year 2026 --limit 100 --direct   # dry run with immediate results and cost
+ *   pnpm extract --ids 1701194,1689852 --direct     # specific reports (any year)
+ *   pnpm extract --collect                   # only wait for and save batches submitted earlier
+ *
+ * Batches can take up to 24 hours. Submitted batches are recorded in data/batches/, so the
+ * command can be stopped and rerun: it collects pending batches and never resubmits a
+ * report that is already in one.
  *
  * Needs OPENROUTER_API_KEY in the environment or in .env. OPENROUTER_MODEL overrides the model.
  */
 import { existsSync } from 'node:fs';
+import { readdir, rm } from 'node:fs/promises';
 import { join } from 'node:path';
 import type { ExtractedReport, RawReport } from '../shared/types.ts';
-import { MODEL, extract } from './lib/extraction.ts';
-import { RAW_DIR, ROOT, extractedPath, parseArgs, readYear, writeJson, yearsFromArgs, yearsWithData } from './lib/store.ts';
+import { FINAL, getBatch, submitBatch } from './lib/batch.ts';
+import { type ExtractResult, MODEL, extract, parseChatResponse } from './lib/extraction.ts';
+import { sleep } from './lib/http.ts';
+import {
+  BATCH_DIR,
+  RAW_DIR,
+  ROOT,
+  extractedPath,
+  parseArgs,
+  readJson,
+  readYear,
+  writeJson,
+  yearsFromArgs,
+  yearsWithData,
+} from './lib/store.ts';
 
 if (existsSync(join(ROOT, '.env'))) process.loadEnvFile(join(ROOT, '.env'));
 
@@ -22,55 +41,141 @@ if (!apiKey) {
   process.exit(1);
 }
 
+const BATCH_THRESHOLD = 50;
+
+interface BatchRecord {
+  id: string;
+  model: string;
+  submittedAt: string;
+  /** report id -> year folder */
+  items: Record<string, number>;
+}
+
 const args = parseArgs();
 const limit = typeof args.limit === 'string' ? Number(args.limit) : Infinity;
 const concurrency = typeof args.concurrency === 'string' ? Number(args.concurrency) : 4;
+const batchSize = typeof args['batch-size'] === 'string' ? Number(args['batch-size']) : 1000;
 const ids = typeof args.ids === 'string' ? new Set(args.ids.split(',')) : null;
-
-const years = ids ? await yearsWithData(RAW_DIR) : yearsFromArgs(args);
-const todo: { year: number; report: RawReport }[] = [];
-for (const year of years) {
-  for (const report of await readYear<RawReport>(RAW_DIR, year)) {
-    if (ids && !ids.has(report.id)) continue;
-    if (!ids && existsSync(extractedPath(year, report.id))) continue;
-    todo.push({ year, report });
-  }
-}
-// Newest first, so a limited dry run covers recent reports.
-todo.sort((a, b) => b.report.publishedAt.localeCompare(a.report.publishedAt));
-const queue = todo.slice(0, limit);
-console.log(`${queue.length} reports to extract with ${MODEL} (concurrency ${concurrency})`);
 
 const totals = { done: 0, failed: 0, input: 0, output: 0, cost: 0 };
 
-async function worker() {
-  for (;;) {
-    const next = queue.shift();
-    if (!next) return;
-    const { year, report } = next;
-    try {
-      const result = await extract(report, apiKey as string);
-      const { body: _b, fetchedAt: _f, ...listing } = report;
-      const extracted: ExtractedReport = {
-        ...listing,
-        extraction: result.extraction,
-        model: result.model,
-        extractedAt: new Date().toISOString(),
-      };
-      await writeJson(extractedPath(year, report.id), extracted);
-      totals.done++;
-      totals.input += result.inputTokens;
-      totals.output += result.outputTokens;
-      totals.cost += result.cost;
-      if (totals.done % 25 === 0) console.log(`  ${totals.done} done, $${totals.cost.toFixed(4)} so far`);
-    } catch (error) {
-      totals.failed++;
-      console.warn(`  failed ${report.id}: ${(error as Error).message}`);
+async function save(year: number, report: RawReport, result: ExtractResult) {
+  const { body: _b, fetchedAt: _f, ...listing } = report;
+  const extracted: ExtractedReport = {
+    ...listing,
+    extraction: result.extraction,
+    model: result.model,
+    extractedAt: new Date().toISOString(),
+  };
+  await writeJson(extractedPath(year, report.id), extracted);
+  totals.done++;
+  totals.input += result.inputTokens;
+  totals.output += result.outputTokens;
+}
+
+async function pendingBatches(): Promise<BatchRecord[]> {
+  if (!existsSync(BATCH_DIR)) return [];
+  const files = (await readdir(BATCH_DIR)).filter((f) => f.endsWith('.json'));
+  return Promise.all(files.map((f) => readJson<BatchRecord>(join(BATCH_DIR, f))));
+}
+
+/** Wait for every recorded batch to finish and save its results. */
+async function collectAll() {
+  let pending = await pendingBatches();
+  while (pending.length) {
+    for (const record of pending) {
+      const batch = await getBatch(record.id, apiKey as string);
+      const c = batch.request_counts ?? {};
+      console.log(`batch ${record.id}: ${batch.status} ${JSON.stringify(c)}`);
+      if (!FINAL.includes(batch.status)) continue;
+
+      for (const item of batch.results ?? []) {
+        const year = record.items[item.custom_id];
+        if (year === undefined) continue;
+        try {
+          if (item.error || !item.response || item.response.status_code >= 400) {
+            throw new Error(item.error?.message ?? `status ${item.response?.status_code}`);
+          }
+          const report = await readJson<RawReport>(join(RAW_DIR, String(year), `${item.custom_id}.json`));
+          await save(year, report, parseChatResponse(item.response.body));
+        } catch (error) {
+          totals.failed++;
+          console.warn(`  failed ${item.custom_id}: ${(error as Error).message}`);
+        }
+      }
+      totals.cost += batch.usage?.cost ?? 0;
+      if (batch.status !== 'completed') console.warn(`  batch ended as ${batch.status}; its missing reports will be resubmitted next run`);
+      await rm(join(BATCH_DIR, `${record.id}.json`));
     }
+    pending = await pendingBatches();
+    if (pending.length) await sleep(60_000);
   }
 }
 
-await Promise.all(Array.from({ length: Math.max(1, concurrency) }, worker));
+async function runDirect(queue: { year: number; report: RawReport }[]) {
+  async function worker() {
+    for (;;) {
+      const next = queue.shift();
+      if (!next) return;
+      try {
+        const result = await extract(next.report, apiKey as string);
+        await save(next.year, next.report, result);
+        totals.cost += result.cost;
+        if (totals.done % 25 === 0) console.log(`  ${totals.done} done, $${totals.cost.toFixed(4)} so far`);
+      } catch (error) {
+        totals.failed++;
+        console.warn(`  failed ${next.report.id}: ${(error as Error).message}`);
+      }
+    }
+  }
+  await Promise.all(Array.from({ length: Math.max(1, concurrency) }, worker));
+}
+
+async function submitAll(queue: { year: number; report: RawReport }[]) {
+  for (let i = 0; i < queue.length; i += batchSize) {
+    const chunk = queue.slice(i, i + batchSize);
+    const batch = await submitBatch(
+      chunk.map((q) => q.report),
+      apiKey as string,
+    );
+    const record: BatchRecord = {
+      id: batch.id,
+      model: MODEL,
+      submittedAt: new Date().toISOString(),
+      items: Object.fromEntries(chunk.map((q) => [q.report.id, q.year])),
+    };
+    await writeJson(join(BATCH_DIR, `${batch.id}.json`), record);
+    console.log(`submitted batch ${batch.id} with ${chunk.length} reports (${batch.status})`);
+  }
+}
+
+// Reports already waiting in a submitted batch must not be sent again.
+const inFlight = new Set((await pendingBatches()).flatMap((b) => Object.keys(b.items)));
+
+if (!args.collect) {
+  const years = ids ? await yearsWithData(RAW_DIR) : yearsFromArgs(args);
+  const todo: { year: number; report: RawReport }[] = [];
+  for (const year of years) {
+    for (const report of await readYear<RawReport>(RAW_DIR, year)) {
+      if (ids && !ids.has(report.id)) continue;
+      if (!ids && existsSync(extractedPath(year, report.id))) continue;
+      if (inFlight.has(report.id)) continue;
+      todo.push({ year, report });
+    }
+  }
+  // Newest first, so a limited dry run covers recent reports.
+  todo.sort((a, b) => b.report.publishedAt.localeCompare(a.report.publishedAt));
+  const queue = todo.slice(0, limit);
+
+  const useBatch = args.direct ? false : args.batch ? true : queue.length > BATCH_THRESHOLD;
+  console.log(`${queue.length} reports to extract with ${MODEL} via ${useBatch ? 'batch API' : 'direct calls'}`);
+  if (inFlight.size) console.log(`${inFlight.size} reports already in submitted batches`);
+
+  if (useBatch) await submitAll(queue);
+  else await runDirect(queue);
+}
+
+await collectAll();
 
 console.log(`\ndone: ${totals.done} extracted, ${totals.failed} failed`);
 if (totals.done) {

@@ -78,57 +78,64 @@ export interface ExtractResult {
   cost: number;
 }
 
-interface ChatResponse {
+export interface ChatResponse {
   model: string;
   choices: { message: { tool_calls?: { function: { arguments: string } }[] }; finish_reason: string }[];
   usage?: { prompt_tokens: number; completion_tokens: number; cost?: number };
   error?: { message: string };
 }
 
+export const HEADERS = (apiKey: string) => ({
+  Authorization: `Bearer ${apiKey}`,
+  'Content-Type': 'application/json',
+  'HTTP-Referer': 'https://github.com/motiko/berlin-crime-map',
+  'X-Title': 'Berlin Crime Map',
+});
+
+/** Chat-completions body without the model (batches set the model once for all requests). */
+export function chatBody(report: RawReport) {
+  return {
+    max_tokens: MAX_TOKENS,
+    temperature: 0,
+    messages: [
+      { role: 'system', content: SYSTEM_PROMPT },
+      { role: 'user', content: userMessage(report) },
+    ],
+    tools: [TOOL],
+    tool_choice: { type: 'function', function: { name: TOOL.function.name } },
+  };
+}
+
+export function parseChatResponse(data: ChatResponse): ExtractResult {
+  const call = data.choices?.[0]?.message.tool_calls?.[0];
+  if (!call) throw new Error(`No tool call in response (finish_reason: ${data.choices?.[0]?.finish_reason})`);
+  const extraction = JSON.parse(call.function.arguments) as Extraction;
+  if (!(CATEGORIES as readonly string[]).includes(extraction.category)) extraction.category = 'other';
+  return {
+    extraction,
+    model: data.model,
+    inputTokens: data.usage?.prompt_tokens ?? 0,
+    outputTokens: data.usage?.completion_tokens ?? 0,
+    cost: data.usage?.cost ?? 0,
+  };
+}
+
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
+/** One synchronous call. Used for the small daily runs. */
 export async function extract(report: RawReport, apiKey: string, maxAttempts = 4): Promise<ExtractResult> {
   for (let attempt = 1; ; attempt++) {
     const res = await fetch(ENDPOINT, {
       method: 'POST',
-      headers: {
-        Authorization: `Bearer ${apiKey}`,
-        'Content-Type': 'application/json',
-        'HTTP-Referer': 'https://github.com/motiko/berlin-crime-map',
-        'X-Title': 'Berlin Crime Map',
-      },
-      body: JSON.stringify({
-        model: MODEL,
-        max_tokens: MAX_TOKENS,
-        temperature: 0,
-        messages: [
-          { role: 'system', content: SYSTEM_PROMPT },
-          { role: 'user', content: userMessage(report) },
-        ],
-        tools: [TOOL],
-        tool_choice: { type: 'function', function: { name: TOOL.function.name } },
-        usage: { include: true },
-      }),
+      headers: HEADERS(apiKey),
+      body: JSON.stringify({ model: MODEL, ...chatBody(report), usage: { include: true } }),
     });
-
     if ((res.status === 429 || res.status >= 500) && attempt < maxAttempts) {
       await sleep(3000 * 2 ** (attempt - 1));
       continue;
     }
     const data = (await res.json()) as ChatResponse;
     if (!res.ok || data.error) throw new Error(`OpenRouter ${res.status}: ${data.error?.message ?? 'request failed'}`);
-
-    const call = data.choices[0]?.message.tool_calls?.[0];
-    if (!call) throw new Error(`No tool call in response (finish_reason: ${data.choices[0]?.finish_reason})`);
-    const extraction = JSON.parse(call.function.arguments) as Extraction;
-    if (!(CATEGORIES as readonly string[]).includes(extraction.category)) extraction.category = 'other';
-
-    return {
-      extraction,
-      model: data.model,
-      inputTokens: data.usage?.prompt_tokens ?? 0,
-      outputTokens: data.usage?.completion_tokens ?? 0,
-      cost: data.usage?.cost ?? 0,
-    };
+    return parseChatResponse(data);
   }
 }
