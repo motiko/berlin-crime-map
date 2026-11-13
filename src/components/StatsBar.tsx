@@ -16,9 +16,8 @@ export function StatsBar({ counts, selected, onSelect, onAll }: Props) {
   return (
     <div className="stats">
       <div className="stats-head">
-        <span id="categories-label">
-          {allOn ? 'Categories · click one to show only it' : `Categories · ${selected.size} of ${CATEGORIES.length} shown`}
-        </span>
+        <h2 id="categories-label">Categories</h2>
+        <span className="stats-state">{allOn ? 'Click one to show only it' : `${selected.size} of ${CATEGORIES.length} shown`}</span>
         {!allOn && (
           <button type="button" className="link" onClick={onAll}>
             Show all

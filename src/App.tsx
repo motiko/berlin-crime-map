@@ -72,10 +72,8 @@ export function App() {
         <header className="brand">
           <div>
             <h1>Berlin Crime Map</h1>
-            <p className="tagline">
-              Berlin police press releases on a map
-              {index && <> · updated {formatDate(index.updatedAt)}</>}
-            </p>
+            <p className="tagline">Every Berlin police press release, placed on the map.</p>
+            {index && <p className="updated">Updated {formatDate(index.updatedAt)}</p>}
           </div>
           <button type="button" className="link" onClick={() => setAboutOpen(true)}>
             About

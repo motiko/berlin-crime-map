@@ -15,7 +15,8 @@ const STYLE_URL = 'https://tiles.openfreemap.org/styles/positron';
 const BERLIN_CENTER: [number, number] = [13.405, 52.515];
 const BERLIN_ZOOM = 10;
 const DISTRICTS_URL = '/data/districts.geojson';
-const DISTRICT_COLOR = '#2563eb';
+const INK = '#15181d';
+const SIGNAL = '#ffd400';
 
 type DistrictShapes = GeoJSON.FeatureCollection<GeoJSON.Polygon | GeoJSON.MultiPolygon, { name: string }>;
 let districtShapes: Promise<DistrictShapes> | null = null;
@@ -125,14 +126,14 @@ export function MapView({ incidents, selectedId, district, onSelect, onBoundsCha
         type: 'fill',
         source: 'districts',
         filter: ['==', ['get', 'name'], ''],
-        paint: { 'fill-color': DISTRICT_COLOR, 'fill-opacity': 0.08 },
+        paint: { 'fill-color': SIGNAL, 'fill-opacity': 0.16 },
       });
       map.addLayer({
         id: 'district-line',
         type: 'line',
         source: 'districts',
         filter: ['==', ['get', 'name'], ''],
-        paint: { 'line-color': DISTRICT_COLOR, 'line-width': 2.5, 'line-opacity': 0.8 },
+        paint: { 'line-color': INK, 'line-width': 2, 'line-opacity': 0.85, 'line-dasharray': [3, 1.5] },
       });
 
       map.addSource('incidents', {
@@ -148,7 +149,7 @@ export function MapView({ incidents, selectedId, district, onSelect, onBoundsCha
         source: 'incidents',
         filter: ['has', 'point_count'],
         paint: {
-          'circle-color': '#334155',
+          'circle-color': INK,
           'circle-opacity': 0.85,
           'circle-radius': ['step', ['get', 'point_count'], 14, 10, 18, 50, 24, 200, 30],
           'circle-stroke-width': 2,
@@ -182,8 +183,8 @@ export function MapView({ incidents, selectedId, district, onSelect, onBoundsCha
         type: 'circle',
         source: 'incidents',
         filter: ['==', ['get', 'id'], ''],
-        paint: { 'circle-radius': 12, 'circle-color': 'rgba(0,0,0,0)', 'circle-stroke-width': 3, 'circle-stroke-color': '#111827' },
-      });
+        paint: { 'circle-radius': 13, 'circle-color': SIGNAL, 'circle-opacity': 0.55, 'circle-stroke-width': 2.5, 'circle-stroke-color': INK },
+      }, 'points'); // a yellow halo under the selected point
 
       map.on('click', 'clusters', async (e) => {
         const feature = e.features?.[0];

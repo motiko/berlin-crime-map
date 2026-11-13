@@ -41,3 +41,30 @@ export function formatDate(iso: string): string {
     year: 'numeric',
   });
 }
+
+/** Day heading for the incident log, e.g. "Thu 12 Nov"; the year is added when it isn't the current one. */
+export function formatDay(iso: string, currentYear = new Date().getFullYear()): string {
+  const d = new Date(`${iso.slice(0, 10)}T12:00:00`);
+  return d.toLocaleDateString('en-GB', {
+    weekday: 'short',
+    day: 'numeric',
+    month: 'short',
+    ...(d.getFullYear() === currentYear ? {} : { year: 'numeric' }),
+  });
+}
+
+/** The police's German labels for reports that are not tied to one district. */
+const AREA_LABELS: Record<string, string> = {
+  bezirksübergreifend: 'Several districts',
+  berlinweit: 'Across Berlin',
+  'Berlin/Brandenburg': 'Berlin and Brandenburg',
+  bundeslandübergreifend: 'Berlin and other states',
+  bundesweit: 'Across Germany',
+};
+
+/** Where an incident happened, in English: the street if known, otherwise the area. */
+export function placeLabel(incident: { place: string | null; location: string | null }): string {
+  if (incident.place) return incident.place;
+  if (!incident.location) return 'Berlin';
+  return AREA_LABELS[incident.location] ?? incident.location;
+}

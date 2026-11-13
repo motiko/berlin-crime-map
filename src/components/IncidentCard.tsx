@@ -1,6 +1,6 @@
 import { CATEGORY_META } from '../../shared/categories.ts';
 import type { Incident } from '../../shared/types.ts';
-import { formatDate } from '../lib/filter.ts';
+import { formatDate, placeLabel } from '../lib/filter.ts';
 
 interface Props {
   incident: Incident;
@@ -35,7 +35,7 @@ export function IncidentCard({ incident, onClose }: Props) {
         <dt>Date</dt>
         <dd>{formatDate(incident.date)}</dd>
         <dt>Where</dt>
-        <dd>{incident.place ?? incident.location ?? 'Unknown'}</dd>
+        <dd>{placeLabel(incident)}</dd>
         {harm.length > 0 && (
           <>
             <dt>Harm</dt>
