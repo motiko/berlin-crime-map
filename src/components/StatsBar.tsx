@@ -1,4 +1,5 @@
 import { CATEGORIES, CATEGORY_META, type Category } from '../../shared/categories.ts';
+import { CategoryIcon } from './CategoryIcon.tsx';
 
 interface Props {
   counts: Map<Category, number>;
@@ -38,7 +39,7 @@ export function StatsBar({ counts, selected, onSelect, onAll }: Props) {
                 title={meta.description}
                 onClick={() => onSelect(c)}
               >
-                <span className="dot" style={{ background: meta.color }} aria-hidden />
+                <CategoryIcon category={c} size={20} />
                 <span className="stat-label">{meta.label}</span>
                 <span className="stat-count">{counts.get(c) ?? 0}</span>
               </button>

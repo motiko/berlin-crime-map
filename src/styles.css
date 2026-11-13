@@ -280,6 +280,14 @@ select:hover {
   color: var(--muted);
 }
 
+.cat-icon {
+  flex: none;
+  display: inline-grid;
+  place-items: center;
+  border-radius: 50%;
+  color: #ffffff;
+}
+
 .dot {
   flex: none;
   width: 10px;
@@ -304,10 +312,12 @@ select:hover {
 }
 
 .badge {
-  color: #fff;
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
   font-size: 0.78rem;
   font-weight: 600;
-  padding: 2px 8px;
+  padding: 2px 8px 2px 6px;
   border-radius: 3px;
 }
 
@@ -416,8 +426,8 @@ select:hover {
   cursor: pointer;
 }
 
-.item .dot {
-  margin-top: 6px;
+.item .cat-icon {
+  margin-top: 1px;
 }
 
 .item:hover {

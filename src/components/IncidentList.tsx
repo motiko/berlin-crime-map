@@ -1,7 +1,7 @@
 import { useState } from 'react';
-import { CATEGORY_META } from '../../shared/categories.ts';
 import type { Incident } from '../../shared/types.ts';
 import { formatDay, placeLabel } from '../lib/filter.ts';
+import { CategoryIcon } from './CategoryIcon.tsx';
 
 interface Props {
   /** Sorted newest first. */
@@ -52,7 +52,7 @@ export function IncidentList({ incidents, total, selectedId, onSelect }: Props) 
               {items.map((i) => (
                 <li key={i.id}>
                   <button type="button" className="item" aria-current={i.id === selectedId} onClick={() => onSelect(i.id)}>
-                    <span className="dot" style={{ background: CATEGORY_META[i.category].color }} aria-hidden />
+                    <CategoryIcon category={i.category} />
                     <span className="item-body">
                       <span className="item-summary">{i.summary}</span>
                       <span className="item-meta">{placeLabel(i)}</span>
