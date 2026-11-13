@@ -98,7 +98,7 @@ export function App() {
             </button>
           </div>
         ) : loading ? (
-          <div className="skeleton" aria-busy="true" aria-label="Loading incidents">
+          <div className="skeleton" aria-busy="true" aria-label="Loading incidents…">
             {Array.from({ length: 6 }, (_, i) => (
               <div key={i} className="skeleton-row" />
             ))}

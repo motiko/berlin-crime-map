@@ -41,18 +41,18 @@ export function Filters({ value, minDate, maxDate, onChange }: Props) {
       <div className="row">
         <label>
           From
-          <input type="date" value={value.from} min={minDate} max={value.to} onChange={(e) => e.target.value && set({ from: e.target.value })} />
+          <input type="date" name="from" value={value.from} min={minDate} max={value.to} onChange={(e) => e.target.value && set({ from: e.target.value })} />
         </label>
         <label>
           To
-          <input type="date" value={value.to} min={value.from} max={maxDate} onChange={(e) => e.target.value && set({ to: e.target.value })} />
+          <input type="date" name="to" value={value.to} min={value.from} max={maxDate} onChange={(e) => e.target.value && set({ to: e.target.value })} />
         </label>
       </div>
 
       <div className="row">
         <label className="grow">
           District
-          <select value={value.district} onChange={(e) => set({ district: e.target.value })}>
+          <select name="district" value={value.district} onChange={(e) => set({ district: e.target.value })}>
             <option value="">All districts</option>
             {DISTRICTS.map((d) => (
               <option key={d} value={d}>
@@ -65,7 +65,13 @@ export function Filters({ value, minDate, maxDate, onChange }: Props) {
 
       <label className="search">
         <span className="visually-hidden">Search</span>
-        <input type="search" placeholder="Search, e.g. Hermannplatz or Messer" value={value.query} onChange={(e) => set({ query: e.target.value })} />
+        <input
+          type="search"
+          name="q"
+          autoComplete="off"
+          spellCheck={false}
+          placeholder="Search, e.g. Hermannplatz or Messer…"
+          value={value.query} onChange={(e) => set({ query: e.target.value })} />
       </label>
     </div>
   );

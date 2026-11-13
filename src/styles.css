@@ -65,6 +65,13 @@ input,
 select {
   font: inherit;
   color: inherit;
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: transparent;
+}
+
+h1,
+h2 {
+  text-wrap: balance;
 }
 
 :focus-visible {
@@ -301,10 +308,7 @@ select:hover {
 
 .cat-icon {
   flex: none;
-  display: inline-grid;
-  place-items: center;
-  border-radius: 50%;
-  color: #ffffff;
+  display: inline-flex;
 }
 
 .dot {
@@ -444,7 +448,11 @@ select:hover {
 }
 
 .item .cat-icon {
-  margin-top: 1px;
+  margin-top: 2px;
+}
+
+.item {
+  scroll-margin-top: 52px; /* keep keyboard focus clear of the pinned day stamp */
 }
 
 .item:hover {
@@ -534,6 +542,10 @@ select:hover {
   color: var(--ink);
   padding: 22px 26px;
   line-height: 1.5;
+}
+
+.about {
+  overscroll-behavior: contain;
 }
 
 .about::backdrop {

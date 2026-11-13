@@ -45,7 +45,7 @@ export function StatsBar({ counts, selected, onSelect, onAll }: Props) {
                     title={meta.description}
                     onClick={() => onSelect(c)}
                   >
-                    <CategoryIcon category={c} size={20} />
+                    <CategoryIcon category={c} />
                     <span className="stat-label">{meta.label}</span>
                     <span className="stat-count">{counts.get(c) ?? 0}</span>
                   </button>

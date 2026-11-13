@@ -25,7 +25,7 @@ export function IncidentCard({ incident, onClose }: Props) {
     <article className="card" aria-labelledby={`card-${incident.id}`}>
       <header>
         <span className="badge">
-          <CategoryIcon category={incident.category} size={24} />
+          <CategoryIcon category={incident.category} size={20} />
           {meta.label}
         </span>
         <button type="button" className="close" onClick={onClose} aria-label="Close details">

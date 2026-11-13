@@ -65,17 +65,17 @@ const GLYPHS: Record<Category, Glyph> = {
 
 interface Props {
   category: Category;
-  /** Diameter of the coloured disc in px. */
+  /** Icon size in px. */
   size?: number;
 }
 
-/** The category's icon on a disc of its family's colour. Decorative: the label always sits next to it. */
-export function CategoryIcon({ category, size = 22 }: Props) {
+/** The category's outline icon in its family's colour. Decorative: the label always sits next to it. */
+export function CategoryIcon({ category, size = 18 }: Props) {
   const Glyph = GLYPHS[category];
   const { family, color } = CATEGORY_META[category];
   return (
-    <span className="cat-icon" style={{ width: size, height: size, background: `var(--family-${family}, ${color})` }} aria-hidden>
-      <Glyph size={Math.round(size * 0.64)} stroke={2} />
+    <span className="cat-icon" style={{ color: `var(--family-${family}, ${color})` }} aria-hidden>
+      <Glyph size={size} stroke={1.75} />
     </span>
   );
 }
