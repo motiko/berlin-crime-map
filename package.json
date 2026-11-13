@@ -19,7 +19,8 @@
     "daily": "tsx pipeline/daily.ts",
     "backfill": "tsx pipeline/backfill.ts",
     "districts": "tsx pipeline/districts.ts",
-    "eval": "tsx pipeline/eval.ts"
+    "eval": "tsx pipeline/eval.ts",
+    "news-pilot": "tsx pipeline/news-pilot.ts"
   },
   "dependencies": {
     "@fontsource/barlow": "^5.3.0",

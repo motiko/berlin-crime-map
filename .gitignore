@@ -9,3 +9,5 @@ NOTES.local.md
 data/raw
 data/batches
 .playwright-mcp
+# news pilot results contain article excerpts (press text): keep local
+data/news-pilot

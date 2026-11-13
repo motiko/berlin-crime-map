@@ -63,6 +63,10 @@ When a misclassification turns up, add it to the eval file with the correct cate
 
 For a single report the model keeps getting wrong (or flips on between runs), add a hand-checked correction to [`pipeline/overrides.json`](pipeline/overrides.json) instead of rewording the prompt again: `pnpm build-data` applies it on top of the extraction. Systematic errors still belong in the definitions.
 
+### News links (pilot)
+
+Linking incidents to news articles is being piloted: see [docs/news-links](docs/news-links/README.md). `pnpm news-pilot` runs it; nothing from it reaches the site yet.
+
 ### Backfill
 
 The archive goes back to 2020 in the current format. Scraping is slow by design (about 3.5 s per request, so several hours per year). Every step is resumable: rerun the same command after an interruption.
