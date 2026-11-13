@@ -1,0 +1,43 @@
+name: Daily update
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # 06:00 UTC, after the police's morning releases
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+
+      - name: Scrape, extract, geocode, build data
+        run: pnpm daily
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - name: Commit new data
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/extracted data/geocode-cache.json public/data
+          if git diff --cached --quiet; then
+            echo 'No new reports.'
+          else
+            git commit -m "data: daily update $(date -u +%F)"
+            git push
+          fi
