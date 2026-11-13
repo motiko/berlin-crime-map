@@ -13,6 +13,7 @@ Rules:
 - category: the single most serious incident in the report, using the definitions under "Categories" below. When several apply, prefer this order:
   homicide > shooting > explosion > knife > robbery > political > assault > fire > raid > missing > drugs > fraud > burglary > traffic > other.
   Classify by what the suspect did to the victim, not by what happened during the arrest: resisting arrest, fleeing, or a weapon found in a search do not make a theft a robbery.
+  A follow-up about one specific incident (arrests, searches, a verdict, an appeal for witnesses) takes that incident's category: arrests after a shooting are shooting.
 - street: the street where the incident happened, spelled as in the text (e.g. "Meinekestraße"). Never use the address of a police office or where tips can be given (e.g. "Keithstraße 30", "Platz der Luftbrücke 6"). Null if no incident street is named.
 - houseNumberOrCrossing: a house number ("52") or the crossing street ("Sonnenallee") if given, else null.
 - placeName: a named place if that is the best location (a park, station, square or landmark such as "Görlitzer Park" or "Bahnhof Zoo"), else null.

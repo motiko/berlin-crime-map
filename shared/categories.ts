@@ -51,7 +51,7 @@ const META: Record<Category, CategoryMeta> = {
       'Stabbing, cutting or an attack with a knife or other blade (Messerangriff), or a blade drawn against a person.' },
   homicide: { label: 'Homicide / death', family: 'people', description: 'Killing, attempted killing or a death under investigation',
     definition:
-      'A killing or attempted killing (Mord, Totschlag, versuchte Tötung), or a death investigated by a homicide unit (Mordkommission).' },
+      'Someone was killed (Mord, Totschlag) or died in a death investigated by a homicide unit (Mordkommission). An attempted killing where nobody died goes under the weapon used (shooting, knife) or assault.' },
   explosion: { label: 'Explosion', family: 'property', description: 'Cash machine or vending machine blasts, explosive devices',
     definition:
       'Blasts and explosive devices: cash machines or vending machines blown up, pyrotechnics or bombs used as a weapon.' },
@@ -78,7 +78,7 @@ const META: Record<Category, CategoryMeta> = {
       'Missing person appeals and reports that a missing person was found.' },
   raid: { label: 'Raid / searches', family: 'police', description: 'Large police operations, searches and arrests',
     definition:
-      'Large police operations, searches (Durchsuchungen) and arrests that are not about one of the incident types above.' },
+      'Searches (Durchsuchungen), arrest operations and seizures (e.g. a gun found in a check) that are not the follow-up of one specific incident. Not official notices: an Allgemeinverfügung, road closures, event orders, prevention campaigns and appeals are other.' },
   drugs: { label: 'Drugs', family: 'police', description: 'Drug offences and seizures',
     definition:
       'Drug offences and seizures.' },
@@ -87,7 +87,7 @@ const META: Record<Category, CategoryMeta> = {
       'Deception for money: Betrug, scam calls (Enkeltrick, falsche Polizeibeamte, Schockanrufe), Trickbetrug (the victim is tricked into handing over money or valuables, e.g. to fake police officers), forgery, investment and online fraud.' },
   other: { label: 'Other', family: 'other', description: 'Everything else',
     definition:
-      'Anything that fits none of the categories above.' },
+      'Anything that fits none of the categories above, including official notices (Allgemeinverfügung), event and road-closure orders, prevention campaigns and general police announcements.' },
 };
 
 /** Category metadata; `color` is the family's colour (light map and panel). */

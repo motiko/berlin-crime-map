@@ -85,6 +85,26 @@
       "id": "1689852",
       "expected": "shooting",
       "why": "Blank-firing gun fired, one injured"
+    },
+    {
+      "id": "1717143",
+      "expected": "other",
+      "why": "Allgemeinverfügung for the Berlin Marathon: an official notice, not a raid"
+    },
+    {
+      "id": "1669044",
+      "expected": "other",
+      "why": "Allgemeinverfügung for 8 and 9 May: an official notice, not a raid"
+    },
+    {
+      "id": "1700985",
+      "expected": "shooting",
+      "why": "Man shot outside a café, attempted manslaughter, nobody died: shooting, not homicide"
+    },
+    {
+      "id": "1655065",
+      "expected": "shooting",
+      "why": "Verdict after shots in Ebersstraße: a follow-up keeps the incident's category"
     }
   ]
 }
