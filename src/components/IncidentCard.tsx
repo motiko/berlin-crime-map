@@ -1,5 +1,5 @@
-import { useEffect } from 'react';
-import { CaretLeft, CaretRight, X } from '@phosphor-icons/react';
+import { useEffect, useState } from 'react';
+import { CaretLeft, CaretRight, Check, LinkSimple, X } from '@phosphor-icons/react';
 import { CATEGORY_META } from '../../shared/categories.ts';
 import type { Incident } from '../../shared/types.ts';
 import { formatDate, placeLabel } from '../lib/filter.ts';
@@ -28,6 +28,17 @@ export function IncidentCard({ incident, position, onNewer, onOlder, onClose }: 
     incident.injured ? `${incident.injured} injured` : null,
   ].filter(Boolean);
 
+  const [copied, setCopied] = useState(false);
+  useEffect(() => setCopied(false), [incident.id]);
+  const copyLink = async () => {
+    try {
+      await navigator.clipboard.writeText(window.location.href);
+      setCopied(true);
+    } catch {
+      window.prompt('Copy this link:', window.location.href);
+    }
+  };
+
   // Escape closes; [ and ] step through the list, unless the user is typing in a field.
   useEffect(() => {
     const onKey = (e: KeyboardEvent) => {
@@ -48,9 +59,15 @@ export function IncidentCard({ incident, position, onNewer, onOlder, onClose }: 
           <CategoryIcon category={incident.category} size={20} />
           {meta.label}
         </span>
-        <button type="button" className="icon-button" onClick={onClose} aria-label="Close details" title="Close (Esc)">
-          <X size={18} weight="bold" aria-hidden />
-        </button>
+        <span className="card-actions">
+          <button type="button" className="icon-button" onClick={copyLink} title="Copy a link to this incident">
+            {copied ? <Check size={18} weight="bold" aria-hidden /> : <LinkSimple size={18} weight="bold" aria-hidden />}
+            <span aria-live="polite">{copied ? 'Link copied' : 'Copy link'}</span>
+          </button>
+          <button type="button" className="icon-button" onClick={onClose} aria-label="Close details" title="Close (Esc)">
+            <X size={18} weight="bold" aria-hidden />
+          </button>
+        </span>
       </header>
 
       <div className="card-body">

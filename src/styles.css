@@ -387,6 +387,16 @@ select:hover {
   font-weight: 600;
 }
 
+.card-actions {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+}
+
+.card-actions .icon-button span {
+  font-size: 0.82rem;
+}
+
 .card-body {
   overflow-y: auto;
   overscroll-behavior: contain;

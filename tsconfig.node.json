@@ -13,5 +13,5 @@
     "composite": true,
     "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.node.tsbuildinfo"
   },
-  "include": ["pipeline", "shared", "tests", "vite.config.ts"]
+  "include": ["pipeline", "shared", "tests", "vite.config.ts", "src/lib/filter.ts", "src/lib/urlState.ts"]
 }

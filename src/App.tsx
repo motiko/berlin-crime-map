@@ -11,8 +11,19 @@ import { MapView } from './components/MapView.tsx';
 import { StatsBar } from './components/StatsBar.tsx';
 import { loadIndex, loadRange } from './lib/data.ts';
 import { type Filters as FilterState, applyFilters, countByCategory, formatDate, isoDaysAgo } from './lib/filter.ts';
+import { RANGES, parseUrl, toSearch } from './lib/urlState.ts';
 
 const today = new Date().toISOString().slice(0, 10);
+
+/** Filters and selection from the URL (see lib/urlState.ts). */
+const initial = parseUrl(window.location.search);
+const initialFilters: FilterState = {
+  from: initial.from ?? isoDaysAgo(initial.range && initial.range !== 'all' ? RANGES[initial.range] : 30, today),
+  to: initial.to ?? today,
+  categories: initial.categories ?? new Set(CATEGORIES),
+  district: initial.district,
+  query: initial.query,
+};
 
 export function App() {
   const [index, setIndex] = useState<DataIndex | null>(null);
@@ -20,15 +31,11 @@ export function App() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [attempt, setAttempt] = useState(0);
-  const [filters, setFilters] = useState<FilterState>({
-    from: isoDaysAgo(30),
-    to: today,
-    categories: new Set(CATEGORIES),
-    district: '',
-    query: '',
-  });
+  const [filters, setFilters] = useState<FilterState>(initialFilters);
+  // "range=all" needs the start of the data, which the index tells us.
+  const [pendingAll, setPendingAll] = useState(initial.range === 'all');
   const [bounds, setBounds] = useState<LngLatBounds | null>(null);
-  const [selectedId, setSelectedId] = useState<string | null>(null);
+  const [selectedId, setSelectedId] = useState<string | null>(initial.incident);
   const [aboutOpen, setAboutOpen] = useState(false);
 
   useEffect(() => {
@@ -73,6 +80,19 @@ export function App() {
   };
 
   const minDate = index?.years.length ? `${index.years[0].year}-01-01` : today;
+
+  useEffect(() => {
+    if (!index || !pendingAll) return;
+    setFilters((f) => ({ ...f, from: minDate, to: today }));
+    setPendingAll(false);
+  }, [index, minDate, pendingAll]);
+
+  // Keep the URL in step, without adding a history entry per keystroke.
+  useEffect(() => {
+    if (!index || pendingAll) return;
+    const search = toSearch(filters, selectedId, today, minDate);
+    if (search !== window.location.search) window.history.replaceState(null, '', `${window.location.pathname}${search}`);
+  }, [index, pendingAll, filters, selectedId, minDate]);
 
   const setCategories = (categories: Set<Category>) => setFilters((f) => ({ ...f, categories }));
 
