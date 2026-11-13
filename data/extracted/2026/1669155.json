@@ -7,15 +7,15 @@
   "extraction": {
     "category": "traffic",
     "incidentDate": "2026-05-06",
-    "street": "Wanzlikpfad",
-    "houseNumberOrCrossing": "Uthmannstraße",
+    "street": "Uthmannstraße",
+    "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "A 21-year-old driving a rented car at speed nearly hit a pedestrian, then left the car in gear, and it rolled into a parked police vehicle. An officer suffered grazed knees during the arrest of the suspect.",
+    "summaryEn": "A 21-year-old allegedly drove a rental car at excessive speed and nearly hit a pedestrian. The unattended car rolled into a parked police vehicle, and an officer was lightly injured during the subsequent arrest.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.807Z"
+  "extractedAt": "2026-11-13T18:49:04.381Z"
 }

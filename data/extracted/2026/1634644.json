@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "Burning waste was found in front of a flat door on the tenth floor of an apartment building and extinguished by witnesses. A 25-year-old tenant was arrested in his flat on suspicion of arson; nobody was hurt.",
+    "summaryEn": "Burning waste was found in front of a flat door on the 10th floor of a residential building, and was extinguished by two witnesses. A 25-year-old resident was arrested on suspicion of arson.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.281Z"
+  "extractedAt": "2026-11-13T18:42:21.519Z"
 }

@@ -5,17 +5,17 @@
   "title": "Polizei Berlin erlässt Allgemeinverfügung zum 8. und 9. Mai 2026",
   "location": "bezirksübergreifend",
   "extraction": {
-    "category": "political",
-    "incidentDate": "2026-05-07",
+    "category": "other",
+    "incidentDate": "2026-05-08",
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": "Sowjetische Ehrenmale (Treptower Park, Tiergarten, Schönholzer Heide)",
     "district": null,
-    "summaryEn": "Police issued a general order restricting certain symbols, uniforms and songs around the Soviet war memorials in Treptow-Köpenick, Mitte and Pankow for 8–9 May 2026. The order covers the commemoration of the end of World War II and is linked to the Russia-Ukraine war.",
+    "summaryEn": "Police issued a general order restricting certain symbols, uniforms and songs around Soviet war memorials in Treptow-Köpenick, Mitte and Pankow for 8 and 9 May 2026. The order covers the commemoration days and is not a specific incident.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.763Z"
+  "extractedAt": "2026-11-13T18:49:04.199Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Two unknown suspects allegedly approached a 38-year-old person on an e-scooter on Motzstraße and punched them, causing a facial injury. The attack is being investigated by the state security unit (Staatsschutz) as a possible anti-queer hate crime.",
+    "summaryEn": "Two unknown suspects on an e-scooter allegedly approached and punched a 38-year-old queer person on Motzstraße in the evening. The victim suffered a facial injury and declined medical treatment; the State Security unit is investigating.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.741Z"
+  "extractedAt": "2026-11-13T18:49:04.269Z"
 }

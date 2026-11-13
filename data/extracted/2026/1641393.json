@@ -5,17 +5,17 @@
   "title": "Mann nach mehreren Straftaten und Flucht vor der Polizei festgenommen",
   "location": "bezirksübergreifend",
   "extraction": {
-    "category": "burglary",
+    "category": "robbery",
     "incidentDate": "2026-02-06",
     "street": "Lea-Grundig-Straße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A 31-year-old man broke into a flat via the balcony, threatened the resident and stole from her, then fled in a series of stolen vehicles, causing crashes and damaging a swimming hall. He was arrested after resisting, and a police officer was hurt.",
+    "summaryEn": "A 31-year-old man broke into an apartment, threatened the resident and stole from her, then stole a car, damaged a swimming hall and led police on a chase before his arrest. A police officer was slightly injured during the arrest.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.326Z"
+  "extractedAt": "2026-11-13T18:42:21.633Z"
 }

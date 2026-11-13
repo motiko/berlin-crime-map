@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Lindauer Allee",
     "placeName": null,
     "district": "Reinickendorf",
-    "summaryEn": "A 16-year-old passenger seriously injured in a hit-and-run crash in the early hours of 23 January 2026 died in hospital. Investigations into the fleeing driver are ongoing.",
-    "injured": 0,
+    "summaryEn": "A 16-year-old passenger injured in a hit-and-run crash into a parked truck has died in hospital; the driver fled and is being sought. Investigations are ongoing.",
+    "injured": 1,
     "dead": 1,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.278Z"
+  "extractedAt": "2026-11-13T18:50:48.625Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Drakestraße",
     "placeName": "Lichterfelde",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "An 87-year-old driver pulled out of a property driveway and hit a parked car, injuring its 69-year-old user who was unloading items from the open rear door. The injured woman suffered a rib fracture and was admitted to hospital.",
+    "summaryEn": "An 87-year-old driver pulled out of a driveway and hit a parked car in Lichterfelde, injuring its 69-year-old user who was unloading items and was pinned between the open door and the car. She suffered a rib fracture and was taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.738Z"
+  "extractedAt": "2026-11-13T18:49:04.446Z"
 }

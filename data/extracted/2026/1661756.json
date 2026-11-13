@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Schule",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Several arson fires were set in a school building on Olbersstraße, including a fire in the first floor and fires in two toilets. Earlier fires had been set on 14 April, and no one was injured.",
+    "summaryEn": "Arson fires were set in a school building on Olbersstraße, including in a first-floor room and two toilets, the evening before publication. Earlier arson attempts in the school on 14 April were also reported; no one was hurt.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.833Z"
+  "extractedAt": "2026-11-13T18:49:04.169Z"
 }

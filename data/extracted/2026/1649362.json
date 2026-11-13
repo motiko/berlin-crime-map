@@ -6,16 +6,16 @@
   "location": "Reinickendorf",
   "extraction": {
     "category": "political",
-    "dead": 0,
-    "district": "Reinickendorf",
-    "houseNumberOrCrossing": null,
     "incidentDate": "2026-03-03",
-    "injured": 0,
-    "placeName": "Märkisches Viertel",
     "street": "Dannenwalder Weg",
-    "summaryEn": "A 16-year-old girl was insulted and attacked by an unknown man over her headscarf, and was briefly choked when he pulled on it. The State Security unit has taken over the investigation.",
+    "houseNumberOrCrossing": null,
+    "placeName": "Märkisches Viertel",
+    "district": "Reinickendorf",
+    "summaryEn": "A 16-year-old girl was insulted over her headscarf and attacked by an unknown man, who pulled the scarf so it choked her. The Staatsschutz has taken over the investigation.",
+    "injured": 1,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.290Z"
+  "extractedAt": "2026-11-13T18:42:21.566Z"
 }

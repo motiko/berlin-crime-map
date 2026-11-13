@@ -9,13 +9,13 @@
     "incidentDate": "2026-08-08",
     "street": "Kirschweg",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Altglienicke",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A dispute in Altglienicke escalated late at night; two men were beaten and a 47-year-old man allegedly struck one with a hammer and then drove a car at them. The 29-year-old was seriously injured and three suspects aged 39 to 47 were identified, all under the influence of alcohol.",
+    "summaryEn": "After a dispute, a group attacked two men, and a 47-year-old man struck them with a hammer and drove a car at one of them. Three suspects aged 39 to 47 were identified and were under the influence of alcohol.",
     "injured": 2,
     "dead": 0,
     "weaponType": "hammer, vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.779Z"
+  "extractedAt": "2026-11-13T18:49:04.406Z"
 }

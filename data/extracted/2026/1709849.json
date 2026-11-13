@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 26-year-old man was shot several times by unknown perpetrators from a group on Feurigstraße in Schöneberg and seriously injured. The homicide unit is investigating an attempted killing.",
+    "summaryEn": "A 26-year-old man was shot several times by unknown perpetrators from a group in Feurigstraße and was seriously injured. The homicide unit is investigating an attempted killing.",
     "injured": 1,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.009Z"
+  "extractedAt": "2026-11-13T18:49:04.272Z"
 }

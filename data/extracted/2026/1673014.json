@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Spandau",
-    "summaryEn": "A masked man attacked a 19-year-old employee of a convenience store with a knife as he was closing the shop, cutting his thigh, and then demanded cash and fled with the money. The employee was taken to hospital for outpatient treatment.",
+    "summaryEn": "A masked attacker cut a 19-year-old convenience store employee in the thigh with a knife as he closed the shop, then demanded cash and fled with the money. The victim was taken to hospital for outpatient treatment.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.998Z"
+  "extractedAt": "2026-11-13T18:49:04.471Z"
 }

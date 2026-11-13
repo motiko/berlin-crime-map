@@ -9,13 +9,13 @@
     "incidentDate": "2026-10-03",
     "street": "Ottostraße",
     "houseNumberOrCrossing": null,
-    "placeName": "Parkanlage in der Ottostraße (Ottoplatz)",
+    "placeName": "Parkanlage Ottoplatz",
     "district": "Mitte",
-    "summaryEn": "Three men were stabbed in a park in Moabit after a fight between two groups in the early hours of 3 October 2026. Police later searched six residences and a café in several districts and seized replica guns and knives.",
+    "summaryEn": "Three men were stabbed or cut in a fight between two groups at a park entrance in Moabit. Police later searched six residences and a café; several blank-firing guns and knives were seized.",
     "injured": 3,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.886Z"
+  "extractedAt": "2026-11-13T18:50:25.011Z"
 }

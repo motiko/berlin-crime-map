@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Alt-Rudow",
     "placeName": "Rudow",
     "district": "Neukölln",
-    "summaryEn": "A 41-year-old cyclist was killed at about 8:40 a.m. after a truck turning right ran him over at Rudow. Police traffic investigators took over the case.",
+    "summaryEn": "A 41-year-old cyclist was killed after a truck turning right ran into him in Rudow. Police traffic investigators took over the case.",
     "injured": 0,
     "dead": 1,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.916Z"
+  "extractedAt": "2026-11-13T18:49:04.257Z"
 }

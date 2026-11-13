@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Liebigstraße",
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Unknown masked people set fire to e-scooters and debris in the middle of the Rigaer Straße/Liebigstraße crossing shortly before midnight, damaging the road and a street lamp. The police state security unit (Staatsschutz) is investigating.",
+    "summaryEn": "Unknown masked people set fire to e-scooters and debris in the middle of a road junction, damaging the road surface and a street lamp. The case has been taken over by the state security unit.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.808Z"
+  "extractedAt": "2026-11-13T18:49:04.357Z"
 }

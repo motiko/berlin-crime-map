@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "A man was lured into a residential building in Aronsstraße, where he was robbed by several men and left unconscious. The public search for a female suspect has been closed, and the investigation continues.",
+    "summaryEn": "A man was lured into a residential building and robbed by several men; the public appeal for a female suspect has been closed while investigations continue. The incident took place on 26 November 2025.",
     "injured": null,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.026Z"
+  "extractedAt": "2026-11-13T18:49:04.206Z"
 }

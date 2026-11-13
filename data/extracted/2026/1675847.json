@@ -7,15 +7,15 @@
   "extraction": {
     "category": "shooting",
     "incidentDate": "2026-05-29",
-    "street": "Buchholzer Straße",
-    "houseNumberOrCrossing": "Herthaplatz/Waldemarstraße",
+    "street": "Schönhauser Straße",
+    "houseNumberOrCrossing": "Buchholzer Straße/Herthaplatz/Waldemarstraße",
     "placeName": "Herthaplatz",
-    "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "After a stolen-plate car was stopped and its 35-year-old passenger arrested, the driver hit an officer with the car while fleeing. The officer's service weapon fired a shot during the incident; the officer was treated as an outpatient.",
+    "district": "Pankow",
+    "summaryEn": "During a police pursuit of a stolen-plate car, a fleeing driver struck an officer with the car's rear, and the officer's service weapon discharged. The officer was treated as an outpatient and the driver fled.",
     "injured": 1,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.904Z"
+  "extractedAt": "2026-11-13T18:49:04.408Z"
 }

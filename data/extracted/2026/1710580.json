@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Grunewaldstraße",
     "placeName": null,
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A 38-year-old party member replacing election posters at a Steglitz intersection was insulted and then blocked by an unknown man, who left after an acquaintance intervened. The case is handled by the state security unit (Staatsschutz).",
+    "summaryEn": "A 38-year-old party member replacing election posters was insulted and then obstructed by an unknown man at the Schloßstraße/Grunewaldstraße crossing. The case is handled by the state security unit; she was unhurt.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.962Z"
+  "extractedAt": "2026-11-13T18:49:04.142Z"
 }

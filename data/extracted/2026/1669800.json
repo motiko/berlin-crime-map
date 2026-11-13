@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 27-year-old man who was causing a disturbance in Friedrichshain resisted arrest, kicked officers and spat in an officer's face. One police officer was injured and went off duty.",
+    "summaryEn": "A 27-year-old man who was causing a disturbance was arrested, then kicked at officers, insulted them and spat in an officer's face during transport. One police officer was injured and went off duty.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.831Z"
+  "extractedAt": "2026-11-13T18:49:04.326Z"
 }

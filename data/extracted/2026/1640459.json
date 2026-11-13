@@ -9,13 +9,13 @@
     "incidentDate": "2026-02-04",
     "street": "Wustrower Straße",
     "houseNumberOrCrossing": null,
-    "placeName": "Einkaufszentrum Neu-Hohenschönhausen",
+    "placeName": "Einkaufszentrum in Neu-Hohenschönhausen",
     "district": "Lichtenberg",
-    "summaryEn": "Unknown persons attempted to blow up a cash machine in a shopping centre in Neu-Hohenschönhausen overnight. A security guard noticed a man tampering with the machine and he fled before any explosion occurred.",
+    "summaryEn": "Unknown perpetrators attempted to blow up a cash machine in a shopping centre in Neu-Hohenschönhausen overnight. A security guard interrupted the attempt and the suspect fled; no explosion occurred.",
     "injured": 0,
     "dead": 0,
-    "weaponType": "explosive"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.328Z"
+  "extractedAt": "2026-11-13T18:42:21.540Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Königstraße",
     "placeName": "Nikolassee",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A 78-year-old cyclist collided with a parked car in Nikolassee and fell, suffering serious head and upper-body injuries. He later died in hospital, and police are seeking witnesses.",
+    "summaryEn": "A 78-year-old cyclist collided with a parked car on Kronprinzessinnenweg and fell, suffering serious head and upper-body injuries. He died in hospital the following night, and police are asking witnesses to come forward.",
     "injured": 1,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.666Z"
+  "extractedAt": "2026-11-13T18:50:26.075Z"
 }

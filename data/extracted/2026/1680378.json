@@ -6,16 +6,16 @@
   "location": "bundesweit",
   "extraction": {
     "category": "drugs",
-    "incidentDate": "2026-06-09",
-    "street": null,
-    "houseNumberOrCrossing": null,
-    "placeName": null,
+    "dead": null,
     "district": null,
-    "summaryEn": "Police and prosecutors executed 16 search warrants against a drug trafficking network in Berlin, Saxony and Brandenburg, seizing cocaine, cannabis, synthetic drugs and cash. Four people were arrested.",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-06-09",
     "injured": 0,
-    "dead": 0,
+    "placeName": null,
+    "street": null,
+    "summaryEn": "Police and prosecutors searched 16 properties in Berlin, Saxony and Brandenburg over a drug-dealing network supplying cocaine and cannabis. Four people were arrested and about 1.3 kg of cocaine, 20 kg of cannabis and other drugs were seized.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.061Z"
+  "extractedAt": "2026-11-13T18:50:37.734Z"
 }

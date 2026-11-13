@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Anita-Berber-Park",
     "district": "Neukölln",
-    "summaryEn": "Police observed a suspected drug handover in Anita-Berber-Park and seized a loaded firearm with ammunition under a tree trunk nearby, plus a small amount of suspected amphetamine. Two men were taken into custody for identification measures and later released.",
+    "summaryEn": "Police observed a suspected drug handover in a Neukölln park and checked those involved. They seized a loaded firearm with ammunition and a small bag of suspected amphetamine nearby.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.892Z"
+  "extractedAt": "2026-11-13T18:50:35.037Z"
 }

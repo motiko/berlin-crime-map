@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Krankenhaus",
     "district": "Neukölln",
-    "summaryEn": "A 26-year-old man fatally injured a 65-year-old man with an unknown object in a hospital after an argument on the previous evening. The suspect was arrested at the scene and a homicide unit has taken over the investigation.",
+    "summaryEn": "A 65-year-old man died after being fatally injured in a hospital in Buckow following an argument with a 26-year-old man, who was arrested at the scene. The homicide unit has taken over the investigation.",
     "injured": 0,
     "dead": 1,
     "weaponType": "unknown object"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.758Z"
+  "extractedAt": "2026-11-13T18:50:35.040Z"
 }

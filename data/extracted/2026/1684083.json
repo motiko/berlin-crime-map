@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Lausitzer Platz",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 23-year-old woman was attacked by two men at Lausitzer Platz, insulted with a presumed xenophobic motive, and kicked and beaten after falling to the ground. Staatsschutz has taken over the investigation.",
+    "summaryEn": "A 23-year-old woman was grabbed by the hair, punched and kicked by two unknown men and insulted in a xenophobic manner, and became unconscious at home. The State Security unit has taken over the investigation.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.003Z"
+  "extractedAt": "2026-11-13T18:49:04.474Z"
 }

@@ -6,16 +6,16 @@
   "location": "Marzahn-Hellersdorf",
   "extraction": {
     "category": "missing",
-    "incidentDate": "2026-09-29",
+    "incidentDate": "2026-09-23",
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A 13-year-old girl who had been missing since 23 September 2026 has been found. She went to a youth welfare facility on her own and is being looked after there.",
+    "summaryEn": "A 13-year-old girl who had been missing since 23 September 2026 has been found and is being cared for by youth services. The police had appealed for public help in the search.",
     "injured": 0,
-    "dead": null,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.842Z"
+  "extractedAt": "2026-11-13T18:49:04.229Z"
 }

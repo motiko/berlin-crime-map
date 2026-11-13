@@ -7,15 +7,15 @@
   "extraction": {
     "category": "traffic",
     "incidentDate": "2026-08-28",
-    "street": "Britzer Straße",
-    "houseNumberOrCrossing": "An der alten Gärtnerei",
+    "street": "Britzer Damm",
+    "houseNumberOrCrossing": "Britzer Straße / An der alten Gärtnerei",
     "placeName": "Mariendorf",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 17-year-old motorcyclist without a helmet fled a police traffic check at high speed and crashed into a street lamp in Mariendorf. He was seriously injured and taken to hospital.",
+    "summaryEn": "A 17-year-old unhelmeted motorcyclist fled a police traffic check at high speed, crashed into a street lamp and was seriously injured in Mariendorf. The incident closed Britzer Straße for about five hours.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.943Z"
+  "extractedAt": "2026-11-13T18:49:04.398Z"
 }

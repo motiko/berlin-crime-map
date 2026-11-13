@@ -9,13 +9,13 @@
     "incidentDate": "2026-04-19",
     "street": "Olympischer Platz",
     "houseNumberOrCrossing": null,
-    "placeName": "Olympiastadion area (Laufveranstaltung S25 Berlin)",
+    "placeName": "Olympiastadion",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Police issued a temporary general order banning the carrying of weapons and knives in a defined area around the Olympiastadion for a running event on 19 April 2026, from 7:00 to 16:30. No incident has been reported.",
+    "summaryEn": "Police issued a temporary general order banning carrying weapons and knives in a defined area around the Olympiastadion on 19 April 2026, 7:00 to 16:30, for the \"S25 Berlin\" running event.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.305Z"
+  "extractedAt": "2026-11-13T18:42:21.595Z"
 }

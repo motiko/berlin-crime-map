@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Fahrenheitstraße",
     "placeName": "Lichterfelde",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A cyclist aged 55 fell after braking hard to avoid a car turning right at the Fahrenheitstraße junction on Osdorfer Straße in the evening. The unidentified driver left the scene, and the cyclist was taken to hospital with shoulder injuries.",
+    "summaryEn": "A cyclist aged 55 was injured after a car driver turned off in front of him and then left the scene. The cyclist braked hard and fell over the handlebars.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "vehicle"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.805Z"
+  "extractedAt": "2026-11-13T18:49:04.424Z"
 }

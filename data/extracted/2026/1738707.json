@@ -13,9 +13,9 @@
     "injured": 0,
     "placeName": null,
     "street": null,
-    "summaryEn": "Police and prosecutors searched three properties in Spandau and Prenzlauer Berg over illegal weapons possession. Eight illegal firearms, ammunition, phones, data storage devices and cash were seized, and a 28-year-old man was arrested.",
+    "summaryEn": "Police and prosecutors searched three properties in Spandau and Prenzlauer Berg over illegal weapons possession. Eight live firearms with ammunition were seized and a 28-year-old man was arrested.",
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.449Z"
+  "extractedAt": "2026-11-13T18:50:22.813Z"
 }

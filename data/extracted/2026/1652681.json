@@ -6,16 +6,16 @@
   "location": "Tempelhof-Schöneberg",
   "extraction": {
     "category": "traffic",
-    "incidentDate": "2026-03-15",
-    "street": "Akazienstraße",
-    "houseNumberOrCrossing": "Grunewaldstraße",
-    "placeName": null,
-    "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A motorcyclist hit an 85-year-old pedestrian who stepped onto the road in Schöneberg. The woman has life-threatening injuries and the motorcyclist was slightly hurt.",
-    "injured": 2,
     "dead": 0,
+    "district": "Tempelhof-Schöneberg",
+    "houseNumberOrCrossing": "Grunewaldstraße",
+    "incidentDate": "2026-03-15",
+    "injured": 2,
+    "placeName": null,
+    "street": "Akazienstraße",
+    "summaryEn": "A motorcyclist hit an 85-year-old pedestrian who stepped into the road on Akazienstraße in Schöneberg. The pedestrian is in life-threatening condition and the motorcyclist was slightly injured.",
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.288Z"
+  "extractedAt": "2026-11-13T18:42:21.536Z"
 }

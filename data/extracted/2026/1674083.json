@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Lübars",
     "district": "Reinickendorf",
-    "summaryEn": "After an argument between two groups near a restaurant in Lübars, several shots were fired. The people involved fled, and police secured several cartridge casings; no injuries were reported.",
+    "summaryEn": "After an argument between two groups in Quickborner Straße in Lübars, several shots were fired near a restaurant on the evening before publication. Those involved fled, and police secured several cartridge cases; no injuries have been reported.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.903Z"
+  "extractedAt": "2026-11-13T18:49:04.401Z"
 }

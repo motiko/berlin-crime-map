@@ -6,16 +6,16 @@
   "location": "Reinickendorf",
   "extraction": {
     "category": "shooting",
-    "incidentDate": "2026-04-26",
+    "incidentDate": "2026-04-27",
     "street": "Scharnweberstraße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Reinickendorf",
-    "summaryEn": "An unknown masked man fired several shots at the shop windows of a driving school in the early hours. He then fled, and police are investigating for property damage.",
+    "summaryEn": "An unknown masked man fired several shots at the shop windows of a driving school on Scharnweberstraße at about 2:50 a.m. and fled. Investigators are treating the case as criminal damage.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.927Z"
+  "extractedAt": "2026-11-13T18:49:04.388Z"
 }

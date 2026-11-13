@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "Three people aged 23, 24 and 29 were insulted with homophobic remarks and sprayed in the face with irritant spray by two unknown suspects. The state security unit is investigating.",
+    "summaryEn": "Three people aged 23, 24 and 29 were insulted in a homophobic way and sprayed in the face with irritant spray by two unknown suspects, who then fled. The Staatsschutz has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": "irritant spray"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.939Z"
+  "extractedAt": "2026-11-13T18:49:04.416Z"
 }

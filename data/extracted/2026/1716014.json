@@ -9,13 +9,13 @@
     "incidentDate": "2026-09-10",
     "street": "Buddeplatz",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Tegel",
     "district": "Reinickendorf",
-    "summaryEn": "A 64-year-old man reported missing since 10 September 2026 has been found safe at a petrol station in Brandenburg. The public search has been called off.",
+    "summaryEn": "A 64-year-old man missing since 10 September 2026 has been found safe at a petrol station in Brandenburg. The public search has ended.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.954Z"
+  "extractedAt": "2026-11-13T18:49:04.232Z"
 }

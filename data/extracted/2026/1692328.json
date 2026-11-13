@@ -5,17 +5,17 @@
   "title": "Scharfe Schusswaffe bei Personenüberprüfung im Hosenbund gefunden – Haftbefehl erlassen",
   "location": "Neukölln",
   "extraction": {
-    "category": "drugs",
+    "category": "raid",
     "incidentDate": "2026-07-10",
     "street": "Wittmannsdorfer Straße",
     "houseNumberOrCrossing": "Schierker Straße",
     "placeName": "Körnerpark",
     "district": "Neukölln",
-    "summaryEn": "Police found a loaded firearm and suspected cocaine on a 39-year-old man during a patrol check at Körnerpark. He was arrested and a judge issued an arrest warrant.",
+    "summaryEn": "Police on a presence patrol in Körnerpark found a loaded handgun and cocaine on a 39-year-old man during a identity check and arrested him. He was later remanded in custody by a judge.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.691Z"
+  "extractedAt": "2026-11-13T18:50:33.522Z"
 }

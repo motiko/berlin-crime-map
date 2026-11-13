@@ -7,15 +7,15 @@
   "extraction": {
     "category": "other",
     "incidentDate": "2026-03-02",
-    "street": "Görlitzer Park",
+    "street": "Umzäunung des Görlitzer Parks",
     "houseNumberOrCrossing": null,
     "placeName": "Görlitzer Park",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Damage was found on the fence of Görlitzer Park overnight, with bicycle locks and adhesive put into six gate locks. Police removed the locks so the gates could be closed.",
+    "summaryEn": "Damage was found on the fence of Görlitzer Park overnight, and bicycle locks and adhesive had been placed on six gate locks around midnight during a demonstration. Police removed the locks so the gates could be closed.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.270Z"
+  "extractedAt": "2026-11-13T18:42:21.645Z"
 }

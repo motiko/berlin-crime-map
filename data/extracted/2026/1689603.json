@@ -6,16 +6,16 @@
   "location": "Marzahn-Hellersdorf",
   "extraction": {
     "category": "political",
-    "incidentDate": "2026-07-04",
-    "street": "Wurzener Straße",
-    "houseNumberOrCrossing": null,
-    "placeName": null,
-    "district": "Marzahn-Hellersdorf",
-    "summaryEn": "Two opposing politically motivated groups clashed at a building in Hellersdorf over use of rooms, with fire extinguishers emptied and objects thrown. Later, people on the roof were seen attacking each other with baseball bats; 29 people were detained and no one was hurt.",
-    "injured": 0,
     "dead": 0,
-    "weaponType": "baseball bat"
+    "district": "Marzahn-Hellersdorf",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-07-04",
+    "injured": 0,
+    "placeName": null,
+    "street": "Wurzener Straße",
+    "summaryEn": "Two politically opposed groups clashed in Hellersdorf over use of rooms in a building, with objects thrown, fire extinguishers emptied and baseball bats used. 29 people were detained and investigations for riot were opened.",
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.040Z"
+  "extractedAt": "2026-11-13T18:49:04.163Z"
 }

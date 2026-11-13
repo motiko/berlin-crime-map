@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A hit-and-run driver cut into the bus lane on Rhinstraße, forcing a BVG bus to brake hard. An 86-year-old passenger was seriously injured and an 83-year-old passenger was hurt in the fall.",
+    "summaryEn": "An unknown car driver cut into the bus lane on Rhinstraße, forcing a BVG bus driver to brake hard. Two elderly passengers fell; one was taken to hospital with serious injuries, and police are seeking witnesses to the hit-and-run.",
     "injured": 2,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.423Z"
+  "extractedAt": "2026-11-13T18:49:04.345Z"
 }

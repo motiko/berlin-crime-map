@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Conradstraße",
     "placeName": "Borsigwalde",
     "district": "Reinickendorf",
-    "summaryEn": "A 63-year-old driver hit a cyclist at a crossing, drove on without helping her, and then collided with a waiting BVG bus. The cyclist and the driver were taken to hospital; bus passengers and driver were unhurt.",
+    "summaryEn": "A 63-year-old driver hit a cyclist at a crossing in Borsigwalde and then drove on without helping her, colliding shortly after with a waiting BVG bus. The cyclist and the driver were both injured and taken to hospital.",
     "injured": 2,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.342Z"
+  "extractedAt": "2026-11-13T18:42:21.628Z"
 }

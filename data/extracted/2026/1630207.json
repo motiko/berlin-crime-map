@@ -9,13 +9,13 @@
     "incidentDate": "2026-01-04",
     "street": "Genter Straße",
     "houseNumberOrCrossing": "Brüsseler Straße",
-    "placeName": null,
+    "placeName": "Wedding",
     "district": "Mitte",
-    "summaryEn": "A car driver lost control while swerving at a car pulling out of a parking space and struck a pedestrian getting into a parked car on Genter Straße. The pedestrian suffered rib and pelvic fractures and underwent emergency surgery.",
+    "summaryEn": "A car driver swerved after another car pulled out and hit a pedestrian getting into a parked car in Wedding. The pedestrian suffered rib and pelvic fractures and needed emergency surgery; five parked cars were damaged.",
     "injured": 2,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.285Z"
+  "extractedAt": "2026-11-13T18:42:21.652Z"
 }

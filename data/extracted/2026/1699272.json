@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Two suspected bicycle thieves were arrested after plainclothes officers saw them break a bike lock; during the arrest, five officers were injured in resistance and attacks. A third suspect escaped.",
+    "summaryEn": "Two suspects were seen breaking a bicycle lock and stealing two bikes; plainclothes officers arrested them after a chase in a park, and five officers were injured while resisting arrest.",
     "injured": 5,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.934Z"
+  "extractedAt": "2026-11-13T18:49:04.118Z"
 }

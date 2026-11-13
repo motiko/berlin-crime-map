@@ -9,13 +9,13 @@
     "incidentDate": "2026-03-14",
     "street": "Am Sandhaus",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Buch",
     "district": "Pankow",
-    "summaryEn": "A 32-year-old man was allegedly stabbed in the shoulder by an unknown attacker on a pavement in Buch. The attacker fled, and the victim was taken to hospital with serious injuries.",
+    "summaryEn": "A 32-year-old man was stabbed in the shoulder with a suspected knife by an unknown attacker on Am Sandhaus in Buch on the evening before publication. He was taken to hospital; police say his life was never in danger.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.232Z"
+  "extractedAt": "2026-11-13T18:42:21.570Z"
 }

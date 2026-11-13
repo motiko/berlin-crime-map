@@ -8,14 +8,14 @@
     "category": "traffic",
     "incidentDate": "2026-07-05",
     "street": "BAB 111",
-    "houseNumberOrCrossing": "Waidmannsluster Damm",
+    "houseNumberOrCrossing": "Waidmannsluster Damm / Schulzendorfer Straße",
     "placeName": "Tunnel Forstamt Tegel",
     "district": "Reinickendorf",
-    "summaryEn": "A driver speeding on the A111 motorway in Tegel crashed several times into a tunnel wall and fled on foot; the occupants were found nearby, and one person with an open arrest warrant was taken into custody. No one was reported injured.",
+    "summaryEn": "A driver speeding on the A111 motorway in Tegel crashed repeatedly into a tunnel wall and fled on foot before police arrived. Occupants of the car were not injured, and police seized the car and executed an arrest warrant against a 42-year-old passenger.",
     "injured": 0,
     "dead": 0,
-    "weaponType": "vehicle"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.003Z"
+  "extractedAt": "2026-11-13T18:49:04.346Z"
 }

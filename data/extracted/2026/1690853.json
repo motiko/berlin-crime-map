@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Police executed search warrants at five residences and one business premises in Wedding, Kreuzberg and Lichterfelde over suspected forged language certificates and residence confirmations used for people-smuggling. Four suspects were found during the searches, and no arrests were made.",
+    "summaryEn": "Police and prosecutors searched five residences and a business premises in Berlin over alleged forged language certificates and fake housing confirmations used for residence permits and illegal registrations. Four suspects were found during the searches, and no arrests were made.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.007Z"
+  "extractedAt": "2026-11-13T18:50:34.603Z"
 }

@@ -7,15 +7,15 @@
   "extraction": {
     "category": "assault",
     "incidentDate": "2026-01-18",
-    "street": "Hermannplatz",
+    "street": null,
     "houseNumberOrCrossing": null,
     "placeName": "U-Bahnhof Hermannplatz",
     "district": "Neukölln",
-    "summaryEn": "Four BVG security staff were attacked by a group of seven men at Hermannplatz underground station after asking them to stop smoking on the platform. Two victims were taken to hospital with injuries.",
+    "summaryEn": "A group of seven men attacked four BVG security staff at Hermannplatz underground station after being asked to stop smoking on the platform. Two of the staff were injured and taken to hospital.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.339Z"
+  "extractedAt": "2026-11-13T18:42:21.616Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Tiergarten",
     "district": "Mitte",
-    "summaryEn": "A 20-year-old on an e-scooter was seriously injured after colliding with a car driving in a bus lane on Helmut-Kohl-Allee in Tiergarten. The woman was taken to hospital with head injuries, and police say her life was not in danger.",
+    "summaryEn": "A 20-year-old on an e-scooter was seriously injured after colliding with a car driving in a bus lane near Tiergarten. The car driver, 27, was travelling towards Stülerstraße.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.906Z"
+  "extractedAt": "2026-11-13T18:49:04.182Z"
 }

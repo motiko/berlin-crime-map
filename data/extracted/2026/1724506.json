@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "Four men aged 21 to 28 were arrested in Britz while loading allegedly stolen car rims from vehicles at a car workshop. Arrest warrants were issued after the suspects were brought before a judge on 7 October.",
+    "summaryEn": "Four men aged 21 to 28 were arrested in Britz for alleged gang theft of car rims; arrest warrants were issued and stolen tyre sets seized. Police said the investigation continues.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.757Z"
+  "extractedAt": "2026-11-13T18:49:04.222Z"
 }

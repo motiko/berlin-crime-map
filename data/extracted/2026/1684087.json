@@ -6,16 +6,16 @@
   "location": "Lichtenberg",
   "extraction": {
     "category": "traffic",
-    "dead": 1,
-    "district": "Lichtenberg",
-    "houseNumberOrCrossing": "Alt Friedrichsfelde/Am Tierpark/Rhinstraße",
     "incidentDate": "2026-06-20",
-    "injured": 2,
-    "placeName": "Friedrichsfelde",
     "street": "Alt-Friedrichsfelde",
-    "summaryEn": "A motorcycle collided with two pedestrians on Alt-Friedrichsfelde in Friedrichsfelde; one pedestrian died at the scene and an 85-year-old pedestrian later died in hospital. The 19-year-old motorcyclist was also seriously injured.",
+    "houseNumberOrCrossing": "Alt Friedrichsfelde/Am Tierpark/Rhinstraße",
+    "placeName": "Friedrichsfelde",
+    "district": "Lichtenberg",
+    "summaryEn": "A motorcyclist collided with two pedestrians crossing Alt-Friedrichsfelde at a pedestrian crossing late at night. One pedestrian, a man, died at the scene and an 85-year-old woman later died in hospital; the motorcyclist was also seriously injured.",
+    "injured": 2,
+    "dead": 2,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.901Z"
+  "extractedAt": "2026-11-13T18:49:04.441Z"
 }

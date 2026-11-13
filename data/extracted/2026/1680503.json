@@ -6,16 +6,16 @@
   "location": "Marzahn-Hellersdorf",
   "extraction": {
     "category": "knife",
-    "incidentDate": "2026-06-10",
-    "street": "Cottbusser Platz",
-    "houseNumberOrCrossing": null,
-    "placeName": "Cottbusser Platz",
-    "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A 19-year-old man was attacked by a group and left with multiple stab wounds near Cottbusser Platz. He underwent emergency surgery and remains hospitalized.",
-    "injured": 1,
     "dead": 0,
+    "district": "Marzahn-Hellersdorf",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-06-10",
+    "injured": 1,
+    "placeName": "Cottbusser Platz",
+    "street": null,
+    "summaryEn": "A 19-year-old was attacked by a group of people at Cottbusser Platz in Hellersdorf and left with several stab wounds. He was taken to hospital and underwent emergency surgery.",
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.887Z"
+  "extractedAt": "2026-11-13T18:49:04.125Z"
 }

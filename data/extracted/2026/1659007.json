@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A bullet hole was found in the serving window of a snack bar at Nollendorfplatz; two cartridge casings were secured nearby. No one was hurt.",
+    "summaryEn": "A bullet hole was found in the serving window of a snack bar at Nollendorfplatz, and two cartridge casings were secured nearby. Nobody was injured.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.266Z"
+  "extractedAt": "2026-11-13T18:42:21.618Z"
 }

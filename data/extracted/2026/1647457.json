@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Spandau",
-    "summaryEn": "Fraudsters posing as relatives and police made shock calls in Russian to elderly residents across Berlin, with about 20 cases and roughly 400,000 euros in losses since January. In one case on 23 February, an 84-year-old in Spandau handed over cash to a courier posing as an emissary.",
+    "summaryEn": "Since January 2026, about 20 shock calls in Russian targeting elderly Berliners have caused roughly 400,000 euros in damage. In one case on 23 February, an 84-year-old in Spandau handed over money to a courier posing as a police officer's contact.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.334Z"
+  "extractedAt": "2026-11-13T18:42:21.592Z"
 }

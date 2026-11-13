@@ -6,16 +6,16 @@
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
     "category": "political",
-    "incidentDate": "2026-02-28",
-    "street": "Glogauer Straße",
-    "houseNumberOrCrossing": "Glogauer Straße",
-    "placeName": "Görlitzer Park",
+    "dead": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Unknown perpetrators cut the lower mounting bolt of a swing gate at Görlitzer Park with a tool, damaging it. The State Security unit (Staatsschutz) has taken over the investigation.",
+    "houseNumberOrCrossing": "Glogauer Straße",
+    "incidentDate": "2026-02-28",
     "injured": 0,
-    "dead": 0,
+    "placeName": "Görlitzer Park",
+    "street": "Görlitzer Park",
+    "summaryEn": "A swing gate at the Görlitzer Park access point was found damaged, with its lower mounting bolt cut through with a tool. The police state security unit has taken over the investigation for property damage.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.225Z"
+  "extractedAt": "2026-11-13T18:42:21.623Z"
 }

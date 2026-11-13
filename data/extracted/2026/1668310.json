@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Görlitzer Park",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A dispute in Görlitzer Park escalated, with one man hitting another on the head with a glass bottle and threatening officers with broken bottles. Police used a taser after the man began injuring himself and was then taken to hospital for psychiatric care.",
+    "summaryEn": "A 43-year-old man hit a 32-year-old man on the head with a glass bottle in Görlitzer Park, then threatened police with broken bottles and was subdued with a taser. Police took him to hospital for psychiatric care.",
     "injured": 1,
     "dead": 0,
     "weaponType": "glass bottle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.859Z"
+  "extractedAt": "2026-11-13T18:49:04.183Z"
 }

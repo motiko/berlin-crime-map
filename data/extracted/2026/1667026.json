@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Fritz-König-Weg",
     "placeName": "Oberschöneweide",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A car turning left collided with an oncoming cyclist on Nalepastraße in Oberschöneweide on the evening before publication. The 63-year-old cyclist was injured and taken to hospital.",
+    "summaryEn": "A car turning left collided with an oncoming cyclist on Nalepastraße in Oberschöneweide. The 63-year-old cyclist was injured and taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.999Z"
+  "extractedAt": "2026-11-13T18:49:04.424Z"
 }

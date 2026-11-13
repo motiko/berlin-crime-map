@@ -6,16 +6,16 @@
   "location": "Mitte",
   "extraction": {
     "category": "traffic",
-    "dead": 0,
-    "district": "Mitte",
-    "houseNumberOrCrossing": "Mühlendamm",
     "incidentDate": "2026-09-22",
-    "injured": 1,
-    "placeName": "Bushaltestelle Nikolaiviertel",
     "street": "Mühlendamm",
-    "summaryEn": "An 84-year-old woman was seriously injured when she fell inside a bus in Mitte after the driver pulled away from a stop. She hit her head on a handrail and was taken to hospital.",
+    "houseNumberOrCrossing": "Mühlendamm",
+    "placeName": "Bushaltestelle Nikolaiviertel",
+    "district": "Mitte",
+    "summaryEn": "A bus departed from the Nikolaiviertel stop on Mühlendamm and an 84-year-old woman fell inside and hit her head on a handrail. She suffered life-threatening head injuries.",
+    "injured": 1,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.763Z"
+  "extractedAt": "2026-11-13T18:49:04.339Z"
 }

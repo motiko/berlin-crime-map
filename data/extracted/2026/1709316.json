@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Bellevueallee",
     "placeName": "Großer Tiergarten",
     "district": "Mitte",
-    "summaryEn": "A rainbow memorial bench set up after an attack on the Berlin CSD was heavily damaged overnight on Ahornallee in Tiergarten. The Staatsschutz is investigating the criminal damage.",
+    "summaryEn": "A rainbow memorial bench set up after an attack on the Berlin CSD was badly damaged in the Großer Tiergarten. The Staatsschutz is investigating the property damage.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.035Z"
+  "extractedAt": "2026-11-13T18:49:04.255Z"
 }

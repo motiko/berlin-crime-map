@@ -6,16 +6,16 @@
   "location": "Steglitz-Zehlendorf",
   "extraction": {
     "category": "traffic",
-    "dead": 0,
-    "district": "Steglitz-Zehlendorf",
-    "houseNumberOrCrossing": "Steglitzer Damm",
     "incidentDate": "2026-09-15",
-    "injured": 1,
-    "placeName": null,
     "street": "Lauenburger Straße",
-    "summaryEn": "A 39-year-old cyclist was seriously injured on Lauenburger Straße in Steglitz after colliding with a car door opened by a parked car's driver and falling. Rescue workers took her to hospital for inpatient treatment.",
+    "houseNumberOrCrossing": "Steglitzer Damm",
+    "placeName": null,
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A 39-year-old cyclist was seriously injured after colliding with a car door opened by a driver of a parked car on Lauenburger Straße. She fell to the ground and was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.980Z"
+  "extractedAt": "2026-11-13T18:49:04.292Z"
 }

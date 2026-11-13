@@ -5,17 +5,17 @@
   "title": "Allgemeinverfügung zum 1. Mai 2026 – Einschränkungen im Bereich Treptower Park",
   "location": "Treptow-Köpenick",
   "extraction": {
-    "category": "political",
+    "category": "other",
     "incidentDate": "2026-05-01",
     "street": "Am Treptower Park",
     "houseNumberOrCrossing": null,
     "placeName": "Treptower Park",
     "district": "Treptow-Köpenick",
-    "summaryEn": "Police issued a general order restricting assemblies in the Treptower Park area from 6 a.m. on 1 May 2026 to 6 a.m. on 2 May 2026 to protect the green space and listed garden monument. The order covers the area between the Spree, Bulgarische Straße, Am Treptower Park and the S-Bahn line.",
+    "summaryEn": "Police issued a general order restricting assemblies in Treptower Park from 1 May 2026, 6 a.m., to 2 May 2026, 6 a.m. The order protects the green space and listed garden monument.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.058Z"
+  "extractedAt": "2026-11-13T18:49:04.278Z"
 }

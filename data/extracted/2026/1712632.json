@@ -6,16 +6,16 @@
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
     "category": "drugs",
-    "incidentDate": "2026-09-10",
+    "incidentDate": "2026-09-09",
     "street": "Skalitzer Straße",
-    "houseNumberOrCrossing": "Schlesisches Tor",
+    "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "After a traffic check on an e-scooter in Kreuzberg, police found suspected cocaine and cannabis and a firearm with a loaded magazine during a search of the man's apartment. He was released after police measures were completed.",
+    "summaryEn": "After a traffic check in Kreuzberg, police found suspected drugs on a 21-year-old e-scooter rider, who had fled and discarded a bag of suspected cannabis. A search of his apartment turned up suspected cocaine, cannabis and a firearm with a magazine and spare rounds, all seized.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.718Z"
+  "extractedAt": "2026-11-13T18:49:04.249Z"
 }

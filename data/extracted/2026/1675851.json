@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A brawl between groups of young men on Prinzregentenstraße in Wilmersdorf left an 18-year-old with a life-threatening stab wound; he is no longer in mortal danger. One suspect turned himself in later that day.",
+    "summaryEn": "During a brawl between groups of young men in Wilmersdorf, one 18-year-old was stabbed and seriously injured; a 19-year-old suspect surrendered later. Police investigations are ongoing.",
     "injured": 2,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.835Z"
+  "extractedAt": "2026-11-13T18:49:04.277Z"
 }

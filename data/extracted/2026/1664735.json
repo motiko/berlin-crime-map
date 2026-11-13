@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Several stones were thrown at a police patrol car in Rigaer Straße while officers protected firefighters extinguishing a lamp post fire. One officer was injured and the patrol car's windscreen was damaged.",
+    "summaryEn": "Unknown people threw several stones at a police patrol car in Rigaer Straße while officers protected firefighters at a burning lamp post overnight. One officer was injured in the face by shattered windscreen glass.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.017Z"
+  "extractedAt": "2026-11-13T18:49:04.184Z"
 }

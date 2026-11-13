@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Breite Straße",
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "A 60-year-old motorcyclist was injured after overtaking via the bus lane and colliding with a waiting car while merging back. Both the motorcyclist and a 24-year-old car driver were hurt, and the road was closed for several hours.",
+    "summaryEn": "A motorcyclist was injured at about 11 a.m. after overtaking in a bus and tram lane and colliding with a waiting car in Pankow. The 60-year-old was flown to hospital by rescue helicopter, and the other driver, aged 24, was also hurt.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.899Z"
+  "extractedAt": "2026-11-13T18:49:04.375Z"
 }

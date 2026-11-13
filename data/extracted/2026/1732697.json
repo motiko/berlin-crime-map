@@ -6,16 +6,16 @@
   "location": "Mitte",
   "extraction": {
     "category": "traffic",
-    "dead": 1,
-    "injured": 2,
-    "district": "Mitte",
     "incidentDate": "2026-10-29",
     "street": "Torstraße",
     "houseNumberOrCrossing": "Friedrichstraße",
     "placeName": null,
-    "summaryEn": "A taxi driver died after a collision on Torstraße shortly after midnight when a car driven by a 38-year-old man, who was under the influence of alcohol, hit the taxi while it was turning. The 38-year-old driver and his 29-year-old passenger were injured.",
+    "district": "Mitte",
+    "summaryEn": "Shortly after midnight, a collision between a taxi and a car on Torstraße killed the 56-year-old taxi driver, who was trapped in the vehicle. The 38-year-old car driver, who was drunk, and his 29-year-old passenger were injured.",
+    "injured": 2,
+    "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.992Z"
+  "extractedAt": "2026-11-13T18:49:04.345Z"
 }

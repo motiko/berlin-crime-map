@@ -9,13 +9,13 @@
     "incidentDate": "2026-01-26",
     "street": "Hohenzollerndamm",
     "houseNumberOrCrossing": "Warneckstraße",
-    "placeName": null,
+    "placeName": "Wilmersdorf",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A car driver struck a 43-year-old woman crossing Hohenzollerndamm on foot in the evening. The woman suffered head and internal injuries and was taken to hospital.",
+    "summaryEn": "A car driver hit a 43-year-old woman crossing Hohenzollerndamm in Wilmersdorf. She was seriously injured and taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.305Z"
+  "extractedAt": "2026-11-13T18:42:21.654Z"
 }

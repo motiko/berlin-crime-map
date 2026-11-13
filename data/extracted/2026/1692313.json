@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "James-Simon-Park",
     "district": "Mitte",
-    "summaryEn": "Several unknown attackers assaulted a 39-year-old man near the public toilets in James-Simon-Park, apparently because of his sexual identity. Shortly after, a 19-year-old was chased to the Spree embankment, knocked down, and attacked by a group that also sprayed pepper spray.",
+    "summaryEn": "Around midnight, a 39-year-old man was attacked by several unknown people in James-Simon-Park, allegedly because of his sexual identity. Shortly after, a 19-year-old was chased, knocked down and assaulted with pepper spray by a group on the Spree embankment.",
     "injured": 2,
     "dead": 0,
     "weaponType": "pepper spray"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.764Z"
+  "extractedAt": "2026-11-13T18:49:04.475Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Charlottenstraße",
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "A motorcycle and a cyclist collided at a pedestrian crossing on Leipziger Straße, and the motorcycle then hit a car turning into Charlottenstraße. The cyclist suffered serious head injuries and the road was closed until 21:00.",
+    "summaryEn": "A motorcyclist and a cyclist collided at a pedestrian crossing on Leipziger Straße in the afternoon, and the motorcycle then hit a car. The cyclist was seriously injured and taken to hospital.",
     "injured": 2,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.917Z"
+  "extractedAt": "2026-11-13T18:49:04.466Z"
 }

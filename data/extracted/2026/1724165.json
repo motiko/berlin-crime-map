@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A 38-year-old woman reported missing after leaving her hotel on the morning of 11 October 2026 has been found alive in a hospital. The police had earlier asked for public help in the search.",
+    "summaryEn": "A 38-year-old woman who went missing after leaving her hotel on the morning of 11 October 2026 has been found alive in a hospital. The police had earlier appealed for help in finding her.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.755Z"
+  "extractedAt": "2026-11-13T18:49:04.379Z"
 }

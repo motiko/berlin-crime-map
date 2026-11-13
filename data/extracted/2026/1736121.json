@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Lichtenberg",
-    "summaryEn": "Three women forced their way into a 92-year-old man's apartment in Alt-Hohenschönhausen, held him down and fled with stolen property. The victim suffered arm injuries and was taken to hospital for outpatient treatment.",
+    "summaryEn": "Two women forced their way into a 92-year-old man's flat, held him down and fled with property. The victim was hurt on the arms and taken to hospital for outpatient treatment.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.439Z"
+  "extractedAt": "2026-11-13T18:49:04.312Z"
 }

@@ -9,13 +9,13 @@
     "incidentDate": "2026-06-09",
     "street": "Goebenstraße",
     "houseNumberOrCrossing": "Steinmetzstraße",
-    "placeName": "Schöneberg",
+    "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A scooter rider aged 39 was seriously injured after a collision with a car at a crossing in Schöneberg. He was taken to hospital for emergency surgery.",
+    "summaryEn": "A moped rider was seriously injured in a collision with a car at a junction in Schöneberg. He was taken to hospital for emergency surgery.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "vehicle"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.026Z"
+  "extractedAt": "2026-11-13T18:49:04.476Z"
 }

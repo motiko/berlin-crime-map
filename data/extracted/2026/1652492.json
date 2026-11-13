@@ -10,12 +10,12 @@
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": "U-Bahnhof Osloer Straße",
-    "district": "Mitte",
-    "summaryEn": "After an argument on a green area at Osloer Straße underground station, a 50-year-old man allegedly stabbed a 37-year-old man in the neck with a broken glass bottle. The suspect fled but was arrested in a nearby apartment.",
+    "district": "Pankow",
+    "summaryEn": "After an argument on a green space at Osloer Straße underground station, a 50-year-old allegedly stabbed a 37-year-old in the neck with a broken glass bottle. The suspect fled but was arrested in a nearby apartment; the victim is not in danger of dying.",
     "injured": 1,
     "dead": 0,
     "weaponType": "broken glass bottle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.347Z"
+  "extractedAt": "2026-11-13T18:42:21.593Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "Three men, one posing as a parcel courier, forced their way into a 74-year-old woman's apartment, knocked her to the ground, threatened her and stole jewelry. She complained of neck pain but did not need medical treatment.",
+    "summaryEn": "Three men gained entry to a 74-year-old woman's apartment by posing as a parcel courier, knocked her to the floor, threatened her and stole jewelry. The woman complained of neck pain but did not need medical treatment.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.803Z"
+  "extractedAt": "2026-11-13T18:49:04.431Z"
 }

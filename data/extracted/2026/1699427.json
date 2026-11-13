@@ -8,14 +8,14 @@
     "category": "traffic",
     "incidentDate": "2026-08-02",
     "street": "Grottkauer Straße",
-    "houseNumberOrCrossing": "Baltenring",
+    "houseNumberOrCrossing": "Straße am Baltenring",
     "placeName": "Kaulsdorf",
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A 45-year-old motorcyclist lost control while overtaking on Grottkauer Straße in Kaulsdorf, hitting a bollard and a tree. He was injured and taken to hospital; he did not hold a valid driving licence.",
+    "summaryEn": "A 45-year-old motorcyclist lost control while overtaking on Grottkauer Straße in Kaulsdorf, hit a bollard and a tree, and was taken to hospital. He reportedly did not hold a valid driving licence.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.814Z"
+  "extractedAt": "2026-11-13T18:49:04.448Z"
 }

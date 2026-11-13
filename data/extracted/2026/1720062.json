@@ -6,16 +6,16 @@
   "location": "Pankow",
   "extraction": {
     "category": "other",
-    "incidentDate": "2026-09-29",
-    "street": "Am Bürgerpark",
-    "houseNumberOrCrossing": null,
-    "placeName": "Friedhof Niederschönhausen",
+    "dead": null,
     "district": "Pankow",
-    "summaryEn": "Grave slabs at a cemetery honoring victims of National Socialism were found smeared with black paint, initially reported as vandalism. Police later determined the paint work was a planned relabeling job by a stonemason company, so no crime occurred.",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-09-29",
     "injured": 0,
-    "dead": 0,
+    "placeName": "Friedhof Niederschönhausen",
+    "street": "Am Bürgerpark",
+    "summaryEn": "Graves in a cemetery were found smeared with black paint on 29 September. Police later determined the paint work was planned re-inscription by a stonemason firm, so no offence occurred.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.909Z"
+  "extractedAt": "2026-11-13T18:49:04.457Z"
 }

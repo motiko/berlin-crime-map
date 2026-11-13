@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "Several unknown attackers assaulted three men in Neukölln, using pepper spray and a machete. Two of the men suffered cut injuries and were taken to hospital.",
+    "summaryEn": "Several unknown attackers injured three men in Neukölln using pepper spray and a machete, then fled. Two of the men suffered cut wounds and were taken to hospital.",
     "injured": 3,
     "dead": 0,
     "weaponType": "machete"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.283Z"
+  "extractedAt": "2026-11-13T18:42:21.656Z"
 }

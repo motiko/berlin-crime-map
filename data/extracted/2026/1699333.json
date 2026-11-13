@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Rothenbachstraße",
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "Two cars collided at a junction in Pankow in the evening, when one car was thrown into a traffic light. Two men and two women were injured, the two older ones requiring hospital treatment.",
+    "summaryEn": "Two cars collided at a junction in Pankow on the evening before publication; a traffic light was knocked out. Four people were injured, two of them hospitalized.",
     "injured": 4,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.037Z"
+  "extractedAt": "2026-11-13T18:49:04.247Z"
 }

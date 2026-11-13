@@ -6,16 +6,16 @@
   "location": "berlinweit",
   "extraction": {
     "category": "raid",
-    "incidentDate": "2026-09-18",
-    "street": null,
-    "houseNumberOrCrossing": null,
-    "placeName": null,
-    "district": null,
-    "summaryEn": "Police, customs and Europol carried out coordinated checks on Indian restaurants in Berlin over suspected labour exploitation and human trafficking. Two restaurants were inspected, with 27 employees and one manager checked, and two main suspects were arrested in the Netherlands.",
-    "injured": 0,
     "dead": 0,
+    "district": null,
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-09-18",
+    "injured": 0,
+    "placeName": null,
+    "street": null,
+    "summaryEn": "Coordinated international inspections of Indian restaurants in Berlin and other countries over suspected labour exploitation by a trafficking ring. Two main suspects were arrested in the Netherlands and 27 workers were checked at two Berlin restaurants.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.727Z"
+  "extractedAt": "2026-11-13T18:50:26.675Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "Two men were attacked by a group of 15 to 20 people in front of a supermarket on Sonnenallee, with baseball bats and knives reportedly used. One man suffered a stab wound and the other cuts to the face; both were taken to hospital.",
+    "summaryEn": "A group of 15 to 20 people attacked two men with baseball bats and knives in front of a supermarket on Sonnenallee. One man suffered a stab wound and the other cuts to the face; both were taken to hospital.",
     "injured": 2,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.221Z"
+  "extractedAt": "2026-11-13T18:42:21.647Z"
 }

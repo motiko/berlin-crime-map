@@ -6,16 +6,16 @@
   "location": "Neukölln",
   "extraction": {
     "category": "drugs",
-    "incidentDate": "2026-01-12",
-    "street": "Herrmannstraße",
-    "houseNumberOrCrossing": null,
-    "placeName": null,
-    "district": "Neukölln",
-    "summaryEn": "Police stopped a car in Neukölln around 1 a.m., found over 240 bags of suspected cannabis and arrested two men aged 17 and 19. Forged vehicle registration documents were also seized during searches of the car and apartments.",
-    "injured": 0,
     "dead": 0,
+    "district": "Neukölln",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-01-12",
+    "injured": 0,
+    "placeName": null,
+    "street": "Herrmannstraße",
+    "summaryEn": "Police stopped a car on Herrmannstraße around 1 a.m. and seized over 240 bags of suspected cannabis; two men aged 17 and 19 were arrested. Forged vehicle registration documents were also seized during subsequent apartment searches.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.286Z"
+  "extractedAt": "2026-11-13T18:42:21.588Z"
 }

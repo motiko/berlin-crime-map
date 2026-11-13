@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Letteallee",
     "placeName": null,
     "district": "Reinickendorf",
-    "summaryEn": "A four-year-old boy ran into the road between stationary cars and was struck by a passing car driven by a 19-year-old. The child was injured and taken to hospital for inpatient treatment.",
+    "summaryEn": "A four-year-old boy ran into the road between stationary cars and was hit by a car driven by a 19-year-old man. The child was seriously injured and taken to hospital for inpatient treatment.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.056Z"
+  "extractedAt": "2026-11-13T18:49:04.373Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Police and prosecutors searched apartments, warehouses and an illegal gambling venue in Berlin, Brandenburg, Saxony and Saxony-Anhalt over alleged drug trafficking. Eight suspects were investigated, and three people were arrested.",
+    "summaryEn": "Police and prosecutors searched homes, warehouses and an illegal gambling venue in Berlin, Brandenburg, Saxony and Saxony-Anhalt over suspected illegal drug trafficking. Eight suspects were searched and three were arrested.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.863Z"
+  "extractedAt": "2026-11-13T18:50:39.822Z"
 }

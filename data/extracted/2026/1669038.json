@@ -5,17 +5,17 @@
   "title": "Junge Frau bedroht",
   "location": "Spandau",
   "extraction": {
-    "category": "shooting",
+    "category": "assault",
     "incidentDate": "2026-05-06",
     "street": "Petzoldtweg",
     "houseNumberOrCrossing": "An der Kappe",
     "placeName": null,
     "district": "Spandau",
-    "summaryEn": "A 19-year-old man allegedly fired a blank-firing pistol into the ground several times during a dispute with a 22-year-old woman and then struck her in the face. Witnesses alerted police; the woman declined medical treatment.",
+    "summaryEn": "A 19-year-old man allegedly threatened a 22-year-old woman after an argument, firing blank cartridges into the ground near her and hitting her in the face. Witnesses alerted police; the woman declined medical treatment.",
     "injured": 0,
     "dead": 0,
     "weaponType": "blank-firing gun"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.752Z"
+  "extractedAt": "2026-11-13T18:49:04.294Z"
 }

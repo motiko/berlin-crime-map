@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Parkplatz",
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "Children aged 10 to 12 were involved in a fight at a car park in Marzahn; a 10-year-old was kicked in the head and taken to hospital. Two suspects were detained by witnesses until police arrived and later also assaulted the witnesses.",
-    "injured": 3,
+    "summaryEn": "Children aged 10, 12 and 7 were involved in a fight on a car park; a 10-year-old was kicked in the head and injured, and two women were hit or kicked when they detained the suspects.",
+    "injured": 4,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.961Z"
+  "extractedAt": "2026-11-13T18:49:04.180Z"
 }

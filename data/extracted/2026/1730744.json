@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Bar in Wilmersdorf",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Several shots were fired at the front windows of a bar in Wilmersdorf around 6:30 a.m., damaging the windows. People inside were not injured, and police secured cartridge casings.",
+    "summaryEn": "Several shots were fired at the front window of a bar in Wilmersdorf around 6:30 a.m., damaging it. No one inside was injured, and cartridge casings were secured on the sidewalk and road.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.770Z"
+  "extractedAt": "2026-11-13T18:49:04.472Z"
 }

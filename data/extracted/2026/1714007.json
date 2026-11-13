@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Görlitzer Park",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Police checked a 49-year-old woman carrying an axe in the Görlitzer Park weapons-ban zone. She attacked officers, who used a distance electroshock weapon (DEIG) to subdue her.",
+    "summaryEn": "A 49-year-old woman carrying an axe in a weapons ban zone at Görlitzer Park attacked officers during a check and was subjected to a Taser (DEIG) use. She was released on site after identity checks; investigations are ongoing.",
     "injured": 0,
     "dead": 0,
-    "weaponType": "axe"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.753Z"
+  "extractedAt": "2026-11-13T18:49:04.137Z"
 }

@@ -6,16 +6,16 @@
   "location": "Tempelhof-Schöneberg",
   "extraction": {
     "category": "political",
-    "dead": 0,
-    "district": "Tempelhof-Schöneberg",
-    "houseNumberOrCrossing": null,
     "incidentDate": "2026-04-04",
-    "injured": 2,
-    "placeName": null,
     "street": "Winterfeldtstraße",
-    "summaryEn": "Two 32-year-old men were insulted and attacked by unknown men after leaving a bar in Schöneberg around 0:45. The State Security unit took over the investigation of the suspected racist and bodily-harm attack.",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Two 32-year-old men were attacked and racially insulted after leaving a bar in Schöneberg by two unknown men, who kicked and punched at them. The State Security unit took over the investigation.",
+    "injured": 2,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.257Z"
+  "extractedAt": "2026-11-13T18:42:21.571Z"
 }

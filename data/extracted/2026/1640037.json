@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "Three masked men robbed a jewelry and watch shop in Rudow in the morning, forcing the owner to open a safe. Two people, a man and a woman, were injured and treated at a hospital.",
+    "summaryEn": "Three masked men robbed a jewelry and watch shop in Rudow in the morning, pouring an unknown liquid over the owner and an employee and forcing them to open the safe and cash register. Both victims were injured and treated at a hospital as outpatients.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.350Z"
+  "extractedAt": "2026-11-13T18:42:21.546Z"
 }

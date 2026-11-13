@@ -9,13 +9,13 @@
     "incidentDate": "2026-05-24",
     "street": "Unnaer Straße",
     "houseNumberOrCrossing": null,
-    "placeName": "Falkenhagener Feld",
+    "placeName": null,
     "district": "Spandau",
-    "summaryEn": "A 24-year-old man allegedly attacked his 27-year-old brother with a steak knife during a dispute at a house in Falkenhagener Feld, causing knee cuts. When police arrived, the suspect resisted and was subdued with a Taser (DEIG) before being arrested.",
+    "summaryEn": "A 24-year-old man allegedly attacked his 27-year-old brother with a steak knife during a dispute at a house in Falkenhagener Feld, injuring his knee. Police used a taser to arrest the suspect, who was later released.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.719Z"
+  "extractedAt": "2026-11-13T18:49:04.269Z"
 }

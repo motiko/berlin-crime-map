@@ -9,13 +9,13 @@
     "incidentDate": "2026-02-09",
     "street": "Siemensdamm",
     "houseNumberOrCrossing": null,
-    "placeName": "Einkaufscenter am Siemensdamm",
+    "placeName": "Einkaufscenter in Siemensstadt",
     "district": "Spandau",
-    "summaryEn": "A 26-year-old man grabbed cash from a cash register drawer during a payment and fled when the cashier tried to hold him. Off-duty officers detained him in the mall exit area; two officers were lightly injured.",
+    "summaryEn": "A 26-year-old man took cash from a cash register drawer at a shopping centre and fled, grabbing away from the cashier who tried to hold him. He was arrested by off-duty police officers, who were slightly injured.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.201Z"
+  "extractedAt": "2026-11-13T18:42:21.557Z"
 }

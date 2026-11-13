@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Stadion an der Waldschulallee",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "After a football match in Westend, about 50 away fans tried to reach home fans and attacked police, who used pepper spray and detained five men. Two detained people were treated for eye irritation.",
+    "summaryEn": "After a football match in Westend, about 30 away fans entered the home area and around 50 tried to reach home fans; police detained five men and used pepper spray when attacked. Two detained men were treated for eye irritation.",
     "injured": 2,
     "dead": 0,
     "weaponType": "pepper spray"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.706Z"
+  "extractedAt": "2026-11-13T18:49:04.370Z"
 }

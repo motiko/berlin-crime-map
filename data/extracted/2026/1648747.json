@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Spandau",
-    "summaryEn": "A 19-year-old man resisted arrest and injured several police officers during an incident in Wilhelmstadt. Two relatives then allegedly tried to prevent police measures by force, and officers used pepper spray.",
+    "summaryEn": "A 19-year-old man was arrested after insulting and violently resisting police in Wilhelmstadt, injuring several officers. His father and an acquaintance then tried to stop the measures with physical force, and police used pepper spray.",
     "injured": 4,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.332Z"
+  "extractedAt": "2026-11-13T18:42:21.607Z"
 }

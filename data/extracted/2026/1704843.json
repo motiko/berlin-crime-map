@@ -6,16 +6,16 @@
   "location": "Mitte",
   "extraction": {
     "category": "political",
-    "dead": 0,
-    "district": "Mitte",
-    "houseNumberOrCrossing": null,
     "incidentDate": "2026-08-19",
-    "injured": 0,
-    "placeName": "Hansaviertel",
     "street": "Hanseatenweg",
-    "summaryEn": "A rainbow flag and its lighting fixture were found damaged at an art university on Hanseatenweg in the Hansaviertel. The State Security police unit took over the investigation.",
+    "houseNumberOrCrossing": null,
+    "placeName": "Hansaviertel",
+    "district": "Mitte",
+    "summaryEn": "A rainbow flag and its lighting equipment were damaged in the Hansaviertel area. The state security unit (Staatsschutz) has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.740Z"
+  "extractedAt": "2026-11-13T18:49:04.120Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Lichtenberg",
-    "summaryEn": "An 87-year-old man was defrauded by callers posing as a hospital doctor, who handed over jewelry and gold to a collector at his home in Alt-Hohenschönhausen. Police are searching for an unknown suspect shown on surveillance footage.",
+    "summaryEn": "An 87-year-old man was tricked by a caller posing as a hospital doctor into handing over jewelry and gold to a collector. Police are searching for the unidentified suspect via surveillance footage.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.761Z"
+  "extractedAt": "2026-11-13T18:49:04.341Z"
 }

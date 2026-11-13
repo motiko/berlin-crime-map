@@ -9,13 +9,13 @@
     "incidentDate": "2026-08-21",
     "street": "Mariendorfer Damm",
     "houseNumberOrCrossing": "Ullsteinstraße",
-    "placeName": null,
+    "placeName": "Mariendorf",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 45-year-old man fired several shots from his balcony in Mariendorf after threatening people, and was arrested by a special unit. Nobody was injured; the gun found was a blank-firing revolver.",
+    "summaryEn": "A 45-year-old man fired several shots from a balcony in Mariendorf and was arrested by a special unit after police forced entry to his flat. A starter pistol and ammunition were seized; nobody was hurt.",
     "injured": 0,
     "dead": 0,
     "weaponType": "blank-firing gun"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.705Z"
+  "extractedAt": "2026-11-13T18:49:04.116Z"
 }

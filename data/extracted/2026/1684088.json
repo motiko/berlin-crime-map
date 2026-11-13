@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A 31-year-old man allegedly insulted, spat at and assaulted a group in Charlottenburg in an antisemitic manner, including a man wearing a kippah and two children. No one required medical treatment, and the Staatsschutz is investigating.",
+    "summaryEn": "A 31-year-old man allegedly insulted, spat at and attacked several people in an antisemitic incident in Charlottenburg in the afternoon. No one required medical treatment, and the State Security unit is investigating.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.050Z"
+  "extractedAt": "2026-11-13T18:49:04.439Z"
 }

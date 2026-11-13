@@ -8,14 +8,14 @@
     "category": "traffic",
     "incidentDate": "2026-02-15",
     "street": "Allee der Kosmonauten",
-    "houseNumberOrCrossing": "Eitelstraße",
+    "houseNumberOrCrossing": "Helene-Weigel-Platz",
     "placeName": "Helene-Weigel-Platz",
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "An elderly car driver turned left and collided with a tram on Allee der Kosmonauten. The driver and one passenger were injured.",
+    "summaryEn": "A 78-year-old car driver turning left collided with a tram in Marzahn. The driver was seriously hurt and a passenger was slightly injured.",
     "injured": 2,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.247Z"
+  "extractedAt": "2026-11-13T18:42:21.576Z"
 }

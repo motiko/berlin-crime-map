@@ -9,13 +9,13 @@
     "incidentDate": "2026-07-09",
     "street": "Rauchstraße",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Hakenfelde",
     "district": "Spandau",
-    "summaryEn": "A 51-year-old non-binary person was insulted and attacked by three unknown youths in Hakenfelde, with objects thrown and fireworks set off nearby. The person was unharmed, and the police state protection unit is investigating a possible queer-hostile motive.",
+    "summaryEn": "A 51-year-old non-binary person was insulted and attacked with a plastic bottle, sandals and fireworks by three unknown youths in Hakenfelde. The Staatsschutz is investigating a suspected queer-hostile attack.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.868Z"
+  "extractedAt": "2026-11-13T18:49:04.262Z"
 }

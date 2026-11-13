@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "In March 2026, several shots were fired during an altercation on Karl-Marx-Straße, injuring an uninvolved 24-year-old in the leg. A 40-year-old suspect was arrested on 24 July 2026 in Sonnenallee.",
+    "summaryEn": "Following an arrest in a case of shots fired in a dispute on Karl-Marx-Straße in March 2026, a 40-year-old suspect was taken into custody on 24 July 2026. An uninvolved 24-year-old was hit in the leg and injured.",
     "injured": 1,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.059Z"
+  "extractedAt": "2026-11-13T18:49:04.153Z"
 }

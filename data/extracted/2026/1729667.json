@@ -7,15 +7,15 @@
   "extraction": {
     "category": "other",
     "incidentDate": "2026-10-25",
-    "street": "Platz der Luftbrücke",
-    "houseNumberOrCrossing": "6",
-    "placeName": "Polizeipräsidium",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Polizeipräsidium Platz der Luftbrücke",
     "district": null,
-    "summaryEn": "Police and a carpentry guild invite the public to a free burglary-prevention consultation at police headquarters on 25 October 2026. A demonstration of a break-in attempt on a security window is planned for 13:00.",
+    "summaryEn": "Police and a carpentry guild invite the public to a free burglary prevention advice day on 25 October 2026 at the police headquarters. Security equipment will be shown and a window break-in test demonstrated.",
     "injured": null,
     "dead": null,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.928Z"
+  "extractedAt": "2026-11-13T18:49:04.101Z"
 }

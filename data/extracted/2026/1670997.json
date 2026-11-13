@@ -10,12 +10,12 @@
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": "Münsinger Park",
-    "district": null,
-    "summaryEn": "Police and prosecutors raided 17 addresses in Spandau and Neukölln over alleged gang-based drug dealing, mainly around Münsinger Park. Two suspects were remanded in custody, and one police officer was lightly injured.",
+    "district": "Spandau",
+    "summaryEn": "Police and prosecutors raided 17 addresses in Spandau and Neukölln and arrested two suspects in a case of gang-related drug trafficking centred on Münsinger Park. Eleven suspects aged 18 to 29 are under investigation.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.762Z"
+  "extractedAt": "2026-11-13T18:50:40.481Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Johannisthaler Chaussee",
     "placeName": "Gropiusstadt",
     "district": "Neukölln",
-    "summaryEn": "Three suspects aged 25, 34 and 35 allegedly broke into two apartments in Gropiusstadt on the same morning and stole jewelry, coins and cash. The trio was arrested by LKA officers later that day after being found with the loot and burglary tools.",
+    "summaryEn": "Three suspects allegedly broke into two apartments in Gropiusstadt and stole jewellery, coins and cash, and were arrested with the loot and burglary tools. The suspects were brought before a duty court to request arrest warrants.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.865Z"
+  "extractedAt": "2026-11-13T18:49:04.437Z"
 }

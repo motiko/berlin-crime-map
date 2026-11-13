@@ -6,16 +6,16 @@
   "location": "Marzahn-Hellersdorf",
   "extraction": {
     "category": "traffic",
-    "dead": 0,
-    "district": "Marzahn-Hellersdorf",
-    "houseNumberOrCrossing": "Geraer Ring",
     "incidentDate": "2026-08-28",
+    "street": "Geraer Ring",
+    "houseNumberOrCrossing": "Köthener Straße",
+    "placeName": "Marzahn",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A hit-and-run driver struck a two-year-old boy crossing the Geraer Ring in Marzahn, then reversed into a waiting truck and fled. The boy was taken to hospital with injuries to arms, legs and head.",
     "injured": 1,
-    "placeName": null,
-    "street": "Köthener Straße",
-    "summaryEn": "A hit-and-run driver allegedly struck a two-year-old boy at Köthener Straße in Marzahn, then collided with a waiting truck while reversing and fled. The boy was taken to hospital with injuries.",
+    "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.983Z"
+  "extractedAt": "2026-11-13T18:49:04.376Z"
 }

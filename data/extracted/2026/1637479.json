@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "Several shots were fired during a family dispute in an apartment in Tiergarten, injuring four people. Attempted manslaughter investigations were opened by the homicide unit.",
+    "summaryEn": "After family disputes in an apartment, several shots were fired and four people were injured, including two with life-threatening wounds. Attempted manslaughter investigations were opened by the homicide unit.",
     "injured": 4,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.349Z"
+  "extractedAt": "2026-11-13T18:42:21.519Z"
 }

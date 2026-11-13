@@ -9,13 +9,13 @@
     "incidentDate": "2026-11-04",
     "street": "Lankwitzer Straße",
     "houseNumberOrCrossing": null,
-    "placeName": "Männerwohnheim",
+    "placeName": "Männerwohnheim in Mariendorf",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 39-year-old woman entered a men's hostel without permission, threw glass bottles and struck a security guard with a traffic sign, then attacked a police officer and resisted arrest. Two police officers and one security employee were injured.",
+    "summaryEn": "A 39-year-old woman entered a men's hostel without permission, threw glass bottles and struck a security guard with a road sign, then hit a police officer and injured an officer during arrest. The security guard and two police officers were hurt or attacked.",
     "injured": 3,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.426Z"
+  "extractedAt": "2026-11-13T18:49:04.292Z"
 }

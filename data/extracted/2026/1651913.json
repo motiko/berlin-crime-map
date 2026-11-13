@@ -7,15 +7,15 @@
   "extraction": {
     "category": "political",
     "incidentDate": "2026-03-11",
-    "street": null,
+    "street": "Schlesisches Tor",
     "houseNumberOrCrossing": null,
     "placeName": "U-Bahnhof Schlesisches Tor",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 44-year-old woman allegedly insulted two security staff working for the BVG with xenophobic and antisemitic remarks near the entrance of a U-Bahn station. The State Security unit has taken over the investigation.",
+    "summaryEn": "A 44-year-old woman allegedly insulted two security employees working for the BVG with xenophobic and antisemitic remarks at the entrance of the U-Bahn station Schlesisches Tor. The State Security unit has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.325Z"
+  "extractedAt": "2026-11-13T18:42:21.555Z"
 }

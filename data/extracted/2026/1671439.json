@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Unterkunft für Geflüchtete",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "After a party among residents of a refugee shelter escalated, a 38-year-old man was found with several stab wounds in his room. He was taken to hospital with non-life-threatening injuries, and two older men were arrested.",
+    "summaryEn": "After a party among residents of a shelter, a 38-year-old man was found with multiple stab wounds in his room. Two other men, aged 54 and 59, were detained; they are suspected of dangerous bodily injury.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.679Z"
+  "extractedAt": "2026-11-13T18:49:04.317Z"
 }

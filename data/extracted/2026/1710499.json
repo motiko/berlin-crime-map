@@ -5,17 +5,17 @@
   "title": "Mann droht während Fernsehinterview mit Einsatz einer Schusswaffe",
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
-    "category": "robbery",
+    "category": "assault",
     "incidentDate": "2026-09-02",
     "street": "Boxhagener Platz",
     "houseNumberOrCrossing": null,
     "placeName": "Boxhagener Platz",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "During a TV interview on Boxhagener Platz, a young man on an e-scooter allegedly drew a firearm and pointed it at the interviewee, then fled. Nobody was reported injured.",
+    "summaryEn": "During a TV interview on Boxhagener Platz, a man on an e-scooter allegedly drew a firearm and pointed it at the interviewee, then fled. Nobody was reported injured.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.710Z"
+  "extractedAt": "2026-11-13T18:49:04.447Z"
 }

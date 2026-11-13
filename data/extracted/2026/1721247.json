@@ -6,16 +6,16 @@
   "location": "Marzahn-Hellersdorf",
   "extraction": {
     "category": "assault",
-    "incidentDate": "2026-10-03",
-    "street": "Hellersdorfer Straße",
-    "houseNumberOrCrossing": null,
-    "placeName": null,
-    "district": "Marzahn-Hellersdorf",
-    "summaryEn": "An unknown person sprayed irritant gas at an event in Hellersdorf, injuring a 17-year-old woman. A 17-year-old man who followed the attacker was also sprayed and kicked, and both were treated as outpatients.",
-    "injured": 2,
     "dead": 0,
+    "district": "Marzahn-Hellersdorf",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-10-03",
+    "injured": 2,
+    "placeName": null,
+    "street": "Hellersdorfer Straße",
+    "summaryEn": "An unknown person sprayed irritant gas at an event outside in Hellersdorf, injuring a 17-year-old girl, and then at a 17-year-old boy who confronted him, who was also kicked. Both were treated as outpatients.",
     "weaponType": "irritant spray"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.842Z"
+  "extractedAt": "2026-11-13T18:49:04.177Z"
 }

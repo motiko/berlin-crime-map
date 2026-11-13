@@ -9,13 +9,13 @@
     "incidentDate": "2026-07-06",
     "street": "Kottbusser Damm",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Pfandleihhaus",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Several masked suspects forced their way into a pawnshop, threatened staff with a firearm and fled with jewelry after spraying fire extinguisher powder. Four employees suffered respiratory irritation and declined medical treatment.",
+    "summaryEn": "Several masked suspects forcibly entered a pawn shop, threatened staff with a firearm, and took jewellery from the safes before fleeing by car. Four employees suffered airway irritation from fire extinguisher powder.",
     "injured": 4,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.045Z"
+  "extractedAt": "2026-11-13T18:49:04.104Z"
 }

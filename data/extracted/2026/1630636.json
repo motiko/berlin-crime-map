@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "Two unknown men posing as a criminal police officer and a power grid employee entered a 91-year-old woman's flat, obtained her PIN and stole her bank card. The pair then fled.",
+    "summaryEn": "Two unknown men posing as a criminal police officer and an electricity network employee entered a 91-year-old woman's flat, obtained her bank card and PIN, and later stole her card. Police are investigating.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.311Z"
+  "extractedAt": "2026-11-13T18:42:21.539Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Police separated two men in a physical fight on Tempelhofer Damm in the evening. One man, aged 24, had a stab wound to the upper body and was taken to hospital; a knife was found in a nearby parked car.",
+    "summaryEn": "After a physical altercation between two men on Tempelhofer Damm, one man, 24, was found with a stab wound to the upper body and taken to hospital. Police seized a knife found in a parked car nearby.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.980Z"
+  "extractedAt": "2026-11-13T18:49:04.357Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Krankenhaus des Maßregelvollzugs in Buch",
     "district": "Pankow",
-    "summaryEn": "A 45-year-old man in a forensic psychiatric hospital in Buch threatened staff and an officer with a broken plate shard, attacking police after they entered his cell. He was subdued with a distance electroshock weapon (DEIG) and handcuffed, and was not injured.",
+    "summaryEn": "A 45-year-old man in a forensic psychiatric hospital in Buch armed himself with a broken plate shard and threatened police, who used a distance electroshock device (DEIG) to subdue him. He was not injured.",
     "injured": 0,
     "dead": 0,
-    "weaponType": "improvised blade (broken plate shard); distance electroshock weapon used by police"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.884Z"
+  "extractedAt": "2026-11-13T18:49:04.159Z"
 }

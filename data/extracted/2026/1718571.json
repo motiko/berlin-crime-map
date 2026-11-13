@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Parkplatz eines Einkaufsmarktes",
     "district": "Mitte",
-    "summaryEn": "An 18-year-old was stabbed several times with a knife in a dispute with a group on a supermarket car park. The suspected attacker, a 13-year-old, has been identified.",
+    "summaryEn": "An 18-year-old was stabbed several times in a dispute with a group in a supermarket car park, and the group fled. A 13-year-old has been identified as a suspect.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.840Z"
+  "extractedAt": "2026-11-13T18:49:04.390Z"
 }

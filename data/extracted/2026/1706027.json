@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Puschkinallee",
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A cyclist and a pedestrian collided on a bicycle lane on Schlesische Straße at night. Both fell to the ground, and both were taken to hospital.",
+    "summaryEn": "A 53-year-old cyclist collided with an 18-year-old pedestrian who entered the cycle lane on Schlesische Straße at night. Both fell to the ground; the cyclist was hospitalised with serious injuries.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.787Z"
+  "extractedAt": "2026-11-13T18:49:04.432Z"
 }

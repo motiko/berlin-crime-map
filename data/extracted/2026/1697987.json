@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Gemeinschaftsunterkunft für geflüchtete Menschen",
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "Fire was set against the facade of a refugee shelter in Hellersdorf overnight; a burning object was thrown at the building. The fire was extinguished by a security service, and the State Security unit is investigating.",
+    "summaryEn": "A burning object was thrown at the facade of a refugee shelter in Hellersdorf overnight. The security service extinguished the fire, and no one was hurt; the State Security unit is investigating.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.871Z"
+  "extractedAt": "2026-11-13T18:49:04.199Z"
 }

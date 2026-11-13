@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Park am Weißen See",
     "district": "Pankow",
-    "summaryEn": "A swastika was painted on a memorial to antifascist resistance fighters in a park in Weißensee. Police removed the paint and the political police unit (Staatsschutz) took over the investigation.",
+    "summaryEn": "A swastika was sprayed on a monument to anti-fascist resistance fighters in a park in Weißensee and was made unrecognisable by police. The State Security unit (Staatsschutz) took over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.990Z"
+  "extractedAt": "2026-11-13T18:49:04.291Z"
 }

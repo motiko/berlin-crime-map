@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Haberlandweg",
     "placeName": null,
     "district": "Spandau",
-    "summaryEn": "Four unknown men attacked a 27-year-old man, injuring him with blows, kicks and a knife, and stole his backpack and cash. The victim was taken to hospital for outpatient treatment.",
+    "summaryEn": "Four unknown assailants attacked a 27-year-old man at a street corner in Spandau, beating and cutting him with a knife and taking his backpack and cash. The victim was taken to hospital for outpatient treatment.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.267Z"
+  "extractedAt": "2026-11-13T18:42:21.659Z"
 }

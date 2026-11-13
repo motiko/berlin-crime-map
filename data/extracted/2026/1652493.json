@@ -8,14 +8,14 @@
     "category": "assault",
     "incidentDate": "2026-03-15",
     "street": "Michael-Bohnen-Ring",
-    "houseNumberOrCrossing": "Sonnenallee Ecke Hänselstraße",
+    "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "A 23-year-old man was beaten with tools and objects by a group of at least ten people after a dispute over money owed. Two suspects, aged 24 and 27, were detained and later released.",
+    "summaryEn": "A 23-year-old man was beaten with tools and objects by a group of about ten people after a dispute over money owed. Two suspects, aged 24 and 27, were temporarily arrested nearby.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.259Z"
+  "extractedAt": "2026-11-13T18:42:21.632Z"
 }

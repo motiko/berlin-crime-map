@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Gewerbegebiet Heinersdorf",
     "district": "Pankow",
-    "summaryEn": "A deliberate fire broke out in a commercial area in Heinersdorf, spreading to a commercial hall, storage containers and vehicles. The building owner suffered a minor burn while trying to extinguish it.",
+    "summaryEn": "Arson at a commercial area in Heinersdorf spread from a warehouse to nearby storage containers and vehicles, producing a large smoke plume. The building owner suffered a minor burn while trying to extinguish the fire.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.738Z"
+  "extractedAt": "2026-11-13T18:49:04.364Z"
 }

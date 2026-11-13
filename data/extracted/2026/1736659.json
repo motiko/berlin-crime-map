@@ -9,13 +9,13 @@
     "incidentDate": "2026-11-08",
     "street": "Wuhlewanderweg",
     "houseNumberOrCrossing": "Cecilienbrücke",
-    "placeName": "Hellersdorf",
+    "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A man allegedly approached a 17-year-old pedestrian near the Cecilienbrücke, threatened her with a firearm and struck her on the head with it, causing her to lose consciousness. Police are seeking witnesses.",
+    "summaryEn": "A man allegedly threatened a 17-year-old pedestrian with what appeared to be a firearm and struck her on the head with it, causing her to lose consciousness. Police are appealing for witnesses.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "firearm"
+    "weaponType": "firearm (used as blunt object)"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.437Z"
+  "extractedAt": "2026-11-13T18:49:04.350Z"
 }

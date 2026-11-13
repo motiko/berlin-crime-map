@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Lichtenberg",
-    "summaryEn": "Two suspects posing as telecom employees allegedly stole jewelry and cash from a 92-year-old woman's apartment in a distraction theft. Two 26-year-old suspects were arrested the same evening in Charlottenburg, and the stolen goods were recovered.",
+    "summaryEn": "Two suspects posing as telecom workers allegedly stole jewellery and cash from a 92-year-old woman's flat in Frankfurt Allee. Both were arrested in Charlottenburg, and the stolen goods were seized during a search.",
     "injured": 0,
-    "dead": null,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.006Z"
+  "extractedAt": "2026-11-13T18:49:04.151Z"
 }

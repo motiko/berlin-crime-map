@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Court convicted two men on 10 November 2026 of attempted manslaughter over a March 2026 shooting of a 38-year-old man in Schöneberg; a third defendant was acquitted and the verdict is not yet final. The shooting itself injured the victim, who was not in mortal danger.",
+    "summaryEn": "Two men were convicted on 10 November 2026 of attempted manslaughter over a March 2026 shooting of a 38-year-old man in Schöneberg; a third accused was acquitted. The verdict is not yet final.",
     "injured": 1,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.420Z"
+  "extractedAt": "2026-11-13T18:49:04.426Z"
 }

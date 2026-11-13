@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Fennpfuhl",
     "district": "Lichtenberg",
-    "summaryEn": "A kitchen fire broke out in a fourth-floor flat in an apartment building in Fennpfuhl. A 44-year-old resident was found unresponsive, died in hospital, and no one else was hurt.",
+    "summaryEn": "A kitchen fire broke out in a fourth-floor flat in an apartment block in Fennpfuhl; the 44-year-old resident was found unresponsive and died in hospital. Police investigate on suspicion of negligent arson.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.281Z"
+  "extractedAt": "2026-11-13T18:50:50.109Z"
 }

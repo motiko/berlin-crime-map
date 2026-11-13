@@ -6,16 +6,16 @@
   "location": "Pankow",
   "extraction": {
     "category": "missing",
-    "incidentDate": "2026-09-13",
+    "incidentDate": "2026-09-14",
     "street": null,
     "houseNumberOrCrossing": null,
-    "placeName": "Prenzlauer Berg",
+    "placeName": "Alte Münze",
     "district": "Pankow",
-    "summaryEn": "A 31-year-old tourist reported missing since 14 September 2026 has been found safe. He had been taken to hospital in a helpless state on 13 September and was discharged on 14 September.",
-    "injured": 0,
+    "summaryEn": "A 31-year-old tourist reported missing on 14 September was found safe in Prenzlauer Berg. He had been taken to hospital in a helpless state on 13 September and was discharged the previous afternoon.",
+    "injured": null,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.823Z"
+  "extractedAt": "2026-11-13T18:49:04.456Z"
 }

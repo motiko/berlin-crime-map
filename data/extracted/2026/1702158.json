@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Spielplatz an der Wönnichstraße",
     "district": "Lichtenberg",
-    "summaryEn": "A 59-year-old man insulted an eleven-year-old girl on a playground in Rummelsburg with xenophobic remarks and made inflammatory statements toward her. Police Staatsschutz are investigating after witnesses helped identify the suspect.",
+    "summaryEn": "A 59-year-old man insulted an eleven-year-old girl in a playground in Rummelsburg in xenophobic terms and made inciting statements. The state security unit is investigating after he was located with witness help.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.812Z"
+  "extractedAt": "2026-11-13T18:49:04.407Z"
 }

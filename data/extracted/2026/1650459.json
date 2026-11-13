@@ -7,15 +7,15 @@
   "extraction": {
     "category": "traffic",
     "incidentDate": "2026-03-07",
-    "street": "Magistratsweg",
-    "houseNumberOrCrossing": "Brunsbütteler Damm",
+    "street": "Seeburger Straße",
+    "houseNumberOrCrossing": "Magistratsweg/Brunsbütteler Damm",
     "placeName": "Staaken",
     "district": "Spandau",
-    "summaryEn": "A 25-year-old driver fled from police at high speed in Staaken and lost control at a crossing, colliding with five parked cars. He was arrested shortly afterwards and had no driving licence.",
+    "summaryEn": "A 25-year-old driver fled from police at high speed in Staaken, ran a red light and crashed into five parked cars. He was arrested but could not show a driving licence.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.261Z"
+  "extractedAt": "2026-11-13T18:42:21.582Z"
 }

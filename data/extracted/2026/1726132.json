@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Altglienicke",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A man threatened to kill his wife and three children at a single-family home in Altglienicke, and the wife and children locked themselves in a bedroom. Special operations police arrested the 52-year-old man, who was slightly injured, and a no-return order was issued against him.",
+    "summaryEn": "A 52-year-old man threatened to kill his wife and three children at a house in Altglienicke, and the family locked themselves in a bedroom. Special forces arrested him; he suffered a facial injury and was issued a restraining order.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.947Z"
+  "extractedAt": "2026-11-13T18:49:04.395Z"
 }

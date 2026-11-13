@@ -5,17 +5,17 @@
   "title": "Mann mit Messer angegriffen – Ermittlungen zu einem versuchten Tötungsdelikt",
   "location": "Neukölln",
   "extraction": {
-    "category": "homicide",
+    "category": "knife",
     "incidentDate": "2026-08-17",
     "street": "Hobrechtstraße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "A 33-year-old man was stabbed in the leg during a dispute on Hobrechtstraße and the suspect fled after city officers intervened. A homicide unit is investigating the attempted killing; the 38-year-old suspect was arrested.",
+    "summaryEn": "A 33-year-old man was stabbed in the leg in a suspected attempted killing in Neukölln after a dispute escalated. Public order employees intervened, and the 38-year-old suspect was arrested the following day.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.900Z"
+  "extractedAt": "2026-11-13T18:49:04.251Z"
 }

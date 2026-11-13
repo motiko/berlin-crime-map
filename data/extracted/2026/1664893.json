@@ -6,16 +6,16 @@
   "location": "Charlottenburg-Wilmersdorf",
   "extraction": {
     "category": "traffic",
-    "incidentDate": "2026-04-26",
-    "street": "Olympischer Platz",
-    "houseNumberOrCrossing": null,
-    "placeName": "Westend",
-    "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Two 13-year-old boys were injured when the e-scooter they were riding crashed on Olympischer Platz while braking, reportedly at excessive speed. The scooter lacked an insurance plate, and a criminal complaint was filed.",
-    "injured": 2,
     "dead": 0,
+    "district": "Charlottenburg-Wilmersdorf",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-04-26",
+    "injured": 2,
+    "placeName": "Westend",
+    "street": "Olympischer Platz",
+    "summaryEn": "Two 13-year-olds were injured when the e-scooter they were riding crashed on Olympischer Platz after the driver apparently lost control while braking. The scooter had no insurance plate, and a criminal complaint was filed.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.918Z"
+  "extractedAt": "2026-11-13T18:49:04.450Z"
 }

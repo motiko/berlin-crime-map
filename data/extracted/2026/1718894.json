@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "A 28-year-old man was stabbed in the chest on the pavement in front of a bar in Turmstraße around 10 p.m. The unknown suspect fled; the victim underwent surgery and is not in danger of his life.",
+    "summaryEn": "A 28-year-old man was stabbed in the chest on the pavement outside a bar in Turmstraße late at night. The unknown attacker fled, and police are appealing for witnesses; the victim is not in mortal danger.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.027Z"
+  "extractedAt": "2026-11-13T18:49:04.292Z"
 }

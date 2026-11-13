@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Police, prosecutors and customs searched three properties in Mitte, Friedrichshain and Kreuzberg in an investigation into suspected human trafficking for labour exploitation against eight suspects. Four workers were found at a kitchen-accommodation site, which was closed for hygiene and fire-safety deficiencies.",
+    "summaryEn": "Police, prosecutors and customs searched three addresses in Mitte, Friedrichshain and Kreuzberg over suspected human trafficking for labour exploitation of Indian specialty cooks. Four workers were found at a kitchen and accommodation site, which was closed due to hygiene and fire safety defects.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.018Z"
+  "extractedAt": "2026-11-13T18:50:37.896Z"
 }

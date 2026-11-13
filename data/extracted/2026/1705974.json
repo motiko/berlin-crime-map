@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Falkenseer Platz",
     "placeName": "Koeltzepark",
     "district": "Spandau",
-    "summaryEn": "Two men aged 24 and 26 were arrested after allegedly throwing flammable objects at election posters on Falkenseer Damm and Falkenseer Platz, damaging both. The police Staatsschutz is continuing the investigation.",
+    "summaryEn": "Two men aged 24 and 26 allegedly threw flammable objects at election posters on Falkenseer Damm and Falkenseer Platz, damaging both; the Staatsschutz is investigating. The suspects were arrested and released after identity checks.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.874Z"
+  "extractedAt": "2026-11-13T18:49:04.282Z"
 }

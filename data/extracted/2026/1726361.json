@@ -7,15 +7,15 @@
   "extraction": {
     "category": "burglary",
     "incidentDate": "2026-10-14",
-    "street": "Südostallee",
-    "houseNumberOrCrossing": null,
+    "street": "Schnellerstraße",
+    "houseNumberOrCrossing": "Südostallee",
     "placeName": "Johannisthal",
     "district": "Treptow-Köpenick",
-    "summaryEn": "Two teenagers suspected of scooter theft were arrested after police stopped them on a stolen small motorcycle in Johannisthal. A second stolen scooter was recovered from Hubertusstraße.",
+    "summaryEn": "Two teenagers were arrested in Johannisthal after police saw them riding a stolen scooter without helmets; a second stolen scooter was seized. Investigations are ongoing.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.796Z"
+  "extractedAt": "2026-11-13T18:49:04.409Z"
 }

@@ -5,17 +5,17 @@
   "title": "Maßnahmen der BAO Ferrum und EG Telum - Schusswaffe bei Wohnungsdurchsuchung gefunden",
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
-    "category": "drugs",
+    "category": "raid",
     "incidentDate": "2026-05-15",
     "street": "Naunynstraße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Police searched an apartment in Kreuzberg used to store licensed firearms, ammunition and narcotics and arrested a 71-year-old suspect. A firearm, ammunition, a non-trivial quantity of cocaine and gold bars were seized.",
+    "summaryEn": "Police executed a search warrant at an apartment in Kreuzberg suspected of storing firearms, ammunition and narcotics, finding a gun, cocaine and gold bars. A 71-year-old suspect was arrested.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.792Z"
+  "extractedAt": "2026-11-13T18:50:39.980Z"
 }

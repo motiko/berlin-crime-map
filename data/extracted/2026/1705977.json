@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "U-Bahnhof Kottbusser Tor",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 39-year-old man allegedly injured a 37-year-old man with a box cutter on the U8 platform at Kottbusser Tor after the victim said he was pro-Israel. The Staatsschutz has taken over the investigation.",
+    "summaryEn": "After a conversation on a U8 platform, a 39-year-old man allegedly injured a 37-year-old with a cutter knife after the latter said he was pro-Israel. The case was taken over by the state security unit.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.765Z"
+  "extractedAt": "2026-11-13T18:49:04.463Z"
 }

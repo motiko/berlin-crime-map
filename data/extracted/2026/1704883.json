@@ -5,17 +5,17 @@
   "title": "Festnahmen nach versuchtem Trickdiebstahl",
   "location": "Reinickendorf",
   "extraction": {
-    "category": "fraud",
+    "category": "burglary",
     "incidentDate": "2026-08-18",
     "street": "Roedernallee",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Reinickendorf",
-    "summaryEn": "Two women aged 19 and 28 allegedly gained entry to an 84-year-old woman's apartment by posing as care service staff to steal from her. A witness alerted police, and both suspects were arrested at the scene for attempted fraud-based theft.",
+    "summaryEn": "Two women, 19 and 28, allegedly gained entry to an 84-year-old woman's flat posing as care workers in an attempted distraction theft. They were arrested on the spot and later released after identification measures.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.054Z"
+  "extractedAt": "2026-11-13T18:49:04.126Z"
 }

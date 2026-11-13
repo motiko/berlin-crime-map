@@ -6,16 +6,16 @@
   "location": "Charlottenburg-Wilmersdorf",
   "extraction": {
     "category": "political",
-    "dead": 0,
-    "district": "Charlottenburg-Wilmersdorf",
-    "houseNumberOrCrossing": "Niebuhrstraße",
     "incidentDate": "2026-04-27",
-    "injured": 0,
-    "placeName": null,
     "street": "Wilmersdorfer Straße",
-    "summaryEn": "Three men allegedly shouted a Nazi slogan and threw glass bottles at Wilmersdorfer Straße; two men aged 68 and 75 were arrested and later released. The state security unit is investigating the use of unconstitutional symbols.",
+    "houseNumberOrCrossing": "Niebuhrstraße",
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Three men allegedly threw glass bottles and shouted a Nazi slogan at Wilmersdorfer Straße; two men aged 68 and 75 were arrested. The State Security unit is investigating the use of banned symbols/slogans.",
+    "injured": 0,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.854Z"
+  "extractedAt": "2026-11-13T18:49:04.247Z"
 }

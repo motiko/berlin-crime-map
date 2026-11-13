@@ -6,16 +6,16 @@
   "location": "bezirksübergreifend",
   "extraction": {
     "category": "political",
-    "incidentDate": "2026-08-18",
-    "street": "Senftenberger Ring",
-    "houseNumberOrCrossing": "Calauer Straße",
-    "placeName": "Märkisches Viertel",
-    "district": "Reinickendorf",
-    "summaryEn": "Around 6:45 a.m., a man allegedly struck several election posters with a pole at a junction in Märkisches Viertel, was arrested after boarding a bus, and the posters were damaged. The State Security unit is investigating; the case is one of several election-related vandalism reports on this day.",
-    "injured": 0,
     "dead": 0,
-    "weaponType": "pole"
+    "district": null,
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-08-18",
+    "injured": 0,
+    "placeName": null,
+    "street": null,
+    "summaryEn": "Several incidents of damage to election posters across Berlin on the evening and night before the state parliament election were reported; the Staatsschutz is investigating. One suspect was arrested after a man struck posters with a pole, and a poster bearing a Nazi symbol was found in Weißensee.",
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.735Z"
+  "extractedAt": "2026-11-13T18:49:04.344Z"
 }

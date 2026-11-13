@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Venusstraße",
     "placeName": "Altglienicke",
     "district": "Treptow-Köpenick",
-    "summaryEn": "After shots were reported in Altglienicke, police found two injured teenagers, one with stab wounds, in a fight between youth groups. No firearms or ammunition were found, but an airsoft gun was seized.",
+    "summaryEn": "Two young people were injured in a clash between youth groups in Altglienicke; one had multiple stab wounds. Police found a airsoft gun in a nearby cellar, and no real firearms.",
     "injured": 2,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.966Z"
+  "extractedAt": "2026-11-13T18:49:04.391Z"
 }

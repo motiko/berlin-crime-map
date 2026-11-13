@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Weinbergsweg",
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "A fire broke out in a second-floor apartment in Zehdenicker Straße. The 91-year-old resident was found dead and could not be revived.",
+    "summaryEn": "A fire broke out in a second-floor apartment in Zehdenicker Straße. The 91-year-old resident was found dead and resuscitation attempts by emergency services were unsuccessful.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.276Z"
+  "extractedAt": "2026-11-13T18:42:21.562Z"
 }

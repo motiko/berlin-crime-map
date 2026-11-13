@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Restaurant",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A fire was reported at a restaurant on Schöneberger Straße in the early hours after bangs were heard. The flames had already gone out when officers arrived, and no one was hurt; police are investigating suspected attempted arson.",
+    "summaryEn": "A fire was set in a restaurant on Schöneberger Straße in the early hours; the flames went out before police and fire crews arrived. Nobody was hurt, and the Landeskriminalamt fire unit is investigating suspected attempted aggravated arson.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.672Z"
+  "extractedAt": "2026-11-13T18:49:04.129Z"
 }

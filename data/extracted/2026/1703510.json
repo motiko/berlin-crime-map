@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Stralauer Straße",
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "A car driver and his passenger attacked a 21-year-old cyclist after blocking him with their car on the bike lane. The victim suffered serious facial injuries and was taken to hospital.",
+    "summaryEn": "A car driver and his passenger blocked a 21-year-old pedelec rider on Alexanderstraße and attacked him with punches and kicks, causing serious facial injuries. The attackers fled and the investigation continues.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.743Z"
+  "extractedAt": "2026-11-13T18:49:04.359Z"
 }

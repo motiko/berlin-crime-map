@@ -6,16 +6,16 @@
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
     "category": "traffic",
-    "incidentDate": "2026-03-07",
-    "street": "Dieffenbachstraße",
-    "houseNumberOrCrossing": "Graefestraße",
-    "placeName": null,
-    "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 76-year-old cyclist was injured in a collision with a 27-year-old cyclist at the Dieffenbachstraße/Graefestraße crossing in Kreuzberg. The younger cyclist was unhurt, and the 76-year-old was taken to hospital.",
-    "injured": 1,
     "dead": 0,
+    "district": "Friedrichshain-Kreuzberg",
+    "houseNumberOrCrossing": "Graefestraße",
+    "incidentDate": "2026-03-07",
+    "injured": 1,
+    "placeName": null,
+    "street": "Dieffenbachstraße",
+    "summaryEn": "A 76-year-old cyclist was injured in a collision with a 27-year-old cyclist at the Dieffenbachstraße/Graefestraße crossing in Kreuzberg. The older cyclist was taken to hospital with head injuries.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.299Z"
+  "extractedAt": "2026-11-13T18:42:21.577Z"
 }

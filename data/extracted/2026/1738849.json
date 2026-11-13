@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "Three suspected burglars were arrested in an apartment in a multi-family building after neighbors reported noises and police found a damaged door lock. A folding knife was seized at the scene and stolen gold jewelry was found on the suspects.",
+    "summaryEn": "Three men were caught in the act after neighbours heard noises from an apartment whose residents were on holiday; stolen gold jewellery was found on them. Police also seized a folding knife found at the scene.",
     "injured": 0,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.435Z"
+  "extractedAt": "2026-11-13T18:49:04.417Z"
 }

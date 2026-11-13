@@ -8,14 +8,14 @@
     "category": "fire",
     "incidentDate": "2026-04-13",
     "street": "Lichtenrader Damm",
-    "houseNumberOrCrossing": "Buckower Chaussee",
+    "houseNumberOrCrossing": null,
     "placeName": "Friseursalon",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Unknown persons smashed the window of a hairdressing salon in Lichtenrade and set a couch on fire with an unknown liquid. Firefighters extinguished the blaze and prevented it spreading to a neighbouring hotel; nobody was hurt.",
+    "summaryEn": "Unknown persons smashed the window of a hair salon in Lichtenrade and set a couch on fire with an unknown liquid. Firefighters extinguished the blaze and prevented it from spreading to a neighbouring hotel.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.831Z"
+  "extractedAt": "2026-11-13T18:49:04.174Z"
 }

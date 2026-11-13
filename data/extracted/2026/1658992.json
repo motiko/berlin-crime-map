@@ -9,13 +9,13 @@
     "incidentDate": "2026-04-03",
     "street": "Walterhöferstraße",
     "houseNumberOrCrossing": null,
-    "placeName": "Klinikum in Zehlendorf",
+    "placeName": "Klinikum Zehlendorf",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A fire broke out in a hospital bed at a clinic in Zehlendorf. The 64-year-old patient later died of her burn injuries in intensive care; the cause is under investigation.",
+    "summaryEn": "A fire broke out in a hospital bed at a clinic in Zehlendorf, and a 64-year-old patient later died of her burn injuries. The cause is under investigation by a fire unit of the state criminal office.",
     "injured": 1,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.286Z"
+  "extractedAt": "2026-11-13T18:50:43.499Z"
 }

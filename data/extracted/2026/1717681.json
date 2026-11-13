@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Police and prosecutors carried out 14 search warrants across six Berlin districts against suspected illegal trade in semi-automatic firearms, involving over 300 officers. Seven suspects aged 22 to 52 were provisionally arrested and two firearms with ammunition were seized.",
+    "summaryEn": "Police and prosecutors searched 14 properties and vehicles across six Berlin districts in an investigation into trafficking in semi-automatic firearms. Seven suspects were temporarily arrested and two live firearms with ammunition were seized.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.835Z"
+  "extractedAt": "2026-11-13T18:50:26.250Z"
 }

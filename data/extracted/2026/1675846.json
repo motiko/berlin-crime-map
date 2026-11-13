@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Am Nordgraben",
     "placeName": null,
     "district": "Reinickendorf",
-    "summaryEn": "A Berlin fire engine responding to an emergency ran a red light at a crossing in Wittenau and collided with a motorcyclist who had green light. The 30-year-old motorcyclist suffered rib and shoulder fractures.",
+    "summaryEn": "A Berlin fire engine responding with emergency lights ran a red light at a junction in Wittenau and collided with a motorcyclist. The 30-year-old motorcyclist was seriously injured and taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.718Z"
+  "extractedAt": "2026-11-13T18:49:04.355Z"
 }

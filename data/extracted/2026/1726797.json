@@ -5,17 +5,17 @@
   "title": "Festnahmen nach Angriff auf Heranwachsende",
   "location": "Charlottenburg-Wilmersdorf",
   "extraction": {
-    "category": "knife",
+    "category": "robbery",
     "incidentDate": "2026-10-15",
     "street": "Uhlandstraße",
     "houseNumberOrCrossing": "Berliner Straße",
     "placeName": "Wilmersdorf",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Two 18-year-olds were attacked by a group of youths in Wilmersdorf; one was stabbed in the back and the other was robbed of his phone, bank card and music box. Two suspects were arrested nearby and a third fled.",
+    "summaryEn": "Two 18-year-old men were attacked by a group; one was stabbed in the back and the other was hit and robbed of his phone, bank card and music box. Two suspects were arrested nearby, and a third fled.",
     "injured": 2,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.844Z"
+  "extractedAt": "2026-11-13T18:49:04.264Z"
 }

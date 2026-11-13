@@ -6,16 +6,16 @@
   "location": "bezirksübergreifend",
   "extraction": {
     "category": "raid",
-    "incidentDate": "2026-07-07",
-    "street": null,
-    "houseNumberOrCrossing": null,
-    "placeName": "Amtsgericht Tiergarten",
+    "dead": null,
     "district": null,
-    "summaryEn": "A 35-year-old man was arrested in a courtroom after a hearing on a weapons law violation, under an arrest warrant for a later offence in May 2026 when he was found with a firearm and magazines. Two more firearms and ammunition were seized during a search of his residence.",
-    "injured": 0,
-    "dead": 0,
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-07-07",
+    "injured": null,
+    "placeName": null,
+    "street": null,
+    "summaryEn": "A 35-year-old man was arrested in a courtroom on a warrant for a weapons law violation, and two firearms and ammunition were seized during a search of his residence. The investigation is ongoing.",
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.858Z"
+  "extractedAt": "2026-11-13T18:50:34.503Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Blumberger Damm",
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "An 82-year-old driver allegedly ran a red light on Landsberger Allee and hit a 37-year-old pedestrian and a four-year-old child. The woman was treated as an outpatient and the child was hospitalised with head injuries.",
+    "summaryEn": "An 82-year-old driver allegedly ran a red light on Landsberger Allee and hit a 37-year-old pedestrian and a four-year-old child crossing the road. The 37-year-old was treated as an outpatient and the child was hospitalised with head injuries.",
     "injured": 2,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.327Z"
+  "extractedAt": "2026-11-13T18:42:21.580Z"
 }

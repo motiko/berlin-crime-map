@@ -5,17 +5,17 @@
   "title": "Schaufenster eingeschlagen und Schmuck entwendet",
   "location": "Mitte",
   "extraction": {
-    "category": "robbery",
-    "incidentDate": "2026-11-03",
-    "street": "Müllerstraße",
-    "houseNumberOrCrossing": null,
-    "placeName": null,
-    "district": "Mitte",
-    "summaryEn": "Two masked people smashed a jewelry shop display window with a shovel in Wedding and took jewelry before fleeing by car. The getaway car had stolen number plates.",
-    "injured": 0,
+    "category": "burglary",
     "dead": 0,
+    "district": "Mitte",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-11-03",
+    "injured": 0,
+    "placeName": null,
+    "street": "Müllerstraße",
+    "summaryEn": "Two masked people smashed a jewelry shop window with a shovel in the early morning and took jewelry before fleeing by car. The getaway car had stolen number plates.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.431Z"
+  "extractedAt": "2026-11-13T18:49:04.148Z"
 }

@@ -8,14 +8,14 @@
     "category": "shooting",
     "incidentDate": "2026-05-22",
     "street": "Naunynstraße",
-    "houseNumberOrCrossing": "Leuschnerdamm",
+    "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 25-year-old man was shot in the legs during an argument on Naunynstraße in Kreuzberg. The shooter fled and the injured man was taken to hospital.",
+    "summaryEn": "After an argument on a street in Kreuzberg, a man shot a 25-year-old in the legs and fled. The victim was taken to hospital for treatment.",
     "injured": 1,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.062Z"
+  "extractedAt": "2026-11-13T18:49:04.274Z"
 }

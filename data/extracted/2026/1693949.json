@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Glasgower Straße",
     "placeName": null,
     "district": "Reinickendorf",
-    "summaryEn": "A 23-year-old driver under the influence of drugs hit a traffic bollard and fled the scene, then crashed into two parked cars at another junction. He was slightly injured, and police seized two weapons and a folding knife from his car.",
+    "summaryEn": "A 23-year-old man allegedly hit a traffic bollard and fled, then crashed into two parked cars at another junction while apparently under the influence of drugs. He suffered head injuries, was treated in hospital, and was released; police seized two weapons and a baton.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.033Z"
+  "extractedAt": "2026-11-13T18:49:04.353Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Two unknown attackers assaulted a 19-year-old woman and a 19-year-old man in Friedrichshain, causing abrasions and cuts. The attackers allegedly shouted right-wing extremist slogans, and the case is handled by the State Protection unit.",
+    "summaryEn": "Two unknown attackers assaulted a 19-year-old woman and a 19-year-old man in Jessnerstraße, causing bruises and cuts, while shouting far-right slogans. The State Security unit is seeking witnesses.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.818Z"
+  "extractedAt": "2026-11-13T18:49:04.394Z"
 }

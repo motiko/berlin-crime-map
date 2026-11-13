@@ -6,16 +6,16 @@
   "location": "Mitte",
   "extraction": {
     "category": "political",
-    "dead": 0,
-    "district": "Mitte",
-    "houseNumberOrCrossing": null,
     "incidentDate": "2026-03-18",
-    "injured": 0,
+    "street": "Platz des 18. März",
+    "houseNumberOrCrossing": null,
     "placeName": "Platz des 18. März",
-    "street": null,
-    "summaryEn": "A woman publicly burned two national flags and distributed leaflets containing National Socialist symbols. The case is being investigated by the State Security unit (Staatsschutz).",
+    "district": "Mitte",
+    "summaryEn": "A woman burned two national flags, Germany's and Iran's, at Platz des 18. März and distributed leaflets containing Nazi symbols. The State Security unit is investigating.",
+    "injured": 0,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.326Z"
+  "extractedAt": "2026-11-13T18:42:21.581Z"
 }

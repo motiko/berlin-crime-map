@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Bohnsdorf",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A car was stolen overnight in Bohnsdorf. Police later found it in a parking lot on Adlergestell and arrested three occupants aged 17, 21 and 27.",
+    "summaryEn": "A car was stolen overnight in Bohnsdorf. Police found it in a car park on Adlergestell and arrested three occupants aged 17, 21 and 27.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.306Z"
+  "extractedAt": "2026-11-13T18:42:21.534Z"
 }

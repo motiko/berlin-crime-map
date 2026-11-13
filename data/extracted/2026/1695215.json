@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Barbershop",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A 29-year-old man allegedly stabbed a 26-year-old man near a barbershop in the evening, after an earlier argument. The injured man was taken to hospital and is not in danger of his life.",
+    "summaryEn": "After an argument outside a barbershop, a 29-year-old man allegedly stabbed a 26-year-old man. The stabbing suspect was also struck on the head with a wooden pole by another man, and the injured man was arrested after fleeing into a building.",
     "injured": 2,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.742Z"
+  "extractedAt": "2026-11-13T18:49:04.396Z"
 }

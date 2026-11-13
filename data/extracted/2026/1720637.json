@@ -9,13 +9,13 @@
     "incidentDate": "2026-09-08",
     "street": "Heerstraße",
     "houseNumberOrCrossing": "Theodor-Heuss-Platz",
-    "placeName": "Theodor-Heuss-Platz",
+    "placeName": "Westend",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A 52-year-old driver allegedly punched a 24-year-old woman through the window of her car at a red light after a traffic dispute, while making racist insults. The suspect then followed the victim closely and fled; the case is handled by the state security unit.",
+    "summaryEn": "A 52-year-old woman allegedly punched a 24-year-old woman through a car window at a red light after a traffic dispute, insulting her racially, then followed her. The Staatsschutz is seeking witnesses and dashcam footage.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.950Z"
+  "extractedAt": "2026-11-13T18:49:04.273Z"
 }

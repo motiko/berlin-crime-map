@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Hardenbergplatz",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "After an argument among several people at Hardenbergplatz, one person fired shots at a 30-year-old man, who died at the scene despite resuscitation attempts. The shooter fled the scene by vehicle; the homicide squad is investigating and seeking witnesses.",
+    "summaryEn": "After an argument among several people at Hardenbergplatz, one person fired shots at a 30-year-old man, who died at the scene. The shooter fled by vehicle and the homicide squad is appealing for witnesses.",
     "injured": 0,
     "dead": 1,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:28:43.159Z"
+  "extractedAt": "2026-11-13T18:50:31.843Z"
 }

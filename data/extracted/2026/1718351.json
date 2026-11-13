@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "At about 5:45 a.m., a man threatened a convenience store employee with a suspected firearm and took cash. The 28-year-old employee was knocked to the ground and suffered a head injury.",
+    "summaryEn": "An unknown man threatened a convenience store employee with what was apparently a firearm and took cash from the register around 5:45 a.m. The 28-year-old employee was pushed to the ground and suffered a head injury.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "suspected firearm"
+    "weaponType": "firearm (suspected, not confirmed)"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.972Z"
+  "extractedAt": "2026-11-13T18:49:04.208Z"
 }

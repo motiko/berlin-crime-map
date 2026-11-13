@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Overnight, a car and a motorhome were completely burned out and a third car was damaged by heat in a fire on Paul-Lincke-Ufer in Kreuzberg. A witness heard a loud bang around 1:40 a.m. and alerted the fire brigade and police; nobody was injured.",
+    "summaryEn": "Overnight, a car and a motorhome were burned out and a third car was damaged by fire on Paul-Lincke-Ufer in Kreuzberg. Nobody was injured, and the state criminal police fire unit has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.863Z"
+  "extractedAt": "2026-11-13T18:49:04.336Z"
 }

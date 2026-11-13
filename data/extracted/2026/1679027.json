@@ -6,16 +6,16 @@
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
     "category": "traffic",
-    "dead": 0,
-    "district": "Friedrichshain-Kreuzberg",
-    "houseNumberOrCrossing": "Bersarinplatz",
     "incidentDate": "2026-06-07",
-    "injured": 2,
-    "placeName": null,
     "street": "Petersburger Straße",
-    "summaryEn": "A cyclist overtaking an e-scooter rider on Petersburger Straße in Friedrichshain touched the scooter, and both fell. The 48-year-old cyclist suffered multiple fractures and a skull base fracture.",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A cyclist overtaking an e-scooter rider on a bike path collided with them, and both fell. The 48-year-old cyclist was seriously injured and taken to hospital.",
+    "injured": 2,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.029Z"
+  "extractedAt": "2026-11-13T18:49:04.473Z"
 }

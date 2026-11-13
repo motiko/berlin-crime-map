@@ -6,16 +6,16 @@
   "location": "Neukölln",
   "extraction": {
     "category": "shooting",
-    "dead": 0,
-    "district": "Neukölln",
-    "houseNumberOrCrossing": null,
     "incidentDate": "2026-10-16",
-    "injured": 0,
-    "placeName": null,
     "street": "Silbersteinstraße",
-    "summaryEn": "Shots were fired from a car at a closed café on Silbersteinstraße early in the morning, damaging its shop window. Nobody was hurt, and the LKA task force BAO Ferrum has taken over the investigation.",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "Shots were fired at a closed café on Silbersteinstraße from a car around 5:40 a.m., leaving bullet holes in the shop window. Nobody was hurt.",
+    "injured": 0,
+    "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.914Z"
+  "extractedAt": "2026-11-13T18:49:04.165Z"
 }

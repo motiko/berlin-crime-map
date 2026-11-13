@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Am Festungsgraben",
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "A car driver left the road, drove over a bicycle stand and hit the wall of a museum building. The driver and his passenger were seriously injured and taken to hospital.",
+    "summaryEn": "A 61-year-old driver of a transport service veered onto the pavement in Mitte and crashed into a museum wall. The driver and his 38-year-old passenger were seriously injured.",
     "injured": 2,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.908Z"
+  "extractedAt": "2026-11-13T18:49:04.280Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Spielplatz Urbanstraße",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Multiple live rounds were fired at a playground in Kreuzberg on the evening of 25 May 2026; a man present was unharmed. Shots were also reportedly fired on Graefestraße from a Mercedes, and the suspects fled.",
+    "summaryEn": "Several shots were fired at a man near a playground in Kreuzberg on the evening of 25 May 2026, and further shots were reportedly fired in Graefestraße. The man was not injured; police are investigating with the homicide unit and appealing for witnesses.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.860Z"
+  "extractedAt": "2026-11-13T18:49:04.251Z"
 }

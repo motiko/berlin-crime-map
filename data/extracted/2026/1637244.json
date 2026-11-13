@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Two women posing as cleaning staff visited an 87-year-old woman's apartment, then left under a pretext and took cash and jewelry. The victim noticed the loss after they did not return.",
+    "summaryEn": "Two unknown women posed as cleaning staff and visited an 87-year-old woman in her apartment, then left and took cash and a jewelry box while she was not looking. The case is being investigated by the LKA.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.279Z"
+  "extractedAt": "2026-11-13T18:42:21.590Z"
 }

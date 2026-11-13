@@ -6,16 +6,16 @@
   "location": "Charlottenburg-Wilmersdorf",
   "extraction": {
     "category": "assault",
-    "incidentDate": "2026-06-08",
-    "street": null,
+    "incidentDate": "2026-01-17",
+    "street": "Olympiastadion",
     "houseNumberOrCrossing": null,
     "placeName": "Olympiastadion",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Police are still seeking public help to identify people sought over violent disorder at the Olympiastadion football match of 17 January 2026, in which police officers were attacked and several injured. A police officer initially suspected of involvement was ruled out.",
+    "summaryEn": "During a football match at the Olympiastadion, a group attacked police officers with thrown objects, injuring several officers. Police are seeking public help to identify the unknown suspects shown in images.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.705Z"
+  "extractedAt": "2026-11-13T18:49:04.277Z"
 }

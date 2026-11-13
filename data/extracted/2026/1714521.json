@@ -9,13 +9,13 @@
     "incidentDate": "2026-09-15",
     "street": "Ringbahnstraße",
     "houseNumberOrCrossing": "Manteuffelstraße",
-    "placeName": null,
+    "placeName": "Tempelhof",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A civilian police car responding with siren and blue lights collided with a van at a junction in Tempelhof on the evening before publication. Two people, the police passenger and the 21-year-old van driver, were injured and treated as outpatients.",
+    "summaryEn": "A civilian police vehicle with blue lights and siren collided at a junction in Tempelhof with a van driven by a 21-year-old. Two people were injured and treated as outpatients.",
     "injured": 2,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.970Z"
+  "extractedAt": "2026-11-13T18:49:04.361Z"
 }

@@ -7,15 +7,15 @@
   "extraction": {
     "category": "other",
     "incidentDate": "2026-09-30",
-    "street": "Bundesstraße 2 (Potsdamer Chaussee)",
+    "street": "Potsdamer Chaussee",
     "houseNumberOrCrossing": null,
     "placeName": "Berlin-Gatow",
     "district": "Spandau",
-    "summaryEn": "A general order establishes a restricted zone from 9:30 on 30 September 2026 for ordnance clearance in Brandenburg, extending into Berlin-Gatow. Roads, public transport and gatherings are restricted until the zone is lifted.",
+    "summaryEn": "Police issued a general order establishing a restricted zone from 30 September 2026 for explosive ordnance clearance in Brandenburg, extending into Berlin-Gatow. Entry to streets and buildings in the zone is prohibited and public transport is suspended.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.999Z"
+  "extractedAt": "2026-11-13T18:49:04.152Z"
 }

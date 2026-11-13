@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Blankenburger Straße",
     "placeName": "Niederschönhausen",
     "district": "Pankow",
-    "summaryEn": "A car collided with an e-scooter at a crossing in Niederschönhausen, throwing its two riders onto the pavement. A 12-year-old girl was hospitalised and her 38-year-old mother was treated as an outpatient; the 73-year-old driver was unhurt.",
+    "summaryEn": "A car and an e-scooter collided at a crossing in Niederschönhausen, reportedly after the scooter rider crossed on red. A 12-year-old girl and her 38-year-old mother on the scooter were injured; the 73-year-old car driver was unhurt.",
     "injured": 2,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.803Z"
+  "extractedAt": "2026-11-13T18:49:04.146Z"
 }

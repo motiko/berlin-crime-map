@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Hotel in Fennpfuhl",
     "district": "Lichtenberg",
-    "summaryEn": "After a hotel guest threatened hotel staff early in the morning, a 17-year-old struck a police officer in the face with a beer can, and officers also restrained the 47-year-old guest. The officer suffered facial injuries and was treated in hospital.",
+    "summaryEn": "After a hotel guest threatened hotel staff early in the morning, police were called. A 17-year-old hit an officer in the face with a beer can, and the officer was slightly injured.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.759Z"
+  "extractedAt": "2026-11-13T18:49:04.108Z"
 }

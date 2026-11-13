@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Police and prosecutors executed search warrants and arrest warrants in Germany, Serbia and North Rhine-Westphalia against suspects accused of aiding computer fraud via a spoofed-number VoIP service. Domains, servers and Telegram accounts of the criminal platform were seized and shut down.",
+    "summaryEn": "Berlin police, with Serbian authorities, executed search warrants and arrest warrants against suspects accused of aiding computer fraud via a spoofed-number VoIP service used in fake bank and police phone scams. Further searches took place in Berlin, Hesse and North Rhine-Westphalia, and the platform's infrastructure was seized.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.046Z"
+  "extractedAt": "2026-11-13T18:49:04.131Z"
 }

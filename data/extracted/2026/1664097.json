@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Alt Hohenschönhausen",
     "district": "Lichtenberg",
-    "summaryEn": "Police arrested a 22-year-old suspected of two apartment break-ins in Alt Hohenschönhausen after a caretaker reported markings on apartment doors. Stolen computer accessories linked to one burglary were found in his car.",
+    "summaryEn": "Police arrested a 22-year-old suspected of breaking into two apartments in a residential building in Alt Hohenschönhausen. Computer accessories linked to one burglary were found in the suspect's car, which was seized.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.010Z"
+  "extractedAt": "2026-11-13T18:49:04.310Z"
 }

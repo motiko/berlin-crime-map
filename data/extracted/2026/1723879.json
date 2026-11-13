@@ -6,16 +6,16 @@
   "location": "Lichtenberg",
   "extraction": {
     "category": "traffic",
-    "incidentDate": "2026-10-09",
-    "street": "Werneuchener Straße",
-    "houseNumberOrCrossing": "Küstriner Straße",
-    "placeName": null,
-    "district": "Lichtenberg",
-    "summaryEn": "A 17-year-old cyclist rode into the back of a waiting car at an intersection in Alt-Hohenschönhausen, breaking the rear window. The cyclist suffered head injuries and was taken to hospital.",
-    "injured": 1,
     "dead": 0,
+    "district": "Lichtenberg",
+    "houseNumberOrCrossing": "Küstriner Straße",
+    "incidentDate": "2026-10-09",
+    "injured": 1,
+    "placeName": "Alt-Hohenschönhausen",
+    "street": "Werneuchener Straße",
+    "summaryEn": "A 17-year-old cyclist rode into the back of a waiting car at a junction in Alt-Hohenschönhausen and was injured in the head. The car's rear window was broken.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.783Z"
+  "extractedAt": "2026-11-13T18:49:04.201Z"
 }

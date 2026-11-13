@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Searches at 14 residential and commercial premises in Berlin, Brandenburg and Saxony targeted six suspects over alleged gang fraud against statutory health insurers via an occupational therapy practice. The alleged damage exceeds 6.7 million euros, and cash, documents, accounts and two vehicles were seized.",
+    "summaryEn": "Searches at 14 residential and commercial premises in Berlin, Brandenburg and Saxony targeted six suspects over alleged gang fraud against statutory health insurers via an occupational therapy practice. The alleged damage exceeds 6.7 million euros, and cash, accounts and two vehicles were seized.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.438Z"
+  "extractedAt": "2026-11-13T18:49:04.224Z"
 }

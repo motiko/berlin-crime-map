@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Parkplatz",
     "district": "Mitte",
-    "summaryEn": "Around 20 people were involved in a brawl in a car park in Wedding overnight; three men were hurt, one with stab wounds, and tear gas was used. Police seized several knives and a machete and arrested one 20-year-old.",
+    "summaryEn": "Around 20 people were involved in a brawl in a car park in Genter Straße overnight, with pepper spray and knives used. Three men were injured, one of them with stab wounds to an arm, and one man was arrested.",
     "injured": 3,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.985Z"
+  "extractedAt": "2026-11-13T18:49:04.168Z"
 }

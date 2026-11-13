@@ -5,17 +5,17 @@
   "title": "56-Jähriger konnte identifiziert werden",
   "location": "berlinweit",
   "extraction": {
-    "category": "other",
+    "category": "missing",
     "incidentDate": "2026-03-15",
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": "Park-Klinik Weißensee",
     "district": "Pankow",
-    "summaryEn": "Police report that a man, aged 56, previously unidentified after dying in a Weißensee clinic in March 2026, has been identified following public tips. His sister confirmed his identity.",
+    "summaryEn": "An unidentified man who died in March 2026 in a Weißensee clinic has been identified after public tips; a sister confirmed he was 56. Police had earlier appealed for help identifying him.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.819Z"
+  "extractedAt": "2026-11-13T18:49:04.168Z"
 }

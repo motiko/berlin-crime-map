@@ -9,13 +9,13 @@
     "incidentDate": "2026-04-12",
     "street": "Alt-Friedrichsfelde",
     "houseNumberOrCrossing": null,
-    "placeName": "Parkplatz an der Straße Alt-Friedrichsfelde",
+    "placeName": "Parkplatz",
     "district": "Lichtenberg",
-    "summaryEn": "Police arrested two men in a car on a parking area on Alt-Friedrichsfelde while they were allegedly handing over counterfeit money. More than 20,000 euros in fake banknotes were seized, and one officer was slightly injured when the driver rammed a police vehicle.",
+    "summaryEn": "Two men were arrested in a car in Lichtenberg while allegedly handing over counterfeit money; the driver rammed a police vehicle and injured an officer's foot. Over 20,000 euros in counterfeit money was seized.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.953Z"
+  "extractedAt": "2026-11-13T18:50:43.145Z"
 }

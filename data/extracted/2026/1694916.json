@@ -5,17 +5,17 @@
   "title": "Scharfe Schusswaffe sichergestellt",
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
-    "category": "other",
+    "category": "raid",
     "incidentDate": "2026-07-16",
     "street": "Zimmerstraße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A loaded firearm was seized after a witness saw an unknown man leave it under a parked car on Zimmerstraße the previous evening. The car had left the spot shortly afterwards, and the investigation is handled by a LKA specialist unit.",
+    "summaryEn": "A loaded real firearm was found under a parked car in Zimmerstraße after a witness saw an unknown man place it there. Police seized the weapon, and a specialist unit of the state criminal office is investigating.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.857Z"
+  "extractedAt": "2026-11-13T18:50:32.981Z"
 }

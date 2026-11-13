@@ -9,13 +9,13 @@
     "incidentDate": "2026-10-20",
     "street": "Gerlinger Straße",
     "houseNumberOrCrossing": null,
-    "placeName": "Buckow",
+    "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "Overnight, a car burned at the edge of the roadway in Buckow, damaging a second vehicle and a mobile lifting platform. Firefighters extinguished the blaze and nobody was injured.",
+    "summaryEn": "Several vehicles and a mobile lifting platform were damaged by a fire in Buckow, which a passer-by spotted at around 1:15 a.m. Nobody was hurt, and the arson unit of the LKA is investigating.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.888Z"
+  "extractedAt": "2026-11-13T18:49:04.164Z"
 }

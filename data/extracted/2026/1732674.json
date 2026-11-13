@@ -7,15 +7,15 @@
   "extraction": {
     "category": "traffic",
     "incidentDate": "2026-10-28",
-    "street": "Fritz-Erler-Allee",
-    "houseNumberOrCrossing": "Johannisthaler Chaussee",
+    "street": "Johannisthaler Chaussee",
+    "houseNumberOrCrossing": "Fritz-Erler-Allee",
     "placeName": "Gropiusstadt",
     "district": "Neukölln",
-    "summaryEn": "At a crossing with a failed traffic light that police were manually directing, two cars collided and a police officer was thrown from a pedestal onto the road. The officer was taken to hospital and admitted.",
+    "summaryEn": "At a crossing with a failed traffic light, a car collided with another vehicle while police were directing traffic, throwing a police officer off a pedestal. The officer was taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.766Z"
+  "extractedAt": "2026-11-13T18:49:04.112Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Volkspark Friedrichshain",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A group of about ten people grilling illegally in Volkspark Friedrichshain attacked two police officers who had asked them to extinguish the grill, injuring one officer. Three suspects were arrested and the officer could not continue his duty.",
+    "summaryEn": "A group of about ten people at Volkspark Friedrichshain, illegally grilling, attacked a police officer who had asked them to extinguish the grill, injuring him. Three suspects were detained, and the officer could not continue his duty.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "cane"
+    "weaponType": "walking stick"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.764Z"
+  "extractedAt": "2026-11-13T18:49:04.470Z"
 }

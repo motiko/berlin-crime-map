@@ -6,16 +6,16 @@
   "location": "Mitte",
   "extraction": {
     "category": "traffic",
-    "incidentDate": "2026-03-19",
+    "incidentDate": "2026-03-18",
     "street": "Weinbergsweg",
     "houseNumberOrCrossing": "Invalidenstraße/Gartenstraße",
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "A 24-year-old driver fled police at high speed through red lights, then crashed at the Invalidenstraße/Gartenstraße junction. Drugs and cash were found in the car and during a search of the suspect, who had no driving licence.",
+    "summaryEn": "A 24-year-old fleeing police at high speed through red lights crashed into a wall and a traffic light at Invalidenstraße/Gartenstraße. His 22-year-old passenger was slightly injured; around 100 suspected drug units and cash were found.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.271Z"
+  "extractedAt": "2026-11-13T18:42:21.655Z"
 }

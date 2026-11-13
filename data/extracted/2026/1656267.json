@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Two people aged 19 were injured with a machete after being insulted by two unknown men near a bar. The attackers reportedly shouted unconstitutional slogans while fleeing, and the Staatsschutz took over the investigation.",
+    "summaryEn": "Two unknown men allegedly attacked a 19-year-old man and a 19-year-old woman with a machete after insulting them near a bar in Friedrichshain. The attackers allegedly shouted unconstitutional slogans while fleeing, and the Staatsschutz has taken over the investigation.",
     "injured": 2,
     "dead": 0,
     "weaponType": "machete"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.242Z"
+  "extractedAt": "2026-11-13T18:42:21.544Z"
 }

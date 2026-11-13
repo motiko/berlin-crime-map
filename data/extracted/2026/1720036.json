@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Baumschulenweg",
     "district": "Treptow-Köpenick",
-    "summaryEn": "Two unknown men on a scooter fired several shots at three men on a pavement in Baumschulenweg around 20:30. Two of the men were hit in the legs and taken to hospital; the third was unharmed.",
+    "summaryEn": "Two unknown men on a motor scooter fired several shots at three men on a pavement in Baumschulenweg. Two of the men were hit in the legs and taken to hospital, and the third was unhurt.",
     "injured": 2,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.899Z"
+  "extractedAt": "2026-11-13T18:49:04.185Z"
 }

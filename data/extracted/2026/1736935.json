@@ -7,15 +7,15 @@
   "extraction": {
     "category": "traffic",
     "incidentDate": "2026-11-09",
-    "street": "Elsenstraße",
-    "houseNumberOrCrossing": "Kiehlufer",
-    "placeName": null,
+    "street": "Kynaststraße",
+    "houseNumberOrCrossing": "Elsenstraße/Kiehlufer",
+    "placeName": "Landwehrkanal",
     "district": "Neukölln",
-    "summaryEn": "A stolen car driven by an 18-year-old under the influence of drugs ran a red light during an unlicensed street race and crashed through a railing into the Landwehr Canal. Two former occupants had to be rescued from the water and were taken to hospital.",
+    "summaryEn": "An 18-year-old driver allegedly under the influence of drugs ran a red light at high speed during a police chase and crashed through a railing into the Landwehrkanal. Two passengers ended up in the canal; both were taken to hospital, one remaining as an inpatient.",
     "injured": 2,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.448Z"
+  "extractedAt": "2026-11-13T18:49:04.290Z"
 }

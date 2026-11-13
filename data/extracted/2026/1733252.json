@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Heusingstraße",
     "placeName": "Mariendorf",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A cyclist was hit head-on on the bike lane of Großbeerenstraße by an e-scooter that had ridden onto it from the pavement; the two e-scooter riders fled the scene. The 54-year-old cyclist suffered several fractures and was hospitalized.",
+    "summaryEn": "A cyclist aged 54 was hit head-on by an e-scooter that had ridden from the pavement onto the cycle path, and the e-scooter riders fled the scene. Police are asking witnesses to come forward.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.783Z"
+  "extractedAt": "2026-11-13T18:49:04.469Z"
 }

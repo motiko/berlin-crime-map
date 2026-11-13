@@ -5,17 +5,17 @@
   "title": "Polizei warnt vor falschen Pflegedienstmitarbeitenden",
   "location": "berlinweit",
   "extraction": {
-    "category": "robbery",
+    "category": "burglary",
     "incidentDate": null,
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Police warn of a rising number of distraction thefts by suspects posing as care service staff who enter seniors' homes and steal money and valuables. The suspects are mostly two women and the thefts occur citywide.",
+    "summaryEn": "Police warn of a rise in distraction thefts in which two women posing as care service staff enter seniors' homes and steal money and valuables. No specific incident is described; residents are advised not to open doors to unknown visitors.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.761Z"
+  "extractedAt": "2026-11-13T18:49:04.195Z"
 }

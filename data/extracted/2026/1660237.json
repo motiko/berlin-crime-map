@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Bouchéstraße",
     "placeName": "Alt-Treptow",
     "district": "Treptow-Köpenick",
-    "summaryEn": "An e-scooter rider crashed head-on into a car on Puschkinallee early in the morning and was taken to hospital with injuries. A breath test showed about 1.6 per mille alcohol, and a blood sample was taken.",
+    "summaryEn": "An e-scooter rider, 21, crashed head-on into a car on Puschkinallee early in the morning and was injured. Police found signs of alcohol, about 1.6 per mille, and took a blood sample.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.743Z"
+  "extractedAt": "2026-11-13T18:49:04.364Z"
 }

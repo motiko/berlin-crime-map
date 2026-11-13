@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A 39-year-old man was stabbed in his apartment in the night, and a 43-year-old man was arrested as a suspect. The injured man was taken to hospital in life-threatening condition and underwent emergency surgery.",
+    "summaryEn": "A 43-year-old man allegedly stabbed a 39-year-old man in an apartment in Marzahn overnight; the victim was seriously injured and underwent emergency surgery. The suspect was arrested.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.860Z"
+  "extractedAt": "2026-11-13T18:49:04.341Z"
 }

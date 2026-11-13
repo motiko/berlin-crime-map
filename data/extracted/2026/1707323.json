@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Johannisthal",
     "district": "Treptow-Köpenick",
-    "summaryEn": "Unknown persons damaged the lock of a party office entrance door with glue, so the door could no longer be opened. The State Security unit of the LKA has taken over the investigation.",
+    "summaryEn": "Unknown persons damaged the lock of a party office door in Johannisthal with adhesive, preventing it from being opened. The State Security unit (Staatsschutz) has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.010Z"
+  "extractedAt": "2026-11-13T18:49:04.221Z"
 }

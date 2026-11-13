@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Groß-Berliner Damm",
     "placeName": "Adlershof",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A 16-year-old pedestrian was pinned under a tram after being hit at a pedestrian crossing in Adlershof. She suffered life-threatening injuries but is no longer in immediate danger.",
-    "injured": 1,
+    "summaryEn": "A 16-year-old pedestrian was trapped under a tram after a collision at a crossing in Adlershof. She was seriously injured, taken to hospital, and is no longer in life-threatening danger; the tram driver was treated for shock.",
+    "injured": 2,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.054Z"
+  "extractedAt": "2026-11-13T18:49:04.138Z"
 }

@@ -8,14 +8,14 @@
     "category": "traffic",
     "incidentDate": "2026-10-06",
     "street": "Altstädter Ring",
-    "houseNumberOrCrossing": "Ellipse Spandau",
+    "houseNumberOrCrossing": null,
     "placeName": "Ellipse Spandau",
     "district": "Spandau",
-    "summaryEn": "An unidentified e-scooter rider struck a 91-year-old woman waiting for a bus on the pavement in Spandau and fled the scene. The woman was taken to hospital with a broken leg and remains there as an inpatient.",
+    "summaryEn": "An unidentified e-scooter rider hit a 91-year-old woman waiting for a bus in Spandau and fled the scene. The woman was taken to hospital with a broken leg.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "vehicle"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.008Z"
+  "extractedAt": "2026-11-13T18:49:04.450Z"
 }

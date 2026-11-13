@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Päwesiner Weg",
     "placeName": "Staaken",
     "district": "Spandau",
-    "summaryEn": "A 23-year-old driver lost control of a rented Audi on Brunsbütteler Damm in Staaken and crashed into parked cars, damaging several vehicles. Police suspect drunk driving and an illegal race, and small amounts of narcotics were seized.",
+    "summaryEn": "A 23-year-old driver lost control of his rented Audi on Brunsbütteler Damm and crashed into parked cars, suspected drunk driving and illegal racing. Injuries included a head cut and a suspected pelvic fracture to his 22-year-old passenger.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.250Z"
+  "extractedAt": "2026-11-13T18:42:21.636Z"
 }

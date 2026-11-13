@@ -8,14 +8,14 @@
     "category": "political",
     "incidentDate": "2026-01-09",
     "street": "Gudrunstraße",
-    "houseNumberOrCrossing": "Frankfurter Allee",
+    "houseNumberOrCrossing": "Siegfriedstraße",
     "placeName": "U-Bahnhof Lichtenberg",
     "district": "Lichtenberg",
-    "summaryEn": "Unknown persons sprayed large communist slogans and symbols on building facades and a subway station exit in Lichtenberg. The State Security unit has taken over the investigation.",
+    "summaryEn": "Unknown persons covered building facades and a subway exit on Gudrunstraße and Frankfurter Allee with large communist slogans and symbols. The state security unit has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.319Z"
+  "extractedAt": "2026-11-13T18:42:21.553Z"
 }

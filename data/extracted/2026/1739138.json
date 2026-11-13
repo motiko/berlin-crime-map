@@ -6,16 +6,16 @@
   "location": "Charlottenburg-Wilmersdorf",
   "extraction": {
     "category": "political",
-    "dead": 0,
-    "district": "Charlottenburg-Wilmersdorf",
-    "houseNumberOrCrossing": null,
     "incidentDate": "2026-11-13",
-    "injured": 0,
-    "placeName": null,
     "street": "Knesebeckstraße",
-    "summaryEn": "A car belonging to a media company was set on fire on Knesebeckstraße in the night, destroying it almost completely. The police State Protection unit is investigating on suspicion of arson, as a political motive cannot be ruled out.",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A media company's vehicle was set on fire overnight on Knesebeckstraße and almost completely destroyed. The State Security unit is investigating a possible political motive for the arson.",
+    "injured": 0,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.424Z"
+  "extractedAt": "2026-11-13T18:49:04.372Z"
 }

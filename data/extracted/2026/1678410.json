@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Drakestraße",
     "placeName": "Lichterfelde",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A 33-year-old pedestrian was struck by a bus while crossing Goerzallee in Lichterfelde and suffered life-threatening injuries. The 45-year-old bus driver was in shock; a traffic investigation unit took over.",
+    "summaryEn": "A 33-year-old pedestrian was seriously injured after being hit by a BVG bus on Goerzallee in Lichterfelde. She had crossed the road at a construction site without watching the traffic.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.921Z"
+  "extractedAt": "2026-11-13T18:49:04.196Z"
 }

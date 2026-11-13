@@ -8,14 +8,14 @@
     "category": "assault",
     "incidentDate": "2026-01-10",
     "street": "Tiefwerderweg",
-    "houseNumberOrCrossing": "Schulenburgbrücke",
+    "houseNumberOrCrossing": null,
     "placeName": "Wilhelmstadt",
     "district": "Spandau",
-    "summaryEn": "Three young men took a lifebuoy from the Havel bank and threw it into the water. One of them resisted arrest, insulted officers and an officer was injured in the knee.",
+    "summaryEn": "Three young men took a life buoy from the Havel bank at Schulenburgbrücke and threw it into the water. When police arrested them, the 18-year-old resisted, insulted officers and an officer was injured.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.291Z"
+  "extractedAt": "2026-11-13T18:42:21.554Z"
 }

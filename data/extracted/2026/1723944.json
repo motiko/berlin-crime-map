@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Neu-Hohenschönhausen",
     "district": "Lichtenberg",
-    "summaryEn": "After a dispute, a 29-year-old man was repeatedly stabbed in the upper body by an unknown assailant in Neu-Hohenschönhausen and remains in life-threatening condition. A pepper spray attack injured a 14-year-old girl, and the group of suspects fled.",
+    "summaryEn": "After a dispute, a 29-year-old man was repeatedly stabbed in the upper body by an unknown attacker in Neu-Hohenschönhausen; he was life-threateningly injured. A girl was also sprayed with pepper spray and suffered eye irritation.",
     "injured": 2,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.897Z"
+  "extractedAt": "2026-11-13T18:49:04.362Z"
 }

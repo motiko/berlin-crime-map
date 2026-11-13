@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Alexanderstraße",
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "A man struck the windows of a BVG bus and threatened the 43-year-old driver, who then used pepper spray against him. The suspect fled toward Hackescher Markt station and the spray device was seized.",
+    "summaryEn": "An unknown man banged on a BVG bus and threatened the 43-year-old driver, who then used pepper spray against him. The man fled toward Hackescher Markt station.",
     "injured": 0,
     "dead": 0,
     "weaponType": "pepper spray"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.769Z"
+  "extractedAt": "2026-11-13T18:49:04.345Z"
 }

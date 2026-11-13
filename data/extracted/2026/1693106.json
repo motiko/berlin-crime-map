@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Bernauer Straße",
     "placeName": "Gesundbrunnen",
     "district": "Mitte",
-    "summaryEn": "A van driver allegedly under the influence of alcohol and without a valid driving licence turned into a motorcyclist at the Brunnenstraße/Bernauer Straße junction. The 18-year-old motorcyclist was injured and taken to hospital.",
+    "summaryEn": "A van driver without a valid driving licence and with about 1.8 per mille alcohol collided with a motorcyclist at the Brunnenstraße/Bernauer Straße junction. The 18-year-old motorcyclist was injured and taken to hospital.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "vehicle"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.762Z"
+  "extractedAt": "2026-11-13T18:49:04.239Z"
 }

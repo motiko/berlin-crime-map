@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "Police searched a flat in Neukölln under the Explosives Act and arrested a 24-year-old suspect, seizing about six kilograms of net explosive mass, self-made explosive preparations, a knuckle-duster and a knife. The investigation continues.",
+    "summaryEn": "Police searched a flat in Neukölln under explosives law and seized pyrotechnic items, self-made explosive preparations (about six kg net explosive mass), phones, a knuckle-duster and a knife. A 24-year-old suspect was provisionally arrested.",
     "injured": 0,
     "dead": 0,
-    "weaponType": "knife"
+    "weaponType": "explosive"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.965Z"
+  "extractedAt": "2026-11-13T18:50:22.930Z"
 }

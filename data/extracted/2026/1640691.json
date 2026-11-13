@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Altglienicke",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A fire broke out in a bungalow used by presumed homeless people in Altglienicke overnight, and one person was found dead. The Landeskriminalamt fire investigation unit has taken over the case.",
+    "summaryEn": "A fire broke out in a bungalow in Altglienicke used by presumably homeless people, and one person was found dead after firefighters extinguished the flames. The Landeskriminalamt fire investigation unit has taken over the ongoing investigation.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.324Z"
+  "extractedAt": "2026-11-13T18:42:21.581Z"
 }

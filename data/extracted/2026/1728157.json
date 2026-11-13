@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A 61-year-old man was attacked and strangled in his apartment by a previously unknown acquaintance, who fled after the man reached for a kitchen knife. The victim suffered head and shoulder injuries and was hospitalized.",
+    "summaryEn": "A 61-year-old man was allegedly strangled from behind in his apartment by an acquaintance, who fled after the victim grabbed a kitchen knife. The victim was hospitalized with head and shoulder injuries.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.968Z"
+  "extractedAt": "2026-11-13T18:49:04.179Z"
 }

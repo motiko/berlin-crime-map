@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Prenzlauer Allee",
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "Police arrested two suspects after three men broke into a parked tradesman's van in Prenzlauer Berg and stole tools; a third suspect fled on foot. Police are seeking other victims of a series of tool thefts from vehicles in Lichtenberg and Pankow.",
+    "summaryEn": "Three men broke into parked vehicles and stole tools in a series of thefts from tradespeople's vans; two suspects were arrested after their getaway car was stopped. Police are seeking further affected vehicle owners.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.055Z"
+  "extractedAt": "2026-11-13T18:49:04.166Z"
 }

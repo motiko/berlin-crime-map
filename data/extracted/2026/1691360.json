@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Wuhletalstraße",
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "Two car drivers collided at an intersection in Marzahn, causing one car to roll over and hit a traffic sign. A pedestrian and a passenger were injured, and both vehicles were badly damaged.",
-    "injured": 3,
+    "summaryEn": "Two cars collided at an intersection in Marzahn after one driver failed to yield, and a pedestrian was hit by flying vehicle parts. Three people were taken to hospital or treated on scene, and both cars are undrivable.",
+    "injured": 4,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.787Z"
+  "extractedAt": "2026-11-13T18:49:04.399Z"
 }

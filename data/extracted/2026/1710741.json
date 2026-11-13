@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Nachtklub",
     "district": "Mitte",
-    "summaryEn": "A 33-year-old club security employee allegedly forced a 22-year-old man and his companion into an elevator, held a suspected firearm to his forehead, threatened him, and stole a cigarette pack. No firearm was found during the police search of the club.",
+    "summaryEn": "A security employee of a nightclub allegedly forced a 22-year-old man and companion into an elevator, threatened him with what was apparently a firearm, and took a cigarette box from his jacket. No firearm was found during a police search of the club.",
     "injured": 0,
     "dead": 0,
-    "weaponType": "firearm"
+    "weaponType": "firearm (not found)"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.905Z"
+  "extractedAt": "2026-11-13T18:49:04.254Z"
 }

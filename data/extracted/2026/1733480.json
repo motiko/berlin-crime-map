@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Several shots were fired from a vehicle in front of a restaurant in Knesebeckstraße shortly before 5 a.m., after an earlier dispute in which an employee was threatened with a firearm. No one inside was injured, and the perpetrators fled; casings were secured.",
+    "summaryEn": "Shots were fired from a vehicle outside a restaurant in the early morning after an earlier confrontation in which an employee was hit and threatened with a gun. No one inside was injured and the perpetrators fled.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.693Z"
+  "extractedAt": "2026-11-13T18:49:04.296Z"
 }

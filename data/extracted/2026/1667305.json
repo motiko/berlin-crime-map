@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Messedamm/Neue Kantstraße",
     "placeName": "Westend",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A car collided with another vehicle at an intersection where the traffic lights had failed, and overturned onto its roof. The driver was injured and taken to hospital, and a passenger in the other car had knee pain.",
+    "summaryEn": "After traffic lights failed at an intersection in Westend, two cars collided and one overturned. The 31-year-old woman driver was taken to hospital, and her dog was also injured.",
     "injured": 2,
     "dead": 0,
-    "weaponType": "vehicle"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.688Z"
+  "extractedAt": "2026-11-13T18:49:04.189Z"
 }

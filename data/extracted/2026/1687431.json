@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 42-year-old man was beaten and kicked by a group after a verbal dispute and an attempted brawl with a bottle and wooden lath, and needed emergency surgery for a head injury. Police are investigating and a suspect was briefly detained.",
+    "summaryEn": "A 42-year-old man was attacked by a group in a street fight, kicked and punched to the ground, and taken to hospital where he underwent emergency surgery. One suspect was arrested and released after identity checks.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.025Z"
+  "extractedAt": "2026-11-13T18:49:04.298Z"
 }

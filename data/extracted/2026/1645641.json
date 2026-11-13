@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Kladower Damm",
     "placeName": "Gatow",
     "district": "Spandau",
-    "summaryEn": "A car driver veered into oncoming traffic on Gatower Straße in Gatow and collided with a BVG bus, which then hit a tree. Several people were injured, one of them seriously, and the road was closed for about eight hours.",
-    "injured": 14,
+    "summaryEn": "A car driver crossed into oncoming traffic on Gatower Straße in Gatow and collided with a BVG bus, which then hit a tree. One person was flown to hospital and 13 others were injured.",
+    "injured": 13,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.264Z"
+  "extractedAt": "2026-11-13T18:42:21.612Z"
 }

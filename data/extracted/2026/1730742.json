@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "Three unknown attackers were refused entry to a bar in Pannierstraße, attacked a female employee and then stabbed two men who came to her aid. Both men were injured, were operated on and are not in danger of their lives.",
+    "summaryEn": "Three unknown attackers were refused entry to a bar in Neukölln, attacked staff, and then stabbed two men who came to help. Both men were operated on, and the Kriminalpolizei is investigating.",
     "injured": 3,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.942Z"
+  "extractedAt": "2026-11-13T18:49:04.141Z"
 }

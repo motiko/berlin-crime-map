@@ -5,17 +5,17 @@
   "title": "Verdacht des erpresserischen Menschenraubes im Supermarkt - Untersuchungshaft",
   "location": "Tempelhof-Schöneberg",
   "extraction": {
-    "category": "homicide",
+    "category": "knife",
     "incidentDate": "2026-07-10",
     "street": "Hildburghauser Straße",
     "houseNumberOrCrossing": null,
     "placeName": "Supermarkt",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 29-year-old man allegedly held a supermarket employee hostage at knifepoint, using pepper spray and restraints, and made demands. Police freed the woman the next morning and overpowered the suspect with a stun device; he was remanded in custody.",
+    "summaryEn": "A 29-year-old man allegedly held a supermarket employee at knifepoint, using pepper spray and restraints, and demanded money; she was freed the next day and he was arrested and remanded in custody.",
     "injured": 2,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.765Z"
+  "extractedAt": "2026-11-13T18:49:04.146Z"
 }

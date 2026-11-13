@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Mahnkopfweg",
     "placeName": "Wilhelmstadt",
     "district": "Spandau",
-    "summaryEn": "A 25-year-old cyclist turned left across several lanes of the Heerstraße and collided with an oncoming van. The cyclist was seriously injured and taken to hospital, and property damage occurred.",
+    "summaryEn": "A 25-year-old cyclist turned illegally across several lanes of Heerstraße and collided with an oncoming van. The cyclist was seriously injured and taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.347Z"
+  "extractedAt": "2026-11-13T18:42:21.608Z"
 }

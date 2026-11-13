@@ -5,17 +5,17 @@
   "title": "Versuchte gefährliche Körperverletzung nach Verkehrsunfall",
   "location": "Lichtenberg",
   "extraction": {
-    "category": "knife",
+    "category": "assault",
     "incidentDate": "2026-07-02",
     "street": "Klara-Weyl-Straße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Lichtenberg",
-    "summaryEn": "After a traffic collision in which a six-year-old girl was lightly hurt, a 44-year-old man ran at the driver with a utility knife and was stopped when an officer drew his service weapon. He was arrested and later released, and investigations are ongoing.",
+    "summaryEn": "After a car hit a six-year-old girl's side mirror in Lichtenberg, a 44-year-old man ran at the driver with a box cutter, and a police officer drew his weapon and ordered him to drop it. The man was arrested and charged with attempted dangerous bodily harm and threatening with a weapon.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "knife"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.942Z"
+  "extractedAt": "2026-11-13T18:49:04.190Z"
 }

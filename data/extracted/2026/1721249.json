@@ -9,13 +9,13 @@
     "incidentDate": "2026-10-04",
     "street": "Warschauer Brücke",
     "houseNumberOrCrossing": null,
-    "placeName": "Warschauer Brücke",
+    "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "After a suspected assault, a 20-year-old man resisted arrest and injured a police officer. The officer was hurt in the shoulder and finger and had to end his shift.",
+    "summaryEn": "Police arrested a 20-year-old after he allegedly committed bodily injury; during the arrest and at the police station he resisted, kicking, headbutting and biting an officer who was injured and had to end his shift.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.838Z"
+  "extractedAt": "2026-11-13T18:49:04.109Z"
 }

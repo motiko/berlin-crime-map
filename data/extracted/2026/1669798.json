@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Eldenaer Straße",
     "placeName": null,
     "district": "Lichtenberg",
-    "summaryEn": "Unknown perpetrators set fire to a parked Mercedes in Lichtenberg in the early hours, after a loud bang was heard. Two neighboring cars, an Opel and a Ford, were damaged, and nobody was hurt.",
+    "summaryEn": "Unknown perpetrators set fire to a parked Mercedes in Lichtenberg overnight, destroying it and damaging two neighbouring cars. Nobody was hurt; the LKA arson unit is investigating.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.975Z"
+  "extractedAt": "2026-11-13T18:49:04.411Z"
 }

@@ -6,16 +6,16 @@
   "location": "Pankow",
   "extraction": {
     "category": "traffic",
-    "incidentDate": "2026-08-24",
-    "street": "Danziger Straße",
-    "houseNumberOrCrossing": "Kollwitzstraße",
-    "placeName": null,
-    "district": "Pankow",
-    "summaryEn": "A van driver allegedly ran a red light at the Danziger Straße junction in Prenzlauer Berg and struck a cyclist who had entered on green. The 74-year-old cyclist suffered serious head and face injuries.",
-    "injured": 1,
     "dead": 0,
+    "district": "Pankow",
+    "houseNumberOrCrossing": "Kollwitzstraße",
+    "incidentDate": "2026-08-24",
+    "injured": 1,
+    "placeName": "Prenzlauer Berg",
+    "street": "Danziger Straße",
+    "summaryEn": "A van driver allegedly ran a red light at Danziger Straße and hit a 74-year-old cyclist, who suffered serious head and face injuries. Traffic investigators have taken over the case.",
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.028Z"
+  "extractedAt": "2026-11-13T18:49:04.264Z"
 }

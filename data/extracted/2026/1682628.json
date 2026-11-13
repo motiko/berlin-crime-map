@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Kronacher Straße",
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A bus driver braked for traffic on Wittelsbacherstraße in Lichtenrade, and an 85-year-old passenger fell from her seat and suffered serious head injuries. She was taken to hospital.",
+    "summaryEn": "A bus driver braked suddenly in Lichtenrade and an 85-year-old woman fell inside the bus, suffering serious head injuries. She was taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.002Z"
+  "extractedAt": "2026-11-13T18:49:04.386Z"
 }

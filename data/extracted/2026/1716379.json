@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Mauerpark",
     "district": "Pankow",
-    "summaryEn": "Three youths threatened several teenagers with a knuckleduster and a baton at Mauerpark and robbed them of cash, a wallet and a bank card. Two suspects aged 16 and 17 were arrested at the scene, and a third suspect is still being sought.",
+    "summaryEn": "Three youths threatened several teenagers with a baton and knuckle-duster in Mauerpark and took cash, a wallet and a bank card, forcing one to reveal his PIN. Two suspects aged 16 and 17 were arrested at the scene; the third is still being sought.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "knuckleduster and baton"
+    "weaponType": "baton, knuckle-duster"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.932Z"
+  "extractedAt": "2026-11-13T18:49:04.438Z"
 }

@@ -6,16 +6,16 @@
   "location": "Reinickendorf",
   "extraction": {
     "category": "traffic",
-    "dead": 0,
-    "district": "Reinickendorf",
-    "houseNumberOrCrossing": "Thyssenstraße",
     "incidentDate": "2026-07-12",
-    "injured": 1,
-    "placeName": null,
     "street": "Roedernallee",
-    "summaryEn": "A 40-year-old van driver allegedly turned left at high speed and caused a collision in which a 59-year-old driver was seriously injured and two cars were damaged. The van driver, who had no valid licence and reportedly about 2.9 per mille alcohol, was held by an off-duty officer and a blank-firing pistol was seized.",
-    "weaponType": "blank-firing gun"
+    "houseNumberOrCrossing": "Thyssenstraße",
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "A 40-year-old driver without a valid licence and with about 2.9 per mille blood alcohol caused a collision at a junction in Reinickendorf, injuring a 59-year-old driver. The driver was detained by an off-duty officer, and a blank-firing gun was seized from the van.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.061Z"
+  "extractedAt": "2026-11-13T18:49:04.257Z"
 }

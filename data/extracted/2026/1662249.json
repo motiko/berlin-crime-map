@@ -9,13 +9,13 @@
     "incidentDate": "2026-04-18",
     "street": "Paul-Heyse-Straße",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Sportkomplex in Prenzlauer Berg (Boxkampf)",
     "district": "Pankow",
-    "summaryEn": "After a boxing match at a sports complex in Prenzlauer Berg, relatives of a losing fighter allegedly stormed the ring and a physical altercation with pepper spray followed. Nine people, including three children and a teenager, reported eye irritation and the perpetrators fled.",
+    "summaryEn": "After a boxing match, relatives of the losing fighter stormed the ring and a physical fight broke out, with pepper spray reportedly used. Nine people aged 11 to 58 reported eye irritation.",
     "injured": 9,
     "dead": 0,
     "weaponType": "pepper spray"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.060Z"
+  "extractedAt": "2026-11-13T18:49:04.103Z"
 }

@@ -9,13 +9,13 @@
     "incidentDate": "2026-10-02",
     "street": "Gartenstraße",
     "houseNumberOrCrossing": "Feldstraße",
-    "placeName": "Parkanlage Gartenstraße/Feldstraße, Gesundbrunnen",
+    "placeName": "Parkanlage an der Gartenstraße/Feldstraße",
     "district": "Mitte",
-    "summaryEn": "A 15-year-old was stabbed several times in the buttocks with a knife by a man in a park after an argument with a group of people. He was taken to hospital for inpatient treatment.",
+    "summaryEn": "After an argument, a man stabbed a 15-year-old boy several times with a knife in a park in Gesundbrunnen, then the group left the scene. The boy was taken to hospital with stab wounds to the buttocks.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.887Z"
+  "extractedAt": "2026-11-13T18:49:04.269Z"
 }

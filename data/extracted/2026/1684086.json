@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 37-year-old man was robbed of his shoulder bag by two unknown men at about 4:50 a.m. on Kinzigstraße. He was knocked down, kicked in the head and hospitalized with head injuries.",
+    "summaryEn": "Two unknown men knocked a 37-year-old man to the ground and took his bag, then kicked him in the head when he tried to get it back. He was seriously injured and taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.015Z"
+  "extractedAt": "2026-11-13T18:49:04.112Z"
 }

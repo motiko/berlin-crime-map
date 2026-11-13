@@ -6,16 +6,16 @@
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
     "category": "robbery",
-    "incidentDate": "2026-04-19",
+    "incidentDate": "2026-04-18",
     "street": "Mehringbrücke",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 39-year-old man was attacked overnight by several young men with pepper spray, a glass bottle and a knife, and robbed of several hundred euros. He suffered a stab wound to the back and a head laceration.",
+    "summaryEn": "A 39-year-old man was attacked by several unknown assailants near Mehringbrücke in the night, stabbed in the back and robbed of several hundred euros. Police investigate with the robbery unit.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.861Z"
+  "extractedAt": "2026-11-13T18:49:04.460Z"
 }

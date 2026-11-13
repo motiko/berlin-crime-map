@@ -8,14 +8,14 @@
     "category": "knife",
     "incidentDate": "2026-11-08",
     "street": "Seegefelder Straße",
-    "houseNumberOrCrossing": null,
+    "houseNumberOrCrossing": "Münsinger Park",
     "placeName": "Münsinger Park",
     "district": "Spandau",
-    "summaryEn": "A 19-year-old man was stabbed near Münsinger Park in Spandau after being held by another man. He fled to a passing police car, and two suspects were arrested.",
+    "summaryEn": "A 19-year-old man was stabbed and held by another man in Spandau and later flagged down a passing police car. Two suspects were arrested.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.422Z"
+  "extractedAt": "2026-11-13T18:49:04.293Z"
 }

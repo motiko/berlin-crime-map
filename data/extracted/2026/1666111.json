@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A 33-year-old man allegedly drew a box cutter during a dispute in a bar and injured two guests before being overpowered and arrested. Two guests suffered cuts, one requiring hospital treatment.",
+    "summaryEn": "After a dispute in a bar, a 33-year-old man allegedly pulled a box cutter on guests who tried to restrain him, cutting two men. He was arrested and faces charges including dangerous bodily injury.",
     "injured": 2,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.979Z"
+  "extractedAt": "2026-11-13T18:49:04.416Z"
 }

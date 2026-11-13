@@ -9,13 +9,13 @@
     "incidentDate": "2026-03-23",
     "street": "Oderstraße",
     "houseNumberOrCrossing": null,
-    "placeName": "Kleingartenanlage",
+    "placeName": "Kleingartenanlage Oderstraße",
     "district": "Neukölln",
-    "summaryEn": "A 36-year-old man was found dead in a garden allotment hut in Oderstraße; the autopsy indicates a fall and no third-party involvement, so no criminal investigation was opened.",
-    "injured": null,
+    "summaryEn": "A 36-year-old man was found dead in a garden allotment hut in Oderstraße, initially treated as possible third-party involvement. The autopsy found the injuries consistent with a fall and no evidence of a crime, so no investigation was opened.",
+    "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.336Z"
+  "extractedAt": "2026-11-13T18:42:21.542Z"
 }

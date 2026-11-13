@@ -8,14 +8,14 @@
     "category": "robbery",
     "incidentDate": "2026-05-04",
     "street": "Elsastraße",
-    "houseNumberOrCrossing": "Sarrazinstraße",
+    "houseNumberOrCrossing": null,
     "placeName": "Friedenau",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 25-year-old man snatched the handbag of an 83-year-old woman in Friedenau, causing her to fall and injure her shoulder. He was arrested later the same day after a witness recognised him.",
+    "summaryEn": "A 25-year-old man snatched an 83-year-old woman's handbag in Friedenau, injuring her shoulder when she fell. He was later arrested after a witness recognised him.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.861Z"
+  "extractedAt": "2026-11-13T18:49:04.388Z"
 }

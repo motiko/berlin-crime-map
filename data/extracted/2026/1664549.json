@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "Police arrested two suspects (27 and 29) in a raid on an apartment in Wedding, linked to six armed robberies of late-night shops in Mitte between February and April 2026. Both were remanded in custody.",
+    "summaryEn": "Two suspects, aged 27 and 29, were arrested in a raid on an apartment in Wedding linked to six armed robberies of late-night shops in Mitte between February and April 2026. Both were remanded in custody.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.927Z"
+  "extractedAt": "2026-11-13T18:49:04.135Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Lichtenberg",
-    "summaryEn": "Three cars were set on fire in Neu-Hohenschönhausen overnight, making them unusable. A man seen at the first car fled, and nobody was hurt.",
+    "summaryEn": "Three cars were set on fire overnight in Neu-Hohenschönhausen after a burning Renault in Zingster Straße spread to a neighbouring Audi and Mazda. All three vehicles were rendered undrivable; nobody was hurt, and an unknown man fled the scene.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.297Z"
+  "extractedAt": "2026-11-13T18:42:21.620Z"
 }

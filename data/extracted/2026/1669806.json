@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Kottbusser Tor",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Around ten people attacked police officers with stones and bottles at Kottbusser Tor after a man was arrested for hitting an officer in the face. One officer was injured in the leg and another in the head, hand and knee area.",
+    "summaryEn": "A group attacked police officers with stones and bottles at Kottbusser Tor after a suspect was arrested for punching an officer. One officer was injured in the leg and another in the head, hand and knee area.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.838Z"
+  "extractedAt": "2026-11-13T18:49:04.440Z"
 }

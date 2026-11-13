@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "A 24-year-old woman with multiple stab wounds was taken to a hospital in Mitte after she said her former partner stabbed her in Neukölln. Police found a bloodied knife during a search of the 24-year-old suspect, who was later released while investigations continue.",
+    "summaryEn": "A 24-year-old woman was stabbed multiple times in Neukölln by her former partner, a 24-year-old man, and underwent emergency surgery. A second 24-year-old man with a leg stab wound was treated as an outpatient; police seized a bloodstained knife.",
     "injured": 2,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.323Z"
+  "extractedAt": "2026-11-13T18:42:21.541Z"
 }

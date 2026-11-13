@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "127",
     "placeName": "Discounter-Parkplatz in Lankwitz",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "Unknown perpetrators attacked a cash transport vehicle in a discount store car park in Lankwitz and stole cash and valuables. The vehicle was later found abandoned near an S-Bahn underpass on Edenkobener Weg.",
+    "summaryEn": "Unknown offenders attacked a cash-in-transit vehicle in a supermarket car park in Lankwitz and took cash and valuables. The van was later found abandoned near an S-Bahn underpass on Edenkobener Weg; police seek witnesses and offer a reward.",
     "injured": null,
     "dead": null,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.041Z"
+  "extractedAt": "2026-11-13T18:49:04.411Z"
 }

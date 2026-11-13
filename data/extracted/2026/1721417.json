@@ -6,16 +6,16 @@
   "location": "Lichtenberg",
   "extraction": {
     "category": "traffic",
-    "dead": 0,
-    "district": "Lichtenberg",
-    "houseNumberOrCrossing": "Normannenstraße",
     "incidentDate": "2026-10-04",
-    "injured": 1,
-    "placeName": null,
     "street": "Ruschestraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Lichtenberg",
     "summaryEn": "An 18-year-old e-scooter rider collided with a parked car in Ruschestraße and was found injured on the ground. He was taken to hospital with suspected head injury.",
+    "injured": 1,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.838Z"
+  "extractedAt": "2026-11-13T18:49:04.259Z"
 }

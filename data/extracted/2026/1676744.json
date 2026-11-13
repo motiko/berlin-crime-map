@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Peter-Hille-Straße",
     "placeName": "Friedrichshagen",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A 17-year-old driver fled police in a car belonging to his mother, running red lights and driving against traffic in Friedrichshagen. He was stopped later, and the case was handed to the traffic crime unit for illegal street racing and traffic offences.",
+    "summaryEn": "A 17-year-old drove his mother's car at high speed and ran red lights to evade police, then fled on foot from the scene. He was found shortly after and faces charges of illegal street racing and traffic offences.",
     "injured": 0,
     "dead": 0,
-    "weaponType": null
+    "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.884Z"
+  "extractedAt": "2026-11-13T18:49:04.389Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Berlin police summarised Halloween operations citywide, with illegal fireworks, arson attempts, thrown objects at police and transit vehicles, and 16 arrests. Incidents included a Molotov cocktail thrown at a police vehicle and several burning bins.",
+    "summaryEn": "Police summary of Halloween night across Berlin: illegal fireworks, arson of bins and vehicles, thrown objects at police and buses, and 16 arrests. Incidents were spread over several districts.",
     "injured": null,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.410Z"
+  "extractedAt": "2026-11-13T18:49:04.253Z"
 }

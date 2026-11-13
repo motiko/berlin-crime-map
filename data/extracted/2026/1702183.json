@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Lichtenberg",
-    "summaryEn": "Police and customs checked two nail studios in a commercial area on Herzbergstraße for labour exploitation and human trafficking. Over 40 people were found to have violated residence law, and no one identified as a trafficking victim.",
+    "summaryEn": "Police and customs inspected two nail studios in a commercial area on Herzbergstraße over suspected labour exploitation and human trafficking. More than 40 people were found to have violated residence law, and no victims of trafficking identified themselves.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.773Z"
+  "extractedAt": "2026-11-13T18:50:31.244Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Nikolassee",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A likely intoxicated 52-year-old man threw paving stones at passing cars in Nikolassee, hitting a Toyota driven by a 36-year-old woman. He was arrested after police checks.",
+    "summaryEn": "A heavily intoxicated man allegedly threw paving stones at passing vehicles, damaging a car driven by a 36-year-old woman. He was arrested after being found to be wanted for unlawful residence.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.955Z"
+  "extractedAt": "2026-11-13T18:49:04.357Z"
 }

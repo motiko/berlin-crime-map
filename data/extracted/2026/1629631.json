@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Treptow-Köpenick",
-    "summaryEn": "Unknown suspects broke into a supermarket overnight and heavily damaged a cash machine inside, then fled with the loot. The Landeskriminalamt is investigating.",
+    "summaryEn": "Unknown perpetrators broke into a supermarket in Köpenick at around 1 a.m. and heavily damaged a cash machine inside, then fled with the loot. The Landeskriminalamt investigation is ongoing.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.339Z"
+  "extractedAt": "2026-11-13T18:42:21.580Z"
 }

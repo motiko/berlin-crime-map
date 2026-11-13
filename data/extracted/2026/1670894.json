@@ -6,16 +6,16 @@
   "location": "Tempelhof-Schöneberg",
   "extraction": {
     "category": "traffic",
-    "dead": 0,
-    "district": "Tempelhof-Schöneberg",
-    "houseNumberOrCrossing": "Rixdorfer Straße",
     "incidentDate": "2026-05-12",
-    "injured": 2,
-    "placeName": "Mariendorf",
     "street": "Eisenacher Straße",
+    "houseNumberOrCrossing": "Rixdorfer Straße",
+    "placeName": "Mariendorf",
+    "district": "Tempelhof-Schöneberg",
     "summaryEn": "An 86-year-old driver crashed into two parked cars while turning left at a junction in Mariendorf. The driver and her 89-year-old passenger were injured and taken to hospital.",
+    "injured": 2,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.034Z"
+  "extractedAt": "2026-11-13T18:49:04.451Z"
 }

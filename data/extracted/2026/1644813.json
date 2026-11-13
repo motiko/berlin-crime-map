@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Bülowstraße",
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 22-year-old man allegedly struck a 40-year-old trans woman on the head with a phone and insulted her, then fled; he was found nearby. The Staatsschutz is investigating, and both suffered minor injuries.",
+    "summaryEn": "A 22-year-old man allegedly attacked a 40-year-old trans woman at night, hitting her on the head with a phone and insulting her. The State Security unit is investigating the case as a possible hate crime.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.308Z"
+  "extractedAt": "2026-11-13T18:42:21.605Z"
 }

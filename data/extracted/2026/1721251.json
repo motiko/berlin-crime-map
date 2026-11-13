@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "Bullet holes were found in the window front of a restaurant in Moabit, and the owner alerted police around 13:10. Nobody was inside during the incident, and investigations into the background are ongoing.",
+    "summaryEn": "Bullet holes were found in the window front of a restaurant in Moabit, and the owner alerted police. Nobody was inside during the shots, and the investigation into the background is ongoing.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.946Z"
+  "extractedAt": "2026-11-13T18:49:04.121Z"
 }

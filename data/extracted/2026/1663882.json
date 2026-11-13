@@ -5,17 +5,17 @@
   "title": "Durchsuchungsbeschlüsse wegen Raubtaten vollstreckt",
   "location": "berlinweit",
   "extraction": {
-    "category": "robbery",
+    "category": "raid",
     "incidentDate": "2026-04-22",
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Police searched properties of six suspects, aged 16 to 18, believed to have lured people into open-air meetings via fake profiles and robbed them. Weapons including a knuckleduster, a knife and an electric stun device were seized.",
+    "summaryEn": "Police and prosecutors searched homes of six suspects in Berlin over alleged robberies and assaults on people lured through fake chat profiles. A stun gun, a knife and a knuckleduster were seized, and the suspects were released after identification measures.",
     "injured": null,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.933Z"
+  "extractedAt": "2026-11-13T18:50:41.804Z"
 }

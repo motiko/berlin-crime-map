@@ -9,13 +9,13 @@
     "incidentDate": "2026-06-14",
     "street": "Köllnische Straße",
     "houseNumberOrCrossing": null,
-    "placeName": "Niederschöneweide",
+    "placeName": null,
     "district": "Treptow-Köpenick",
-    "summaryEn": "Several shots were fired with a blank-firing gun from a balcony of an apartment building, which police had been alerted to by a resident. Police seized the weapon, magazine and cartridges and opened investigations against the two occupants under weapons law.",
+    "summaryEn": "Several shots were fired from a balcony with a blank-firing gun (Schreckschusswaffe) in Niederschöneweide. Police seized the weapon, magazine and cartridges from the flat's residents, who are being investigated under weapons law.",
     "injured": 0,
     "dead": 0,
     "weaponType": "blank-firing gun"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.855Z"
+  "extractedAt": "2026-11-13T18:49:04.414Z"
 }

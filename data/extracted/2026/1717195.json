@@ -6,16 +6,16 @@
   "location": "Neukölln",
   "extraction": {
     "category": "shooting",
-    "dead": 0,
-    "district": "Neukölln",
-    "houseNumberOrCrossing": null,
     "incidentDate": "2026-09-21",
-    "injured": 0,
-    "placeName": null,
     "street": "Backbergstraße",
-    "summaryEn": "A bullet hole was found in a double-glazed bedroom window of a residential flat in Backbergstraße, Britz. A projectile was recovered from between the panes and nobody was hurt.",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "A bullet hole was found in a double-glazed bedroom window of a flat in Britz, and a projectile was secured between the panes. Nobody was hurt; a specialist unit is investigating.",
+    "injured": 0,
+    "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.008Z"
+  "extractedAt": "2026-11-13T18:49:04.416Z"
 }

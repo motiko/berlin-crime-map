@@ -9,13 +9,13 @@
     "incidentDate": "2026-01-01",
     "street": "Lehrter Straße",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Parkplatz",
     "district": "Mitte",
-    "summaryEn": "A man set fire to a cold-weather outreach bus of a charity parked in Moabit. Security staff held him until police arrived and arrested him.",
+    "summaryEn": "A cold-weather aid bus belonging to a charitable organisation was set on fire in Moabit. Security staff held the suspected arsonist until police arrived and arrested a 43-year-old man.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.323Z"
+  "extractedAt": "2026-11-13T18:42:21.535Z"
 }

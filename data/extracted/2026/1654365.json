@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Massantebrücke",
     "placeName": "Massantebrücke",
     "district": "Neukölln",
-    "summaryEn": "Two unknown men demanded a 21-year-old's belongings and stabbed him in the leg during a scuffle near the Massante bridge in Rudow. He was taken to hospital with his injuries.",
+    "summaryEn": "Two unknown men demanded a 21-year-old's belongings on a riverside path in Rudow and stabbed him in the leg during a scuffle before fleeing. He was taken to hospital with his injuries.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.253Z"
+  "extractedAt": "2026-11-13T18:42:21.614Z"
 }

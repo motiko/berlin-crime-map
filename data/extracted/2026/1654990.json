@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "A 26-year-old man was lured into an apartment in Gesundbrunnen, beaten, attacked with an iron bar and pepper spray, and bound with tape. Two suspects, aged 18 and 29, were arrested and an officer was injured.",
+    "summaryEn": "A 26-year-old man was lured into an apartment in Gesundbrunnen, beaten, pepper-sprayed, tied up with tape and choked by two suspects. Police arrested both suspects, one of whom injured an officer with an iron bar.",
     "injured": 2,
     "dead": 0,
     "weaponType": "iron bar"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.196Z"
+  "extractedAt": "2026-11-13T18:42:21.646Z"
 }

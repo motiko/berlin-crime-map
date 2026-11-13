@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Tempelhofer Ufer",
     "placeName": "Kreuzung Mehringdamm/Tempelhofer Ufer/Mehringbrücke",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A police vehicle and a motorcyclist collided at a junction in Kreuzberg while the police car was on an emergency run. The 23-year-old motorcyclist was treated at the scene and no one else was hurt.",
+    "summaryEn": "A police car with blue lights and siren collided with a motorcyclist at an intersection in Kreuzberg. The 23-year-old motorcyclist was treated at the scene and later went to a doctor himself.",
     "injured": 1,
     "dead": 0,
-    "weaponType": null
+    "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.326Z"
+  "extractedAt": "2026-11-13T18:42:21.660Z"
 }

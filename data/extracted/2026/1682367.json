@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Kaufhaus restaurant",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A drunk 43-year-old man threw food and a glass in a department store restaurant and then resisted police, biting and headbutting officers. Two officers were lightly injured and the man was taken to a hospital for psychiatric care.",
+    "summaryEn": "A 43-year-old intoxicated man became aggressive in a department store restaurant, throwing items and challenging staff. He resisted police, biting and headbutting officers, who suffered light injuries.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.025Z"
+  "extractedAt": "2026-11-13T18:49:04.412Z"
 }

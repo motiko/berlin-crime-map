@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "A 77-year-old man allegedly threatened a neighbour with a knife in Britz after an argument. Police used a taser on him during an apartment search; the knife turned out to be a replica.",
+    "summaryEn": "A 77-year-old man drew a knife at a resident in Britz after an exchange from a balcony, then fled. Police later entered his flat under a search warrant, used a stun device when he ran at officers, and found the knife was a replica; he was taken to a psychiatric ward.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.876Z"
+  "extractedAt": "2026-11-13T18:49:04.301Z"
 }

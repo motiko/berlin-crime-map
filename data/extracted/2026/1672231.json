@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Henriette-Lustig-Straße",
     "placeName": null,
     "district": "Treptow-Köpenick",
-    "summaryEn": "A 30-year-old driver fled a police traffic stop in Köpenick at high speed and was arrested after his car was found parked nearby. Police seized cocaine, ecstasy and cannabis from the car and a later search of his flat.",
+    "summaryEn": "After fleeing a police traffic check in Köpenick at night, a 30-year-old driver was arrested. Officers seized cocaine, ecstasy and cannabis from his car and a further quantity of drugs from his flat.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.046Z"
+  "extractedAt": "2026-11-13T18:49:04.246Z"
 }

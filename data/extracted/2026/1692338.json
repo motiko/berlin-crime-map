@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Oberschöneweide",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A 46-year-old man shot a 48-year-old man in the chest with an air rifle during a dispute on a site in Oberschöneweide. The injured man underwent surgery and is not in mortal danger; the suspect was not found during a search of his home.",
+    "summaryEn": "A 46-year-old man allegedly shot a 48-year-old man in the chest with an air rifle after a dispute at a site on An der Wuhlheide; the victim was operated on and is not in mortal danger. Police searched the suspect's home and seized the alleged weapon and two softair guns, but the suspect was not found.",
     "injured": 1,
     "dead": 0,
     "weaponType": "air rifle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.781Z"
+  "extractedAt": "2026-11-13T18:49:04.321Z"
 }

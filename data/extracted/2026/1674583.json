@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Rolandseck",
     "placeName": "Karlshorst",
     "district": "Lichtenberg",
-    "summaryEn": "After a traffic dispute, a 45-year-old van driver allegedly threatened a 25-year-old motorcyclist with a replica handgun in Karlshorst. Police stopped the van, seized the pistol and magazine, and the driver faces charges of threatening with weapons.",
+    "summaryEn": "After a traffic dispute, a 45-year-old van driver allegedly threatened a 25-year-old motorcyclist with a blank-firing pistol in Karlshorst. Police seized the replica weapon and the driver faces charges for threatening with weapons.",
     "injured": 0,
     "dead": 0,
-    "weaponType": "blank-firing gun"
+    "weaponType": "Schreckschusswaffe (blank-firing pistol)"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.698Z"
+  "extractedAt": "2026-11-13T18:49:04.296Z"
 }

@@ -6,16 +6,16 @@
   "location": "bundeslandübergreifend",
   "extraction": {
     "category": "missing",
-    "incidentDate": "2026-04-27",
+    "incidentDate": "2025-07-25",
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "A 45-year-old man previously reported missing is no longer considered missing; police found no indication of distress or a crime. The original missing-person search began on 25 July 2025.",
+    "summaryEn": "A 45-year-old man last believed to be in Berlin was reported missing in July 2025; he is no longer considered missing as of the update, with no sign of distress or crime.",
     "injured": 0,
     "dead": null,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.007Z"
+  "extractedAt": "2026-11-13T18:49:04.173Z"
 }

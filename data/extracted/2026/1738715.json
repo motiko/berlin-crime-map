@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "An unknown man threatened an elderly woman and her companion with a firearm and snatched her handbag in Friedrichshain. The 78-year-old man was struck in the face and taken to hospital.",
+    "summaryEn": "An unknown man threatened an elderly woman and her companion with a gun and took the woman's handbag, injuring the 78-year-old man. He fled on a rental bicycle.",
     "injured": 1,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.443Z"
+  "extractedAt": "2026-11-13T18:49:04.460Z"
 }

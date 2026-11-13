@@ -6,16 +6,16 @@
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
     "category": "traffic",
-    "dead": null,
-    "district": "Friedrichshain-Kreuzberg",
-    "houseNumberOrCrossing": "Großbeerenstraße",
     "incidentDate": "2026-10-07",
-    "injured": 1,
-    "placeName": null,
     "street": "Kreuzbergstraße",
-    "summaryEn": "A car ran a red light at the Kreuzbergstraße/Großbeerenstraße junction at about 5:35 a.m. and crashed head-on into a waiting Hyundai; the driver was injured and the two occupants of the first car fled on foot. Police are asking witnesses to come forward.",
-    "weaponType": null
+    "houseNumberOrCrossing": "Großbeerenstraße",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A driver ran a red light on Kreuzbergstraße and crashed head-on into a waiting car, then the two occupants of the car fled on foot. The 47-year-old driver of the other car was injured and taken to hospital; police are appealing for witnesses.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.898Z"
+  "extractedAt": "2026-11-13T18:49:04.193Z"
 }

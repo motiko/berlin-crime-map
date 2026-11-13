@@ -8,14 +8,14 @@
     "category": "traffic",
     "incidentDate": "2026-01-18",
     "street": "A 100",
-    "houseNumberOrCrossing": "Oberlandstraße / Tempelhofer Damm",
-    "placeName": "Stadtautobahn A 100",
+    "houseNumberOrCrossing": "Oberlandstraße",
+    "placeName": "Stadtautobahn A 100, between Oberlandstraße and Tempelhofer Damm",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "After a traffic stop on the A 100 motorway, a driver fled and dragged a police officer about ten metres, injuring his hand. The car was later found abandoned at a car park on Sachsendamm and seized.",
+    "summaryEn": "A driver fled a vehicle check on the A 100 motorway, dragging a police officer about ten metres and injuring his hand. The car was later found abandoned and seized on Sachsendamm.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.238Z"
+  "extractedAt": "2026-11-13T18:42:21.615Z"
 }

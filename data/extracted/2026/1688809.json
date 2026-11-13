@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "An unknown man entered a brothel in Gesundbrunnen at about 3 a.m., threatened six employees with a firearm and stole cash, three mobile phones and a backpack. The employees were not injured.",
+    "summaryEn": "An unknown man threatened six employees with a firearm at a brothel in Gesundbrunnen at about 3 a.m., forced a worker to open the cash register and took cash, phones and a backpack. The women were not injured.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.827Z"
+  "extractedAt": "2026-11-13T18:49:04.337Z"
 }

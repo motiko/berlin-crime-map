@@ -9,13 +9,13 @@
     "incidentDate": "2026-09-09",
     "street": "Todtnauer Zeile",
     "houseNumberOrCrossing": null,
-    "placeName": "Parkplatz Todtnauer Zeile, Waidmannslust",
+    "placeName": "Parkplatz Todtnauer Zeile",
     "district": "Reinickendorf",
-    "summaryEn": "A man allegedly fired an air-pressure weapon at several parked cars, damaging windows of seven vehicles. Police later searched his nearby home and seized several blank-firing, gas and airsoft guns.",
+    "summaryEn": "A man allegedly shot at several parked cars with an air-pressure weapon in Waidmannslust. Seven vehicles were damaged, and police later searched the suspect's flat and seized several replica and gas weapons.",
     "injured": 0,
     "dead": 0,
     "weaponType": "air-pressure weapon"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.982Z"
+  "extractedAt": "2026-11-13T18:49:04.252Z"
 }

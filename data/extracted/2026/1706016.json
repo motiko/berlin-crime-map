@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "Two unknown men broke into a supermarket on Königin-Luise-Straße at around 0:30 using a manhole cover and stole large quantities of tobacco products and e-cigarettes. They fled before police arrived.",
+    "summaryEn": "Two unknown men broke into a supermarket on Königin-Luise-Straße in Dahlem using a manhole cover and stole large quantities of tobacco products. They fled before police arrived.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.990Z"
+  "extractedAt": "2026-11-13T18:49:04.323Z"
 }

@@ -5,17 +5,17 @@
   "title": "Polizeibeamtin bei Einsatz angegriffen und verletzt",
   "location": "Charlottenburg-Wilmersdorf",
   "extraction": {
-    "category": "assault",
+    "category": "political",
     "incidentDate": "2026-06-30",
     "street": "Budapester Straße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "After a dispute involving a taxi driver, a 43-year-old woman punched a police officer in the face during an operation at a hotel. The officer was taken to hospital and was treated as an outpatient; the suspect was arrested.",
+    "summaryEn": "After a dispute involving a taxi driver, a 43-year-old woman allegedly insulted the driver in a xenophobic manner and then punched a police officer in the face at a hotel. The officer was injured and treated at a hospital; the woman was arrested.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.992Z"
+  "extractedAt": "2026-11-13T18:49:04.342Z"
 }

@@ -9,13 +9,13 @@
     "incidentDate": "2026-09-22",
     "street": "Herzbergstraße",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Krankenhaus",
     "district": "Lichtenberg",
-    "summaryEn": "Police used a taser (DEIG) on a 20-year-old man in a hospital after he became aggressive during admission for a psychiatric crisis. He suffered minor facial injuries and was then admitted to the psychiatric ward.",
+    "summaryEn": "Police used a Taser (DEIG) on a 20-year-old man in a psychiatric crisis at a hospital after he resisted treatment. He suffered minor facial injuries and was admitted to the psychiatric ward.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "Distanzelektroimpulsgerät (taser)"
+    "weaponType": "Distanzelektroimpulsgerät (Taser)"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.957Z"
+  "extractedAt": "2026-11-13T18:49:04.360Z"
 }

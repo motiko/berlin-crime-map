@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Berlin police and state authorities published the 2025 road safety statistics: 137,373 traffic accidents, 1,840 seriously injured and 37 killed. The figures show fewer serious injuries and deaths than the previous year.",
+    "summaryEn": "Berlin police and state authorities published the 2025 road safety statistics: 137,373 traffic accidents, 1,840 seriously injured and 37 killed. Compared with the previous year, serious injuries and fatalities both fell.",
     "injured": 1840,
     "dead": 37,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.275Z"
+  "extractedAt": "2026-11-13T18:42:21.569Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "After a dispute, a group of about 15 men armed with knives, batons and pepper spray attacked two men in Hellersdorf overnight. One 27-year-old was stabbed in the arm and taken to hospital.",
+    "summaryEn": "Two men were injured in an attack by a group of up to 15 men armed with knives, batons and pepper spray in Hellersdorf. One man was stabbed in the arm and taken to hospital.",
     "injured": 2,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.314Z"
+  "extractedAt": "2026-11-13T18:42:21.595Z"
 }

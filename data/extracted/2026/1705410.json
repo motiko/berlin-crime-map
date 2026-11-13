@@ -6,16 +6,16 @@
   "location": "bezirksübergreifend",
   "extraction": {
     "category": "shooting",
-    "dead": 0,
-    "district": "Neukölln",
-    "houseNumberOrCrossing": null,
     "incidentDate": "2026-04-02",
-    "injured": 0,
-    "placeName": null,
     "street": "Hermannstraße",
-    "summaryEn": "A 21-year-old suspect was arrested in Treptow-Köpenick over shots fired at a café window in Hermannstraße, Neukölln, in April 2026, linked to extortion for protection money. Police also searched seven addresses and seized two firearms, ammunition and suspected cocaine.",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "Police arrested a 21-year-old suspected of shooting at a café window in Neukölln in April 2026, linked to a protection-money demand, and seized two firearms during raids at seven addresses. The attempted murder suspect was brought before an investigating judge and remanded in custody.",
+    "injured": 0,
+    "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.714Z"
+  "extractedAt": "2026-11-13T18:49:04.347Z"
 }

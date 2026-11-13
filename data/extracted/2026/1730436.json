@@ -5,17 +5,17 @@
   "title": "Scharfe Schusswaffe nach Flucht vor der Polizei beschlagnahmt",
   "location": "Spandau",
   "extraction": {
-    "category": "shooting",
+    "category": "traffic",
     "incidentDate": "2026-10-23",
     "street": "Ruhlebener Straße",
     "houseNumberOrCrossing": null,
-    "placeName": "Tankstelle",
+    "placeName": null,
     "district": "Spandau",
-    "summaryEn": "After a fleeing car was stopped near Charlottenburger Chaussee, police arrested the 20-year-old driver, who had a loaded firearm in his waistband, and seized the car with forged plates. The driver faces charges including illegal street racing and weapons offences.",
+    "summaryEn": "After a police stop at a petrol station, a 20-year-old driver fled at high speed in a Kia during an illegal street race and was arrested. A loaded firearm was seized, and he was taken for a blood test.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.963Z"
+  "extractedAt": "2026-11-13T18:49:04.310Z"
 }

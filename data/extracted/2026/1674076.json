@@ -6,16 +6,16 @@
   "location": "Steglitz-Zehlendorf",
   "extraction": {
     "category": "political",
-    "dead": 0,
-    "district": "Steglitz-Zehlendorf",
-    "houseNumberOrCrossing": null,
     "incidentDate": "2026-05-25",
-    "injured": 0,
-    "placeName": null,
     "street": "Kirchstraße",
-    "summaryEn": "A 45-year-old man allegedly pointed a blank-firing pistol at a 41-year-old man in Zehlendorf and insulted him with a homophobic remark, without firing. Police found the replica weapon on the suspect and the State Security unit is investigating.",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A 45-year-old man allegedly pointed a blank-firing gun at a 41-year-old man in Zehlendorf and insulted him with a homophobic remark, without firing. The Staatsschutz is investigating.",
+    "injured": 0,
+    "dead": 0,
     "weaponType": "blank-firing gun"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.675Z"
+  "extractedAt": "2026-11-13T18:49:04.239Z"
 }

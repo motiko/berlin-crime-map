@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Feuerwache Frohnau",
     "district": "Reinickendorf",
-    "summaryEn": "Unknown persons broke into a fire station in Frohnau overnight and stole equipment and protective gear worth a five-figure sum. The State Criminal Police Office has taken over the investigation.",
+    "summaryEn": "Unknown perpetrators broke into a fire station in Frohnau overnight and stole equipment and protective gear worth five figures in euros. The State Criminal Police Office has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.211Z"
+  "extractedAt": "2026-11-13T18:42:21.597Z"
 }

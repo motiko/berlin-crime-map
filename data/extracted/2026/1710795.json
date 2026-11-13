@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Großer Tiergarten",
     "district": "Mitte",
-    "summaryEn": "Unknown persons severely damaged a memorial tree planted in Tiergarten in commemoration of the Berlin CSD attack. The damage was found by police around 1:20 a.m. and is being investigated by the State Security unit.",
+    "summaryEn": "Unknown persons badly damaged a memorial tree planted for the attack on the Berlin CSD, uprooting it and its protective grate overnight. The Staatsschutz is investigating the criminal damage.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.896Z"
+  "extractedAt": "2026-11-13T18:49:04.456Z"
 }

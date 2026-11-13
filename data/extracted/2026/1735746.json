@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Tankstelle",
     "district": "Mitte",
-    "summaryEn": "A masked, armed man robbed a petrol station employee in Wedding, demanding the cash register contents. He fled and dropped the empty till, which police recovered nearby.",
+    "summaryEn": "A masked man threatened a 27-year-old gas station employee with a gun and took the cash register contents before fleeing. The register was recovered nearby.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.411Z"
+  "extractedAt": "2026-11-13T18:49:04.287Z"
 }

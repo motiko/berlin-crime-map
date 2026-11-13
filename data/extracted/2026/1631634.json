@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Police stopped a car suspected of being a mobile drug-dealing taxi in Charlottenburg and found multiple small quantities of cannabis, amphetamine, cocaine and ecstasy. Both occupants, aged 25 and 35, were arrested.",
+    "summaryEn": "Plainclothes officers stopped a car in Uhlandstraße after smelling cannabis and found drug sale packages inside. Both occupants, aged 25 and 35, were arrested.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.342Z"
+  "extractedAt": "2026-11-13T18:42:21.524Z"
 }

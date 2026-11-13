@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Bushaltestelle Rotkopfweg",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 72-year-old woman was struck by the right mirror of a bus at a bus stop in Mariendorf shortly before 18:00. She suffered fractures to her legs and hip and was admitted to hospital.",
+    "summaryEn": "A 72-year-old woman was hit by the right mirror of a bus at a bus stop in Mariendorf and suffered fractures to her legs and hip. Investigations by the traffic unit are ongoing.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.790Z"
+  "extractedAt": "2026-11-13T18:49:04.150Z"
 }

@@ -7,15 +7,15 @@
   "extraction": {
     "category": "burglary",
     "incidentDate": "2026-01-05",
-    "street": "Görlitzer Park",
+    "street": null,
     "houseNumberOrCrossing": "Görlitzer Brücke",
     "placeName": "Görlitzer Park",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Unknown perpetrators removed a fence panel (about 2.4 x 2.5 metres) at the entrance to Görlitzer Park overnight. A security guard noticed it missing around 22:15, and police searching the area did not find it.",
+    "summaryEn": "Unknown perpetrators removed a fence panel of about 2.4 by 2.5 metres at the entrance of Görlitzer Park overnight. Police searched the area but did not find it.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.301Z"
+  "extractedAt": "2026-11-13T18:42:21.578Z"
 }

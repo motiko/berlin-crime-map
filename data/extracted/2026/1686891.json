@@ -9,13 +9,13 @@
     "incidentDate": "2026-06-28",
     "street": "Konrad-Wolf-Straße",
     "houseNumberOrCrossing": null,
-    "placeName": "Parkplatz einer Unterkunft für Geflüchtete",
+    "placeName": "Parkplatz der Unterkunft für Geflüchtete",
     "district": "Lichtenberg",
-    "summaryEn": "After an argument at a refugee accommodation car park in Alt-Hohenschönhausen, a 39-year-old man was stabbed in the leg and taken to hospital. The two attackers fled.",
+    "summaryEn": "After an argument at a refugee accommodation in Alt-Hohenschönhausen, a 39-year-old man was stabbed and taken to hospital by rescue services. The two unknown attackers fled.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.915Z"
+  "extractedAt": "2026-11-13T18:49:04.134Z"
 }

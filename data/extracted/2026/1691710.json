@@ -6,16 +6,16 @@
   "location": "Neukölln",
   "extraction": {
     "category": "political",
-    "incidentDate": "2026-07-08",
+    "incidentDate": "2026-07-09",
     "street": "Columbiadamm",
     "houseNumberOrCrossing": null,
     "placeName": "Moschee",
     "district": "Neukölln",
-    "summaryEn": "Around 0:45 a mosque's outer wall on Columbiadamm was sprayed with large black graffiti over about 150 meters. A 30-year-old suspect was arrested at the scene and later released after police measures.",
+    "summaryEn": "Overnight, the outer wall of a mosque on Columbiadamm was sprayed with large black graffiti over about 150 metres. A 30-year-old suspect was arrested on site and later released after police measures.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.938Z"
+  "extractedAt": "2026-11-13T18:49:04.472Z"
 }

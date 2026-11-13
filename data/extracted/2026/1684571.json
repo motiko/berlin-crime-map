@@ -6,16 +6,16 @@
   "location": "Mitte",
   "extraction": {
     "category": "explosion",
-    "incidentDate": "2026-06-22",
+    "incidentDate": "2026-06-21",
     "street": "Malplaquetstraße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "Unknown perpetrators detonated an explosive device in front of an apartment building in Wedding shortly after 2 a.m., damaging the façade, a shop window and several parked cars. No one was injured; a special investigation unit is examining the origin of the suspected grenade.",
+    "summaryEn": "Unknown perpetrators detonated an explosive device in front of an apartment building in Malplaquetstraße shortly after 2 a.m., damaging the facade, a shop window and several parked cars. No one was injured; the BAO Ferrum task force is investigating.",
     "injured": 0,
     "dead": 0,
     "weaponType": "explosive"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.762Z"
+  "extractedAt": "2026-11-13T18:49:04.127Z"
 }

@@ -6,16 +6,16 @@
   "location": "Lichtenberg",
   "extraction": {
     "category": "traffic",
-    "dead": 0,
-    "district": "Lichtenberg",
-    "houseNumberOrCrossing": null,
     "incidentDate": "2026-10-28",
-    "injured": 1,
-    "placeName": "Fennpfuhl",
     "street": "Vulkanstraße",
-    "summaryEn": "A 50-year-old driver left the road on Vulkanstraße in Fennpfuhl shortly after midnight and crashed into a tree and a light pole. The driver was seriously injured and taken to hospital, and the car was written off.",
-    "weaponType": "vehicle"
+    "houseNumberOrCrossing": null,
+    "placeName": "Fennpfuhl",
+    "district": "Lichtenberg",
+    "summaryEn": "A 50-year-old driver left the road at night in Fennpfuhl, crashed into a tree and a light pole, and was seriously injured. The car was written off.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.059Z"
+  "extractedAt": "2026-11-13T18:49:04.454Z"
 }

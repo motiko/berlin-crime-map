@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Alt-Treptow",
     "district": "Treptow-Köpenick",
-    "summaryEn": "In the early hours a caravan caught fire on Kiefholzstraße and spread to two cars, which burned out along with several other vehicles damaged. Nobody was injured; the LKA arson unit is investigating.",
+    "summaryEn": "Overnight, a caravan caught fire in Kiefholzstraße and the flames spread to two parked cars, which burned out completely. Four more vehicles, two trees and a street lamp were damaged, and nobody was injured; the LKA arson unit is investigating.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.959Z"
+  "extractedAt": "2026-11-13T18:49:04.327Z"
 }

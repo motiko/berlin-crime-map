@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Ollenhauerstraße",
     "placeName": null,
     "district": "Reinickendorf",
-    "summaryEn": "A 31-year-old man was arrested after two apartment break-ins in Reinickendorf, with stolen goods found in his backpack. A judge issued an arrest warrant.",
+    "summaryEn": "Police arrested a 31-year-old man suspected of two apartment burglaries after a witness alerted them; stolen goods were found in his backpack. A detention order was issued.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.330Z"
+  "extractedAt": "2026-11-13T18:42:21.586Z"
 }

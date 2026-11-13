@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Two men aged 32 and 27 were attacked by an unknown group after a verbal dispute; one was sprayed with pepper spray and the 32-year-old suffered head injuries and lost several teeth. The group fled.",
+    "summaryEn": "Two men were attacked by an unknown group after a verbal dispute in Schöneberg; one was pepper-sprayed and suffered head injuries and lost teeth. The group fled and the investigation was taken over by a specialist unit.",
     "injured": 2,
     "dead": 0,
     "weaponType": "pepper spray"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.733Z"
+  "extractedAt": "2026-11-13T18:49:04.445Z"
 }

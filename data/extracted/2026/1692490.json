@@ -6,16 +6,16 @@
   "location": "Neukölln",
   "extraction": {
     "category": "burglary",
-    "incidentDate": "2026-07-13",
+    "incidentDate": "2026-07-12",
     "street": "Herrfurthstraße",
     "houseNumberOrCrossing": null,
-    "placeName": "Spätkauf",
+    "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "Unknown masked offenders forced entry into a convenience store and stole a cash machine, loading it into a waiting car. They fled in an unknown direction shortly before 2 a.m.",
+    "summaryEn": "Masked suspects forced their way into a late-night shop in Neukölln and stole a cash machine, loading it into a waiting car before fleeing. The burglary is being investigated by the LKA break-in unit.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.814Z"
+  "extractedAt": "2026-11-13T18:49:04.298Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Blumberger Damm",
     "placeName": "Biesdorf",
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A police vehicle using emergency rights collided with a car at the Cecilienstraße/Blumberger Damm crossing in Biesdorf. Two occupants of the car and two police officers were hurt.",
+    "summaryEn": "A police car responding to an emergency with lights and siren collided at a junction with a Mercedes in Biesdorf. Two occupants of the car and the two officers in the police vehicle were injured.",
     "injured": 4,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.204Z"
+  "extractedAt": "2026-11-13T18:42:21.614Z"
 }

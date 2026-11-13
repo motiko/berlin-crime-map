@@ -9,13 +9,13 @@
     "incidentDate": "2026-09-12",
     "street": "Fulhamer Allee",
     "houseNumberOrCrossing": "Alt-Britz",
-    "placeName": "Britz",
+    "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "A BVG bus left the road and hit a tree on Fulhamer Allee in Britz late at night, injuring 15 people. A 25-year-old passenger's leg was trapped and freed by the fire brigade.",
+    "summaryEn": "A BVG bus left the road and hit a tree in Britz at night, injuring 15 people. Seven of the injured were taken to hospital, and one passenger was freed by the fire brigade after being trapped.",
     "injured": 15,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.928Z"
+  "extractedAt": "2026-11-13T18:49:04.451Z"
 }

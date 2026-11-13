@@ -7,15 +7,15 @@
   "extraction": {
     "category": "homicide",
     "incidentDate": "2025-09-12",
-    "street": "Schlossplatz",
+    "street": "Schloßplatz",
     "houseNumberOrCrossing": null,
     "placeName": "Humboldt Forum",
     "district": "Mitte",
-    "summaryEn": "A 20-year-old man died after a brawl between two groups at the Humboldt Forum on 12 September 2025; two other men were slightly injured. The last suspect, a 16-year-old, was arrested at Gesundbrunnen station and remanded.",
+    "summaryEn": "A 20-year-old man died after a group fight at the Humboldt Forum on 12 September 2025, which the 6th Homicide Unit is investigating. The last suspect, a 16-year-old, was arrested in Gesundbrunnen on 21 May 2026 and placed in youth detention.",
     "injured": 2,
     "dead": 1,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.862Z"
+  "extractedAt": "2026-11-13T18:50:39.709Z"
 }

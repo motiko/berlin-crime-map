@@ -9,13 +9,13 @@
     "incidentDate": "2026-03-24",
     "street": "Falkenberger Chaussee",
     "houseNumberOrCrossing": "Prendener Straße",
-    "placeName": "Neu-Hohenschönhausen, Straßenbahnhaltestelle",
+    "placeName": "Neu-Hohenschönhausen",
     "district": "Lichtenberg",
-    "summaryEn": "An eleven-year-old boy tripped at a tram stop in Neu-Hohenschönhausen and was struck by a tram. He was taken to hospital with foot injuries.",
+    "summaryEn": "An 11-year-old boy was hit and injured by a tram at a stop in Neu-Hohenschönhausen after tripping on the platform. The tram driver and a companion were treated for minor injuries.",
     "injured": 3,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.249Z"
+  "extractedAt": "2026-11-13T18:42:21.589Z"
 }

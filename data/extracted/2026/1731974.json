@@ -6,16 +6,16 @@
   "location": "Reinickendorf",
   "extraction": {
     "category": "traffic",
-    "dead": 1,
-    "district": "Reinickendorf",
-    "houseNumberOrCrossing": "Hatzfeldtallee",
     "incidentDate": "2026-10-27",
-    "injured": 1,
-    "placeName": null,
     "street": "Ziekowstraße",
-    "summaryEn": "An 85-year-old pedestrian hit by a car while crossing Ziekowstraße in Tegel died in hospital on 8 November. The driver was an 86-year-old man in a small car.",
+    "houseNumberOrCrossing": "Hatzfeldtallee",
+    "placeName": "Tegel",
+    "district": "Reinickendorf",
+    "summaryEn": "An 85-year-old pedestrian was hit by a car while crossing a road in Tegel on 27 October 2026 and later died in hospital. The driver was an 86-year-old motorist.",
+    "injured": 1,
+    "dead": 1,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.435Z"
+  "extractedAt": "2026-11-13T18:50:22.761Z"
 }

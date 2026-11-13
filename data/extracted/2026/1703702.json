@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Rudow",
     "district": "Neukölln",
-    "summaryEn": "Several gunshots were heard overnight on Johannisthaler Chaussee in Rudow on the night of Saturday to Sunday. A 39-year-old woman found a bullet hole in her parked car later that morning and alerted police.",
+    "summaryEn": "Several gunshots were heard overnight on Johannisthaler Chaussee in Rudow, and a bullet hole was later found in a parked car. Nobody was reported injured; a specialist unit is investigating.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.986Z"
+  "extractedAt": "2026-11-13T18:49:04.393Z"
 }

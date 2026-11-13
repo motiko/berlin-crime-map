@@ -6,16 +6,16 @@
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
     "category": "shooting",
-    "incidentDate": "2026-01-18",
-    "street": "Schönleinstraße",
-    "houseNumberOrCrossing": null,
-    "placeName": null,
-    "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Several shots were fired at a closed café in the Schönleinstraße area overnight. No one was inside or hurt, and bullet holes, cartridge cases and projectiles were found.",
-    "injured": 0,
     "dead": 0,
+    "district": "Friedrichshain-Kreuzberg",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-01-18",
+    "injured": 0,
+    "placeName": null,
+    "street": "Schönleinstraße",
+    "summaryEn": "Several shots were fired at a closed café in Schönleinstraße around 3 a.m. Nobody was injured, and bullet holes were found in the shop windows.",
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.306Z"
+  "extractedAt": "2026-11-13T18:42:21.635Z"
 }

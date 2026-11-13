@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Spandau",
-    "summaryEn": "A man set several waste containers on fire against the wall of a medical practice in Galenstraße, and the flames spread to the building facade. He then turned himself in at a federal police station; nobody was hurt.",
+    "summaryEn": "A 60-year-old man set several waste containers on fire against the wall of a medical practice in Spandau, and the flames spread to the facade. He later turned himself in to federal police; nobody was hurt.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.962Z"
+  "extractedAt": "2026-11-13T18:49:04.352Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Synagoge",
     "district": "Mitte",
-    "summaryEn": "Police found paint graffiti covering about 2 by 8 metres on the roof of a synagogue, along with damage to the perimeter fence. No political motive has been identified so far.",
+    "summaryEn": "Police found paint graffiti of about two by eight metres on the roof of a synagogue and damage to its perimeter fence. No political motive has been identified so far.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.700Z"
+  "extractedAt": "2026-11-13T18:49:04.344Z"
 }

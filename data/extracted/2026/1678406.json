@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A fight between a 26-year-old and a 30-year-old escalated into a brawl involving about 30 people, with bottles and stones thrown. Police used pepper spray during arrests, slightly injuring two bystanders.",
+    "summaryEn": "Overnight, a dispute between two men escalated on Reichenberger Straße into a brawl involving about 30 people, with bottles and stones thrown. Police used pepper spray, lightly injuring two bystanders, and arrested three men.",
     "injured": 3,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.049Z"
+  "extractedAt": "2026-11-13T18:49:04.254Z"
 }

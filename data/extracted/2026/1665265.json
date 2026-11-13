@@ -5,17 +5,17 @@
   "title": "Vielzahl an Straftaten bei Flucht vor Polizei",
   "location": "Neukölln",
   "extraction": {
-    "category": "robbery",
+    "category": "burglary",
     "incidentDate": "2026-04-27",
     "street": "Koppelweg",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "Plainclothes officers caught a 22-year-old loading construction material from a building site into a car in Britz; the group fled, crashing into parked cars, and the driver was arrested after a chase on foot. Investigators are pursuing charges including aggravated gang theft and attempted dangerous bodily injury.",
+    "summaryEn": "Men loaded building material from a construction site into a car at night and fled from plainclothes officers, causing several traffic collisions and spraying a fire extinguisher. One 22-year-old driver was arrested after jumping from the moving car; the others escaped.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.828Z"
+  "extractedAt": "2026-11-13T18:49:04.207Z"
 }

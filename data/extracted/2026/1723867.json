@@ -6,16 +6,16 @@
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
     "category": "political",
-    "incidentDate": "2026-10-09",
-    "street": "Falckensteinstraße",
-    "houseNumberOrCrossing": null,
-    "placeName": null,
-    "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Repeated insults and pepper-spray attacks against a 67-year-old shop owner who displayed posters against antisemitism, with the latest attack on 9 October 2026. The Staatsschutz took over the investigation.",
-    "injured": 1,
     "dead": 0,
+    "district": "Friedrichshain-Kreuzberg",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-10-09",
+    "injured": 1,
+    "placeName": null,
+    "street": "Falckensteinstraße",
+    "summaryEn": "A 67-year-old shop owner in Kreuzberg was repeatedly insulted and attacked with pepper spray by several youths, apparently for anti-antisemitism posters in his shop window. The state security unit has taken over the investigation.",
     "weaponType": "pepper spray"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.968Z"
+  "extractedAt": "2026-11-13T18:49:04.453Z"
 }

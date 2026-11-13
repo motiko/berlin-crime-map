@@ -8,14 +8,14 @@
     "category": "political",
     "incidentDate": "2026-07-12",
     "street": "Schererstraße",
-    "houseNumberOrCrossing": null,
-    "placeName": null,
+    "houseNumberOrCrossing": "Adolfstraße",
+    "placeName": "Wedding",
     "district": "Mitte",
-    "summaryEn": "Early in the morning, several vehicles and building facades in Wedding were sprayed with paint, some with political content. A 38-year-old man was arrested with two spray cans and later released, and the State Security unit took over the politically motivated cases.",
+    "summaryEn": "Multiple paint graffiti attacks on vehicles and building facades in Wedding early in the morning, some with political content. A 38-year-old man was arrested with spray cans and later released; the State Security unit took over the politically motivated cases.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.946Z"
+  "extractedAt": "2026-11-13T18:49:04.381Z"
 }

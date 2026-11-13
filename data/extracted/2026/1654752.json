@@ -5,17 +5,17 @@
   "title": "Durchsuchungsbeschlüsse wegen des Verdachts des Handeltreibens mit Betäubungsmitteln vollstreckt",
   "location": "Berlin/Brandenburg",
   "extraction": {
-    "category": "raid",
+    "category": "drugs",
     "incidentDate": "2026-03-19",
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Police and prosecutors searched six residential and other addresses in Berlin and Brandenburg over suspected aiding of cocaine trafficking via rented \"cocaine taxi\" vehicles. One suspect was arrested, and weapons, forged ID cards and silver bars were seized.",
+    "summaryEn": "Police and prosecutors searched six residences in Berlin and Brandenburg over suspected cocaine trafficking using rental cars as \"cocaine taxis\". One suspect was arrested, and a rifle, shotguns, pistols and cash were seized.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.277Z"
+  "extractedAt": "2026-11-13T18:50:45.103Z"
 }

@@ -6,16 +6,16 @@
   "location": "Tempelhof-Schöneberg",
   "extraction": {
     "category": "traffic",
-    "incidentDate": "2026-07-18",
-    "street": "Vorarlberger Damm",
-    "houseNumberOrCrossing": "Sachsendamm",
-    "placeName": null,
-    "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 19-year-old car driver pulling out of a parking bay to turn collided with a 19-year-old motorcyclist on Vorarlberger Damm. The motorcyclist died at the scene despite resuscitation attempts, and two other people were treated in hospital.",
-    "injured": 2,
     "dead": 1,
-    "weaponType": "vehicle"
+    "district": "Tempelhof-Schöneberg",
+    "houseNumberOrCrossing": "Sachsendamm",
+    "incidentDate": "2026-07-18",
+    "injured": 2,
+    "placeName": null,
+    "street": "Vorarlberger Damm",
+    "summaryEn": "A car pulling out of a parking bay on Vorarlberger Damm in Schöneberg collided with a motorcyclist, who died at the scene. The car driver and her passenger were treated in hospital as outpatients.",
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.754Z"
+  "extractedAt": "2026-11-13T18:49:04.171Z"
 }

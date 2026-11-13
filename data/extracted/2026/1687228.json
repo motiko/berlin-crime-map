@@ -9,13 +9,13 @@
     "incidentDate": "2026-06-28",
     "street": "Nieberstraße",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "S-Bahnhof Adlershof",
     "district": "Treptow-Köpenick",
-    "summaryEn": "Three unknown people boarded a rail replacement bus in Johannisthal and refused to leave when the 67-year-old driver asked them to. One of them struck the driver in the head and sprayed irritant spray in his face; he was treated as an outpatient.",
+    "summaryEn": "Three unknown people boarded a replacement S9 bus near Adlershof station and refused to leave when asked by the driver. One of them punched the 67-year-old driver in the head and sprayed irritant spray in his face.",
     "injured": 1,
     "dead": 0,
     "weaponType": "irritant spray"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.971Z"
+  "extractedAt": "2026-11-13T18:49:04.330Z"
 }

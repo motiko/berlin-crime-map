@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Brunsbütteler Damm",
     "placeName": null,
     "district": "Spandau",
-    "summaryEn": "An 82-year-old driver collided with a car at the Prisdorfer Straße/Brunsbütteler Damm crossing in Spandau and later died in hospital. His 84-year-old wife and the 28-year-old other driver were also involved; the wife was seriously injured and the other driver was unhurt.",
+    "summaryEn": "An 82-year-old driver collided with a car at a junction in Spandau and was seriously hurt. He died in hospital the following night, and his 84-year-old wife was also seriously injured.",
     "injured": 2,
     "dead": 1,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.897Z"
+  "extractedAt": "2026-11-13T18:49:04.394Z"
 }

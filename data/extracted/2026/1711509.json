@@ -6,16 +6,16 @@
   "location": "Tempelhof-Schöneberg",
   "extraction": {
     "category": "traffic",
-    "dead": 0,
-    "district": "Tempelhof-Schöneberg",
-    "houseNumberOrCrossing": "Reißeckstraße",
     "incidentDate": "2026-09-07",
-    "injured": 1,
-    "placeName": "Mariendorf",
     "street": "Mariendorfer Damm",
-    "summaryEn": "A scooter rider was seriously injured in a collision with a van at a turn in Mariendorf on the evening of 7 September. The van driver left the scene without stopping and is still being sought.",
+    "houseNumberOrCrossing": "Reißeckstraße",
+    "placeName": "Mariendorf",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 53-year-old scooter rider was seriously injured after a collision with a van at a turning junction in Mariendorf, and the van driver left the scene. The rider is hospitalised but not in danger of his life.",
+    "injured": 1,
+    "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.866Z"
+  "extractedAt": "2026-11-13T18:49:04.316Z"
 }

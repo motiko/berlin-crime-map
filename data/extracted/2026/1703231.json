@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "A 43-year-old woman damaged election posters on a lamppost in Brunnenstraße and struck out at police officers. One officer was hurt on the arm and the case was taken over by the state security unit.",
+    "summaryEn": "A 43-year-old woman tore down and damaged election posters in Brunnenstraße and elbowed a police officer, who was slightly hurt when blocking the blow. The Staatsschutz took over the investigation.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.032Z"
+  "extractedAt": "2026-11-13T18:49:04.225Z"
 }

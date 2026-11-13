@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Rummelsburg",
     "district": "Lichtenberg",
-    "summaryEn": "Overnight, a large graffiti inscription was found on a building facade and window front in Marktstraße, and a fire damaged office furnishings inside the building. Nobody was hurt; the State Security unit (Staatsschutz) took over the investigation.",
+    "summaryEn": "Overnight, a 5 x 5 metre graffiti was found on a building facade and window front in Marktstraße, and a fire broke out inside the building, damaging office equipment. Nobody was hurt, and the State Security unit took over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.691Z"
+  "extractedAt": "2026-11-13T18:49:04.226Z"
 }

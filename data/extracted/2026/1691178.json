@@ -6,16 +6,16 @@
   "location": "Neukölln",
   "extraction": {
     "category": "robbery",
-    "incidentDate": "2025-01-01",
+    "incidentDate": "2026-07-07",
     "street": null,
     "houseNumberOrCrossing": null,
-    "placeName": null,
-    "district": null,
-    "summaryEn": "A 20-year-old suspect was arrested in Rudow over a series of robberies in which men were lured to meetings via dating apps and robbed at gunpoint or with threats in 2025. The main accomplice was previously sentenced to five years in prison.",
+    "placeName": "U-Bahnhof Rudow",
+    "district": "Neukölln",
+    "summaryEn": "A 20-year-old suspect in a series of robberies of men lured through dating apps was arrested at Rudow U-Bahn station and remanded in custody. The co-accused was already sentenced to five years by the Berlin Regional Court I in June 2026.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.729Z"
+  "extractedAt": "2026-11-13T18:49:04.472Z"
 }

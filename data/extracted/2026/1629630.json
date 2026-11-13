@@ -5,17 +5,17 @@
   "title": "Bilanz der polizeilichen Maßnahmen zum Jahreswechsel 2025/2026",
   "location": "berlinweit",
   "extraction": {
-    "category": "explosion",
+    "category": "other",
     "incidentDate": "2026-01-01",
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Berlin police issued a overall balance of New Year's Eve 2025/2026 operations, reporting about 35 officers injured, about 430 arrests and 47 vehicles set on fire across the city. Numerous attacks on emergency workers with fireworks were recorded.",
+    "summaryEn": "Police report on New Year's Eve 2025/2026 operations across Berlin: 35 officers injured, about 430 people arrested, and around 800 investigations opened. Attacks on emergency crews with fireworks were widespread, and 47 vehicles were set on fire.",
     "injured": 35,
     "dead": 0,
-    "weaponType": "explosive"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.252Z"
+  "extractedAt": "2026-11-13T18:42:21.598Z"
 }

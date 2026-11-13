@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Wesendorfer Straße",
     "placeName": "Sporthalle einer Schule im Märkischen Viertel",
     "district": "Reinickendorf",
-    "summaryEn": "A fire broke out in a school sports hall in the Märkisches Viertel on Saturday evening, after a bang was heard. Firefighters extinguished the blaze; nobody was injured, but the hall was heavily damaged.",
+    "summaryEn": "A fire broke out in a school sports hall in the Märkisches Viertel on Saturday evening, causing heavy damage. Nobody was hurt; the Landeskriminalamt fire investigation unit has taken over the case.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.824Z"
+  "extractedAt": "2026-11-13T18:49:04.452Z"
 }

@@ -8,14 +8,14 @@
     "category": "shooting",
     "incidentDate": "2026-03-05",
     "street": "Bismarckallee",
-    "houseNumberOrCrossing": null,
+    "houseNumberOrCrossing": "Bismarckplatz",
     "placeName": "Bismarckplatz",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Two men fleeing police in a car fired a handgun at pursuing officers, and were later arrested after hiding in a building's cellar. One officer was injured during the arrest.",
+    "summaryEn": "After a chase with reported shots from a moving car, two men were arrested in a basement after one of them fired a handgun at pursuing officers, who were not hit. An officer was injured during the arrest.",
     "injured": 1,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.200Z"
+  "extractedAt": "2026-11-13T18:42:21.565Z"
 }

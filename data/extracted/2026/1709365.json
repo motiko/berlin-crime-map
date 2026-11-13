@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Demminer Straße",
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "A car's side window was smashed and a backpack was stolen in Mitte; a 29-year-old suspect was arrested shortly afterwards. The suspect is to be brought before a judge for an arrest warrant.",
+    "summaryEn": "A man broke into a car in Schönholzer Straße and took a backpack. A 29-year-old suspect was arrested nearby and is to be brought before a judge for an arrest warrant.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.921Z"
+  "extractedAt": "2026-11-13T18:49:04.265Z"
 }

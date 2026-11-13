@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "Unknown perpetrators sprayed antisemitic slogans and swastikas on building walls in Ueckermünder Straße over the past weekend and on the night of 11 April. The State Protection unit appeals for witnesses.",
+    "summaryEn": "Unknown perpetrators sprayed antisemitic slogans and swastikas on house walls in Ueckermünder Straße over the weekend and on the night of 11 April. The Staatsschutz asks witnesses to come forward.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.938Z"
+  "extractedAt": "2026-11-13T18:49:04.364Z"
 }

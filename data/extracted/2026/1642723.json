@@ -6,16 +6,16 @@
   "location": "Lichtenberg",
   "extraction": {
     "category": "fire",
-    "incidentDate": "2026-02-11",
-    "street": "Dolgenseestraße",
-    "houseNumberOrCrossing": null,
-    "placeName": "Friedrichsfelde",
+    "dead": 2,
     "district": "Lichtenberg",
-    "summaryEn": "A fire broke out in an apartment building in Friedrichsfelde, killing a nine-month-old baby. The baby's mother and five-year-old brother later died of their injuries.",
-    "injured": 43,
-    "dead": 3,
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-02-11",
+    "injured": 40,
+    "placeName": "Friedrichsfelde",
+    "street": "Dolgenseestraße",
+    "summaryEn": "A fire in an apartment building in Friedrichsfelde killed a nine-month-old baby; the mother and a five-year-old brother later died of their injuries. Around 40 residents were treated at the scene.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.347Z"
+  "extractedAt": "2026-11-13T18:50:47.578Z"
 }

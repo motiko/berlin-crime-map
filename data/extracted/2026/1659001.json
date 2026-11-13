@@ -6,16 +6,16 @@
   "location": "Lichtenberg",
   "extraction": {
     "category": "traffic",
-    "incidentDate": "2026-04-05",
-    "street": "Frankfurter Allee",
-    "houseNumberOrCrossing": "Atzpodienstraße",
-    "placeName": null,
-    "district": "Lichtenberg",
-    "summaryEn": "A 50-year-old woman riding a scooter lost control on Frankfurter Allee and crashed, then collided with an oncoming car. She died at the scene despite resuscitation attempts.",
-    "injured": 0,
     "dead": 1,
+    "district": "Lichtenberg",
+    "houseNumberOrCrossing": "Atzpodienstraße",
+    "incidentDate": "2026-04-05",
+    "injured": 0,
+    "placeName": null,
+    "street": "Frankfurter Allee",
+    "summaryEn": "A 50-year-old woman riding a scooter crashed on Frankfurter Allee in Lichtenberg and died at the scene after colliding with a car. Traffic investigators are looking into the cause.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.207Z"
+  "extractedAt": "2026-11-13T18:42:21.560Z"
 }

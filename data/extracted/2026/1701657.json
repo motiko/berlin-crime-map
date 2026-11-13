@@ -5,17 +5,17 @@
   "title": "Fahrradfahrer verstorben",
   "location": "Spandau",
   "extraction": {
-    "category": "other",
+    "category": "traffic",
     "incidentDate": "2026-08-10",
     "street": "Streitstraße",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Hakenfelde",
     "district": "Spandau",
-    "summaryEn": "A 73-year-old cyclist collapsed on Streitstraße and was declared dead at the scene after bystanders attempted resuscitation. Police investigators have taken over the follow-up inquiries.",
+    "summaryEn": "A 73-year-old cyclist collapsed and fell in Streitstraße in Hakenfelde and died at the scene despite first aid and resuscitation attempts by bystanders. Police investigations are being handled by a specialist unit.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.739Z"
+  "extractedAt": "2026-11-13T18:50:31.420Z"
 }

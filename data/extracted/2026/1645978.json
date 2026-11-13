@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "U-Bahnstation Rathaus Spandau",
     "district": "Spandau",
-    "summaryEn": "Two teenage girls attempted to rob a 15-year-old girl and her 14-year-old friend at the Rathaus Spandau U-Bahn station. The 15-year-old was hit, kicked, threatened with a knife and injured on one hand before the attackers fled without taking anything.",
+    "summaryEn": "Two teenage girls attempted to extort valuables from two other girls at Rathaus Spandau subway station, then attacked one of them and threatened her with a knife, injuring her hand. The attackers fled without loot.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.260Z"
+  "extractedAt": "2026-11-13T18:42:21.602Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Parkplatz am Messedamm",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Several unknown men robbed a 24-year-old man in Westend on a car park and stabbed him in the abdomen. He was taken to hospital and operated on; police say his life is not in danger.",
+    "summaryEn": "Several unknown men robbed a 24-year-old man on a parking lot and stabbed him in the abdomen. The victim reached the bus station waiting hall, where bystanders gave first aid before he was taken to hospital and operated on.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.256Z"
+  "extractedAt": "2026-11-13T18:42:21.531Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Sophie-Charlotte-Platz",
     "placeName": "Sophie-Charlotte-Platz",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A truck driver ran a red light on Bismarckstraße in Charlottenburg and collided with several parked vehicles, including police vehicles, before coming to a stop in a tree. The 49-year-old driver was injured and taken to hospital; indications point to a medical emergency.",
+    "summaryEn": "A 49-year-old truck driver allegedly ran a red light on Bismarckstraße and crashed into several parked vehicles, including police vehicles. The driver was injured and taken to hospital; investigators point to a possible medical emergency.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.725Z"
+  "extractedAt": "2026-11-13T18:49:04.178Z"
 }

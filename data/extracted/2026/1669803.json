@@ -13,9 +13,9 @@
     "injured": 1,
     "placeName": null,
     "street": "Ruschestraße",
-    "summaryEn": "An eight-year-old boy ran onto the road after a ball and was hit by a car, suffering a suspected head injury. He was taken to hospital for treatment.",
+    "summaryEn": "An eight-year-old boy ran after a ball onto the road in Ruschestraße and was hit by a car driven by a 57-year-old woman. He was taken to hospital with suspected head injury.",
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.003Z"
+  "extractedAt": "2026-11-13T18:49:04.277Z"
 }

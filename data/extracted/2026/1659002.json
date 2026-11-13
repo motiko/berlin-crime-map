@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Tankstelle",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 27-year-old man allegedly took two bottles of brandy from a petrol station shop without paying and left. When police detained him nearby, he resisted and had to be subdued with the police special unit (DEIG).",
+    "summaryEn": "A 27-year-old man took two bottles of brandy from a petrol station shop in Lichtenrade without paying and left. He was arrested nearby after resisting police, who used the DEIG unit to end his resistance.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.330Z"
+  "extractedAt": "2026-11-13T18:42:21.626Z"
 }

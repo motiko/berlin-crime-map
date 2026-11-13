@@ -6,16 +6,16 @@
   "location": "Mitte",
   "extraction": {
     "category": "political",
-    "incidentDate": "2026-11-03",
-    "street": null,
-    "houseNumberOrCrossing": null,
-    "placeName": "Großer Tiergarten",
-    "district": "Mitte",
-    "summaryEn": "Two animal sculptures in the Großer Tiergarten were smeared with red paint containing inflammatory hate speech. Police removed the writing, and the State Security unit has taken over the investigation.",
-    "injured": 0,
     "dead": 0,
+    "district": "Mitte",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-11-03",
+    "injured": 0,
+    "placeName": "Großer Tiergarten",
+    "street": null,
+    "summaryEn": "Two animal sculptures in the Großer Tiergarten were smeared with red paint containing hateful slogans. The State Security unit has taken over the investigation.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.431Z"
+  "extractedAt": "2026-11-13T18:49:04.304Z"
 }

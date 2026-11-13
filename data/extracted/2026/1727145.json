@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Buschower Weg",
     "placeName": "Staaken",
     "district": "Spandau",
-    "summaryEn": "A truck driver's exterior mirror struck a 23-year-old pedestrian in the face while she was crossing Heerstraße at a traffic light in Staaken. She was taken to hospital with suspected facial fracture and head injury.",
+    "summaryEn": "A truck's wing mirror struck a 23-year-old pedestrian in the face while she crossed Heerstraße at a traffic light in Staaken. She was taken to hospital with a suspected facial fracture and brain injury.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.977Z"
+  "extractedAt": "2026-11-13T18:49:04.300Z"
 }

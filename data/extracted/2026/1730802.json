@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 60-year-old man was attacked on a park bench in Schöneberg after being asked whether he is Jewish and subjected to antisemitic remarks. He suffered facial bruises and a cut, and the State Security unit has taken over the investigation.",
+    "summaryEn": "A 60-year-old Jewish man was attacked on a park bench in Schöneberg with antisemitic remarks and beaten, sustaining bruises and a cut. The state security unit has taken over the investigation.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.047Z"
+  "extractedAt": "2026-11-13T18:49:04.332Z"
 }

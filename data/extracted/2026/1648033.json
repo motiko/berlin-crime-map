@@ -6,16 +6,16 @@
   "location": "Charlottenburg-Wilmersdorf",
   "extraction": {
     "category": "political",
-    "incidentDate": "2026-02-26",
-    "street": "Zähringerstraße",
-    "houseNumberOrCrossing": null,
-    "placeName": null,
-    "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "White paint graffiti damaged a bench mounted on the wall of a constituency office in Wilmersdorf. The State Security unit (Staatsschutz) has taken over the investigation.",
-    "injured": 0,
     "dead": 0,
+    "district": "Charlottenburg-Wilmersdorf",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-02-26",
+    "injured": 0,
+    "placeName": null,
+    "street": "Zähringerstraße",
+    "summaryEn": "White paint was sprayed onto a bench in front of a constituency office in Wilmersdorf. The Staatsschutz unit has taken over the investigation.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.332Z"
+  "extractedAt": "2026-11-13T18:42:21.523Z"
 }

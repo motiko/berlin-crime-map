@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Schlachtensee",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A 75-year-old woman drove off the road near a petrol station in Schlachtensee and hit two parked cars; her car overturned. She suffered head injuries and was taken to hospital.",
+    "summaryEn": "A 75-year-old woman lost control of her car on Potsdamer Chaussee and hit two parked vehicles, overturning her car. She was seriously injured in the head and taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.212Z"
+  "extractedAt": "2026-11-13T18:42:21.649Z"
 }

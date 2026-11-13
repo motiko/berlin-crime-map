@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Rudower Straße",
     "placeName": "Buckow",
     "district": "Neukölln",
-    "summaryEn": "A 31-year-old driver turning left collided with an oncoming car in Buckow in the evening. Two drivers were injured and taken to hospital.",
+    "summaryEn": "A 31-year-old driver turning left collided with an oncoming car in Buckow on the evening before publication. Two people were injured and taken to hospital.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.342Z"
+  "extractedAt": "2026-11-13T18:42:21.651Z"
 }

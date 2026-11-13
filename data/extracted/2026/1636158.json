@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "Three unknown suspects threatened and forced a 37-year-old discount store employee to hand over the takings after closing. One of them hit the employee repeatedly on the head, and he was taken to hospital.",
+    "summaryEn": "Three men robbed a discount store employee after he locked up at about 22:30, forcing him to reopen the shop and hand over the takings. One of them hit the 37-year-old repeatedly on the head before the trio fled.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.325Z"
+  "extractedAt": "2026-11-13T18:42:21.592Z"
 }

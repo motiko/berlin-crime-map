@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Zermatter Straße",
     "placeName": null,
     "district": "Reinickendorf",
-    "summaryEn": "A 29-year-old driver died after his car veered off the road and hit a tree in Reinickendorf in the early hours. Two passengers, aged 29 and 30, were injured and taken to hospital.",
+    "summaryEn": "A 29-year-old driver died after his car left the road and hit a tree in Aroser Allee in the night. Two passengers aged 29 and 30 were seriously injured.",
     "injured": 2,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.313Z"
+  "extractedAt": "2026-11-13T18:42:21.520Z"
 }

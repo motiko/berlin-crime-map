@@ -6,16 +6,16 @@
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
     "category": "traffic",
-    "incidentDate": "2026-07-15",
-    "street": "Blücherstraße",
-    "houseNumberOrCrossing": "Urbanstraße",
-    "placeName": null,
-    "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 50-year-old e-scooter rider died after colliding with a car at the Blücherstraße/Urbanstraße junction in the early hours. Traffic accident investigators have taken over the case.",
-    "injured": 0,
     "dead": 1,
-    "weaponType": null
+    "district": "Friedrichshain-Kreuzberg",
+    "houseNumberOrCrossing": "Urbanstraße",
+    "incidentDate": "2026-07-15",
+    "injured": 0,
+    "placeName": null,
+    "street": "Blücherstraße",
+    "summaryEn": "A 50-year-old e-scooter rider died after a collision with a car at the Blücherstraße/Urbanstraße junction in Kreuzberg in the early hours. The 23-year-old car driver was involved; the traffic accident unit is investigating.",
+    "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.972Z"
+  "extractedAt": "2026-11-13T18:50:33.943Z"
 }

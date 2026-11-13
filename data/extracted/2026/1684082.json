@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Reinickendorf",
-    "summaryEn": "An 18-year-old man was attacked by four men in Lindauer Allee and robbed of cash and his mobile phone, with one attacker carrying pepper spray. The victim was injured badly enough to need hospital treatment.",
+    "summaryEn": "An 18-year-old man was attacked by four men in Lindauer Allee, one of them carrying pepper spray, and robbed of cash and his mobile phone. He was injured badly enough to need hospital treatment.",
     "injured": 1,
     "dead": 0,
     "weaponType": "pepper spray"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.822Z"
+  "extractedAt": "2026-11-13T18:49:04.136Z"
 }

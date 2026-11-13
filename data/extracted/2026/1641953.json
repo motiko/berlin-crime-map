@@ -6,16 +6,16 @@
   "location": "Spandau",
   "extraction": {
     "category": "traffic",
-    "dead": null,
-    "district": "Spandau",
-    "houseNumberOrCrossing": "Falkenseer Platz",
     "incidentDate": "2026-02-09",
-    "injured": 2,
-    "placeName": null,
     "street": "Altstädter Ring",
-    "summaryEn": "A driver suffered a medical emergency while driving on Altstädter Ring in Spandau, causing a crash into a bus stop pole and trees. The driver was resuscitated and both occupants were taken to hospital.",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Spandau",
+    "summaryEn": "A 49-year-old driver suffered a medical emergency while driving on Altstädter Ring, causing a crash in which he was resuscitated. His 40-year-old passenger was also injured.",
+    "injured": 2,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.330Z"
+  "extractedAt": "2026-11-13T18:42:21.579Z"
 }

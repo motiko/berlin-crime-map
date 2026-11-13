@@ -5,17 +5,17 @@
   "title": "Nach Fund von Kameras in Damentoiletten – Durchsuchung bei Tatverdächtigem",
   "location": "Treptow-Köpenick",
   "extraction": {
-    "category": "other",
+    "category": "raid",
     "incidentDate": "2026-10-07",
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": "Lichtenberger Campus der Hochschule für Wirtschaft und Recht",
-    "district": "Lichtenberg",
-    "summaryEn": "Police searched the home of a 66-year-old man suspected of secretly filming in women's restrooms at a university campus; the cameras had been found there on 10 June 2026. The suspect was released after identification measures and questioning, and evidence analysis continues.",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "Police searched the flat of a 66-year-old man suspected of filming women in toilets at a university campus, after hidden cameras were found on 10 June 2026. The suspect was released after questioning and the investigation continues.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.721Z"
+  "extractedAt": "2026-11-13T18:50:24.828Z"
 }

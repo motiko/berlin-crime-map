@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "Several bullet holes were found in a restaurant on Buschkrugallee after an employee opened it in the afternoon. Police secured several cartridge casings; nobody was reported injured.",
+    "summaryEn": "Several bullet holes were found in a bar on Buschkrugallee in Neukölln, and police secured several cartridge casings. Nobody was reported injured.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.348Z"
+  "extractedAt": "2026-11-13T18:42:21.582Z"
 }

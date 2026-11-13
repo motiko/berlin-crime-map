@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Hufeisensiedlung",
     "district": "Neukölln",
-    "summaryEn": "Police arrested a 36-year-old suspected arsonist in Britz after a series of six fires in the Hufeisensiedlung area and an adjacent allotment colony. No one was hurt.",
+    "summaryEn": "A 36-year-old man suspected of setting six fires, including two cars, a motorhome and bins, was arrested in Britz overnight. No one was injured.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.902Z"
+  "extractedAt": "2026-11-13T18:49:04.463Z"
 }

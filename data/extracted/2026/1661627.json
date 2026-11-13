@@ -9,13 +9,13 @@
     "incidentDate": "2026-04-15",
     "street": "Schönhauser Allee",
     "houseNumberOrCrossing": "Stargarder Straße",
-    "placeName": null,
+    "placeName": "Prenzlauer Berg",
     "district": "Pankow",
-    "summaryEn": "After a traffic dispute, a car driver allegedly drew a knife and injured a 35-year-old cyclist's chin. The cyclist was taken to hospital for outpatient treatment.",
+    "summaryEn": "After a traffic dispute, a car driver allegedly drew a knife and injured a 35-year-old cyclist on the chin. The cyclist was taken to hospital for outpatient treatment.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.772Z"
+  "extractedAt": "2026-11-13T18:49:04.444Z"
 }

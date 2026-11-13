@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Wendenschloßstraße",
     "placeName": "Mittelinsel",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A woman wearing a headscarf was insulted with xenophobic remarks and struck on the shoulder by an unknown woman, who also shouted a Nazi-motivated phrase. A witness intervened, and the State Security unit took over the investigation.",
-    "injured": 1,
+    "summaryEn": "Two incidents of xenophobic attacks were reported on the evening of 2 October: a woman wearing a headscarf was insulted and struck on the shoulder, and a 29-year-old man was racially insulted and punched in the face at a tram stop in Lichtenberg. The Staatsschutz took over both investigations.",
+    "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.908Z"
+  "extractedAt": "2026-11-13T18:49:04.299Z"
 }

@@ -5,17 +5,17 @@
   "title": "18-Jähriger soll Reizgas in Schule versprüht haben",
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
-    "category": "knife",
+    "category": "assault",
     "incidentDate": "2026-10-05",
     "street": "Skalitzer Straße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "An 18-year-old, carrying a knife, a telescopic baton and a pepper spray device, allegedly entered a school and released tear gas. Nine pupils and four teachers were injured and the suspect was arrested.",
+    "summaryEn": "A former pupil allegedly entered a school carrying a knife, a telescopic baton and pepper spray, and sprayed tear gas in the air. Nine pupils and four teachers were injured and taken to hospital or treated on site.",
     "injured": 13,
     "dead": 0,
-    "weaponType": "knife"
+    "weaponType": "pepper spray"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.004Z"
+  "extractedAt": "2026-11-13T18:49:04.335Z"
 }

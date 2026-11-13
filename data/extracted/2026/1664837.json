@@ -9,13 +9,13 @@
     "incidentDate": "2026-04-26",
     "street": "Johannisthaler Chaussee",
     "houseNumberOrCrossing": "Glockenblumenweg",
-    "placeName": "BAB 113",
+    "placeName": "Rudow",
     "district": "Neukölln",
-    "summaryEn": "After a taxi passenger fell from a moving taxi on the A113 motorway, he forced his way into a woman's car, snatched her handbag so she fell, and drove off. He crashed into bollards at the Johannisthaler Chaussee junction and was taken to hospital.",
-    "injured": 2,
+    "summaryEn": "A 38-year-old man jumped from a moving taxi on the A113 and then grabbed a woman's handbag, knocking her to the ground, before stealing her car and crashing it into bollards. The man was injured and taken to hospital.",
+    "injured": 1,
     "dead": 0,
-    "weaponType": "vehicle"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.932Z"
+  "extractedAt": "2026-11-13T18:49:04.443Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A 73-year-old woman reported missing since 27 December 2025 from Lichterfelde was found dead in the Teltowkanal in Kleinmachnow. Police found no indication of third-party involvement.",
+    "summaryEn": "A 73-year-old woman reported missing since 27 December 2025 from Lichterfelde was found dead in the Teltow Canal in Kleinmachnow. Brandenburg police are handling the death investigation and see no sign of third-party involvement so far.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.343Z"
+  "extractedAt": "2026-11-13T18:42:21.561Z"
 }

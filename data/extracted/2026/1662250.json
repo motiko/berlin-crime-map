@@ -9,13 +9,13 @@
     "incidentDate": "2026-04-18",
     "street": "Seelenbinderstraße",
     "houseNumberOrCrossing": "Bahnhofstraße",
-    "placeName": "Köpenick",
+    "placeName": null,
     "district": "Treptow-Köpenick",
-    "summaryEn": "A man took a political party's flag from an information stand in Köpenick and fled, then pushed two members/companions who tried to retrieve it, injuring one at the knee. The 32-year-old suspect, about 2 per mille, was arrested and later released; the State Security unit is investigating.",
+    "summaryEn": "A man took a party flag from an information stand in Köpenick and fled; when party members followed to reclaim it, he pushed two of them, injuring one in the knee. The Staatsschutz is investigating.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.039Z"
+  "extractedAt": "2026-11-13T18:49:04.185Z"
 }

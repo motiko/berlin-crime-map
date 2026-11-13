@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Police raided twelve properties in Berlin and Hamburg in a coordinated operation against weapons trafficking, seizing seven firearms, ammunition and about 6,000 euros plus large cash sums. Six suspects aged 40 and 66 are investigated; the people found were released after the measures.",
+    "summaryEn": "Police searched twelve properties in Berlin, Hamburg and Brandenburg in a multi-state operation against arms trafficking and firearms crime, seizing seven firearms and cash. Six suspects aged 40 and 66 were targeted, and the investigation continues.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.035Z"
+  "extractedAt": "2026-11-13T18:50:31.604Z"
 }

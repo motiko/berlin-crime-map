@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Mariendorf",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 16-year-old e-scooter rider and an unauthorized 15-year-old passenger were injured after a collision with a car on Britzer Straße in Mariendorf. The car driver, 21, could not stop in time.",
+    "summaryEn": "A 16-year-old e-scooter rider and an unauthorized passenger aged 15 were injured after the scooter pulled out from a footpath and was hit by a car. The 15-year-old remained in hospital.",
     "injured": 2,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.706Z"
+  "extractedAt": "2026-11-13T18:49:04.334Z"
 }

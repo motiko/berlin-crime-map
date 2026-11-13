@@ -9,13 +9,13 @@
     "incidentDate": "2026-09-25",
     "street": "Prenzlauer Allee",
     "houseNumberOrCrossing": "Heinrich-Roller-Straße",
-    "placeName": null,
+    "placeName": "Prenzlauer Berg",
     "district": "Pankow",
-    "summaryEn": "A car driver hit a 13-year-old girl who ran onto the road at a junction in Prenzlauer Berg in the night. The girl suffered multiple fractures and was taken to hospital.",
+    "summaryEn": "A car driver hit a 13-year-old girl who ran onto the road at a junction in Prenzlauer Berg overnight. The girl suffered multiple fractures and was taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.836Z"
+  "extractedAt": "2026-11-13T18:49:04.256Z"
 }

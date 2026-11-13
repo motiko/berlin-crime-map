@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Trusetaler Straße",
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A 90-year-old driver collided with a tram at the Mehrower Allee crossing in Marzahn and was trapped in the car, requiring fire brigade extrication. He was seriously injured but reportedly not in mortal danger, and the crossing was closed until 3 p.m.",
+    "summaryEn": "A 90-year-old driver collided with a tram at a junction in Marzahn and was trapped in his car. He was seriously injured and taken to hospital; police traffic investigators are looking into the crash.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.895Z"
+  "extractedAt": "2026-11-13T18:49:04.397Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Bülowstraße",
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A fire broke out in a top-floor flat of an apartment building on Potsdamer Straße in the evening, and the wing was evacuated. Nobody was hurt; the cause is under investigation by the arson unit.",
+    "summaryEn": "A fire broke out in a top-floor flat of a residential building on Potsdamer Straße in Schöneberg after a loud bang was heard. The fire was extinguished, the wings of the building were evacuated, and nobody was injured.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.284Z"
+  "extractedAt": "2026-11-13T18:42:21.630Z"
 }

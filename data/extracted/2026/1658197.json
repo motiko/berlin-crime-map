@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "Two men were arrested after police saw them removing wheels from a parked Mercedes in Steglitz. Both were released after identification procedures; investigations continue.",
+    "summaryEn": "Two men were arrested while allegedly removing wheels from a parked Mercedes in Steglitz at night. Both were released after identification measures; investigations are ongoing.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.280Z"
+  "extractedAt": "2026-11-13T18:42:21.659Z"
 }

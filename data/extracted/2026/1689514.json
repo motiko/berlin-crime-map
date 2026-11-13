@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A 58-year-old woman died in a flat fire in a multi-family building in Lichterfelde. A 77-year-old neighbour was treated for suspected smoke inhalation, and the fire is being investigated as possible negligent arson.",
+    "summaryEn": "A 58-year-old woman died in a flat fire in an apartment building on Lechtaler Weg; a 77-year-old resident was treated for smoke inhalation. The LKA fire unit is investigating for suspected negligent arson.",
     "injured": 1,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.711Z"
+  "extractedAt": "2026-11-13T18:49:04.294Z"
 }

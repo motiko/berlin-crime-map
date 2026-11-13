@@ -9,13 +9,13 @@
     "incidentDate": "2026-10-09",
     "street": "Unionstraße",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Moabit",
     "district": "Mitte",
-    "summaryEn": "An unknown man attacked a 27-year-old man with a knife on Unionstraße in Moabit and fled. The victim was treated by witnesses and taken to hospital by paramedics.",
+    "summaryEn": "An unknown man stabbed a 27-year-old man on Unionstraße in Moabit in the afternoon and fled. The victim was treated by witnesses and taken to hospital by rescue services.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.008Z"
+  "extractedAt": "2026-11-13T18:49:04.374Z"
 }

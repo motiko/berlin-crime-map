@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Berliner Dom",
     "district": "Mitte",
-    "summaryEn": "A registered Ashura march with about 600 participants at its peak went from Berliner Dom to Gendarmenmarkt in Mitte. A children's stage performance was stopped, several participants needed medical treatment for heat-related circulatory problems, and police reported no offences.",
+    "summaryEn": "A registered procession (\"Aschura-Marsch\") with up to about 600 participants ran from the Berliner Dom to Gendarmenmarkt. Police banned a re-enactment involving children, several people needed medical care for heat-related illness, and the event remained peaceful.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.804Z"
+  "extractedAt": "2026-11-13T18:49:04.194Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "A 66-year-old man reported missing from a care facility in Pankow has been found again and taken to hospital by rescue workers. The missing-person search was originally launched on 17 April 2026.",
-    "injured": null,
+    "summaryEn": "A 66-year-old man reported missing from a care facility in Pankow has been found again and taken to hospital for medical care.",
+    "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.924Z"
+  "extractedAt": "2026-11-13T18:49:04.158Z"
 }

@@ -6,16 +6,16 @@
   "location": "Marzahn-Hellersdorf",
   "extraction": {
     "category": "knife",
-    "incidentDate": "2026-03-08",
-    "street": "Alt-Marzahn",
-    "houseNumberOrCrossing": null,
-    "placeName": null,
-    "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A 27-year-old woman was stabbed in the lower body in an apartment in Marzahn during the night. Police arrested her 21-year-old partner.",
-    "injured": 1,
     "dead": 0,
+    "district": "Marzahn-Hellersdorf",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-03-08",
+    "injured": 1,
+    "placeName": null,
+    "street": "Alt-Marzahn",
+    "summaryEn": "After a knife attack in an apartment in Alt-Marzahn, a 27-year-old woman with a stab wound to the lower body was taken to hospital. Police arrested her 21-year-old partner, and an investigation for dangerous bodily harm in a domestic violence context is ongoing.",
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.219Z"
+  "extractedAt": "2026-11-13T18:42:21.572Z"
 }

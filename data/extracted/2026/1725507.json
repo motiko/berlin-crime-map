@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Spandauer Straße",
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "A police officer fired a shot at a 40-year-old driver who fled and allegedly drove at an officer during a stop after dangerous driving through Mitte. The driver was hit in the leg and taken to hospital.",
+    "summaryEn": "After a reckless drive through central Berlin, police stopped a 40-year-old driver, who sped off again and was shot in the leg by an officer when he allegedly drove at a police officer. The man was then arrested and taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.891Z"
+  "extractedAt": "2026-11-13T18:49:04.442Z"
 }

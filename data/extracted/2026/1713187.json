@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "A 43-year-old woman was insulted antisemitically and attacked with a broken glass bottle by two men on Torstraße in the early hours. She suffered cuts to one hand and was taken to hospital; the state security unit is investigating.",
+    "summaryEn": "A 43-year-old woman was insulted antisemitically and attacked with a broken glass bottle by two men on Torstraße in the early hours of 11 September 2026. The case was taken over by the state security unit.",
     "injured": 1,
     "dead": 0,
     "weaponType": "broken glass bottle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.857Z"
+  "extractedAt": "2026-11-13T18:49:04.455Z"
 }

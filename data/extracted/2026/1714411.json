@@ -9,13 +9,13 @@
     "incidentDate": "2026-09-15",
     "street": "Hauptstraße",
     "houseNumberOrCrossing": "Akazienstraße",
-    "placeName": null,
+    "placeName": "Wahlstand",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A man threw two mobile phones at people at an election stall in Schöneberg, hitting a 44-year-old woman on the leg, and then fled. The State Security unit (Staatsschutz) has taken over the investigation.",
+    "summaryEn": "An unknown man threw two mobile phones at people at a party information stand in Schöneberg, hitting a 44-year-old woman in the leg, and then fled. The State Security unit has taken over the investigation.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.934Z"
+  "extractedAt": "2026-11-13T18:49:04.119Z"
 }

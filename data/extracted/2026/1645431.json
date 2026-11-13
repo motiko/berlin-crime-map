@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Salvador-Allende-Straße",
     "placeName": null,
     "district": "Treptow-Köpenick",
-    "summaryEn": "A 35-year-old driver turning left hit a 75-year-old pedestrian at a junction in Köpenick. The pedestrian fell and suffered head injuries and is being treated in hospital.",
+    "summaryEn": "A 35-year-old driver turned left and struck a 75-year-old pedestrian at a junction in Köpenick, who fell and suffered head injuries. The pedestrian is being treated in hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.338Z"
+  "extractedAt": "2026-11-13T18:42:21.585Z"
 }

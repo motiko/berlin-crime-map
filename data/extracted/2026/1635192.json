@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Spielcasino",
     "district": "Reinickendorf",
-    "summaryEn": "Two masked men attacked a casino employee with pepper spray and an axe during a robbery attempt at the casino. The 53-year-old was injured and taken to hospital.",
+    "summaryEn": "Two masked men attacked a casino employee with pepper spray and an axe at a casino on Roedernallee in the early hours. The 53-year-old was injured and taken to hospital; it is unclear whether anything was taken.",
     "injured": 1,
     "dead": 0,
     "weaponType": "axe"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.278Z"
+  "extractedAt": "2026-11-13T18:42:21.643Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "An unknown man tore down two rainbow flags from the front windows of a bar in Prenzlauer Berg and fled toward the Eberswalder Straße U-Bahn station. The incident was reported around 3:50 a.m., and investigations are ongoing.",
+    "summaryEn": "An unknown man tore down two rainbow flags from the window front of a bar in Prenzlauer Berg and fled toward the Eberswalder Straße U-Bahn station. Police investigations are ongoing.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.840Z"
+  "extractedAt": "2026-11-13T18:49:04.450Z"
 }

@@ -5,17 +5,17 @@
   "title": "Mann von mehreren Unbekannten angegriffen und verletzt",
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
-    "category": "assault",
+    "category": "knife",
     "incidentDate": "2026-07-23",
-    "street": "Hallesches Ufer",
+    "street": "Halleschen Ufer",
     "houseNumberOrCrossing": "Wilhelmstraße",
     "placeName": "Grünfläche am Halleschen Ufer",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 27-year-old man was attacked by several unknown men on a green area in Kreuzberg after being approached by a stranger. One attacker reportedly struck him with a machete and others used a baseball bat and other objects.",
+    "summaryEn": "A 27-year-old man was attacked by several unknown men on a green area in Kreuzberg in the night; one attacker struck him with a machete and others beat him with a baseball bat. He was taken to hospital with head and upper-body injuries.",
     "injured": 1,
     "dead": 0,
     "weaponType": "machete, baseball bat"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.839Z"
+  "extractedAt": "2026-11-13T18:49:04.200Z"
 }

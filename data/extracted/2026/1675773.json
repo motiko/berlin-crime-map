@@ -7,15 +7,15 @@
   "extraction": {
     "category": "missing",
     "incidentDate": "2026-06-01",
-    "street": "U-Bahn-Linie U3",
-    "houseNumberOrCrossing": "Schlesisches Tor",
-    "placeName": "U-Bahnhof Schlesisches Tor",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahn Linie U3 Schlesisches Tor",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A two-year-old boy reported missing since 29 May 2026 was found on the U3 subway line at Schlesisches Tor after a witness alerted police. A man accompanying the child was arrested and will be brought before a judge.",
+    "summaryEn": "A two-year-old boy reported missing since 29 May 2026 was found on the U3 subway line at Schlesisches Tor after a witness recognized him. A former partner of the mother was arrested and will be brought before an investigating judge.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.739Z"
+  "extractedAt": "2026-11-13T18:49:04.277Z"
 }

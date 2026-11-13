@@ -9,13 +9,13 @@
     "incidentDate": "2025-09-18",
     "street": null,
     "houseNumberOrCrossing": null,
-    "placeName": null,
-    "district": "Lichtenberg",
-    "summaryEn": "Police are running a public appeal for information about a suspect in a fraud case where people posing as police officers tricked a victim, which took place in Biesdorf on 18 September 2025. One of two men shown in the earlier appeal has been ruled out, and the search for the other continues.",
+    "placeName": "Biesdorf",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "Police are seeking the public's help to identify a suspect in a fake-police-officer fraud committed on 18 September 2025 in Biesdorf. One of two men shown in the appeal has been ruled out; the other is still being sought.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.918Z"
+  "extractedAt": "2026-11-13T18:49:04.224Z"
 }

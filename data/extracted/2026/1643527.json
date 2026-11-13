@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A masked man shot a 19-year-old in the leg in Herbertstraße in the early hours and fled by car. The injured man went to a nearby fire station and was then admitted to hospital.",
+    "summaryEn": "Shortly after 3 a.m., a masked man shot a 19-year-old in the leg in Herbertstraße and fled by car. The injured man went to a nearby fire station and was hospitalized.",
     "injured": 1,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.240Z"
+  "extractedAt": "2026-11-13T18:42:21.639Z"
 }

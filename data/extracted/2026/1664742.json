@@ -5,17 +5,17 @@
   "title": "Mehrere Verletzte nach Auseinandersetzung mit Machete",
   "location": "Mitte",
   "extraction": {
-    "category": "homicide",
+    "category": "knife",
     "incidentDate": "2026-04-25",
     "street": "Schwedenstraße",
     "houseNumberOrCrossing": null,
     "placeName": "Gesundbrunnen",
     "district": "Mitte",
-    "summaryEn": "After a dispute in Gesundbrunnen involving pepper spray and a machete, three men were injured, one of them life-threateningly. A man was also stabbed after being approached by one of the disputants.",
+    "summaryEn": "After a dispute in Gesundbrunnen involving pepper spray and a machete, three men were seriously injured, one of them with life-threatening head wounds. A 31-year-old was stabbed several times nearby, and all three are being treated in hospital.",
     "injured": 3,
     "dead": 0,
     "weaponType": "machete"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.886Z"
+  "extractedAt": "2026-11-13T18:49:04.401Z"
 }

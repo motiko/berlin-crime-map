@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A 79-year-old man with dementia who had been missing since 4 September 2026 was found at a construction site on Hindenburgdamm and taken to a nearby emergency room. Police thanked the public for their help in the search.",
+    "summaryEn": "A 79-year-old man with dementia who had been missing since 4 September 2026 was found safe at a construction site on Hindenburgdamm and taken to a nearby emergency room. Police had earlier asked the public for help in finding him.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.749Z"
+  "extractedAt": "2026-11-13T18:49:04.144Z"
 }

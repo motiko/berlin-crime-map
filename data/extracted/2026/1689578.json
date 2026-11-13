@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Am Heidefriedhof",
     "placeName": "Volkspark Mariendorf",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Two 17-year-old males were injured with cuts after a confrontation between two groups of youths in Volkspark Mariendorf. An unknown person allegedly drew a machete and attacked them.",
+    "summaryEn": "During a dispute between two groups of youths in Volkspark Mariendorf, one person drew a machete and attacked two 17-year-olds, who suffered cuts. The investigation is ongoing.",
     "injured": 2,
     "dead": 0,
     "weaponType": "machete"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.977Z"
+  "extractedAt": "2026-11-13T18:49:04.365Z"
 }

@@ -9,13 +9,13 @@
     "incidentDate": "2026-08-24",
     "street": "Germersheimer Weg",
     "houseNumberOrCrossing": null,
-    "placeName": "Parkplatz",
+    "placeName": "Parkplatz am Germersheimer Weg",
     "district": "Spandau",
-    "summaryEn": "Five vehicles were damaged by fire in a car park on Germersheimer Weg in Falkenhagener Feld overnight. Four were burning fully, and nobody was hurt.",
+    "summaryEn": "Five vehicles were damaged by fire in a car park in Falkenhagener Feld overnight; four burned out completely. Nobody was injured, and the Landeskriminalamt fire investigation unit has taken over the case.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.988Z"
+  "extractedAt": "2026-11-13T18:49:04.242Z"
 }

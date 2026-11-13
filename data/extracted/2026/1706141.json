@@ -6,16 +6,16 @@
   "location": "Steglitz-Zehlendorf",
   "extraction": {
     "category": "shooting",
-    "dead": 0,
-    "district": "Steglitz-Zehlendorf",
-    "houseNumberOrCrossing": null,
     "incidentDate": "2026-08-24",
-    "injured": 0,
-    "placeName": null,
     "street": "Osdorfer Straße",
-    "summaryEn": "Shots were fired at a shop in Lichterfelde around 3:55 a.m., leaving bullet holes in the shop windows. A non-detonated explosive device was also found and seized by police.",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "Shots were fired at a shop in Lichterfelde around 3:55 a.m., leaving bullet holes in the shop windows. An unexploded explosive device was also found and seized by police.",
+    "injured": 0,
+    "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.982Z"
+  "extractedAt": "2026-11-13T18:49:04.256Z"
 }

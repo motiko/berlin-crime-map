@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Alexanderplatz",
     "district": "Mitte",
-    "summaryEn": "Three suspects allegedly insulted and pursued two people over their gender at Alexanderplatz, then threw a bottle and beer bottles at them, injuring two. The state security unit is investigating.",
-    "injured": 2,
+    "summaryEn": "Two trans people aged 17 and 19 were allegedly insulted and attacked with spit and bottles at Alexanderplatz by three suspects aged 16, 19 and 21. The State Security unit is investigating a transphobic motive.",
+    "injured": 1,
     "dead": 0,
     "weaponType": "bottle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.005Z"
+  "extractedAt": "2026-11-13T18:49:04.383Z"
 }

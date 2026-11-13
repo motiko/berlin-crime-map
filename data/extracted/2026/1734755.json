@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "After a traffic stop attempt, a 44-year-old driver fled through Charlottenburg with police in pursuit, causing several accidents. An officer fired a shot at a tire of the car, and the driver and his 43-year-old passenger were arrested; nobody was injured.",
+    "summaryEn": "A police officer fired a shot at the tyre of a car whose 44-year-old driver had fled a traffic check and endangered people. The driver and his 43-year-old passenger were arrested; nobody was injured.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.447Z"
+  "extractedAt": "2026-11-13T18:49:04.383Z"
 }

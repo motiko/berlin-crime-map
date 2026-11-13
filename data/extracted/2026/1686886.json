@@ -7,15 +7,15 @@
   "extraction": {
     "category": "traffic",
     "incidentDate": "2026-06-27",
-    "street": "Wilhelmstraße",
-    "houseNumberOrCrossing": "Tempelhofer Ufer",
-    "placeName": null,
+    "street": "Tempelhofer Ufer",
+    "houseNumberOrCrossing": "Wilhelmstraße",
+    "placeName": "Kreuzberg",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A police vehicle responding to an emergency collided with a car at an intersection in Kreuzberg. Two police officers were taken to hospital for outpatient treatment, and the 26-year-old driver of the car was unhurt.",
+    "summaryEn": "A police vehicle using emergency rights collided with a car at a junction in Kreuzberg shortly after noon. Two police officers were taken to hospital for outpatient treatment; the driver of the car was unhurt.",
     "injured": 2,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.903Z"
+  "extractedAt": "2026-11-13T18:49:04.313Z"
 }

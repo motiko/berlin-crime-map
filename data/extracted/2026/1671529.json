@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Pannierstraße",
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "A 15-year-old pedestrian was hit by a car on Sonnenallee and taken to hospital with injuries to arm, leg and head. The unidentified driver fled the scene in a dark estate car.",
+    "summaryEn": "A car driver hit a 15-year-old pedestrian on Sonnenallee and drove off without stopping. The girl was taken to hospital with injuries to her arm, leg and head.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.794Z"
+  "extractedAt": "2026-11-13T18:49:04.320Z"
 }

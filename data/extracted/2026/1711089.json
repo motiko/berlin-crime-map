@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "A 36-year-old woman who had been reported missing is safe again. She went to a hospital on her own and received medical care.",
+    "summaryEn": "A 36-year-old woman reported missing after leaving a hospital in Mitte on 22 August 2026 has been found. She went to a hospital on her own and is receiving medical care.",
     "injured": null,
-    "dead": null,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.913Z"
+  "extractedAt": "2026-11-13T18:49:04.153Z"
 }

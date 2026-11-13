@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "Several shots were fired at the storefront of a bakery on Kottbusser Damm around 4 a.m. Police secured several cartridge casings on the roadside, and nobody was hurt.",
+    "summaryEn": "Several shots were fired at the front windows of a bakery on Kottbusser Damm early in the morning. Cartridge cases were secured at the scene and nobody was hurt.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.870Z"
+  "extractedAt": "2026-11-13T18:49:04.414Z"
 }

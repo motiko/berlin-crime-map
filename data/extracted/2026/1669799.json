@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Parkplatz Marzahner Promenade",
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "Two men aged 24 and 29 were arrested in a car park after allegedly tampering with the wheels of an Audi in the early hours. Burglary tools were seized from them.",
+    "summaryEn": "Two men aged 24 and 29 were arrested at a car park after plainclothes officers saw them tampering with the wheels of an Audi. Tools used for break-ins were seized.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.801Z"
+  "extractedAt": "2026-11-13T18:49:04.328Z"
 }

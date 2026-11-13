@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "Three men robbed a kiosk employee at knifepoint-like gunpoint... ",
+    "summaryEn": "Three men robbed a kiosk in Mehrower Allee, attacking the 44-year-old employee with blunt objects and a pointed object while demanding money. They took tobacco products and fled, and the employee was treated for injuries on scene.",
     "injured": 1,
     "dead": 0,
-    "weaponType": null
+    "weaponType": "blunt objects and pointed object"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.226Z"
+  "extractedAt": "2026-11-13T18:42:21.551Z"
 }

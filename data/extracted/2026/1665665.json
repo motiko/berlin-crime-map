@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "Around 0:30 a 19-year-old man was attacked by several groups of men on Scheelestraße and then at a nearby playground, where pepper spray was used and he was beaten and kicked. The attackers fled when a witness intervened.",
+    "summaryEn": "Several men attacked a 19-year-old on Scheelestraße and at a nearby playground, beating and kicking him and spraying pepper spray in his face. A witness intervened and the attackers fled.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.727Z"
+  "extractedAt": "2026-11-13T18:49:04.339Z"
 }

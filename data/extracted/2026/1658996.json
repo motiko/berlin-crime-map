@@ -6,16 +6,16 @@
   "location": "Charlottenburg-Wilmersdorf",
   "extraction": {
     "category": "political",
-    "dead": 0,
-    "district": "Charlottenburg-Wilmersdorf",
-    "houseNumberOrCrossing": "Pestalozzistraße",
     "incidentDate": "2026-04-04",
-    "injured": 0,
-    "placeName": null,
     "street": "Wilmersdorfer Straße",
-    "summaryEn": "A man attacked a 39-year-old politician at a party information stand, poured a drink over it and punched him in the face before fleeing. The politician declined medical treatment, and the State Security unit took over the case.",
+    "houseNumberOrCrossing": "Pestalozzistraße",
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A man attacked a politician at a party information stand in Charlottenburg, striking him in the face before fleeing. The state security unit took over the investigation for bodily harm.",
+    "injured": 1,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.350Z"
+  "extractedAt": "2026-11-13T18:42:21.547Z"
 }

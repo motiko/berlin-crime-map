@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "During the Berlin state election campaign, a man allegedly insulted a party campaigner at an information stand, and another man allegedly grabbed a party member's arm and tore up party leaflets. The Staatsschutz is investigating.",
+    "summaryEn": "Election-related incidents across Berlin on 15-16 August 2026 were handled by the Staatsschutz, including insults and torn campaign material at a party stand, damaged and burned election posters. Nobody was reported injured.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.979Z"
+  "extractedAt": "2026-11-13T18:49:04.410Z"
 }

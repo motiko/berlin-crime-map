@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Wilhelmstraße",
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A police patrol car ran a red light at an intersection at about 6:10 a.m. while on an emergency run and collided with a taxi, overturning the car. Eight people, including seven police officers, were injured, mostly with outpatient treatment.",
+    "summaryEn": "A police patrol car ran a red light at an intersection with Wilhelmstraße and collided with a taxi, overturning. Eight people, seven of them police officers, were injured, most treated as outpatients.",
     "injured": 8,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.975Z"
+  "extractedAt": "2026-11-13T18:49:04.438Z"
 }

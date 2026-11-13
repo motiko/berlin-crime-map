@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Baumschulenstraße",
     "placeName": "Baumschulenweg",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A car turning left at a junction collided with a motorcyclist, a 55-year-old man, who was seriously injured and needed intensive care. The driver, a 31-year-old woman, was treated as an outpatient.",
+    "summaryEn": "A car driver turning left collided with a motorcyclist at the Köpenicker Landstraße junction with Baumschulenstraße. The 55-year-old motorcyclist was seriously injured and treated in intensive care.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.872Z"
+  "extractedAt": "2026-11-13T18:49:04.471Z"
 }

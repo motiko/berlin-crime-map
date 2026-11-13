@@ -9,13 +9,13 @@
     "incidentDate": "2026-10-03",
     "street": "Seidelstraße",
     "houseNumberOrCrossing": "Avenue Jean Mermoz",
-    "placeName": "Niederneuendorfer Allee",
+    "placeName": "Hakenfelde",
     "district": "Spandau",
-    "summaryEn": "An unknown motorcyclist fled a traffic stop at night, speeding through red lights and colliding with a police vehicle that had been blocked across the road. He escaped towards Henningsdorf and police lost contact with him.",
+    "summaryEn": "An unknown motorcyclist fled a police traffic check at night, speeding through red lights and colliding with a police vehicle that had been positioned across the road. The rider escaped toward Henningsdorf, outside Berlin.",
     "injured": 0,
     "dead": 0,
-    "weaponType": "vehicle"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.936Z"
+  "extractedAt": "2026-11-13T18:49:04.362Z"
 }

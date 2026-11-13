@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Police arrested three men on suspicion of illegal drug trading and seized cannabis, cocaine, MDMA, amphetamine and ecstasy in searches. One officer was injured when a suspect resisted arrest and kicked at him during a foot chase.",
+    "summaryEn": "Three men were arrested on suspicion of illegal drug trafficking after police checks and searches in Friedrichshain-Kreuzberg. Cannabis, cocaine, MDMA, amphetamines and ecstasy were seized.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.349Z"
+  "extractedAt": "2026-11-13T18:42:21.619Z"
 }

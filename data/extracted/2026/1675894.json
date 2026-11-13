@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "119",
     "placeName": null,
     "district": null,
-    "summaryEn": "Two unknown suspects allegedly stole two bank cards and PINs sent by post and made transfers and cash withdrawals between 24 January and 3 February 2025, including at an ATM on Hasenheide. The police are seeking the suspects.",
+    "summaryEn": "Two unknown suspects allegedly stole two bank cards with PINs sent by post and made transfers and cash withdrawals, including at a cash machine on Hasenheide. The offences ran from 24 January to 3 February 2025.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.789Z"
+  "extractedAt": "2026-11-13T18:49:04.458Z"
 }

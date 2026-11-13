@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Residenzstraße",
     "placeName": null,
     "district": "Reinickendorf",
-    "summaryEn": "During a traffic check in Reinickendorf, a driver accelerated and struck a police officer who was trying to stop his car with a baton. The officer suffered minor injuries and the vehicle was seized; the 43-year-old owner was detained and later released.",
+    "summaryEn": "During a traffic check in Reinickendorf, a driver accelerated and hit a police officer, who was lightly injured. The vehicle was later found abandoned and the 43-year-old owner was detained, with investigations ongoing.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.915Z"
+  "extractedAt": "2026-11-13T18:49:04.468Z"
 }

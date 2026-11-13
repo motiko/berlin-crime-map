@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Berliner Allee",
     "placeName": "Weißensee",
     "district": "Pankow",
-    "summaryEn": "A truck driver allegedly sideswiped a 17-year-old e-scooter rider in Weißensee, causing her to fall. The driver did not notice at first, but police stopped him shortly afterwards in Berliner Allee.",
+    "summaryEn": "A truck driver allegedly sideswiped a 17-year-old e-scooter rider in Weißensee, causing her to fall. She was seriously injured and taken to hospital; police stopped the truck shortly afterwards.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.291Z"
+  "extractedAt": "2026-11-13T18:42:21.641Z"
 }

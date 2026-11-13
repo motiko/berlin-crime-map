@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Salvador-Allende-Straße",
     "placeName": null,
     "district": "Treptow-Köpenick",
-    "summaryEn": "During a traffic check in Köpenick, a 14-year-old e-scooter rider sped off and crashed, then fled on foot and was hit by a police taser (DEIG). He was treated by paramedics for a torso injury and released to his father.",
+    "summaryEn": "A 14-year-old e-scooter rider fled a speed check on Müggelheimer Damm, crashed, and was hit by a police taser (DEIG) during the foot pursuit. The boy was treated by paramedics as an outpatient and released to his father.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "electroshock device (DEIG)"
+    "weaponType": "DEIG (electric impulse device)"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.720Z"
+  "extractedAt": "2026-11-13T18:49:04.157Z"
 }

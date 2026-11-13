@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A man threatened to shoot through a locked apartment door and assaulted two people, a 16-year-old and a 19-year-old. Police later searched his flat and found several firearms, some believed to be from a burglary.",
-    "injured": 0,
+    "summaryEn": "After a threat and assault in Charlottenburg, police found and seized several firearms and over 650 rounds of ammunition in a 20-year-old man's apartment in Friedenau. Some of the weapons are believed to come from a burglary.",
+    "injured": 2,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.262Z"
+  "extractedAt": "2026-11-13T18:50:44.345Z"
 }

@@ -9,13 +9,13 @@
     "incidentDate": "2026-05-20",
     "street": "Im Lichtenhain",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Rummelsburg",
     "district": "Lichtenberg",
-    "summaryEn": "Police arrested two men in Rummelsburg after observing suspected drug dealing at a residential building and searching a car. A search of an apartment found a loaded firearm, ammunition, a knife and large quantities of suspected narcotics.",
+    "summaryEn": "Police arrested two men in Rummelsburg suspected of drug dealing after observing a residential building and a car. Large quantities of cocaine, amphetamine, MDMA, ketamine and other drugs, plus a loaded firearm, ammunition and a knife, were seized from an apartment.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.037Z"
+  "extractedAt": "2026-11-13T18:49:04.163Z"
 }

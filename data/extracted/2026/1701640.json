@@ -7,15 +7,15 @@
   "extraction": {
     "category": "knife",
     "incidentDate": "2026-08-10",
-    "street": "Berliner Allee",
+    "street": "Parkeingang Park am Weißensee",
     "houseNumberOrCrossing": null,
     "placeName": "Park am Weißensee",
     "district": "Pankow",
-    "summaryEn": "After an argument between two small groups of young men at the entrance of Park am Weißensee, one man was stabbed in the back with a knife. The injured man was taken to hospital with serious but non-life-threatening injuries.",
+    "summaryEn": "After an argument between two groups of young men at the entrance of Park am Weißensee, a 22-year-old allegedly stabbed a 24-year-old in the back. The injured man was taken to hospital with serious injuries; police say his life is not in danger.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.826Z"
+  "extractedAt": "2026-11-13T18:49:04.322Z"
 }

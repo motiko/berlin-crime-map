@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Lindenallee",
     "placeName": "Westend",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "An 86-year-old driver lost consciousness briefly and crashed into a tree on Spandauer Damm in Westend. He and his 85-year-old wife, the passenger, were injured.",
+    "summaryEn": "An 86-year-old driver lost consciousness on Spandauer Damm and crashed into a tree with his 85-year-old wife as passenger. Both were injured; the husband was admitted to hospital and the wife was treated as an outpatient.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.692Z"
+  "extractedAt": "2026-11-13T18:49:04.202Z"
 }

@@ -5,17 +5,17 @@
   "title": "Unbekannter beschädigt Einsatzfahrzeug der Polizei",
   "location": "Pankow",
   "extraction": {
-    "category": "other",
+    "category": "assault",
     "incidentDate": "2026-09-19",
     "street": "Hauptstraße",
     "houseNumberOrCrossing": null,
     "placeName": "Rosenthal",
     "district": "Pankow",
-    "summaryEn": "During a street festival in Rosenthal, an unknown person threw a glass bottle at a parked police group vehicle, cracking the windscreen and damaging the interior mirror. No one was injured.",
+    "summaryEn": "During a street festival in Rosenthal, an unknown person threw a glass bottle at a parked police group vehicle, cracking the windscreen and damaging the interior mirror. Nobody was hurt.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.749Z"
+  "extractedAt": "2026-11-13T18:49:04.250Z"
 }

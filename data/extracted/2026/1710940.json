@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Mehringplatz",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "An 18-year-old trans person sitting on a bench at Mehringplatz was threatened with a firearm by two unknown men after disclosing their gender identity. The suspects fled before police arrived, and the state security unit has taken over the investigation.",
+    "summaryEn": "An 18-year-old trans person was threatened with a gun by two unknown men at Mehringplatz after being asked about their gender identity. The case has been taken over by the State Security unit.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.830Z"
+  "extractedAt": "2026-11-13T18:49:04.421Z"
 }

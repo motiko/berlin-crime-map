@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Police searched an apartment in Wilmersdorf after a citizen tip and found a cannabis plantation with over 30 plants, plus hashish. A 26-year-old resident was arrested and a loaded pistol with ammunition was also found.",
+    "summaryEn": "Police searched an apartment in Wilmersdorf after a citizen tip about hydrogen and found a cannabis plantation with over 30 plants, cannabis material and a loaded pistol with ammunition. The 26-year-old occupant was arrested.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.295Z"
+  "extractedAt": "2026-11-13T18:42:21.528Z"
 }

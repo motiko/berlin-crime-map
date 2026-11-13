@@ -9,13 +9,13 @@
     "incidentDate": "2026-07-26",
     "street": "Badstraße",
     "houseNumberOrCrossing": null,
-    "placeName": "Vorplatz des Einkaufszentrums",
+    "placeName": "Vorplatz des Einkaufszentrums Badstraße",
     "district": "Mitte",
-    "summaryEn": "After a dispute over drug dealing in Gesundbrunnen, two men aged 24 and 25 were stabbed by members of a group. Four suspects were arrested nearby, and a knife and the stolen phone were recovered.",
+    "summaryEn": "After a dispute over drug dealing, two men were stabbed by members of a group in Gesundbrunnen. Four suspects were arrested nearby, one knife was seized, and the stolen phone was recovered.",
     "injured": 2,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.817Z"
+  "extractedAt": "2026-11-13T18:49:04.252Z"
 }

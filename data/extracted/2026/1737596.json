@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Bahnhofsmission",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A 29-year-old man was subjected to racist insults by a 35-year-old man while queuing at a charity food distribution point. The Staatsschutz took over the investigation for incitement-related insult, and the suspect received a police order to leave the area.",
+    "summaryEn": "A 29-year-old man was racially insulted by a 35-year-old man while queuing at a charity meal distribution point in Charlottenburg. The Staatsschutz took over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.446Z"
+  "extractedAt": "2026-11-13T18:49:04.201Z"
 }

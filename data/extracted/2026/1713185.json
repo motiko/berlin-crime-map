@@ -8,14 +8,14 @@
     "category": "burglary",
     "incidentDate": "2026-09-12",
     "street": "Bleibtreustraße",
-    "houseNumberOrCrossing": "Schlüterstraße",
-    "placeName": "Kunstauktionshaus",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Unknown perpetrators broke into an art auction house in Charlottenburg in the early morning, smashing the entrance door and display cases and stealing antique cups and porcelain. The State Criminal Police Office's art crime unit has taken over the investigation.",
+    "summaryEn": "Unknown perpetrators broke into an art auction house in Charlottenburg at about 2:30 a.m., smashing the entrance door and display cases and stealing antique cups and porcelain objects. The Landeskriminalamt art crime unit has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.013Z"
+  "extractedAt": "2026-11-13T18:49:04.249Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Dorothea-Schlegel-Platz",
     "district": "Mitte",
-    "summaryEn": "A 20-year-old man was insulted in a suspected homophobic attack and then assaulted by an unknown man at Dorothea-Schlegel-Platz in Mitte. The suspect fled, and the State Security unit has taken over the investigation.",
+    "summaryEn": "A 20-year-old man was insulted in a suspected anti-gay attack and then beaten by an unknown man at Dorothea-Schlegel-Platz. The state security unit has taken over the investigation.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.007Z"
+  "extractedAt": "2026-11-13T18:49:04.409Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A 47-year-old cyclist hit an opened car door on Albrechtstraße and fell, suffering serious injuries. He was taken to hospital by ambulance.",
+    "summaryEn": "A 47-year-old cyclist hit an opened car door on Albrechtstraße, fell and was seriously injured. He was taken to hospital by paramedics.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.817Z"
+  "extractedAt": "2026-11-13T18:49:04.427Z"
 }

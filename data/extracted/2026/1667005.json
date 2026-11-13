@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Police reviewed the May Day 2026 demonstrations across Berlin, with over 90 assemblies and more than 70,000 participants. During the evening Kreuzberg march, a police officer was lightly injured after being hit by bottles, and 15 officers were injured overall.",
+    "summaryEn": "Police report on the 1 May 2026 assembly situation in Berlin, with over 90 assemblies and more than 70,000 participants, largely peaceful. Police recorded 87 restraint or detention measures, 121 criminal investigations and 15 injured officers.",
     "injured": 15,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.870Z"
+  "extractedAt": "2026-11-13T18:49:04.425Z"
 }

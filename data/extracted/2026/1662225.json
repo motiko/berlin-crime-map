@@ -6,16 +6,16 @@
   "location": "Neukölln",
   "extraction": {
     "category": "traffic",
-    "dead": 1,
-    "injured": 1,
-    "district": "Neukölln",
     "incidentDate": "2026-04-17",
     "street": "Buckower Damm",
     "houseNumberOrCrossing": "Gutschmidtstraße",
     "placeName": "Britz",
-    "summaryEn": "A car and an e-scooter collided on Buckower Damm in Britz on the evening of 17 April. A 14-year-old e-scooter rider died and a 14-year-old passenger was seriously injured; the 42-year-old driver was taken into police custody for blood tests after alcohol was detected.",
+    "district": "Neukölln",
+    "summaryEn": "A car collided with an E-scooter at a junction on Buckower Damm in Britz, killing a 14-year-old scooter rider and seriously injuring her 14-year-old passenger. The 42-year-old car driver was found to be under the influence of alcohol.",
+    "injured": 1,
+    "dead": 1,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.935Z"
+  "extractedAt": "2026-11-13T18:49:04.331Z"
 }

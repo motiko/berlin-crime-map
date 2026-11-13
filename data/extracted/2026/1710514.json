@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "U-Bahnhof Schillingstraße",
     "district": "Mitte",
-    "summaryEn": "An unknown woman struck an 87-year-old woman on the head with a full beer bottle while on a U5 train at Schillingstraße station. The victim suffered a bleeding head wound and was taken to hospital.",
+    "summaryEn": "An unknown woman struck an 87-year-old woman on the head with a full beer bottle on the U5 at Schillingstraße station. The victim suffered a bleeding head wound and was taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": "bottle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.010Z"
+  "extractedAt": "2026-11-13T18:49:04.195Z"
 }

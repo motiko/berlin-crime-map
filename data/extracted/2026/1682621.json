@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A 29-year-old suspected burglar forced entry into an apartment and armed himself with a kitchen knife. Police arrested him after using a conducted energy device (DEIG) when he approached officers, and he was taken to hospital.",
+    "summaryEn": "A 29-year-old suspected burglar forced entry into an apartment and armed himself with a kitchen knife. Officers used a stun device (DEIG) to arrest him, and he was taken to hospital.",
     "injured": 0,
     "dead": 0,
-    "weaponType": "knife"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.989Z"
+  "extractedAt": "2026-11-13T18:49:04.184Z"
 }

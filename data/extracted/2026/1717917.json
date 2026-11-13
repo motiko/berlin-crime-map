@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "Three young men attempted to rob a 43-year-old woman of her scooter key on Delbrückstraße; one sprayed her with pepper spray. The suspects were detained shortly after and released following identification procedures.",
+    "summaryEn": "Three young men attempted to rob a 43-year-old woman of her scooter key after spraying her with pepper spray in Neukölln. She fought back and called for help, and the suspects fled but were detained shortly after.",
     "injured": 1,
     "dead": 0,
     "weaponType": "pepper spray"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.948Z"
+  "extractedAt": "2026-11-13T18:49:04.248Z"
 }

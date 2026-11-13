@@ -8,14 +8,14 @@
     "category": "traffic",
     "incidentDate": "2026-09-24",
     "street": "Bergstraße",
-    "houseNumberOrCrossing": "Schönhauser Straße",
+    "houseNumberOrCrossing": "Lessingstraße",
     "placeName": null,
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "Two ten-year-old boys on scooters were hit by a car while crossing Bergstraße in Steglitz. Both were injured and taken to hospital; the driver was not hurt.",
+    "summaryEn": "Two ten-year-old boys on scooters were struck by a car while crossing Bergstraße in Steglitz. Both were injured and taken to hospital; the driver was unhurt.",
     "injured": 2,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.018Z"
+  "extractedAt": "2026-11-13T18:49:04.261Z"
 }

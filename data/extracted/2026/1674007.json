@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Treptow-Köpenick",
-    "summaryEn": "Two masked men threatened an employee of a fast-food delivery outlet with knives shortly after midnight and took cash from the till. The employee was not hurt and called the police.",
+    "summaryEn": "Two masked men threatened an employee of a fast-food delivery branch with knives shortly after midnight and took cash from the till. The employee was unharmed.",
     "injured": 0,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.940Z"
+  "extractedAt": "2026-11-13T18:49:04.176Z"
 }

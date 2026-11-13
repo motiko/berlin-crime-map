@@ -6,16 +6,16 @@
   "location": "Treptow-Köpenick",
   "extraction": {
     "category": "political",
-    "incidentDate": "2026-05-14",
-    "street": "Adlergestell",
-    "houseNumberOrCrossing": "Kablower Weg",
-    "placeName": "Grünau",
-    "district": "Treptow-Köpenick",
-    "summaryEn": "A 19-year-old was seen making a Hitler salute in a group in Grünau and was briefly detained. The police state security unit is investigating.",
-    "injured": 0,
     "dead": 0,
+    "district": "Treptow-Köpenick",
+    "houseNumberOrCrossing": "Kablower Weg",
+    "incidentDate": "2026-05-14",
+    "injured": 0,
+    "placeName": "Grünau",
+    "street": "Adlergestell",
+    "summaryEn": "A 19-year-old was temporarily detained in Grünau after allegedly giving the Hitler salute in a group, witnessed by a bystander who alerted police. The state security unit is investigating.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.034Z"
+  "extractedAt": "2026-11-13T18:49:04.398Z"
 }

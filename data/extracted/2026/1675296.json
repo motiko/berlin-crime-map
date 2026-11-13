@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Vivantes Klinikum Neukölln",
     "district": "Neukölln",
-    "summaryEn": "An 87-year-old man with dementia who went missing after leaving a hospital in Neukölln on 21 May 2026 has been found again. The police report was published on 9 June 2026.",
+    "summaryEn": "An 87-year-old man with dementia who went missing after leaving a hospital in Neukölln on 21 May 2026 has been found safe. The police had appealed for public help in the search.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.023Z"
+  "extractedAt": "2026-11-13T18:49:04.359Z"
 }

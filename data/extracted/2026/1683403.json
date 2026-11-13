@@ -8,14 +8,14 @@
     "category": "assault",
     "incidentDate": "2026-06-17",
     "street": "Johannisthaler Chaussee",
-    "houseNumberOrCrossing": null,
-    "placeName": null,
+    "houseNumberOrCrossing": "Wermuthweg",
+    "placeName": "Linienbus X11",
     "district": "Neukölln",
-    "summaryEn": "During a dispute on a BVG bus in Gropiusstadt, pepper spray was released, injuring nine passengers, two of them children. The suspect was detained for identification and released.",
+    "summaryEn": "During a dispute on a BVG bus in Gropiusstadt, a 33-year-old man sprayed irritant spray, injuring nine passengers, two of them children. The injured were treated at the scene and released.",
     "injured": 9,
     "dead": 0,
-    "weaponType": "pepper spray"
+    "weaponType": "irritant spray"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.964Z"
+  "extractedAt": "2026-11-13T18:49:04.344Z"
 }

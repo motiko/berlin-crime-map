@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Police were alerted to a suspected break-in in an apartment building in Schöneberg after a resident saw two masked people in the stairwell. Two men aged 19 and 20 were arrested in the building's elevator, and fresh break-in traces were found at an apartment door.",
+    "summaryEn": "Two masked men were caught in a residential building in Schöneberg after a resident alerted police to noises in the stairwell. Fresh break-in marks and suspected burglary tools were found at an apartment door; the two suspects, aged 19 and 20, were detained and later released.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.813Z"
+  "extractedAt": "2026-11-13T18:49:04.186Z"
 }

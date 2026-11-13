@@ -5,17 +5,17 @@
   "title": "Versuchter Geldautomateneinbruch",
   "location": "Neukölln",
   "extraction": {
-    "category": "burglary",
+    "category": "explosion",
     "incidentDate": "2026-04-07",
     "street": "Gutschmidtstraße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "Unknown suspects broke into a food shop in Britz overnight to attack a cash machine inside. They fled without loot when an alarm went off.",
+    "summaryEn": "Unknown suspects tried to break into an ATM inside a food store on Gutschmidtstraße in Britz at about 1:40 a.m. They fled without loot when an alarm went off.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.322Z"
+  "extractedAt": "2026-11-13T18:42:21.585Z"
 }

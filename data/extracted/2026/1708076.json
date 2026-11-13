@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "Several suspects beat and insulted a 26-year-old kiosk employee at a snack bar in Hellersdorf after he asked to close, and a passer-by was also drawn into the fight. Three suspects were arrested and the employee was treated in hospital for a head injury.",
-    "injured": 1,
+    "summaryEn": "Several suspects beat and insulted a 26-year-old kiosk worker after he tried to close the snack bar, and a passerby was also drawn into the fight. Three suspects were arrested.",
+    "injured": 2,
     "dead": 0,
     "weaponType": "bottle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.911Z"
+  "extractedAt": "2026-11-13T18:49:04.441Z"
 }

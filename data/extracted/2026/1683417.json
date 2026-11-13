@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Shots were fired at a restaurant in Tempelhof overnight, leaving bullet holes in its facade. No one was inside and no one was injured.",
+    "summaryEn": "Bullet holes were found in the facade of a restaurant in Tempelhof after a witness heard gunshots around 2:40 a.m. No one was inside and no one was hurt. A special investigation unit has taken over the case.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.708Z"
+  "extractedAt": "2026-11-13T18:49:04.338Z"
 }

@@ -9,13 +9,13 @@
     "incidentDate": "2026-02-27",
     "street": "Edenkobener Steg",
     "houseNumberOrCrossing": "Albrechtstraße",
-    "placeName": null,
+    "placeName": "Steglitz",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "Three unknown men robbed a 20-year-old man of his backpack in Steglitz, and one of them cut his thigh with a knife. The victim was treated as an outpatient and the investigation continues.",
-    "injured": 1,
+    "summaryEn": "A 20-year-old man was robbed of his backpack by three unknown men on Edenkobener Steg in Steglitz, and one of them cut him with a knife. The victim was treated as an outpatient and the investigation is ongoing.",
+    "injured": 2,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.264Z"
+  "extractedAt": "2026-11-13T18:42:21.597Z"
 }

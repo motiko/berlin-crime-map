@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Two construction workers were injured in attacks from a building during a construction site dispute in Friedrichshain, including a bottle thrown at one of them. Police halted the construction work temporarily, and the state security unit took over the investigation.",
+    "summaryEn": "Two construction workers were injured in attacks from a building during a multi-hour police operation at a construction site; a vigil crowd gathered and became agitated. The case was taken over by the state security unit.",
     "injured": 2,
     "dead": 0,
     "weaponType": "glass bottle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.807Z"
+  "extractedAt": "2026-11-13T18:49:04.317Z"
 }

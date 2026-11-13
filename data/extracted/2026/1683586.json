@@ -6,16 +6,16 @@
   "location": "Charlottenburg-Wilmersdorf",
   "extraction": {
     "category": "traffic",
-    "dead": 0,
-    "district": "Charlottenburg-Wilmersdorf",
-    "houseNumberOrCrossing": "Detmolder Straße",
     "incidentDate": "2026-06-17",
-    "injured": 2,
-    "placeName": "Bundesautobahn 100",
     "street": "Bundesautobahn 100",
-    "summaryEn": "A 22-year-old driver attempting to drift on the A100 lost control, hit a median, and crashed into parked cars in Wilmersdorf. Two people were injured, and the driver was taken to hospital for a blood test.",
+    "houseNumberOrCrossing": "Ausfahrt Detmolder Straße",
+    "placeName": "Wilmersdorf",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A 22-year-old driver allegedly attempted a drift on the A100, lost control, and crashed into parked cars. Two other people were injured, one of them trapped between vehicles.",
+    "injured": 2,
+    "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.964Z"
+  "extractedAt": "2026-11-13T18:49:04.332Z"
 }

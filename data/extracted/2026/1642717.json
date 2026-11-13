@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Treptow-Köpenick",
-    "summaryEn": "Several shots were fired at the front door of an apartment in a multi-family building in Köpenick. No one was in the apartment and nobody was injured.",
+    "summaryEn": "Unknown persons fired several shots at the door of an apartment in a multi-family building on Grünauer Straße in Köpenick. No one was in the apartment and nobody was injured.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.218Z"
+  "extractedAt": "2026-11-13T18:42:21.646Z"
 }

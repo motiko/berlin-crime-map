@@ -7,15 +7,15 @@
   "extraction": {
     "category": "burglary",
     "incidentDate": "2026-05-15",
-    "street": "Riemannstraße",
+    "street": "Gutenbergstraße",
     "houseNumberOrCrossing": null,
     "placeName": null,
-    "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Stolen headphones from a burglary in an apartment were located by their tracker at a hotel in Kaulsdorf, and four men were arrested. Stolen goods and burglary tools were found in the hotel room.",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "Stolen headphones from a burglary in a flat in Kreuzberg were located via tracking at a hotel in Kaulsdorf, leading to four arrests and the recovery of further suspected stolen goods. Nobody was hurt.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.804Z"
+  "extractedAt": "2026-11-13T18:49:04.363Z"
 }

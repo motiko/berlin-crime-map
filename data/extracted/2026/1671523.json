@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Gropiusstadt",
     "district": "Neukölln",
-    "summaryEn": "A woman damaged an election poster at a party information stand with a wooden plank and threatened a party employee with it. She also repeatedly entered the roadway, forcing drivers to brake or swerve; she was arrested and taken to hospital.",
+    "summaryEn": "A woman damaged an election poster at a party information stand with a wooden batten and threatened a party worker with it. She was arrested after repeatedly stepping onto the roadway, forcing cars to brake or swerve.",
     "injured": 0,
     "dead": 0,
-    "weaponType": "wooden plank"
+    "weaponType": "wooden batten"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.006Z"
+  "extractedAt": "2026-11-13T18:49:04.294Z"
 }

@@ -9,13 +9,13 @@
     "incidentDate": "2026-05-03",
     "street": "Potsdamer Straße",
     "houseNumberOrCrossing": "Großgörschenstraße",
-    "placeName": "Café in Schöneberg",
+    "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "An unknown person fired shots at a café on the corner of Potsdamer Straße and Großgörschenstraße at about 4:50 am and fled. Police found damage to the building facade; nobody was injured.",
+    "summaryEn": "An unknown person fired shots at a café in Schöneberg early in the morning and fled. Police found damage to the building façade; nobody was hurt.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.989Z"
+  "extractedAt": "2026-11-13T18:49:04.227Z"
 }

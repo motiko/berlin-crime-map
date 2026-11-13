@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Siemensdamm",
     "placeName": "Lankwitz",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A 37-year-old driver struck a 55-year-old pedestrian crossing Wiesenweg in Lankwitz while turning left. The pedestrian was hospitalised with head injuries.",
+    "summaryEn": "A 37-year-old driver hit a 55-year-old pedestrian crossing Wiesenweg in Lankwitz while turning left. The pedestrian was taken to hospital with head injuries; the driver was unhurt.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.262Z"
+  "extractedAt": "2026-11-13T18:42:21.629Z"
 }

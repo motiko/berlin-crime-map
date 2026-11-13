@@ -6,16 +6,16 @@
   "location": "Tempelhof-Schöneberg",
   "extraction": {
     "category": "shooting",
-    "dead": 0,
-    "district": "Tempelhof-Schöneberg",
-    "houseNumberOrCrossing": null,
     "incidentDate": "2026-10-27",
-    "injured": 1,
-    "placeName": null,
     "street": "Nahariyastraße",
-    "summaryEn": "A 31-year-old man was seriously injured after several shots were fired at him in Lichtenrade. A homicide unit is investigating an attempted killing, and the unknown perpetrator fled.",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Unknown perpetrator fired several shots at a 31-year-old man in Lichtenrade, who was seriously wounded. A homicide unit is investigating an attempted killing.",
+    "injured": 1,
+    "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.775Z"
+  "extractedAt": "2026-11-13T18:49:04.427Z"
 }

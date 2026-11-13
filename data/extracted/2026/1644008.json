@@ -6,16 +6,16 @@
   "location": "Pankow",
   "extraction": {
     "category": "traffic",
-    "incidentDate": "2026-02-16",
-    "street": "Hanns-Eisler-Straße",
-    "houseNumberOrCrossing": "Michelangelostraße",
-    "placeName": "Prenzlauer Berg",
-    "district": "Pankow",
-    "summaryEn": "A car and a cyclist collided at a junction in Prenzlauer Berg on the morning of the previous day. The 37-year-old cyclist suffered head injuries and was taken to hospital.",
-    "injured": 1,
     "dead": 0,
+    "district": "Pankow",
+    "houseNumberOrCrossing": "Michelangelostraße",
+    "incidentDate": "2026-02-16",
+    "injured": 1,
+    "placeName": "Prenzlauer Berg",
+    "street": "Hanns-Eisler-Straße",
+    "summaryEn": "A car and a cyclist collided at the junction of Hanns-Eisler-Straße and Michelangelostraße in Prenzlauer Berg. The 37-year-old cyclist suffered head injuries and was taken to hospital.",
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.328Z"
+  "extractedAt": "2026-11-13T18:42:21.610Z"
 }

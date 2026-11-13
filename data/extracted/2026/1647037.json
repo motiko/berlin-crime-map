@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A fire broke out in a hallway of an apartment building in Steglitz on the evening of 24 February, and the building was evacuated. Three people were treated for suspected smoke inhalation, and 25 residents were placed in an emergency shelter.",
+    "summaryEn": "A fire broke out in a stairwell of an apartment building in Schildhornstraße in the evening, and the building was evacuated. Three people were treated for suspected smoke inhalation, and 25 residents were placed in emergency accommodation.",
     "injured": 3,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.233Z"
+  "extractedAt": "2026-11-13T18:42:21.542Z"
 }

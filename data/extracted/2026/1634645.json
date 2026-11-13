@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 37-year-old man allegedly showed a Hitler salute and made xenophobic remarks from a balcony, then threw a beer bottle that hit a 17-year-old on the head. The State Security unit is investigating, and the suspect was released after arrest.",
+    "summaryEn": "A man on a balcony allegedly gave a Hitler salute and made xenophobic remarks, then threw a beer bottle that hit a 17-year-old on the head. The Staatsschutz is investigating; the suspect was arrested and later released.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "beer bottle"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.296Z"
+  "extractedAt": "2026-11-13T18:42:21.551Z"
 }

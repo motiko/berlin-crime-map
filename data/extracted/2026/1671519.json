@@ -9,13 +9,13 @@
     "incidentDate": "2026-05-16",
     "street": "Schlitzer Straße",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Wittenau",
     "district": "Reinickendorf",
-    "summaryEn": "Several shots were fired at a residential building in Wittenau overnight. The perpetrator or perpetrators fled, and nobody was injured.",
+    "summaryEn": "Several shots were fired at a residential building in Wittenau around 3:25 a.m. The perpetrator or perpetrators fled, and nobody was injured.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.892Z"
+  "extractedAt": "2026-11-13T18:49:04.350Z"
 }

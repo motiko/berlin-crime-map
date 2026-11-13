@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Seelingstraße",
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Early in the morning a man allegedly attacked passers-by with stones and sticks in Nehringstraße and then resisted arrest on Seelingstraße. Police used a DEIG (irritant/discharge device) to make the arrest; no one was reported injured.",
+    "summaryEn": "Early in the morning a 37-year-old man allegedly attacked passers-by with stones and sticks in Charlottenburg, and resisted arrest, after which police used a DEIG. No one was reported injured.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.929Z"
+  "extractedAt": "2026-11-13T18:49:04.177Z"
 }

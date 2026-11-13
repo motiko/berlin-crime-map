@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Hotel in Siemensstadt",
     "district": "Spandau",
-    "summaryEn": "Two men entered a hotel reception at night, threatened the receptionist with a firearm and demanded money. The receptionist was punched in the face, the pair fled without money, and he was taken to hospital.",
+    "summaryEn": "Two young men armed with a firearm threatened a hotel receptionist and demanded money, then struck him and fled without taking anything. The 25-year-old was taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.896Z"
+  "extractedAt": "2026-11-13T18:49:04.476Z"
 }

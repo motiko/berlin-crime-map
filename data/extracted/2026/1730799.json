@@ -6,16 +6,16 @@
   "location": "Reinickendorf",
   "extraction": {
     "category": "fire",
+    "dead": 1,
+    "injured": 0,
     "incidentDate": "2026-10-24",
     "street": "Emmentaler Straße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Reinickendorf",
-    "summaryEn": "A fire broke out in a flat in Reinickendorf and firefighters found the body of a 27-year-old male tenant. Police say there is no indication of third-party involvement so far, and the cause of death is still under investigation.",
-    "injured": 0,
-    "dead": 1,
+    "summaryEn": "A fire broke out in a flat in Emmentaler Straße, Reinickendorf, and firefighters found the dead body of a 27-year-old male tenant. Police say there is no indication of third-party involvement so far, and the cause of death is still under investigation.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.044Z"
+  "extractedAt": "2026-11-13T18:49:04.405Z"
 }

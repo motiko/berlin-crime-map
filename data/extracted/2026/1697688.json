@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Treptow-Köpenick",
-    "summaryEn": "Police officers fired their service weapons at a 38-year-old suspected arsonist who allegedly attacked them with an axe after a fire in an apartment building. He was taken to hospital, and two residents were hospitalised for smoke inhalation.",
+    "summaryEn": "Police officers shot a 38-year-old suspected arson attacker who allegedly advanced on them with an axe after a fire in an apartment building. Twelve people were checked for smoke inhalation, two were hospitalised, and the building was evacuated.",
     "injured": 3,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.749Z"
+  "extractedAt": "2026-11-13T18:49:04.330Z"
 }

@@ -8,14 +8,14 @@
     "category": "traffic",
     "incidentDate": "2026-09-01",
     "street": "Mehringbrücke",
-    "houseNumberOrCrossing": "Hallesches Ufer/ Wilhelmstraße",
+    "houseNumberOrCrossing": "Hallesches Ufer/Wilhelmstraße",
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "An e-scooter rider was seriously injured after colliding with a truck at a junction in Kreuzberg. The traffic light reportedly showed red for the scooter rider.",
+    "summaryEn": "An e-scooter rider aged 27 was seriously injured in a collision with a truck at a junction in Kreuzberg, allegedly after entering on a red light. The Mehringbrücke was closed until about 15:30 for the accident investigation.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.883Z"
+  "extractedAt": "2026-11-13T18:49:04.321Z"
 }

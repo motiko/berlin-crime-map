@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Several election posters were damaged or set on fire overnight in Mahlsdorf, Köpenick and Wilmersdorf ahead of the Berlin state election. The State Protection unit is investigating all cases.",
+    "summaryEn": "Overnight, two unidentified people knocked over a large election poster on Uhlandstraße and fled when police approached; the Staatsschutz is investigating. Several other election poster arsons in Berlin were reported in the same release.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.790Z"
+  "extractedAt": "2026-11-13T18:49:04.469Z"
 }

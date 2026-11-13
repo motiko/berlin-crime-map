@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Hundsteinweg",
     "placeName": "Mariendorf",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "An 80-year-old pedestrian was seriously injured after being hit by a car while crossing Mariendorfer Damm from the median strip. She suffered multiple fractures and was briefly in life-threatening condition.",
+    "summaryEn": "An 80-year-old pedestrian was seriously injured after being hit by a car on Mariendorfer Damm in Mariendorf. She was taken to hospital by ambulance.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.842Z"
+  "extractedAt": "2026-11-13T18:49:04.149Z"
 }

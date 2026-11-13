@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Three suspected burglars (aged 43, 47 and 49) were caught in the act after entering a residential building and trying to leave through a stairwell window. Burglary tools and stolen goods from an apartment were found on them.",
+    "summaryEn": "Three suspected burglars were caught in the act at a residential building after entering and trying to escape through a stairwell window with stolen goods and burglary tools. The suspects, aged 43, 47 and 49, were taken into custody.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.283Z"
+  "extractedAt": "2026-11-13T18:42:21.573Z"
 }

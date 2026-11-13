@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Buchholzer Straße",
     "placeName": "Niederschönhausen",
     "district": "Pankow",
-    "summaryEn": "A 56-year-old driver turning left struck an 85-year-old pedestrian at a crossing in Niederschönhausen. The pedestrian died in hospital from head injuries the following night.",
+    "summaryEn": "A 56-year-old driver turned left and hit an 85-year-old pedestrian at a crossing in Niederschönhausen. The pedestrian died of her head injuries in hospital the following night.",
     "injured": 1,
     "dead": 1,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.813Z"
+  "extractedAt": "2026-11-13T18:49:04.447Z"
 }

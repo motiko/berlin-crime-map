@@ -6,16 +6,16 @@
   "location": "berlinweit",
   "extraction": {
     "category": "other",
-    "incidentDate": "2026-08-21",
+    "incidentDate": "2026-08-24",
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Police and Bundespolizei announce a Berlin-wide action week from 24 to 28 August 2026 enforcing the weapons and knife ban in public transport. The ban has applied since 17 July 2025.",
-    "injured": null,
-    "dead": null,
+    "summaryEn": "Police and Federal Police announce a citywide action week from 24 to 28 August 2026 enforcing the weapons and knife ban on public transport. Checks will be carried out with support from BVG staff.",
+    "injured": 0,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.930Z"
+  "extractedAt": "2026-11-13T18:49:04.166Z"
 }

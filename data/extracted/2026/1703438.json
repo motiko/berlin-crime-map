@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Einkaufszentrum Marzahner Promenade",
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "Two masked people broke into a shopping centre in the early morning and smashed the glass doors of 14 shops, taking cash drawers from some. The affected areas were closed until about 10 a.m. for evidence collection.",
+    "summaryEn": "Two masked people broke into a shopping centre in Marzahn early in the morning, smashing glass doors of 14 shops and taking cash drawers from some of them. The affected areas were closed until about 10 a.m. for investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.847Z"
+  "extractedAt": "2026-11-13T18:49:04.420Z"
 }

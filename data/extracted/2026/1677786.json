@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 21-year-old man was stabbed and injured with a knife and a bicycle lock in an attack on Mehringdamm shortly after midnight. Police intervened, arrested both suspects, and the victim underwent surgery; his life was not in danger.",
+    "summaryEn": "A 21-year-old man was stabbed and cut with a knife and attacked with a bicycle lock on Mehringdamm shortly after midnight. Police intervened, arrested two suspects, and the victim underwent surgery but is not in mortal danger.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.912Z"
+  "extractedAt": "2026-11-13T18:49:04.141Z"
 }

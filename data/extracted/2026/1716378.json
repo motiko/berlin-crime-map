@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A 48-year-old man was seriously injured in a fight in Hellersdorf after being punched and kicked in the head. A 29-year-old suspect was arrested near the scene.",
+    "summaryEn": "After an argument, a 29-year-old man allegedly punched a 48-year-old man, who fell and was kicked in the head and lost consciousness. The suspect was arrested nearby and the victim was hospitalized with serious injuries.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.880Z"
+  "extractedAt": "2026-11-13T18:49:04.215Z"
 }

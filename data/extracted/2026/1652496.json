@@ -7,15 +7,15 @@
   "extraction": {
     "category": "drugs",
     "incidentDate": "2026-03-13",
-    "street": null,
+    "street": "S-Bahnhof Tempelhof",
     "houseNumberOrCrossing": null,
     "placeName": "S-Bahnhof Tempelhof",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Police observed a suspected drug dealer selling narcotics at S-Bahnhof Tempelhof; he was arrested at S-Bahnhof Hermannstraße and found carrying a firearm, ammunition, drugs and a knife. An arrest warrant was issued.",
+    "summaryEn": "Police observed a 28-year-old allegedly selling drugs at S-Bahnhof Tempelhof, then arrested him at S-Bahnhof Hermannstraße. He was carrying a real firearm, ammunition, drugs and a knife, and an arrest warrant was issued.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.259Z"
+  "extractedAt": "2026-11-13T18:42:21.642Z"
 }

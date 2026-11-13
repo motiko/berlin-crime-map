@@ -8,14 +8,14 @@
     "category": "robbery",
     "incidentDate": "2026-07-10",
     "street": "Borussiastraße",
-    "houseNumberOrCrossing": "Ringbahnstraße/Tempelhofer Damm",
+    "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Three men met on Borussiastraße over a money claim, and one allegedly threatened a 23-year-old with a firearm to press the demand. Police arrested the group after a chase and seized a live handgun and ammunition.",
+    "summaryEn": "Men met on a street to discuss a money claim; one was threatened with a handgun to press the demand. Police arrested three suspects at Ringbahnstraße/Tempelhofer Damm and seized a live handgun.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.757Z"
+  "extractedAt": "2026-11-13T18:49:04.333Z"
 }

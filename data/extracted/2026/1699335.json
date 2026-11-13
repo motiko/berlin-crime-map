@@ -9,13 +9,13 @@
     "incidentDate": "2026-08-01",
     "street": "Alt-Rudow",
     "houseNumberOrCrossing": "Ehrenpreisweg",
-    "placeName": null,
+    "placeName": "Rudow",
     "district": "Neukölln",
-    "summaryEn": "A car driver hit an 80-year-old cyclist in Rudow and drove off without helping. The cyclist was taken to hospital, and a 38-year-old man who admitted to driving without a licence later came forward.",
+    "summaryEn": "A car driver hit an 80-year-old cyclist in Rudow and drove off without helping. The 38-year-old suspected driver, who had no driving licence, later reported to a police station.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.733Z"
+  "extractedAt": "2026-11-13T18:49:04.334Z"
 }

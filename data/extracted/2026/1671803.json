@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "Several bullet holes were found in a shop window of a company branch in Turiner Straße overnight. An employee discovered the damage around 4:30 a.m. and alerted police.",
+    "summaryEn": "Several bullet holes were found in the shop window of a company branch in Turiner Straße overnight. An employee alerted police around 4:30 a.m., and the state police unit BAO Ferrum has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.926Z"
+  "extractedAt": "2026-11-13T18:49:04.409Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Spandau",
-    "summaryEn": "A 91-year-old man with advanced dementia, reported missing since 13 September 2026, has been found safe by relatives in a green area near his home. The police press release is an update to the original missing-person appeal.",
+    "summaryEn": "A 91-year-old man with advanced dementia, reported missing since 13 September 2026, was found safe by relatives in a green area near his home. Police had asked the public for help in the search.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.889Z"
+  "extractedAt": "2026-11-13T18:49:04.399Z"
 }

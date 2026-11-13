@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Genslerstraße",
     "placeName": "Alt-Hohenschönhausen",
     "district": "Lichtenberg",
-    "summaryEn": "A 42-year-old driver hit a seven-year-old boy crossing Werneuchener Straße in Alt-Hohenschönhausen on the evening before the report. The boy suffered head and leg injuries and was taken to hospital for inpatient treatment.",
+    "summaryEn": "A car driver struck a seven-year-old boy crossing Werneuchener Straße in Alt-Hohenschönhausen on the evening before publication. The boy was injured in the head and leg and taken to hospital for inpatient treatment.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.837Z"
+  "extractedAt": "2026-11-13T18:49:04.263Z"
 }

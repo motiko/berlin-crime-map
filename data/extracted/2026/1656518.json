@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Cecilienstraße",
     "placeName": "Biesdorf",
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A 49-year-old man collapsed from a medical emergency and was resuscitated by police until paramedics arrived. He regained consciousness and was taken to hospital.",
+    "summaryEn": "A 49-year-old man collapsed from a medical emergency in Biesdorf and was resuscitated by police until paramedics arrived. He regained consciousness and was taken to hospital.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.338Z"
+  "extractedAt": "2026-11-13T18:42:21.559Z"
 }

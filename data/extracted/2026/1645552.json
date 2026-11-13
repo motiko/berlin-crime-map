@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Alt-Hohenschönhausen",
     "district": "Lichtenberg",
-    "summaryEn": "A woman driver crashed and her car rolled over several times after a collision with a minibus at an intersection in Alt-Hohenschönhausen. She was taken to hospital.",
+    "summaryEn": "A 40-year-old woman lost control of her car after a collision with a minibus at a junction and overturned several times, landing on a tram track. She was taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.198Z"
+  "extractedAt": "2026-11-13T18:42:21.576Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Bus der Linie M 21",
     "district": "Reinickendorf",
-    "summaryEn": "A man insulted and punched a 13-year-old boy on a bus during a verbal dispute. After a public appeal, the suspect was identified.",
+    "summaryEn": "A man insulted and punched a 13-year-old boy on a bus of line M 21 in Berlin. Police identified the suspect after a public appeal.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.346Z"
+  "extractedAt": "2026-11-13T18:42:21.644Z"
 }

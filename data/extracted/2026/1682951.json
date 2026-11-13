@@ -7,15 +7,15 @@
   "extraction": {
     "category": "traffic",
     "incidentDate": "2026-06-16",
-    "street": "An der Putlitzbrücke",
-    "houseNumberOrCrossing": "Stromstraße",
+    "street": "Stromstraße",
+    "houseNumberOrCrossing": "An der Putlitzbrücke",
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "A 35-year-old pedestrian who was hit by a car at a junction in Moabit on 16 June 2026 died in hospital from his injuries. The report concerns the traffic accident and the pedestrian's death.",
+    "summaryEn": "A 35-year-old pedestrian was hit by a car at a crossing in Moabit on 16 June 2026 and later died in hospital from his injuries. The car driver and his passenger were not hurt.",
     "injured": 0,
     "dead": 1,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.931Z"
+  "extractedAt": "2026-11-13T18:50:36.038Z"
 }

@@ -6,16 +6,16 @@
   "location": "bezirksübergreifend",
   "extraction": {
     "category": "missing",
-    "incidentDate": "2026-11-12",
-    "street": null,
+    "incidentDate": "2026-11-11",
+    "street": "Wiltbergstraße",
     "houseNumberOrCrossing": null,
     "placeName": null,
-    "district": null,
-    "summaryEn": "A heavily pregnant 23-year-old woman and her two young sons, reported missing, have been found safe and well. They were located in the Tempelhof district on the evening before publication.",
+    "district": "Pankow",
+    "summaryEn": "A missing pregnant 23-year-old woman and her two young sons, who had left a residential group in Berlin-Buch, have been found safe and well. They were located in the Tempelhof district the previous evening.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.425Z"
+  "extractedAt": "2026-11-13T18:49:04.283Z"
 }

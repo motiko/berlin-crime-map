@@ -9,13 +9,13 @@
     "incidentDate": "2026-06-11",
     "street": "Schwedenstraße",
     "houseNumberOrCrossing": "Koloniestraße",
-    "placeName": null,
+    "placeName": "Gesundbrunnen",
     "district": "Mitte",
-    "summaryEn": "Several shots were reportedly fired at the Schwedenstraße/Koloniestraße crossing in Gesundbrunnen. Police found cartridge cases and live rounds on a traffic island and arrested a 17-year-old nearby, who was later released.",
+    "summaryEn": "Multiple gunshots were reported at a traffic island in Gesundbrunnen on Wednesday evening; police found cartridge cases and live rounds and arrested a 17-year-old nearby. The teenager was later released after identification procedures.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.058Z"
+  "extractedAt": "2026-11-13T18:49:04.308Z"
 }

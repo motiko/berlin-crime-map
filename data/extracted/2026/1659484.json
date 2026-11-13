@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Harzer Straße",
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "A 31-year-old man was found on a pavement with several stab wounds in Neukölln in the early hours. He was taken to hospital and is not in life-threatening condition.",
+    "summaryEn": "A 31-year-old man was found on a pavement with several stab wounds in Neukölln in the early hours. He was taken to hospital and is not in life-threatening danger.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.343Z"
+  "extractedAt": "2026-11-13T18:42:21.567Z"
 }

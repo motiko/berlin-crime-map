@@ -5,17 +5,17 @@
   "title": "Einsatzkräfte angegriffen",
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
-    "category": "political",
+    "category": "assault",
     "incidentDate": "2026-09-13",
     "street": "Rigaer Straße",
     "houseNumberOrCrossing": "Liebigstraße",
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "About 20 people gathered at a crossing in Friedrichshain, set objects and an armchair on fire and attacked police and fire crews with pyrotechnics from a residential building. One police officer suffered burns to the neck; the State Security unit took over the investigation for severe riot offences.",
+    "summaryEn": "Around 20 people set objects on fire and attacked police and fire crews with pyrotechnics at the Rigaer Straße/Liebigstraße crossing in Friedrichshain. One police officer suffered burns to the neck.",
     "injured": 1,
     "dead": 0,
     "weaponType": "pyrotechnics"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.990Z"
+  "extractedAt": "2026-11-13T18:49:04.271Z"
 }

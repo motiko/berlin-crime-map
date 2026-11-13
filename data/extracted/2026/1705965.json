@@ -9,13 +9,13 @@
     "incidentDate": "2026-08-22",
     "street": "Wederstraße",
     "houseNumberOrCrossing": "89",
-    "placeName": null,
+    "placeName": "Britz",
     "district": "Neukölln",
-    "summaryEn": "Three unknown men attacked a man with a knife in front of a residential building at around 00:30 and stole his shoulder bag before fleeing. A related earlier report describes a 36-year-old stabbed near a kiosk on the same street, who was robbed of cash and an ID document.",
-    "injured": 1,
+    "summaryEn": "Three unknown men attacked a 40-year-old man with a knife in front of a residential building at night and stole his shoulder bag. The police are appealing for witnesses.",
+    "injured": 0,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.768Z"
+  "extractedAt": "2026-11-13T18:49:04.250Z"
 }

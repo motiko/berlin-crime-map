@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Kiefholzstraße",
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 17-year-old sprayed pepper spray at two people, then injured a 28-year-old man with a pointed object. Two people were hurt and the suspect was arrested shortly afterwards.",
+    "summaryEn": "A 17-year-old suspect allegedly sprayed a 28-year-old man and a 28-year-old woman with pepper spray, then injured the man with a pointed object. Two people were hurt and the suspect was arrested shortly afterwards.",
     "injured": 2,
     "dead": 0,
-    "weaponType": "pointed object"
+    "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.991Z"
+  "extractedAt": "2026-11-13T18:49:04.210Z"
 }

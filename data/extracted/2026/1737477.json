@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Goethestraße",
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Police stopped a 23-year-old driver after a phone-use violation and found suspected cocaine packaged for sale, cash and a pepper spray device in the car. The vehicle also lacked compulsory insurance, and a drug-trafficking investigation was opened.",
+    "summaryEn": "Police stopped a driver after spotting a phone violation and found suspected cocaine portions, cash and a delivery-service flyer, leading to a drug-dealing investigation. The driver was detained and released after identity checks, and the car's owner faces an insurance-law charge.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.445Z"
+  "extractedAt": "2026-11-13T18:49:04.361Z"
 }

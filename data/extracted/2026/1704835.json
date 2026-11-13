@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Lichtenberg",
-    "summaryEn": "A passenger opening a car door in Herzbergstraße caused a collision with a passing cyclist, who was injured and taken to hospital. The unidentified passenger fled the scene on foot.",
+    "summaryEn": "A passenger opening a car door in Herzbergstraße caused a collision with a passing cyclist, who was injured. The passenger fled the scene on foot and remains unidentified.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.987Z"
+  "extractedAt": "2026-11-13T18:49:04.109Z"
 }

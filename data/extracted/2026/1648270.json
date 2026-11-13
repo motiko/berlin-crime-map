@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Bülowstraße",
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 24-year-old suspect was arrested in Schöneberg after allegedly tampering with a parked car with a tool. He dropped the tool when a police officer approached.",
+    "summaryEn": "A 24-year-old man was arrested in Schöneberg after allegedly tampering with a parked car with a tool in an attempted car break-in. The investigation is ongoing.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.237Z"
+  "extractedAt": "2026-11-13T18:42:21.540Z"
 }

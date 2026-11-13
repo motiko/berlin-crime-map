@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Falkenhagener Feld",
     "district": "Spandau",
-    "summaryEn": "Several cars were set on fire in Falkenhagener Feld early in the morning, destroying three vehicles and damaging five others. Arson investigators from the state criminal office have taken over the case.",
+    "summaryEn": "Early in the morning, three cars burned out in the Falkenhagener Feld area, and the fire spread to five other parked vehicles. Police arson investigators have taken over the case.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.351Z"
+  "extractedAt": "2026-11-13T18:42:21.597Z"
 }

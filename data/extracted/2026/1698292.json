@@ -9,13 +9,13 @@
     "incidentDate": "2026-07-28",
     "street": "Teltower Damm",
     "houseNumberOrCrossing": null,
-    "placeName": "Schulgelände Zehlendorf",
+    "placeName": "Schulgelände (Sportplatz)",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "Overnight, unknown suspects entered a school sports ground in Zehlendorf, forced open a equipment shed, and set sports equipment alight in a long jump pit. Police are investigating criminal damage and arson.",
+    "summaryEn": "Unknown suspects entered a school grounds overnight, broke into an equipment shed and set sports equipment alight in a long jump pit. Police arson unit is investigating.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.731Z"
+  "extractedAt": "2026-11-13T18:49:04.392Z"
 }

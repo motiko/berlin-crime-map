@@ -5,17 +5,17 @@
   "title": "Allgemeinverfügungen erlassen – Einschränkungen im Bezirk Mitte",
   "location": "Mitte",
   "extraction": {
-    "category": "raid",
-    "incidentDate": "2026-03-30",
-    "street": null,
-    "houseNumberOrCrossing": null,
-    "placeName": "Ritz Carlton, Schloss Bellevue and Bundeskanzleramt areas",
+    "category": "other",
+    "incidentDate": "2026-03-29",
+    "street": "Lennéstraße",
+    "houseNumberOrCrossing": "Bellevuestraße",
+    "placeName": "Ritz Carlton",
     "district": "Mitte",
-    "summaryEn": "Police issued temporary general orders in Mitte restricting assemblies and carrying of weapons and knives around several sites during a state visit. The restrictions apply from 29 March 2026 to 30 March 2026.",
+    "summaryEn": "Police issued temporary general orders in Mitte restricting assemblies and carrying weapons and knives around the Ritz Carlton, Schloss Bellevue and the Chancellery during a state visit, from 29 to 30 March 2026. The restrictions apply in fixed zones and at set times.",
     "injured": 0,
     "dead": 0,
-    "weaponType": "knife"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.232Z"
+  "extractedAt": "2026-11-13T18:42:21.601Z"
 }

@@ -9,13 +9,13 @@
     "incidentDate": "2026-08-11",
     "street": "Arno-Philippsthal-Straße",
     "houseNumberOrCrossing": null,
-    "placeName": "Biesdorf",
+    "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A fire broke out in a top-floor flat of a residential building in Biesdorf and spread to the roof structure and neighbouring flats. 28 people suffered smoke inhalation and the whole building was made uninhabitable.",
+    "summaryEn": "A fire broke out in a top-floor apartment of a residential building in Biesdorf, spreading to the roof structure and neighbouring flats. 28 people suffered smoke inhalation and all residents were evacuated.",
     "injured": 28,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.954Z"
+  "extractedAt": "2026-11-13T18:49:04.352Z"
 }

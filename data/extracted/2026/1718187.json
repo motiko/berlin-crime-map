@@ -8,14 +8,14 @@
     "category": "political",
     "incidentDate": "2026-09-24",
     "street": "Bellevueallee",
-    "houseNumberOrCrossing": "Kleine Querallee",
+    "houseNumberOrCrossing": "Kleiner Querallee",
     "placeName": "Großer Tiergarten",
     "district": "Mitte",
-    "summaryEn": "A rainbow memorial bench in Großer Tiergarten, set up after an attack on the Berlin CSD, was damaged again, with one wooden slat removed and two others damaged. Police Staatsschutz is investigating.",
+    "summaryEn": "A rainbow memorial bench in Großer Tiergarten, set up after the attack on the Berlin CSD, was damaged again, with a wooden slat removed. The State Security unit is investigating.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.800Z"
+  "extractedAt": "2026-11-13T18:49:04.235Z"
 }

@@ -5,17 +5,17 @@
   "title": "Schlag gegen mutmaßliche kriminelle Vereinigung – Durchsuchungsbeschlüsse und Haftbefehle vollstreckt sowie Vermögenswerte in Millionenhöhe gesichert",
   "location": "Berlin/Brandenburg",
   "extraction": {
-    "category": "fraud",
+    "category": "raid",
     "incidentDate": "2026-10-14",
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Police and prosecutors raided 16 properties in Berlin and Brandenburg against four suspects accused of money laundering through a network of front companies and bank accounts. Around 2 million euros were secured, and a firearm, gold, cash and a Lamborghini were seized.",
+    "summaryEn": "Police and prosecutors executed four arrest warrants and searches at 16 properties in Berlin and Brandenburg against a suspected criminal group accused of money laundering. Around 2 million euros in bank funds were frozen, along with cash, gold, a diamond, luxury watches and a Lamborghini.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.894Z"
+  "extractedAt": "2026-11-13T18:50:24.419Z"
 }

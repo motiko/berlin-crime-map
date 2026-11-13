@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Weitlingstraße",
     "placeName": "Rummelsburg",
     "district": "Lichtenberg",
-    "summaryEn": "A car driver turning left collided with a cyclist at a junction in Rummelsburg in the early hours. The 34-year-old cyclist was injured with head injuries and taken to hospital; he is not in danger of his life.",
+    "summaryEn": "A car driver turning left collided with a cyclist in Rummelsburg overnight. The 34-year-old cyclist was injured and taken to hospital, with no life-threatening injuries expected.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.768Z"
+  "extractedAt": "2026-11-13T18:49:04.429Z"
 }

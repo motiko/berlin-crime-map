@@ -5,17 +5,17 @@
   "title": "Streit im Straßenverkehr eskaliert",
   "location": "Lichtenberg",
   "extraction": {
-    "category": "assault",
+    "category": "traffic",
     "incidentDate": "2026-07-19",
-    "street": "Landsberger Allee",
-    "houseNumberOrCrossing": null,
-    "placeName": "Gemeinschaftsunterkunft Landsberger Allee",
-    "district": "Lichtenberg",
-    "summaryEn": "After a verbal dispute over a driver's speed, a 28-year-old man was struck by a BMW driver who then fled the scene. The 28-year-old was injured and the suspected driver was later found to be over the alcohol limit.",
     "injured": 1,
     "dead": 0,
+    "street": "Landsberger Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": "Alt-Hohenschönhausen",
+    "district": "Lichtenberg",
+    "summaryEn": "After a verbal dispute over speeding, a BMW driver allegedly struck a 28-year-old pedestrian with his car and drove off. The driver was later identified after a drink-driving test and a blood sample was taken.",
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.868Z"
+  "extractedAt": "2026-11-13T18:49:04.301Z"
 }

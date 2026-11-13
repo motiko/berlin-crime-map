@@ -9,13 +9,13 @@
     "incidentDate": "2026-07-27",
     "street": "Simon-Bolivar-Straße",
     "houseNumberOrCrossing": null,
-    "placeName": "Alt-Hohenschönhausen",
+    "placeName": null,
     "district": "Lichtenberg",
-    "summaryEn": "A 42-year-old man allegedly lured a 25-year-old into his flat, demanded his phone and laptop, and threatened him with a submachine gun and a machete. The suspect was arrested in the stairwell and the weapon was seized.",
-    "injured": 2,
+    "summaryEn": "A 42-year-old man allegedly forced a 25-year-old into his flat, demanded his phone and laptop, and threatened him with a machete and a submachine gun. The suspect was arrested in the stairwell and the weapon was seized.",
+    "injured": 1,
     "dead": 0,
-    "weaponType": "submachine gun"
+    "weaponType": "submachine gun, machete"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.844Z"
+  "extractedAt": "2026-11-13T18:49:04.374Z"
 }

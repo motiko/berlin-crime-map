@@ -9,13 +9,13 @@
     "incidentDate": "2026-07-31",
     "street": "Mariendorfer Damm",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Imbiss",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Shots were fired at a snack bar in Mariendorf from a moving vehicle around 2:20 a.m. Two people were inside, and nobody was hurt.",
+    "summaryEn": "Several live rounds were fired at a snack bar from a moving vehicle at about 2:20 a.m. Two people were inside, but nobody was hurt.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.885Z"
+  "extractedAt": "2026-11-13T18:49:04.459Z"
 }

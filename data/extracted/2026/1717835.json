@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Hotel",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A young man entered a hotel and, threatening staff with pepper spray, demanded money and took it. Two employees were sprayed; one was treated in hospital for eye irritation.",
-    "injured": 2,
+    "summaryEn": "An armed man entered a hotel at night, sprayed the receptionist and a colleague with pepper spray and took money. The male employee was injured and treated in hospital.",
+    "injured": 1,
     "dead": 0,
     "weaponType": "pepper spray"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.960Z"
+  "extractedAt": "2026-11-13T18:49:04.436Z"
 }

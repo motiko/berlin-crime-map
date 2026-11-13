@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Alexandrinenstraße",
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Three masked people demanded cash from a 24-year-old man on a pavement in Kreuzberg, beat and kicked him when he could not pay, and demanded further payment for the next day. The man reported that the same group had been extorting money from him since 2023.",
+    "summaryEn": "Three masked people demanded a cash payment from a 24-year-old man, beat and kicked him when he could not pay, and demanded further money for the next day. The man had reportedly been forced to hand over money by the same people since 2023.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.771Z"
+  "extractedAt": "2026-11-13T18:49:04.151Z"
 }

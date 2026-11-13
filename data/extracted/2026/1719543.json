@@ -7,15 +7,15 @@
   "extraction": {
     "category": "homicide",
     "incidentDate": "2026-09-28",
-    "street": "Tegeler See",
+    "street": null,
     "houseNumberOrCrossing": null,
     "placeName": "Tegeler See",
     "district": "Reinickendorf",
-    "summaryEn": "A body was found floating in Lake Tegel and recovered by the fire brigade. A homicide unit is investigating after an autopsy confirmed suspicion of a killing.",
+    "summaryEn": "A body was found floating in Lake Tegel and recovered by the fire brigade. An autopsy confirmed a homicide, and the Mordkommission is investigating.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.877Z"
+  "extractedAt": "2026-11-13T18:50:25.930Z"
 }

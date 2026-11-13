@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Sportanlage am Columbiadamm",
     "district": "Neukölln",
-    "summaryEn": "After a group dispute near a sports ground, an 18-year-old allegedly fired several shots with a blank-firing gun at two people fleeing. He was detained at the scene and later released.",
+    "summaryEn": "After an argument involving several people near a sports ground, an 18-year-old fired a blank-firing gun several times at two people who were fleeing. He was arrested at the scene and later released after identity checks.",
     "injured": 0,
     "dead": 0,
     "weaponType": "blank-firing gun"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.252Z"
+  "extractedAt": "2026-11-13T18:42:21.582Z"
 }

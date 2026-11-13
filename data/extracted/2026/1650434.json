@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A 67-year-old cyclist fell on a pavement without outside interference and later died in hospital. Police investigators are looking into the cause of death.",
+    "summaryEn": "A 67-year-old cyclist fell off his bicycle on a pavement without outside interference and died later in hospital. Police traffic investigators are looking into the cause of death.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.337Z"
+  "extractedAt": "2026-11-13T18:42:21.565Z"
 }

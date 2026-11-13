@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Fitnessstudio",
     "district": "Mitte",
-    "summaryEn": "A 30-year-old was verbally abused and threatened with a raised hand in a gym's changing area in an anti-queer attack; the suspect left before police arrived. Staatsschutz is investigating a politically motivated threat case. A second anti-queer incident the same day at Landsberger Allee involved a knife shown and kicking gestures; the suspects fled.",
+    "summaryEn": "Two anti-queer threat cases were reported: a 30-year-old was verbally abused and threatened with a raised hand in a gym in Wedding, and a 21-year-old was insulted and shown a folded knife near S-Bahnhof Landsberger Allee in Prenzlauer Berg. The Staatsschutz has taken over both investigations.",
     "injured": 0,
     "dead": 0,
-    "weaponType": null
+    "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.791Z"
+  "extractedAt": "2026-11-13T18:49:04.461Z"
 }

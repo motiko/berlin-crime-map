@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Reinickendorf",
-    "summaryEn": "Two people were seen tampering with a freestanding cash machine on Alt-Reinickendorf before it was blown up with an unknown explosive early in the morning. The suspects fled towards Roedernallee.",
+    "summaryEn": "An unattended cash machine on a pavement in Alt-Reinickendorf was badly damaged by an explosion in the early morning. Two suspects were seen tampering with it shortly before and fled towards Roedernallee.",
     "injured": 0,
     "dead": 0,
     "weaponType": "explosive"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.341Z"
+  "extractedAt": "2026-11-13T18:42:21.587Z"
 }

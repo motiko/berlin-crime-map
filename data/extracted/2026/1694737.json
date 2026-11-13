@@ -9,13 +9,13 @@
     "incidentDate": "2026-07-16",
     "street": "Torgauer Straße",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Hellersdorf",
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A 19-year-old driver fled a police traffic check at high speed and crashed into a parked van in Hellersdorf. He was arrested; his passenger escaped, and the rental car was seized.",
+    "summaryEn": "A 19-year-old driver fled a police traffic check at high speed, crashed into a parked van and was arrested. He had no valid driving licence, was allegedly under the influence of cannabis, and the rental car was seized.",
     "injured": 0,
     "dead": 0,
-    "weaponType": null
+    "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.856Z"
+  "extractedAt": "2026-11-13T18:49:04.466Z"
 }

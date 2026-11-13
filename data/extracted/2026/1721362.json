@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Arendsweg",
     "placeName": "Parkplatz eines Baumarktes",
     "district": "Lichtenberg",
-    "summaryEn": "A 24-year-old motorcyclist was seriously injured after crashing into a curb on the car park of a DIY store on Landsberger Allee. The motorcycle overturned several times and was no longer roadworthy.",
+    "summaryEn": "A 24-year-old motorcyclist crashed into a curb in a hardware store car park on Landsberger Allee after speeding and braking hard, and was seriously injured. The motorcycle was overturned and no longer roadworthy.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.890Z"
+  "extractedAt": "2026-11-13T18:49:04.157Z"
 }

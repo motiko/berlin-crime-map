@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "During an emergency psychiatric transport in Prenzlauer Berg, a woman stabbed at police officers during her arrest. A police officer was injured in the arm and was treated at a hospital.",
+    "summaryEn": "A woman in a psychiatric emergency transport stabbed at a police officer's arm with a knife during an arrest in Prenzlauer Berg. The officer was treated in hospital as an outpatient and went off duty.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.889Z"
+  "extractedAt": "2026-11-13T18:49:04.237Z"
 }

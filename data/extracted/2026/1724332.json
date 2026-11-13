@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Märkisches Viertel",
     "district": "Reinickendorf",
-    "summaryEn": "Shots were fired around 7 a.m. on Borgsdorfer Straße in the Märkisches Viertel, leaving bullet holes in a house façade. Two people reportedly fled in a vehicle; nobody was injured.",
+    "summaryEn": "Shots were fired in the Märkisches Viertel early in the morning, leaving bullet holes in a house façade. Two people reportedly fled in a vehicle, and nobody was injured.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.060Z"
+  "extractedAt": "2026-11-13T18:49:04.412Z"
 }

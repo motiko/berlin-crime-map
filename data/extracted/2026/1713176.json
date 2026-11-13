@@ -6,16 +6,16 @@
   "location": "Lichtenberg",
   "extraction": {
     "category": "traffic",
-    "incidentDate": "2026-09-11",
-    "street": "Kaskelstraße",
-    "houseNumberOrCrossing": "Schreiberhauer Straße",
-    "placeName": "Rummelsburg",
-    "district": "Lichtenberg",
-    "summaryEn": "A 92-year-old driver and a 37-year-old motorcyclist collided at a crossing in Rummelsburg after the car allegedly failed to yield. The motorcyclist suffered bruises and abrasions and was taken to hospital; he lacked a valid licence and the motorcycle was wanted for embezzlement.",
-    "injured": 1,
     "dead": 0,
-    "weaponType": "vehicle"
+    "district": "Lichtenberg",
+    "houseNumberOrCrossing": "Schreiberhauer Straße",
+    "incidentDate": "2026-09-11",
+    "injured": 1,
+    "placeName": "Rummelsburg",
+    "street": "Kaskelstraße",
+    "summaryEn": "An elderly car driver allegedly ignored right of way at a junction in Rummelsburg, causing a collision with a motorcyclist who was injured and taken to hospital. The motorcyclist was found to lack a valid driving licence and the motorcycle was linked to a stolen plate and an embezzlement warrant.",
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.900Z"
+  "extractedAt": "2026-11-13T18:49:04.272Z"
 }

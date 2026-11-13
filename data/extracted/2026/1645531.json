@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 45-year-old man verbally insulted a 16-year-old girl in a xenophobic manner in Kreuzberg in the evening. The case was taken over by the state security unit (Staatsschutz).",
+    "summaryEn": "A 45-year-old man verbally abused a 16-year-old girl with xenophobic insults in Adalbertstraße in Kreuzberg. The case was taken over by the State Security unit (Staatsschutz).",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.319Z"
+  "extractedAt": "2026-11-13T18:42:21.640Z"
 }

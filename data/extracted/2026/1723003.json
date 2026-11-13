@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "Unknown perpetrators smashed a window of an apartment in Silbersteinstraße at around 0:30 and threw in pyrotechnics and burning objects, setting a mattress on fire. A 24-year-old man in the room threw the burning items out and was hurt on the hand.",
+    "summaryEn": "Unknown attackers smashed a window of an apartment in Silbersteinstraße, threw in fireworks and set a mattress alight, and threw two liquid-filled bottles at the building. A 24-year-old in the room was hurt in the hand.",
     "injured": 1,
     "dead": 0,
     "weaponType": "explosive"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.997Z"
+  "extractedAt": "2026-11-13T18:49:04.122Z"
 }

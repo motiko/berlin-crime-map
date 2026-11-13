@@ -9,13 +9,13 @@
     "incidentDate": "2026-06-12",
     "street": "Zeughofstraße",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Supermarkt parking lot",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 59-year-old woman allegedly insulted a 53-year-old woman with xenophobic remarks in a supermarket car park and made stabbing movements with a knife. The suspect was arrested, the knife was seized, and the State Security unit took over the investigation.",
+    "summaryEn": "A 59-year-old woman allegedly insulted a 53-year-old woman in a xenophobic way in a supermarket car park and made stabbing movements with a knife. The suspect was arrested, the knife was seized, and the State Security unit took over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.834Z"
+  "extractedAt": "2026-11-13T18:49:04.105Z"
 }

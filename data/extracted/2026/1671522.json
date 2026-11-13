@@ -6,16 +6,16 @@
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
     "category": "political",
-    "incidentDate": "2026-05-15",
-    "street": "Frankfurter Allee",
-    "houseNumberOrCrossing": null,
-    "placeName": null,
-    "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 39-year-old man was racially insulted and struck in the face with a glass bottle by an unknown woman on Frankfurter Allee. The suspect fled, and the man declined further treatment after being attended to by paramedics.",
-    "injured": 1,
     "dead": 0,
+    "district": "Friedrichshain-Kreuzberg",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-05-15",
+    "injured": 1,
+    "placeName": null,
+    "street": "Frankfurter Allee",
+    "summaryEn": "A 39-year-old man was attacked by an unknown woman on Frankfurter Allee and struck in the face with a glass bottle, in an incident the police treat as racially motivated. The suspect fled.",
     "weaponType": "glass bottle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.725Z"
+  "extractedAt": "2026-11-13T18:49:04.317Z"
 }

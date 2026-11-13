@@ -8,14 +8,14 @@
     "category": "traffic",
     "incidentDate": "2026-10-16",
     "street": "Friedrich-Engels-Straße",
-    "houseNumberOrCrossing": null,
+    "houseNumberOrCrossing": "Kastanienallee",
     "placeName": "Rosenthal",
     "district": "Pankow",
-    "summaryEn": "A car driver hit a four-year-old girl who allegedly ran into the road in Rosenthal. The girl suffered abrasions and a suspected head injury and was taken to hospital; the driver and his passenger were unhurt.",
+    "summaryEn": "A car driver hit a four-year-old girl who allegedly ran onto the road in Rosenthal. The girl was taken to hospital with a suspected head injury.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.742Z"
+  "extractedAt": "2026-11-13T18:49:04.418Z"
 }

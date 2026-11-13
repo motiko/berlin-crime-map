@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "Unknown perpetrators allegedly set three cars on fire on a residents' parking area, and two were burnt out completely. Three further parked vehicles were damaged by the heat, and no one was hurt.",
+    "summaryEn": "Unknown people set three cars on fire on a residents' parking area, two of which burned out completely. Three further parked cars were damaged by the heat; nobody was hurt.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.309Z"
+  "extractedAt": "2026-11-13T18:42:21.653Z"
 }

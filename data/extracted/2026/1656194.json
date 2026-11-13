@@ -9,13 +9,13 @@
     "incidentDate": "2026-03-25",
     "street": "Weißenhöher Straße",
     "houseNumberOrCrossing": null,
-    "placeName": "Einkaufszentrum Biesdorf",
+    "placeName": "Einkaufszentrum",
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "Unknown perpetrators forced their way into a shopping centre in Biesdorf at about 3:40 a.m. and blew up a cash machine using explosives. They fled without being caught.",
+    "summaryEn": "Unknown perpetrators broke into a shopping centre in Biesdorf around 3:40 a.m. and blew up a cash machine using explosives. They fled without being caught.",
     "injured": 0,
     "dead": 0,
     "weaponType": "explosive"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.286Z"
+  "extractedAt": "2026-11-13T18:42:21.637Z"
 }

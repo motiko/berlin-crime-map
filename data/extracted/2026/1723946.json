@@ -9,13 +9,13 @@
     "incidentDate": "2026-10-10",
     "street": "An der Wuhlheide",
     "houseNumberOrCrossing": "Rudolf-Rühl-Allee",
-    "placeName": null,
+    "placeName": "Oberschöneweide",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A 50-year-old light motorcycle rider was seriously injured in a collision with a car at a junction in Oberschöneweide. The car driver, also 50, was involved, and the investigation into the cause continues.",
+    "summaryEn": "A motorcycle rider and a car driver collided at a junction in Oberschöneweide after the car allegedly ran a red light. The motorcycle rider suffered leg fractures and a head laceration and was taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.694Z"
+  "extractedAt": "2026-11-13T18:49:04.304Z"
 }

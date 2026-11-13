@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Hansaviertel",
     "district": "Mitte",
-    "summaryEn": "Unknown perpetrators blew up a cigarette vending machine in the Hansaviertel overnight and fled by vehicle. No one was hurt.",
+    "summaryEn": "Unknown perpetrators blew up a cigarette vending machine in the Hansaviertel overnight and fled by vehicle. Nobody was injured.",
     "injured": 0,
     "dead": 0,
     "weaponType": "explosive"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.740Z"
+  "extractedAt": "2026-11-13T18:49:04.281Z"
 }

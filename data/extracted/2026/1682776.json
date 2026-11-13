@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "An 18-year-old woman reported missing since 16 June 2026 was found dead two days before publication; police found no sign of a crime.",
+    "summaryEn": "An 18-year-old woman reported missing since 16 June 2026 from Wilmersdorf was found dead; police see no sign of a crime. The initial appeal had been published on 17 June 2026.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.040Z"
+  "extractedAt": "2026-11-13T18:49:04.368Z"
 }

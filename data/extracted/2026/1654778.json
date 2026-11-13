@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Spandau",
-    "summaryEn": "A 38-year-old man set fire to rubbish in the ground floor of an apartment building in Staaken and was arrested nearby. Residents extinguished the flames and nobody was hurt.",
+    "summaryEn": "A 38-year-old man entered an apartment building and set fire to rubbish in the ground-floor hallway, according to police. Residents extinguished the flames and police arrested him nearby.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.275Z"
+  "extractedAt": "2026-11-13T18:42:21.656Z"
 }

@@ -9,13 +9,13 @@
     "incidentDate": "2026-11-06",
     "street": "Schnellerstraße",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Niederschöneweide",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A 25-year-old man was found with multiple cut injuries to both hands and a leg after an altercation in which an unknown man allegedly held a knife-like object. The suspect reportedly fled by car toward Oberspreestraße.",
+    "summaryEn": "A 25-year-old man was found with multiple cut injuries to both hands and a leg after an altercation with an unknown man who allegedly had a knife-like object. The suspect fled by car, and the injured man was taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.407Z"
+  "extractedAt": "2026-11-13T18:49:04.120Z"
 }

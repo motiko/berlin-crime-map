@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Fußgängerzone Steinmetzstraße",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Shots were fired in the pedestrian zone of Steinmetzstraße in Schöneberg before 5 a.m., after which a small car drove off at high speed. Two apartment windows on the street were hit by bullets, and no one was injured.",
+    "summaryEn": "Shots were fired in the pedestrian zone of Steinmetzstraße in Schöneberg before 5 a.m., and a small car was seen leaving at high speed. Two windows in separate flats were hit by bullets, and nobody was injured.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.880Z"
+  "extractedAt": "2026-11-13T18:49:04.407Z"
 }

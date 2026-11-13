@@ -5,17 +5,17 @@
   "title": "Schwerer Landfriedensbruch nach Fußball-WM-Aus",
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
-    "category": "other",
+    "category": "assault",
     "incidentDate": "2026-06-30",
     "street": "Uber Platz",
     "houseNumberOrCrossing": null,
     "placeName": "Uber Platz",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "After a public viewing of a World Cup match at Uber Platz, a brawl broke out around 1:30 a.m. following the German team's elimination, with bottles thrown at police and others. Seven people were arrested, and two officers were lightly injured.",
-    "injured": 3,
+    "summaryEn": "After a World Cup public viewing at Uber Platz ended with Germany's elimination, scuffles and bottle throwing broke out and police made seven arrests. Two officers were slightly injured and pepper spray was used against a crowd.",
+    "injured": 4,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.816Z"
+  "extractedAt": "2026-11-13T18:49:04.326Z"
 }

@@ -8,14 +8,14 @@
     "category": "fire",
     "incidentDate": "2026-09-27",
     "street": "Keplerstraße",
-    "houseNumberOrCrossing": "Olbersstraße",
+    "houseNumberOrCrossing": "Brahestraße",
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A parked BMW was set on fire on Keplerstraße in the early morning and burned out completely, damaging two neighbouring cars and a street tree. Arson is being investigated by a fire unit of the Berlin LKA; no one was hurt.",
+    "summaryEn": "A BMW parked on Keplerstraße burned out in the early morning, damaging a Seat, a Toyota and a street tree. Arson is suspected, and no one was hurt.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.769Z"
+  "extractedAt": "2026-11-13T18:49:04.464Z"
 }

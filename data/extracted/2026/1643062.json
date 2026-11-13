@@ -5,17 +5,17 @@
   "title": "Sicherstellung einer scharfen Schusswaffe und Sicherstellung von Vermögenswerten durch die BAO Ferrum im Zusammenhang mit Schussabgaben auf eine Wohnung",
   "location": "Neukölln",
   "extraction": {
-    "category": "shooting",
-    "incidentDate": "2026-02-13",
+    "category": "raid",
+    "incidentDate": "2026-08-31",
     "street": "Ritterstraße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Police report on the investigation into shots fired at a residential building in Ritterstraße in February 2026, with attempted murder charges. Four suspects are in custody, and a loaded firearm and ammunition were seized from a suspect's car.",
+    "summaryEn": "Police and prosecutors seized a firearm, ammunition, cash and a high-value car in the investigation of shots fired at an apartment building in Ritterstraße in February 2026. Four suspects are in pre-trial detention.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.064Z"
+  "extractedAt": "2026-11-13T18:50:29.601Z"
 }

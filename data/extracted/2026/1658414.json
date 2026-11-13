@@ -9,13 +9,13 @@
     "incidentDate": "2026-04-01",
     "street": "Rathenower Straße",
     "houseNumberOrCrossing": "Otto-Dix-Straße",
-    "placeName": "Bar in der Rathenower Straße (Moabit)",
+    "placeName": "Bar in der Rathenower Straße",
     "district": "Mitte",
-    "summaryEn": "Shots were fired outside a bar in Moabit after an argument between two men spilled outside, leaving two men with gunshot injuries. Both were arrested temporarily, and the state criminal police task force BAO Ferrum has taken over the investigation.",
+    "summaryEn": "After an argument in a bar in Moabit, shots were fired outside and two men with gunshot wounds were taken to hospital. Both men were provisionally arrested, and the LKA's BAO Ferrum has taken over the investigation.",
     "injured": 2,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.345Z"
+  "extractedAt": "2026-11-13T18:42:21.585Z"
 }

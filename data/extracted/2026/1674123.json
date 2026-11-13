@@ -5,17 +5,17 @@
   "title": "Mit Schere bedroht – DEIG Einsatz",
   "location": "Steglitz-Zehlendorf",
   "extraction": {
-    "category": "knife",
+    "category": "assault",
     "incidentDate": "2026-05-25",
     "street": "Schildhornstraße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "Police were called to an apartment building where a 33-year-old woman in a psychological crisis threatened officers with scissors. Officers used a conducted energy device (Taser) on her, and she was arrested and taken to hospital.",
+    "summaryEn": "Police were called to an apartment building where a 33-year-old woman in a mental crisis threatened officers with scissors. Officers used a conducted energy device (Taser) on her, and she was arrested and taken to hospital.",
     "injured": 0,
     "dead": 0,
     "weaponType": "scissors"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.852Z"
+  "extractedAt": "2026-11-13T18:49:04.224Z"
 }

@@ -9,13 +9,13 @@
     "incidentDate": "2026-01-01",
     "street": "Gustav-Meyer-Allee",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Gesundbrunnen",
     "district": "Mitte",
-    "summaryEn": "Two unknown men lured a delivery worker to Gustav-Meyer-Allee under a false delivery order, held a knife to his neck and forced him to hand over his belongings and cash. The 24-year-old was not injured.",
+    "summaryEn": "Two unknown men lured a 24-year-old delivery worker to a street under the pretext of a food order, held a knife to his neck and forced him to hand over his belongings and cash. The victim was not injured.",
     "injured": 0,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.204Z"
+  "extractedAt": "2026-11-13T18:42:21.547Z"
 }

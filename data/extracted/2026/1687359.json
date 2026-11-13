@@ -5,17 +5,17 @@
   "title": "Scharfe Schusswaffe beschlagnahmt",
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
-    "category": "shooting",
+    "category": "raid",
     "incidentDate": "2026-06-28",
     "street": "Paul-Lincke-Ufer",
     "houseNumberOrCrossing": "Hobrechtbrücke",
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Witnesses reported a man holding a firearm in Kreuzberg; police detained him at Hobrechtbrücke and seized a live handgun with a loaded magazine and a knife. No shots were reported.",
+    "summaryEn": "Police arrested a 32-year-old man carrying a loaded real handgun after witnesses reported him holding a firearm near Paul-Lincke-Ufer. The weapon and a folding knife were seized, and no further weapons were found in a search of his apartment.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.808Z"
+  "extractedAt": "2026-11-13T18:50:35.733Z"
 }

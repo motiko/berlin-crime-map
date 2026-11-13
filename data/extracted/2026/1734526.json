@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "Two women suspected of fraud were arrested at an 84-year-old woman's apartment while collecting money she had been tricked into handing over. The victim reported the scam to police the day before the arrest.",
+    "summaryEn": "Two women were arrested at an 84-year-old woman's flat in Steglitz while trying to collect money from her in a suspected fraud scheme. The victim had reported the scam to police after initially handing over a large sum and her phone number.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.441Z"
+  "extractedAt": "2026-11-13T18:49:04.449Z"
 }

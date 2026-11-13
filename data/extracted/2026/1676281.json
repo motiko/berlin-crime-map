@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "S-Bahnhof Landsberger Allee",
     "district": "Pankow",
-    "summaryEn": "A 32-year-old woman was kicked by a 41-year-old man and racially insulted by another man during an altercation early in the morning. The woman was injured and taken to hospital for outpatient treatment.",
+    "summaryEn": "A 32-year-old woman was involved in an argument that turned physical in the early morning. A 41-year-old man then kicked her while she lay on the ground, and a second man made racist insults; the suspects are investigated for a possible hate crime.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.765Z"
+  "extractedAt": "2026-11-13T18:49:04.128Z"
 }

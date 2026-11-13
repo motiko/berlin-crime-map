@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Deportationsmahnmal",
     "district": "Mitte",
-    "summaryEn": "Several graffiti were sprayed on the deportation memorial at Putlitzbrücke in Moabit, reported to police on the afternoon of the previous day. The Staatsschutz (political crime unit) has taken over the investigation.",
+    "summaryEn": "Several inscriptions were sprayed on the deportation memorial at Putlitzbrücke in Moabit. The state security unit (Staatsschutz) has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.923Z"
+  "extractedAt": "2026-11-13T18:49:04.244Z"
 }

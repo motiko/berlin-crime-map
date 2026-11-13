@@ -9,13 +9,13 @@
     "incidentDate": "2026-03-05",
     "street": "Fahremundstraße",
     "houseNumberOrCrossing": null,
-    "placeName": "Wilhelmstadt",
+    "placeName": null,
     "district": "Spandau",
-    "summaryEn": "A fire broke out in a residential house in Wilhelmstadt, and an 81-year-old bedridden resident was found dead in the rear section. Six other residents escaped unharmed, and the building was almost completely destroyed.",
+    "summaryEn": "A fire broke out in a residential house in Wilhelmstadt, Spandau, and nearly destroyed the building. An 81-year-old bedridden resident was found dead in his room, and six other residents escaped unhurt.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.246Z"
+  "extractedAt": "2026-11-13T18:42:21.545Z"
 }

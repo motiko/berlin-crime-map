@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Police arrested four suspects in Friedrichshain from an alleged gang dealing drugs, seizing about 2.7 kg of cocaine, around 900 g of ecstasy and other drugs, plus a firearm. Cash, a knife and packaging material were also seized.",
+    "summaryEn": "Police observed a drug handover in Jessnerstraße on Friday evening and then searched several vehicles and homes, seizing about 2.7 kg of cocaine, around 900 g of ecstasy and other drugs, plus a firearm and 6,000 euros in cash. Four suspects were detained for identification and then released.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.778Z"
+  "extractedAt": "2026-11-13T18:49:04.445Z"
 }

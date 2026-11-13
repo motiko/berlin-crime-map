@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Several election posters for the Berlin House of Representatives election were vandalised on 19 August 2026, including one set on fire at a lamp post in Schöneberg. The State Protection unit is investigating the damage to posters across several districts.",
+    "summaryEn": "Several election posters were damaged in Berlin on the day before the publication, including one set on fire on a lamppost in Schöneberg. The Staatsschutz is investigating all cases linked to the House of Representatives election.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.048Z"
+  "extractedAt": "2026-11-13T18:49:04.467Z"
 }

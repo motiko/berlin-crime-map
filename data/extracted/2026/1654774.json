@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Zossener Straße",
     "placeName": "Hellersdorf",
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A 60-year-old driver turning left at a junction collided with a 61-year-old pedestrian who crossed against a red light. The pedestrian suffered life-threatening injuries and is in intensive care.",
+    "summaryEn": "A 60-year-old driver turning left collided with a 61-year-old pedestrian who crossed against a red light at Stendaler Straße. The pedestrian was seriously injured and remains in intensive care.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.246Z"
+  "extractedAt": "2026-11-13T18:42:21.651Z"
 }

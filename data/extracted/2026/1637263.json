@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Spätkauf",
     "district": "Mitte",
-    "summaryEn": "A masked man threatened a convenience store employee with a handgun and took cash in Waldemarstraße on the evening before publication. The suspect then left the shop.",
+    "summaryEn": "A masked unknown man robbed a convenience store at gunpoint on the evening of 24 January 2026 and fled with cash. The 42-year-old employee handed over the money and was not reported injured.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.293Z"
+  "extractedAt": "2026-11-13T18:42:21.553Z"
 }

@@ -7,15 +7,15 @@
   "extraction": {
     "category": "traffic",
     "incidentDate": "2026-05-29",
-    "street": "Tempelhofer Feld",
+    "street": "Rollbahn",
     "houseNumberOrCrossing": null,
     "placeName": "Tempelhofer Feld",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Two cyclists collided head-on on the Tempelhofer Feld runway in the evening and fell. One woman, 61, suffered serious head injuries and was taken to hospital; the other, 35, suffered a leg abrasion.",
+    "summaryEn": "Two cyclists, aged 35 and 61, collided head-on on the Tempelhofer Feld and fell. The 61-year-old had serious head injuries and was taken to hospital.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.907Z"
+  "extractedAt": "2026-11-13T18:49:04.308Z"
 }

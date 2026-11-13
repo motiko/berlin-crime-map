@@ -9,13 +9,13 @@
     "incidentDate": "2026-08-07",
     "street": "Graefestraße",
     "houseNumberOrCrossing": "Böckhstraße",
-    "placeName": null,
+    "placeName": "Café in der Graefestraße",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "An unknown gunman shot a 22-year-old man sitting outside a café in Graefestraße, Kreuzberg, and fled. The victim was taken to hospital and underwent emergency surgery; he is no longer in danger of dying.",
+    "summaryEn": "A man aged 22 was shot outside a café and taken to hospital with emergency surgery; he is no longer in danger of dying. The homicide unit is searching for the unknown shooter, who fled.",
     "injured": 1,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.709Z"
+  "extractedAt": "2026-11-13T18:49:04.226Z"
 }

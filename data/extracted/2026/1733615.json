@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Lea-Grundig-Straße",
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "Unknown persons threw stones at two tram cars in Marzahn, breaking windows while passengers were on board. No one was hurt, and both trams were taken out of service.",
+    "summaryEn": "Unknown persons threw stones at two trams in Marzahn, breaking windows. Passengers were in both trams but were not hurt.",
     "injured": 0,
     "dead": 0,
-    "weaponType": "stone"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.433Z"
+  "extractedAt": "2026-11-13T18:49:04.260Z"
 }

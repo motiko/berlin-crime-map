@@ -9,13 +9,13 @@
     "incidentDate": "2026-05-02",
     "street": "Buschallee",
     "houseNumberOrCrossing": "Berliner Allee",
-    "placeName": "Tram-Haltestelle Buschallee",
+    "placeName": "Tram-Haltestelle Buschallee, Weißensee",
     "district": "Pankow",
-    "summaryEn": "A 55-year-old pedestrian ran onto the tram tracks at the Buschallee stop in Weißensee and was hit by a tram on line M4. She was taken to hospital with non-life-threatening injuries; the tram driver was treated for shock.",
+    "summaryEn": "A 55-year-old pedestrian was hit by an M4 tram at the Buschallee stop in Weißensee and taken to hospital with non-life-threatening injuries. The tram driver was treated for shock.",
     "injured": 2,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.810Z"
+  "extractedAt": "2026-11-13T18:49:04.227Z"
 }

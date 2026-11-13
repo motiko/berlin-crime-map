@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Unknown perpetrators blew up a parking ticket machine in Tempelhof overnight; a witness discovered it around 0:30 and alerted police. A parked car was lightly damaged by flying metal parts.",
+    "summaryEn": "Unknown perpetrators blew up a parking ticket machine in Tempelhof overnight. A witness found it damaged around 0:30 and alerted police; a nearby parked car was slightly damaged by flying debris.",
     "injured": 0,
     "dead": 0,
     "weaponType": "explosive"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.726Z"
+  "extractedAt": "2026-11-13T18:49:04.428Z"
 }

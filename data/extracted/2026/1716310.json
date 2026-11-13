@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Spandau",
-    "summaryEn": "Police responding to a disturbance in a Spandau apartment building were threatened with a starter pistol by a 38-year-old man, who was subdued and arrested. A search of his flat found further weapons, including a crossbow and an axe.",
+    "summaryEn": "Police called to a disturbance in an apartment building were threatened with a replica gun by a 38-year-old man, who resisted arrest. A search of his flat found further weapons, and the officers were unhurt.",
     "injured": 0,
     "dead": 0,
     "weaponType": "blank-firing gun"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.737Z"
+  "extractedAt": "2026-11-13T18:49:04.259Z"
 }

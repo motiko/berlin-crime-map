@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Grunewaldstraße",
     "placeName": null,
     "district": "Spandau",
-    "summaryEn": "An 81-year-old driver turning at the junction collided with an oncoming car, pushing it into four parked vehicles; three people were injured. Three bystanders were later investigated for photographing the injured.",
+    "summaryEn": "An 81-year-old driver turning at a junction collided with an oncoming car, pushing it into four parked cars and injuring three people. Onlookers later filmed the injured; police opened criminal proceedings for violating personal privacy.",
     "injured": 3,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.882Z"
+  "extractedAt": "2026-11-13T18:49:04.419Z"
 }

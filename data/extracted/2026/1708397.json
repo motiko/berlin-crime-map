@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Gartenkolonie",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Police were called to a disorderly 40-year-old man at a garden colony event in Mariendorf, who resisted arrest and insulted officers. Officers used a taser (DEIG) to subdue him; he was unharmed and later taken to a prison after outstanding warrants.",
+    "summaryEn": "A 40-year-old man behaving aggressively at a garden colony event insulted officers and resisted arrest; officers used a taser (DEIG) to subdue him. He was unhurt and taken into custody.",
     "injured": 0,
     "dead": 0,
     "weaponType": "Distanzelektroimpulsgerät (taser)"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.704Z"
+  "extractedAt": "2026-11-13T18:49:04.140Z"
 }

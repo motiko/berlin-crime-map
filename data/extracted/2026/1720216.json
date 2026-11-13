@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Three men broke into an apartment in a Lichtenrade apartment building and stole jewelry before fleeing by car. Police arrested three suspects aged 25, 27 and 37 shortly afterwards.",
+    "summaryEn": "Three men broke into an apartment in Lichtenrade, took jewelry and fled by car. Police arrested three suspects (aged 25, 27 and 37) nearby shortly after.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.941Z"
+  "extractedAt": "2026-11-13T18:49:04.463Z"
 }

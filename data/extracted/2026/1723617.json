@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "Several shots were fired at a single-family house in Rudow around 3:15 a.m. The unknown perpetrator fled, and bullet holes were found in the glass front of the entrance door; no one was injured.",
+    "summaryEn": "Shots were fired at a single-family house in Rudow in the early morning, and the perpetrator fled. Bullet holes were found in the glass front of the entrance door; nobody was hurt.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.881Z"
+  "extractedAt": "2026-11-13T18:49:04.329Z"
 }

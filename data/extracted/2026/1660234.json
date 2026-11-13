@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Treptow-Köpenick",
-    "summaryEn": "Police were called to a domestic violence report in Alt-Treptow. A 45-year-old man resisted officers, who used a taser after other measures failed, and five officers were hurt.",
+    "summaryEn": "After a domestic violence call, a 45-year-old man resisted officers in his flat and was subdued with a stun device (DEIG). Five officers were hurt, and the man was taken to hospital.",
     "injured": 5,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.951Z"
+  "extractedAt": "2026-11-13T18:49:04.161Z"
 }

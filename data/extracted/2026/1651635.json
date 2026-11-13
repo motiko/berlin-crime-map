@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Bocksfeldplatz",
     "district": "Spandau",
-    "summaryEn": "Four teenagers fled from police in a car without number plates, causing a chase through Wilhelmstadt that ended in a bush. One passenger was slightly injured and three suspects were arrested.",
+    "summaryEn": "Four teenagers fled from police in a car without a number plate, causing several traffic violations and a crash into a bush at Bocksfeldplatz. Three were arrested and one slightly injured.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.251Z"
+  "extractedAt": "2026-11-13T18:42:21.583Z"
 }

@@ -5,17 +5,17 @@
   "title": "Handyortung überführt mutmaßliche Taschendiebe",
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
-    "category": "robbery",
+    "category": "burglary",
     "incidentDate": "2026-11-07",
     "street": "Rathausstraße",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Straßenbahn Warschauer Brücke",
     "district": "Mitte",
-    "summaryEn": "A 27-year-old woman's mobile phone was stolen by pickpockets on a tram near Warschauer Brücke around 1 a.m. The phone was located in a venue on Rathausstraße, where two suspects were arrested and the phone was recovered.",
+    "summaryEn": "A 27-year-old woman's mobile phone was stolen by pickpocketing on a tram near Warschauer Brücke; police located the phone and arrested two suspects. Investigations are ongoing.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.423Z"
+  "extractedAt": "2026-11-13T18:49:04.403Z"
 }

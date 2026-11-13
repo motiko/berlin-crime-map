@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Forckenbeckstraße",
     "placeName": "Schmargendorf",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "An 82-year-old pedestrian stepped into the road on Hohenzollerndamm and was hit by a car. He suffered fractures and a head wound and was taken to hospital; the driver was unhurt.",
+    "summaryEn": "An 82-year-old pedestrian stepped onto Hohenzollerndamm and was struck by a car, suffering fractures and a head wound. The 58-year-old driver was unhurt; the traffic unit is investigating the exact sequence of events.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.342Z"
+  "extractedAt": "2026-11-13T18:42:21.588Z"
 }

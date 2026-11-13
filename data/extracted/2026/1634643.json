@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Armbrustweg",
     "placeName": "Supermarkt-Parkplatz",
     "district": "Reinickendorf",
-    "summaryEn": "Two men posing as plainclothes police took cash from a 29-year-old during a car purchase and then threatened him with a gun. A 42-year-old suspect was arrested and is in pre-trial detention; the investigation continues.",
+    "summaryEn": "Two men posing as plainclothes police took cash from a car buyer during a planned car purchase, then fled and threatened a pursuer with a gun. A suspected fake officer, 42, was arrested and remains in pre-trial detention.",
     "injured": 1,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.242Z"
+  "extractedAt": "2026-11-13T18:42:21.634Z"
 }

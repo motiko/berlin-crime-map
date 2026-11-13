@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Arson at a technical installation of an event building in Revaler Straße was discovered early in the morning, and Nazi symbols were sprayed on the wall and ventilation system. The state security unit is investigating.",
+    "summaryEn": "Fire set at the technical installation of an event building on Revaler Straße early in the morning, with Nazi symbols sprayed on the wall and ventilation system. Nobody was hurt; the State Security unit is investigating.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.324Z"
+  "extractedAt": "2026-11-13T18:42:21.550Z"
 }

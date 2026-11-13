@@ -5,17 +5,17 @@
   "title": "Mann bei Raubüberfall verletzt",
   "location": "Mitte",
   "extraction": {
-    "category": "knife",
+    "category": "robbery",
     "incidentDate": "2026-07-06",
     "street": "Oranienburger Straße",
     "houseNumberOrCrossing": null,
     "placeName": "Monbijou-Brunnen",
     "district": "Mitte",
-    "summaryEn": "A 21-year-old man was robbed at knifepoint by four masked men on a hill beside the Monbijou fountain in Mitte and suffered cut and stab wounds. The attackers fled with cash and his bank card.",
+    "summaryEn": "A 21-year-old man was attacked by four masked men on a hill near the Monbijou fountain; two attackers used cutter knives, and the group fled with cash and a bank card. The victim was taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.683Z"
+  "extractedAt": "2026-11-13T18:49:04.309Z"
 }

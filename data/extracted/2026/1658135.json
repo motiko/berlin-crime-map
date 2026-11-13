@@ -6,16 +6,16 @@
   "location": "Treptow-Köpenick",
   "extraction": {
     "category": "traffic",
-    "dead": 0,
-    "district": "Treptow-Köpenick",
-    "houseNumberOrCrossing": "Rixdorfer Straße",
     "incidentDate": "2026-03-30",
-    "injured": 1,
-    "placeName": "Niederschöneweide",
     "street": "Schnellerstraße",
-    "summaryEn": "A garbage truck veered into the oncoming lane on Schnellerstraße and hit a stationary car that was turning. The car driver suffered a fractured ankle and was hospitalized.",
-    "weaponType": null
+    "houseNumberOrCrossing": "Rixdorfer Straße",
+    "placeName": "Niederschöneweide",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A garbage truck veered into the opposite lane and hit a stationary car that was turning on Schnellerstraße in Niederschöneweide. The car driver suffered an ankle fracture and was hospitalized.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.340Z"
+  "extractedAt": "2026-11-13T18:42:21.638Z"
 }

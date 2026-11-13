@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Police searched four properties in Kreuzberg and Neukölln in connection with a weapons law violation, seizing a concealed pistol, ammunition and a blank-firing/signal weapon. Four suspects aged 19 to 35 are under investigation.",
+    "summaryEn": "Police searched four properties in Kreuzberg and Neukölln over a weapons law violation, seizing a loaded pistol, ammunition and an alarm/signal weapon. Four suspects aged 19 to 35 are being investigated.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.030Z"
+  "extractedAt": "2026-11-13T18:50:29.882Z"
 }

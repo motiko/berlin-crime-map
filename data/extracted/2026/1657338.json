@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Lichtenberg",
-    "summaryEn": "Two men were caught trying to force open an apartment door in a residential building in Lichtenberg. They fled, were arrested nearby, and police seized burglary tools.",
+    "summaryEn": "Two men were caught trying to force open an apartment door in a residential building in Lichtenberg and fled before entering. Police arrested both nearby, seized burglary tools and released them after identity checks.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.295Z"
+  "extractedAt": "2026-11-13T18:42:21.571Z"
 }

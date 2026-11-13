@@ -6,16 +6,16 @@
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
     "category": "political",
-    "incidentDate": "2026-01-24",
-    "street": "Skalitzer Straße",
-    "houseNumberOrCrossing": null,
-    "placeName": null,
-    "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Four men attacked a 29-year-old man in a supermarket after an argument over a queue, insulting and punching him because of his Kurdish background. Witnesses intervened, and the man was taken to hospital; the state security unit took over the case.",
-    "injured": 1,
     "dead": 0,
+    "district": "Friedrichshain-Kreuzberg",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-01-24",
+    "injured": 1,
+    "placeName": null,
+    "street": "Skalitzer Straße",
+    "summaryEn": "Four men insulted and punched a 29-year-old man in a supermarket queue after asking if he was Kurdish. He was injured and taken to hospital, and the State Security unit took over the investigation.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.240Z"
+  "extractedAt": "2026-11-13T18:42:21.567Z"
 }

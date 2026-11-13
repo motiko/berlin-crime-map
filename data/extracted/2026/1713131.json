@@ -9,13 +9,13 @@
     "incidentDate": "2026-09-11",
     "street": "Bartningallee",
     "houseNumberOrCrossing": null,
-    "placeName": "Marktplatz Hansaviertel",
+    "placeName": "Marktplatz im Hansaviertel",
     "district": "Mitte",
-    "summaryEn": "A man threatened a 40-year-old politician at his information stall on a market square and then ran away. The police state security unit is investigating.",
+    "summaryEn": "A man allegedly threatened a 40-year-old politician at his information stand in the Hansaviertel and then ran off. The State Security unit (Staatsschutz) is investigating.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.056Z"
+  "extractedAt": "2026-11-13T18:49:04.243Z"
 }

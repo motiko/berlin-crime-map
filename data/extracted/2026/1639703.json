@@ -6,16 +6,16 @@
   "location": "Mitte",
   "extraction": {
     "category": "political",
-    "incidentDate": "2026-02-01",
-    "street": "Schulstraße",
-    "houseNumberOrCrossing": "Müllerstraße",
-    "placeName": "Wedding",
-    "district": "Mitte",
-    "summaryEn": "During a pro-Rojava assembly in Wedding, participants threw stones, bottles and wooden slats, and a bottle hit a police officer on the head. Four criminal investigations were opened, and the Staatsschutz took over the riot cases.",
-    "injured": 1,
     "dead": 0,
+    "district": "Mitte",
+    "houseNumberOrCrossing": "Schulstraße",
+    "incidentDate": "2026-02-01",
+    "injured": 1,
+    "placeName": "Wedding",
+    "street": "Schulstraße",
+    "summaryEn": "During a demonstration in Wedding, participants threw stones, bottles and wooden planks, and a police officer was hit on the head by a bottle. The Staatsschutz took over the investigation of the riot charges.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.227Z"
+  "extractedAt": "2026-11-13T18:42:21.626Z"
 }

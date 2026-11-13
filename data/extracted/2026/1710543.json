@@ -5,17 +5,17 @@
   "title": "Sicherstellung einer scharfen Schusswaffe in Spandau",
   "location": "Spandau",
   "extraction": {
-    "category": "drugs",
+    "category": "raid",
     "incidentDate": "2026-09-03",
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Spandau",
-    "summaryEn": "Police searched an apartment in Wilhelmstadt under a warrant for suspected illegal drug trafficking and seized a live firearm with ammunition and prescription-only medicines. A 34-year-old suspect was arrested and remanded in custody.",
+    "summaryEn": "Police searched a flat in Wilhelmstadt in a drug-trafficking investigation and seized a live firearm with ammunition and prescription medicines. A 34-year-old suspect was arrested and remanded in custody.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.728Z"
+  "extractedAt": "2026-11-13T18:50:28.316Z"
 }

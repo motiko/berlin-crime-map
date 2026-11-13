@@ -9,13 +9,13 @@
     "incidentDate": "2024-09-05",
     "street": "Leipziger Platz",
     "houseNumberOrCrossing": "12",
-    "placeName": "Leipziger Platz",
+    "placeName": null,
     "district": "Mitte",
-    "summaryEn": "Police are searching for a suspect who allegedly stole mailed bank cards and PINs and withdrew money between August 2024 and September 2024, with three theft and nine computer fraud cases attributed. Surveillance images of the suspect at an ATM on Leipziger Platz were released.",
+    "summaryEn": "Police appeal for information about an unknown suspect who allegedly stole mailed bank cards and PINs and withdrew money between August and September 2024 in nine computer fraud cases and three thefts. The suspect used a cash machine at Leipziger Platz 12.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.926Z"
+  "extractedAt": "2026-11-13T18:49:04.320Z"
 }

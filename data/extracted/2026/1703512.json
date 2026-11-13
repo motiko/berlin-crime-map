@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Volkspark Hasenheide",
     "district": "Neukölln",
-    "summaryEn": "A 37-year-old man allegedly racially insulted three women aged 23, 24 and 27 in Volkspark Hasenheide. He was detained after a search near the Sommerbad Neukölln and the Staatsschutz is investigating.",
+    "summaryEn": "A 37-year-old man allegedly insulted three women in their twenties with racist remarks in Volkspark Hasenheide. He was arrested nearby and released later; the State Security unit is investigating.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.885Z"
+  "extractedAt": "2026-11-13T18:49:04.406Z"
 }

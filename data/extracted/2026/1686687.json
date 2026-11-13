@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Imbiss",
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "Two groups insulted each other with xenophobic remarks and then fought at a snack bar, using chairs. Three men and one teenager suffered minor injuries and were treated at the scene; a specialist unit took over the investigation.",
-    "injured": 4,
+    "summaryEn": "Two groups insulted each other with xenophobic remarks and then fought at a snack bar in Hellersdorf overnight. Four people were treated at the scene for minor injuries, and a specialist unit took over the investigation.",
+    "injured": 3,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.925Z"
+  "extractedAt": "2026-11-13T18:49:04.405Z"
 }

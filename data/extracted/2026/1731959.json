@@ -9,13 +9,13 @@
     "incidentDate": "2026-10-27",
     "street": "Steinhellenweg",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Mariendorf",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 19-year-old driver fled a traffic check in Mariendorf, driving into bushes and a parked car and accelerating while an officer stood on the bonnet. The officer was injured in a fall and the driver was later found at a hospital; he had no valid driving licence.",
+    "summaryEn": "A 19-year-old driver fled a traffic check in Mariendorf, driving into bushes and a parked car and injuring an police officer who had climbed onto the hood. The driver was later found in a hospital, and he had no valid driving licence.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.840Z"
+  "extractedAt": "2026-11-13T18:49:04.348Z"
 }

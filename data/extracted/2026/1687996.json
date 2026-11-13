@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Pilgramer Straße",
     "placeName": "Mahlsdorf",
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A car turning into Pilgramer Straase in Mahlsdorf hit a five-year-old cyclist on the morning of 30 June 2026. The child was pulled out from under the car by rescuers and taken to hospital.",
+    "summaryEn": "A 46-year-old driver hit a five-year-old cyclist while turning left in Mahlsdorf on the morning of the 30th. The child was pulled out from under the car and taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.057Z"
+  "extractedAt": "2026-11-13T18:49:04.284Z"
 }

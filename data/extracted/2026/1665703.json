@@ -9,13 +9,13 @@
     "incidentDate": "2026-04-27",
     "street": "Schönhauser Allee",
     "houseNumberOrCrossing": "Milastraße",
-    "placeName": "U-Bahn-Viadukt Schönhauser Allee",
+    "placeName": "U-Bahn-Viadukt an der Schönhauser Allee",
     "district": "Pankow",
-    "summaryEn": "A 37-year-old pedestrian was hit by a tram line M1 after climbing over a pedestrian barrier under the U-Bahn viaduct on Schönhauser Allee. He was injured and taken to hospital, and the street was closed until about 14:10.",
+    "summaryEn": "A 37-year-old pedestrian was hit by a tram on Schönhauser Allee in Prenzlauer Berg after climbing over a pedestrian barrier and stepping onto the road. He was taken to hospital with injuries.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.994Z"
+  "extractedAt": "2026-11-13T18:49:04.281Z"
 }

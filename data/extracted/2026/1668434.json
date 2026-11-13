@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "Two men robbed a businessman of his day's takings in a backpack on Gerlinger Straße, threatening him with a firearm. An accomplice stabbed the businessman's employee in the thigh with a pointed object during the robbery.",
+    "summaryEn": "Two men robbed a businessman of his day's takings in a backpack at gunpoint in Buckow; one assistant was stabbed in the thigh. The assistant was treated and discharged himself from hospital.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "firearm, pointed object"
+    "weaponType": "firearm, sharp object"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.031Z"
+  "extractedAt": "2026-11-13T18:49:04.464Z"
 }

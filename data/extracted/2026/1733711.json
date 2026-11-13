@@ -6,16 +6,16 @@
   "location": "Neukölln",
   "extraction": {
     "category": "shooting",
-    "dead": 0,
-    "district": "Neukölln",
-    "houseNumberOrCrossing": null,
     "incidentDate": "2026-11-01",
-    "injured": 0,
+    "street": "Naumburger Straße",
+    "houseNumberOrCrossing": null,
     "placeName": "Gewerbegelände",
-    "street": "Naumburgerstraße",
-    "summaryEn": "Bullet holes were found in the roller door of a rented garage on a commercial site in Neukölln. No people were present when the shots were fired, and the police state group BAO Ferrum is investigating.",
+    "district": "Neukölln",
+    "summaryEn": "Bullet holes were found in the roller door of a rented garage on a commercial site in Neukölln; shots were fired while no one was present. The case is being investigated by the BAO Ferrum unit of the LKA.",
+    "injured": 0,
+    "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.434Z"
+  "extractedAt": "2026-11-13T18:49:04.400Z"
 }

@@ -6,16 +6,16 @@
   "location": "Spandau",
   "extraction": {
     "category": "traffic",
-    "incidentDate": "2026-10-17",
-    "street": "Prisdorfer Straße",
-    "houseNumberOrCrossing": "Brunsbütteler Damm",
-    "placeName": null,
-    "district": "Spandau",
-    "summaryEn": "An 82-year-old driver collided with another car at an intersection in Spandau and later died in hospital; his 84-year-old passenger also died of her injuries two days later. The other driver was unhurt.",
-    "injured": 0,
     "dead": 2,
+    "district": "Spandau",
+    "houseNumberOrCrossing": "Brunsbütteler Damm",
+    "incidentDate": "2026-10-16",
+    "injured": 0,
+    "placeName": null,
+    "street": "Prisdorfer Straße",
+    "summaryEn": "An 82-year-old driver collided with another car at a junction in Spandau; he and his 84-year-old wife died in hospital from their injuries. The other driver was unhurt.",
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.713Z"
+  "extractedAt": "2026-11-13T18:50:24.510Z"
 }

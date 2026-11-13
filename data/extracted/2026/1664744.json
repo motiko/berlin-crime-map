@@ -7,15 +7,15 @@
   "extraction": {
     "category": "traffic",
     "incidentDate": "2026-04-26",
-    "district": "Mitte",
     "street": "Lehrter Straße",
     "houseNumberOrCrossing": "Invalidenstraße",
     "placeName": "Moabit",
-    "summaryEn": "An unknown driver hit an 83-year-old pedestrian with a car in Lehrter Straße around 1 a.m. and fled the scene. The injured man was taken to hospital by rescue services.",
+    "district": "Mitte",
+    "summaryEn": "An unknown driver struck an 83-year-old pedestrian with a car in Moabit around 1 a.m. and fled the scene. The injured man was taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.967Z"
+  "extractedAt": "2026-11-13T18:49:04.182Z"
 }

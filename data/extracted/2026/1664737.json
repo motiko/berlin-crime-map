@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Jugendclub",
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "Several youths sprayed pepper spray inside a youth club in Marzahn, injuring 15 children and teenagers aged 8 to 15 before fleeing. Paramedics treated the injured at the scene, some with eye rinses.",
+    "summaryEn": "Several youths sprayed pepper spray in a youth club in Marzahn, injuring 15 children and teenagers aged 8 to 15, then fled. Police youth unit is investigating the background.",
     "injured": 15,
     "dead": 0,
     "weaponType": "pepper spray"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.046Z"
+  "extractedAt": "2026-11-13T18:49:04.417Z"
 }

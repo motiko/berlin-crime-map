@@ -6,16 +6,16 @@
   "location": "Spandau",
   "extraction": {
     "category": "other",
-    "incidentDate": null,
+    "incidentDate": "2026-09-13",
     "street": "Charlottenburger Chaussee",
     "houseNumberOrCrossing": null,
     "placeName": "Polizeigelände Charlottenburger Chaussee",
     "district": "Spandau",
-    "summaryEn": "Berlin police announce their 45th open day on Sunday, 13 September 2026, at their Charlottenburger Chaussee site in Spandau, running 10:00 to 18:00. The event includes information stands, demonstrations, themed parks and recruitment information.",
+    "summaryEn": "The Berlin police announce their 45th open day on Sunday, 13 September 2026, from 10 to 18 hours at their Spandau site. The event offers information stands, demonstrations, themed areas and recruitment information.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.930Z"
+  "extractedAt": "2026-11-13T18:49:04.448Z"
 }

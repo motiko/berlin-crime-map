@@ -9,13 +9,13 @@
     "incidentDate": "2026-04-10",
     "street": "Schönefelder Chaussee",
     "houseNumberOrCrossing": null,
-    "placeName": "Bushaltestelle in Altglienicke",
+    "placeName": "Bushaltestelle Schönefelder Chaussee, Altglienicke",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A 34-year-old man robbed a 76-year-old man at a bus stop in Altglienicke, pushing him to the ground and briefly choking him. He then resisted arrest after police intervened and one officer was injured.",
+    "summaryEn": "A 34-year-old man robbed a 76-year-old man at a bus stop in Altglienicke, choking him until he briefly lost consciousness. When plainclothes officers intervened, the suspect resisted arrest and injured an officer's hand.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.287Z"
+  "extractedAt": "2026-11-13T18:42:21.575Z"
 }

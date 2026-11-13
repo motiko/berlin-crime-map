@@ -6,16 +6,16 @@
   "location": "Reinickendorf",
   "extraction": {
     "category": "shooting",
-    "incidentDate": "2026-07-14",
-    "street": "Gamsbartweg",
-    "houseNumberOrCrossing": null,
-    "placeName": null,
-    "district": "Reinickendorf",
-    "summaryEn": "A 33-year-old man was shot in the legs in an altercation with three unknown men in Reinickendorf. He underwent surgery and is hospitalized; police say his life is not in danger.",
-    "injured": 1,
     "dead": 0,
+    "district": "Reinickendorf",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-07-14",
+    "injured": 1,
+    "placeName": null,
+    "street": "Gamsbartweg",
+    "summaryEn": "A 33-year-old man was shot in the legs during an altercation with three unknown men on Gamsbartweg. He underwent surgery and is not in danger of his life.",
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.016Z"
+  "extractedAt": "2026-11-13T18:49:04.221Z"
 }

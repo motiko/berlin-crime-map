@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Hotel",
     "district": "Mitte",
-    "summaryEn": "After a hotel guest allegedly triggered a fire alarm without cause, he attacked and resisted officers in a lift. An officer used a taser (DEIG) to end the resistance, and the 31-year-old was taken to hospital.",
+    "summaryEn": "A hotel guest set off a fire alarm without cause around 4 a.m. and then attacked officers and resisted arrest in a hotel lift. An officer used a stun device to end the resistance; the 31-year-old was taken to hospital with redness on his lower back.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "electric impulse device (DEIG/taser)"
+    "weaponType": "stun device (DEIG)"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.879Z"
+  "extractedAt": "2026-11-13T18:49:04.356Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "S-Bahnhof Ahrensfelde",
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A nine-year-old girl ran onto the road from the pavement and was hit by a car on Märkische Allee. She was taken to hospital with a head injury and grazes; police say her life was not in danger.",
+    "summaryEn": "A nine-year-old girl ran from the pavement into the road and was hit by a car on Märkische Allee. She was taken to hospital with a head injury and abrasions, and is not believed to be in danger of her life.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.029Z"
+  "extractedAt": "2026-11-13T18:49:04.338Z"
 }

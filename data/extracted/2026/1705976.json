@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Möllendorffstraße",
     "placeName": "Straßenbahn M 16 / Haltestelle Möllendorffstraße",
     "district": "Lichtenberg",
-    "summaryEn": "A 52-year-old woman was verbally harassed with xenophobic insults, pushed and struck in the face after a dispute on tram line M 16 and at the stop Möllendorffstraße. The State Security unit has taken over the investigation.",
+    "summaryEn": "After a verbal dispute on a tram, a 42-year-old woman and her 17-year-old daughter allegedly insulted a 52-year-old woman in a xenophobic way and the daughter punched her in the head. The state security unit has taken over the investigation.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.042Z"
+  "extractedAt": "2026-11-13T18:49:04.239Z"
 }

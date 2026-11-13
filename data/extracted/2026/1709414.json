@@ -5,17 +5,17 @@
   "title": "Versuchtes Tötungsdelikt in einer Anwaltskanzlei",
   "location": "Marzahn-Hellersdorf",
   "extraction": {
-    "category": "homicide",
+    "category": "assault",
     "incidentDate": "2026-09-01",
     "street": "Teterower Ring",
     "houseNumberOrCrossing": null,
     "placeName": "Anwaltskanzlei",
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A dispute between two women in a law office at Teterower Ring left one woman, 46, with life-threatening injuries. A 51-year-old suspect was arrested, and the 5th homicide unit is investigating an attempted killing.",
+    "summaryEn": "A 51-year-old woman allegedly attacked a 46-year-old woman in a law office, leaving her with life-threatening injuries. The suspect was arrested and the case is being investigated as an attempted homicide.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.759Z"
+  "extractedAt": "2026-11-13T18:49:04.188Z"
 }

@@ -8,14 +8,14 @@
     "category": "traffic",
     "incidentDate": "2026-02-14",
     "street": "Hellersdorfer Straße",
-    "houseNumberOrCrossing": null,
-    "placeName": null,
+    "houseNumberOrCrossing": "Cecilienstraße",
+    "placeName": "U-Bahnhof Kienberg",
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A 39-year-old woman driving a car crashed into a parked truck trailer on Hellersdorfer Straße and died in hospital. Her 13-year-old daughter was taken to hospital for observation.",
+    "summaryEn": "A 39-year-old woman drove her car into a lorry trailer parked on Hellersdorfer Straße and later died in hospital. Her 13-year-old daughter was taken to hospital for observation.",
     "injured": 1,
     "dead": 1,
-    "weaponType": null
+    "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.255Z"
+  "extractedAt": "2026-11-13T18:42:21.568Z"
 }

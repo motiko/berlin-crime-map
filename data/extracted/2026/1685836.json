@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "A parked Audi caught fire overnight in Rudow and two other nearby parked cars were damaged. Nobody was hurt, and the fire cause is being investigated by a arson unit of the LKA.",
+    "summaryEn": "A parked car caught fire in Rudow overnight and two other parked cars nearby were damaged. Nobody was injured; a fire investigation unit is examining the cause.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.968Z"
+  "extractedAt": "2026-11-13T18:49:04.462Z"
 }

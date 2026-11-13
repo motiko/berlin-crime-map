@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "U-Bahnhof Alexanderplatz",
     "district": "Mitte",
-    "summaryEn": "Two teenagers on a school trip were threatened and robbed of wallets and phones near Alexanderplatz station after midnight. Police arrested two suspects, aged 15 and 20, and recovered part of the stolen property.",
+    "summaryEn": "Two men, aged 15 and 20, allegedly threatened two 16-year-old school travellers near Alexanderplatz station, forced them to a nearby basketball court and took their wallets and phones. Both suspects were arrested shortly afterwards and part of the loot was recovered.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.849Z"
+  "extractedAt": "2026-11-13T18:49:04.403Z"
 }

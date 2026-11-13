@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Haselhorst",
     "district": "Spandau",
-    "summaryEn": "After a dispute in an apartment, a 28-year-old allegedly stabbed a 24-year-old man in the leg. The injured man was taken to hospital with non-life-threatening injuries; the suspect was arrested and released after police measures.",
+    "summaryEn": "After an argument in an apartment in Haselhorst, a 28-year-old allegedly stabbed a 24-year-old in the leg. The injured man was taken to hospital with non-life-threatening injuries; the suspect was arrested and later released.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.707Z"
+  "extractedAt": "2026-11-13T18:49:04.275Z"
 }

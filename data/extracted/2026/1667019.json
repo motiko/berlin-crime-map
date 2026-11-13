@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Leinestraße",
     "placeName": "Anita-Berber-Park",
     "district": "Neukölln",
-    "summaryEn": "Two men, aged 17 and 25, were shot in the legs on Hermannstraße in Neukölln, and the unknown shooter fled. Both were taken to hospital, and the 25-year-old needed emergency surgery but is not in danger of his life.",
+    "summaryEn": "Shots were fired in Hermannstraße in Neukölln, leaving a 17-year-old and a 25-year-old with leg gunshot wounds. Both were taken to hospital; the unknown shooter fled and a special investigation unit has taken over.",
     "injured": 2,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.875Z"
+  "extractedAt": "2026-11-13T18:49:04.369Z"
 }

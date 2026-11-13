@@ -9,13 +9,13 @@
     "incidentDate": "2026-08-18",
     "street": "Hohenzollerndamm",
     "houseNumberOrCrossing": "11",
-    "placeName": "Dream Apartments hotel",
-    "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A 65-year-old man with dementia who had been missing since 16 August was found safe in a hospital. Hospital staff alerted police after recognizing him among patients brought in by the fire service.",
+    "placeName": "Dream Apartments",
+    "district": "Neukölln",
+    "summaryEn": "A 65-year-old man with dementia who went missing on 16 August 2026 was found safe in a hospital. Hospital staff recognised him after the fire service brought him in, and police were alerted.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.031Z"
+  "extractedAt": "2026-11-13T18:49:04.299Z"
 }

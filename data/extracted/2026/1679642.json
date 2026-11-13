@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Reinickendorf",
-    "summaryEn": "A fire broke out in a ground-floor apartment of an apartment building in Wittenau in the night. A man was found dead in the flat, several people were injured and the building is currently uninhabitable.",
-    "injured": 2,
+    "summaryEn": "A fire broke out in a ground-floor flat in an apartment building in Wittenau in the night; firefighters found one man dead inside. The building is uninhabitable, residents were evacuated and several people were injured.",
+    "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.991Z"
+  "extractedAt": "2026-11-13T18:49:04.228Z"
 }

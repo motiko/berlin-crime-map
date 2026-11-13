@@ -5,17 +5,17 @@
   "title": "Mann leistet nach Verkehrsunfallflucht Widerstand gegen Einsatzkräfte",
   "location": "Neukölln",
   "extraction": {
-    "category": "assault",
+    "category": "traffic",
     "incidentDate": "2026-06-14",
     "street": "Fritz-Erler-Allee",
-    "houseNumberOrCrossing": "Gutschmidtstraße",
+    "houseNumberOrCrossing": "Grüner Weg",
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "After a hit-and-run traffic accident in Britz, a man resisted police officers and swung at them without hitting anyone. He was brought to the ground and arrested, and one officer sustained a minor arm injury.",
+    "summaryEn": "After a hit-and-run traffic accident in Britz, a 54-year-old driver resisted police officers who detained him in a parking lot. A police officer was slightly injured and no one else was hurt in the collision.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.803Z"
+  "extractedAt": "2026-11-13T18:49:04.142Z"
 }

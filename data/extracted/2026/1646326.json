@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "Unknown perpetrators blew up a cigarette vending machine in Hellersdorf overnight and took cigarette packs. No one was injured.",
+    "summaryEn": "Unknown perpetrators blew up a cigarette vending machine in Hellersdorf overnight and took cigarette packs. Nobody was injured.",
     "injured": 0,
     "dead": 0,
     "weaponType": "explosive"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.251Z"
+  "extractedAt": "2026-11-13T18:42:21.634Z"
 }

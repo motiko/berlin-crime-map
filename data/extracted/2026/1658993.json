@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Diakoniegelände Hakenfelde",
     "district": "Spandau",
-    "summaryEn": "Several wheelie bins caught fire at a waste area on a church social-service site in Hakenfelde overnight. Five bins were destroyed, and the flames also damaged the canopy of a nearby building.",
+    "summaryEn": "Several wheelie bins were set on fire at a waste area on a church-run social service site in Hakenfelde overnight. The fire spread to a nearby building and burned its canopy entirely.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.297Z"
+  "extractedAt": "2026-11-13T18:42:21.648Z"
 }

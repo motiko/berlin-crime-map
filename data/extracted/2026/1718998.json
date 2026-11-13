@@ -9,13 +9,13 @@
     "incidentDate": "2026-10-25",
     "street": null,
     "houseNumberOrCrossing": null,
-    "placeName": "Polizeipräsidium",
+    "placeName": "Foyer des Polizeipräsidiums",
     "district": null,
-    "summaryEn": "Berlin police and the tischler guild invite the public to a burglary-prevention day at police headquarters on 25 October 2026, featuring a live break-in demonstration. The event runs from 12 to 16 noon and is not an incident.",
+    "summaryEn": "Police Berlin and the carpenters' guild invite the public to a burglary-prevention day on 25 October 2026, with a live break-in demonstration at 13:00. The event is held at the police headquarters foyer.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.869Z"
+  "extractedAt": "2026-11-13T18:49:04.235Z"
 }

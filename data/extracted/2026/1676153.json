@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "33",
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "A cyclist was seriously injured after colliding with another cyclist who then left the scene in Neukölln. The injured 43-year-old was taken to hospital for emergency surgery.",
+    "summaryEn": "A cyclist was injured in a collision with an unknown cyclist who came off the pavement onto the road and then fled the scene. The injured 43-year-old underwent emergency surgery.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.995Z"
+  "extractedAt": "2026-11-13T18:49:04.466Z"
 }

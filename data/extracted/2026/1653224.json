@@ -9,13 +9,13 @@
     "incidentDate": "2026-03-16",
     "street": "Am Tierpark",
     "houseNumberOrCrossing": null,
-    "placeName": "Friedrichsfelde",
+    "placeName": "Tram-Haltestelle Am Tierpark, Friedrichsfelde",
     "district": "Lichtenberg",
-    "summaryEn": "A 50-year-old man with a knife threatened passengers on a tram and damaged seats and windows, then resisted arrest and was injured. Police say he was under the influence of narcotics.",
+    "summaryEn": "A 50-year-old man allegedly boarded a tram with a knife, threatened passengers and damaged seats and windows before being overpowered by police. He was injured on one hand, taken to hospital and found to be under the influence of drugs.",
     "injured": 0,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.245Z"
+  "extractedAt": "2026-11-13T18:42:21.652Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "unter der Brücke am Alexanderufer",
     "district": "Mitte",
-    "summaryEn": "A 28-year-old man allegedly kicked two sleeping homeless men in the head and body overnight. One victim, 65, suffered severe facial injuries and must be treated in hospital; the suspect was arrested and later attacked officers verbally and physically.",
+    "summaryEn": "A 28-year-old man allegedly kicked two sleeping homeless men in the head and upper body overnight in Mitte. The older victim suffered serious facial injuries and the suspect was arrested and taken into custody.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.282Z"
+  "extractedAt": "2026-11-13T18:42:21.575Z"
 }

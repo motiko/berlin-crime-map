@@ -6,16 +6,16 @@
   "location": "Mitte",
   "extraction": {
     "category": "political",
-    "dead": 0,
-    "district": "Mitte",
-    "houseNumberOrCrossing": null,
     "incidentDate": "2026-05-31",
-    "injured": 2,
-    "placeName": null,
     "street": "Nazarethkirchstraße",
-    "summaryEn": "A 35-year-old man was arrested in Wedding after repeatedly making racist insults against two women and attacking police officers. One officer was hurt, and the suspect was also injured and later held in police custody.",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A 35-year-old man was arrested in Wedding after repeatedly making racist insults against two women and then resisting officers. A police officer was hurt, and the Staatsschutz is investigating.",
+    "injured": 2,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.832Z"
+  "extractedAt": "2026-11-13T18:49:04.211Z"
 }

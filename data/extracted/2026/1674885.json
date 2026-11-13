@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Lichtenrader Damm",
     "placeName": "Lichtenrade",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A car driver allegedly ran a red light at a junction in Lichtenrade and collided with an e-scooter rider on the crossing. The 49-year-old scooter rider was thrown several meters and suffered head and spinal injuries; he was taken to hospital with no life-threatening injuries.",
+    "summaryEn": "A car driver allegedly ran a red light in Lichtenrade and hit an e-scooter rider on the crossing, who was thrown several metres and injured. The rider was taken to hospital; his life is not in danger.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.921Z"
+  "extractedAt": "2026-11-13T18:49:04.147Z"
 }

@@ -9,13 +9,13 @@
     "incidentDate": "2026-05-21",
     "street": "Am Treptower Park",
     "houseNumberOrCrossing": "Rethelstraße",
-    "placeName": "Bus-Haltestelle Rethelstraße (BVG-Linie N60)",
+    "placeName": "BVG-Linie N60, Haltestelle Rethelstraße",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A 35-year-old man was insulted with homophobic remarks and punched in the head by a 23-year-old on a night bus. The State Security unit has taken over the investigation for possible hate crime.",
+    "summaryEn": "After a verbal dispute on a night bus, a 23-year-old allegedly insulted a 35-year-old man for being gay and punched him in the head. The victim suffered a head wound; the state security unit has taken over the investigation.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.850Z"
+  "extractedAt": "2026-11-13T18:49:04.246Z"
 }

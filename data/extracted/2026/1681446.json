@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Hegemeisterweg",
     "placeName": "Karlshorst",
     "district": "Lichtenberg",
-    "summaryEn": "A motorcyclist fleeing police at high speed and running red lights crashed into a police vehicle that had blocked Treskowallee. The 22-year-old rider suffered a leg abrasion and was treated on scene.",
+    "summaryEn": "A motorcyclist fleeing police at high speed ran red lights and crashed into a police vehicle that had blocked the road. The 22-year-old suffered a leg graze and was treated at the scene.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.755Z"
+  "extractedAt": "2026-11-13T18:49:04.151Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Seestraße",
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "A car driver turned left against the rules at a construction site and hit a 22-year-old e-scooter rider crossing the road at about 1:40 a.m. The scooter rider was seriously injured and taken to hospital.",
+    "summaryEn": "A car driver turning left hit a 22-year-old e-scooter rider crossing Müllerstraße in the early hours. The rider was seriously injured and taken to hospital, and the driver was unhurt.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.199Z"
+  "extractedAt": "2026-11-13T18:42:21.560Z"
 }

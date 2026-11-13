@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Arnold-Zweig-Straße",
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "A van driver allegedly ignored a right-of-way sign at a junction and collided with a 61-year-old scooter rider, who died in hospital. His 15-year-old passenger was injured and the van driver and his 27-year-old passenger were unhurt.",
+    "summaryEn": "A van driver ignored a right-of-way sign at a junction in Pankow and collided with a scooter rider, aged 61, who later died in hospital. A 15-year-old passenger on the scooter was also injured.",
     "injured": 1,
     "dead": 1,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.826Z"
+  "extractedAt": "2026-11-13T18:49:04.241Z"
 }

@@ -9,13 +9,13 @@
     "incidentDate": "2026-08-12",
     "street": "Schönhauser Allee",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Prenzlauer Berg",
     "district": "Pankow",
-    "summaryEn": "Election posters were removed from lampposts in Prenzlauer Berg by cutting their cable ties. A 57-year-old male suspect was arrested, and the State Security unit is investigating.",
+    "summaryEn": "Election posters were cut from lampposts in Prenzlauer Berg overnight... ",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.761Z"
+  "extractedAt": "2026-11-13T18:49:04.350Z"
 }

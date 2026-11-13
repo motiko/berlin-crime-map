@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Police were called to a threat in an apartment and a 30-year-old man resisted officers, biting one of them. Two police officers were injured, one of whom was treated in hospital.",
+    "summaryEn": "Police were called to a threat in an apartment on Schillerstraße and a 30-year-old man resisted officers, biting one officer. Two police officers were injured, one requiring hospital treatment.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.716Z"
+  "extractedAt": "2026-11-13T18:49:04.208Z"
 }

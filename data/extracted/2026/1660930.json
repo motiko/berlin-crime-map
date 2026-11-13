@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Wintersteinstraße",
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A driver fled a traffic check at high speed through Berlin, ran red lights, and crashed at the Wintersteinstraße / Otto-Suhr-Allee junction, hitting a pedestrian on a traffic island. The pedestrian was injured and taken to hospital, and the driver was later arrested after leaving the scene.",
+    "summaryEn": "A driver fleeing a traffic check at high speed hit a pedestrian waiting at a red light on a traffic island and then left the scene. He was arrested shortly afterwards.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.854Z"
+  "extractedAt": "2026-11-13T18:49:04.220Z"
 }

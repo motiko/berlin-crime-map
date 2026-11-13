@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A shop's entrance door was forced open with a vehicle and a fireplace was stolen from the entrance area. The break-in was discovered by police on an patrol early in the morning.",
+    "summaryEn": "Overnight break-in at a shop in Schöneberg, where a door was forced open with a vehicle and a fireplace was stolen. Police patrol discovered the damage at around 3:15 a.m.",
     "injured": 0,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.348Z"
+  "extractedAt": "2026-11-13T18:42:21.604Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Czarnikauer Straße",
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "A 38-year-old man resisted police and attacked officers in Prenzlauer Berg, injuring a police officer's nose and climbing onto a patrol car roof. Twelve officers were treated for irritation after pepper spray was used, and two patrol cars were damaged.",
+    "summaryEn": "A 38-year-old man resisted police in Prenzlauer Berg, punching an officer in the face and climbing onto a patrol car roof before being arrested. Twelve officers were treated for irritation to the airways and eyes, and two police cars were damaged.",
     "injured": 13,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.734Z"
+  "extractedAt": "2026-11-13T18:49:04.133Z"
 }

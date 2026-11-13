@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "A masked person threatened a fast-food restaurant employee with a pistol at about 3:10 a.m. demanding the cash register be opened. The employee sprayed the attacker with pepper spray and the attacker fled without loot.",
+    "summaryEn": "A masked man threatened a fast-food restaurant employee with a pistol and demanded the cash register be opened, but fled without loot after the employee sprayed him with pepper spray. The employee was injured in the face and declined medical treatment.",
     "injured": 1,
     "dead": 0,
     "weaponType": "pistol"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.689Z"
+  "extractedAt": "2026-11-13T18:49:04.446Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Päwesiner Weg",
     "placeName": "Bushaltestelle Päwesiner Weg",
     "district": "Spandau",
-    "summaryEn": "A 58-year-old woman driving a car reversed while pulling away from the curb in Staaken and struck a 32-year-old pedestrian. The pedestrian fell and was taken to hospital with head and arm injuries.",
+    "summaryEn": "A 58-year-old woman driver reversed her car while pulling away from the curb on Brunsbütteler Damm and allegedly hit a 32-year-old pedestrian. The pedestrian was injured and taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.318Z"
+  "extractedAt": "2026-11-13T18:42:21.636Z"
 }

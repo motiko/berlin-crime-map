@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Police and prosecutors searched four addresses in Tempelhof and Kreuzberg over suspected commercial receiving of stolen reusable crates. About 8,000 crates and around 950,000 euros in cash were seized.",
+    "summaryEn": "Police searched four addresses in Tempelhof and Kreuzberg over suspected commercial receiving of stolen reusable deposit crates worth about 841,000 euros. Over 8,000 crates and about 950,000 euros in cash were seized.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.194Z"
+  "extractedAt": "2026-11-13T18:50:46.294Z"
 }

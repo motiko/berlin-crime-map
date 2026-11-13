@@ -8,14 +8,14 @@
     "category": "traffic",
     "incidentDate": "2026-10-21",
     "street": "BAB 100",
-    "houseNumberOrCrossing": "Tempelhofer Damm",
-    "placeName": "Stadtautobahn",
+    "houseNumberOrCrossing": "Auffahrt Tempelhofer Damm",
+    "placeName": "Stadtautobahn Tempelhof",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A truck crashed into a traffic jam on the urban motorway BAB 100 in Tempelhof, colliding with eight other vehicles. Eleven people were injured, and the motorway was fully closed until 6 a.m.",
+    "summaryEn": "A truck driver rear-ended a traffic jam on the A100 motorway in Tempelhof, causing a collision with eight other vehicles. Eleven people were injured.",
     "injured": 11,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.700Z"
+  "extractedAt": "2026-11-13T18:49:04.179Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "S-Bahnhof Karlshorst",
     "district": "Lichtenberg",
-    "summaryEn": "Five suspects, aged 14 to 21, were charged over a group assault and robbery of a 31-year-old man at Karlshorst station on 9 May 2026; police raided seven addresses in several states. The victim was hospitalised, and one suspect was arrested for threatening a pursuer with a blank-firing pistol.",
+    "summaryEn": "Follow-up to a robbery and assault on a 31-year-old man at Karlshorst S-Bahn station on 9 May 2026: five suspects aged 14 to 21 were searched, and one 21-year-old was arrested. The investigation continues.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "knife and blank-firing pistol"
+    "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.961Z"
+  "extractedAt": "2026-11-13T18:49:04.457Z"
 }

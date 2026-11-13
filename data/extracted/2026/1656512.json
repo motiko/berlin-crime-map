@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Volkspark Humboldthain",
     "district": "Mitte",
-    "summaryEn": "Two men were injured after a group of unknown attackers used a knife and pepper spray against them during an altercation in Gesundbrunnen. The suspects fled toward the Gesundbrunnen U-Bahn station.",
+    "summaryEn": "Two men aged 39 and 46 were injured in a fight with a larger group in Volkspark Humboldthain, Gesundbrunnen, when attackers used a knife and pepper spray. The suspects fled toward Gesundbrunnen U-Bahn station.",
     "injured": 2,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.348Z"
+  "extractedAt": "2026-11-13T18:42:21.603Z"
 }

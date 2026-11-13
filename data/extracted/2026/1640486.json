@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Suspected shots were fired at a bar in Otto-Suhr-Allee early in the morning; a bullet passed through the metal exterior wall and lodged in the ceiling inside. No one was in the affected area and nobody was hurt.",
+    "summaryEn": "Suspected shot fired at a bar in Otto-Suhr-Allee in the early morning; the bullet pierced the outer wall and lodged in the interior ceiling. No one was present in the affected area and nobody was hurt.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.327Z"
+  "extractedAt": "2026-11-13T18:42:21.639Z"
 }

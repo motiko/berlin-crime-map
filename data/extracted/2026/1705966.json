@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Rummelsburg",
     "district": "Lichtenberg",
-    "summaryEn": "A cyclist and a scooter rider collided in Rummelsburg while turning on the Köpenicker Chaussee cycle path. Both men were taken to hospital with injuries.",
+    "summaryEn": "A cyclist and a moped scooter rider collided on Köpenicker Chaussee while both were turning or travelling in the same direction, and both fell. Both men were taken to hospital with injuries.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.923Z"
+  "extractedAt": "2026-11-13T18:49:04.457Z"
 }

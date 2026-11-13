@@ -9,13 +9,13 @@
     "incidentDate": "2026-02-18",
     "street": "Fürstenwalder Damm",
     "houseNumberOrCrossing": null,
-    "placeName": "Strand am Fürstenwalder Damm, Rahnsdorf",
+    "placeName": "Strand am Fürstenwalder Damm",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A 58-year-old truck driver hit two 39-year-old women standing behind the truck in Rahnsdorf, running over one woman's legs. Both were injured, one needing hospital admission.",
+    "summaryEn": "A 58-year-old truck driver struck two women, aged 39, on a open area in Rahnsdorf; one was run over and taken to hospital for inpatient treatment. The second woman suffered an arm injury and received outpatient treatment.",
     "injured": 2,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.215Z"
+  "extractedAt": "2026-11-13T18:42:21.554Z"
 }

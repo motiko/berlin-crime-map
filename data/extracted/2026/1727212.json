@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Weißenseer Weg",
     "placeName": "Fennpfuhl",
     "district": "Lichtenberg",
-    "summaryEn": "A car driver allegedly entered a red light at a junction in Fennpfuhl and collided with another car, with a cyclist also hit in the crossing. Three people were hurt, including the driver, who was found to have about 1.6 per mille alcohol and no valid driving licence.",
+    "summaryEn": "A 36-year-old driver allegedly ran a red light at the Landsberger Allee/Weißenseer Weg junction and collided with another car and a cyclist. Three people were hurt, and the driver was found to have about 1.6 per mille alcohol and no valid driving licence.",
     "injured": 3,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.813Z"
+  "extractedAt": "2026-11-13T18:49:04.323Z"
 }

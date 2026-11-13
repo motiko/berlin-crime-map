@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Schlossstraße",
     "placeName": "Jugendeinrichtung in der Albrechtstraße",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "Two men aged 44 and 47 allegedly rioted at a youth facility, attacked a caregiver and a passer-by, and later damaged two police vehicles during arrest and transport. One suspect was taken to hospital for psychiatric reasons.",
+    "summaryEn": "Two men aged 44 and 47 allegedly rioted at a youth facility, attacked a carer and a passer-by, and resisted arrest, damaging two police vehicles. Police officers were not injured.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.684Z"
+  "extractedAt": "2026-11-13T18:49:04.160Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "Unknown perpetrators broke into a supermarket in Weißensee and blew up a cash machine inside, then fled with the loot. The explosion heavily damaged the sales and entrance areas; no one was hurt.",
+    "summaryEn": "Unknown perpetrators broke into a supermarket in Weißensee at about 2:50 a.m. and blew up the cash machine inside before fleeing with the cash. No one was injured, but the store entrance and sales area were heavily damaged.",
     "injured": 0,
     "dead": 0,
     "weaponType": "explosive"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.301Z"
+  "extractedAt": "2026-11-13T18:42:21.602Z"
 }

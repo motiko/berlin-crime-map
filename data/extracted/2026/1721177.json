@@ -5,17 +5,17 @@
   "title": "DEIG-Einsatz – Festnahme nach Hausfriedensbruch, Sachbeschädigung und Widerstand gegen Vollstreckungsbeamte",
   "location": "Mitte",
   "extraction": {
-    "category": "other",
+    "category": "assault",
     "incidentDate": "2026-10-02",
     "street": "Zionskirchstraße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "Police were called to a person behaving erratically on a roof, who then entered a flat under renovation and barricaded himself in a bathroom. He was subdued with a stun device, arrested and taken to hospital; charges include trespassing, property damage and resisting officers.",
+    "summaryEn": "Police were called to a disturbed man on a residential roof in Zionskirchstraße, who entered an apartment under renovation, barricaded the door and resisted officers. He was arrested after a stun device was used, and faces charges of trespassing, property damage and resisting officers.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.043Z"
+  "extractedAt": "2026-11-13T18:49:04.382Z"
 }

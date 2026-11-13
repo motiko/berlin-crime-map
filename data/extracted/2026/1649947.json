@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Police searched the flat and car of a 79-year-old man during a weapons storage check and seized a firearm and black powder. The Landeskriminalamt is investigating under explosives and weapons laws.",
+    "summaryEn": "Police seized an unlawfully possessed firearm and black powder during a weapons storage inspection and search of a 79-year-old man's flat and car. The investigation is led by the State Criminal Police Office.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.351Z"
+  "extractedAt": "2026-11-13T18:50:47.048Z"
 }

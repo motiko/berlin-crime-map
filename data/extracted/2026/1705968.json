@@ -5,17 +5,17 @@
   "title": "Schutzscheibe in Linienbus eingeschlagen",
   "location": "Treptow-Köpenick",
   "extraction": {
-    "category": "other",
+    "category": "assault",
     "incidentDate": "2026-08-22",
-    "district": "Treptow-Köpenick",
-    "street": null,
+    "street": "Plänterwald",
     "houseNumberOrCrossing": null,
     "placeName": "S-Plänterwald",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "An unknown man boarded a bus on line 165 at S-Plänterwald after midnight and smashed the protective screen to the driver's area with a tool after being asked to leave. The driver was not hurt.",
     "injured": 0,
     "dead": 0,
-    "weaponType": null,
-    "summaryEn": "A man boarded a BVG bus at S-Plänterwald after being asked to leave, then smashed the protective screen to the driver's area with a tool and fled on foot. The driver was not hurt."
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.951Z"
+  "extractedAt": "2026-11-13T18:49:04.146Z"
 }

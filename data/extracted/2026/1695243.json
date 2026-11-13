@@ -5,17 +5,17 @@
   "title": "Einsatzkräfte mit Schusswaffe bedroht - Festnahmen",
   "location": "Spandau",
   "extraction": {
-    "category": "robbery",
+    "category": "assault",
     "incidentDate": "2026-07-19",
     "street": "Charlottenburger Chaussee",
-    "houseNumberOrCrossing": "Ruhlebener Straße/Klosterstraße",
+    "houseNumberOrCrossing": "Ruhlebener Straße/ Klosterstraße",
     "placeName": null,
     "district": "Spandau",
-    "summaryEn": "Police stopped a car after its occupants threatened civilian officers and another unidentified person with a weapon during the night. Three toy guns were found in the vehicle, and the driver's licence and car were seized.",
+    "summaryEn": "Occupants of a car threatened plainclothes police officers and another person with a gun during a drive-by, and the car was stopped at an intersection. Three toy guns were seized and several occupants were detained.",
     "injured": 0,
     "dead": 0,
     "weaponType": "toy gun"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.734Z"
+  "extractedAt": "2026-11-13T18:49:04.183Z"
 }

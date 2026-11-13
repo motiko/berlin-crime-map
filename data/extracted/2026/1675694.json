@@ -13,9 +13,9 @@
     "injured": 1,
     "placeName": null,
     "street": "Roedernallee",
-    "summaryEn": "A 14-year-old e-scooter rider left the cycle path and hit a traffic light pole at the Roedernallee/Lindauer Allee junction, injuring her; a 13-year-old passenger was unhurt. Police also found an insurance violation involving the scooter.",
+    "summaryEn": "A 14-year-old e-scooter rider crashed into a traffic light pole on Roedernallee and was injured. A 13-year-old passenger was unhurt; police also found an insurance violation involving the scooter.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.048Z"
+  "extractedAt": "2026-11-13T18:49:04.475Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Reinickendorf",
-    "summaryEn": "An unknown man punched a 25-year-old in the face and then allegedly fired a blank-firing pistol at his face on Sommerstraße. The suspect fled, and the victim was taken to hospital.",
+    "summaryEn": "An unknown man punched a 25-year-old in the face and then allegedly shot him in the face with a blank-firing pistol in Reinickendorf. The attacker fled, and the victim was taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": "blank-firing gun"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.206Z"
+  "extractedAt": "2026-11-13T18:42:21.583Z"
 }

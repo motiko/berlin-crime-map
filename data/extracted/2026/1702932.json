@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Treptow-Köpenick",
-    "summaryEn": "A 19-year-old man reported missing since 11 August 2026 was found dead today. Police see no indication of third-party involvement.",
+    "summaryEn": "A 19-year-old man reported missing since 11 August 2026 was found dead. Police see no indication of third-party involvement.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.874Z"
+  "extractedAt": "2026-11-13T18:49:04.218Z"
 }

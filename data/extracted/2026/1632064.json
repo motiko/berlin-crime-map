@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Giesebrechtstraße",
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Plainclothes officers arrested three people suspected of drug dealing after stopping a rented car at an intersection in Charlottenburg. Cocaine, cannabis, ecstasy and sales packaging were seized, and two officers were lightly injured during resistance.",
+    "summaryEn": "Plainclothes officers arrested three people suspected of drug dealing after a car was stopped at a crossing. Cocaine, a knife, a blank-firing pistol and dealing material were seized, and two officers were lightly injured.",
     "injured": 2,
     "dead": 0,
-    "weaponType": null
+    "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.320Z"
+  "extractedAt": "2026-11-13T18:42:21.559Z"
 }

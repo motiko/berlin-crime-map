@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Lückstraße/Sewanstraße",
     "placeName": "Friedrichsfelde",
     "district": "Lichtenberg",
-    "summaryEn": "A car collided with another vehicle at an intersection in Friedrichsfelde and was thrown into oncoming traffic, hitting a waiting car. Three people were taken to hospital for outpatient treatment, including a two-year-old child.",
+    "summaryEn": "A car collided with another at a junction with traffic lights switched off and was thrown into oncoming traffic, hitting a waiting VW. Three people were treated in hospital for injuries.",
     "injured": 3,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.797Z"
+  "extractedAt": "2026-11-13T18:49:04.117Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Jahnstraße",
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Two cars collided at the Hasenheide/Jahnstraße junction in Kreuzberg around 23:30, reportedly while one driver was speeding. Four people were injured, and the cars were no longer roadworthy.",
+    "summaryEn": "Two cars collided at the Hasenheide/Jahnstraße crossing in Kreuzberg late at night, injuring four people. One driver was allegedly speeding; all four injured were taken to hospital.",
     "injured": 4,
     "dead": 0,
-    "weaponType": "vehicle"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.025Z"
+  "extractedAt": "2026-11-13T18:49:04.175Z"
 }

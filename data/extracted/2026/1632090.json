@@ -6,16 +6,16 @@
   "location": "Mitte",
   "extraction": {
     "category": "robbery",
-    "incidentDate": "2026-01-11",
+    "incidentDate": "2026-01-10",
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": "S- und U-Bahnhof Alexanderplatz",
     "district": "Mitte",
-    "summaryEn": "Around midnight an unknown man attacked a 43-year-old woman sleeping on the ground, hitting and kicking her head and trying to take her sleeping bag. She prevented the theft and the man fled before police arrived.",
+    "summaryEn": "Around midnight an unknown man attacked a 43-year-old woman sleeping on the ground, hitting and kicking her head and trying to take her sleeping bag. She fended him off and he fled before police arrived.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.332Z"
+  "extractedAt": "2026-11-13T18:42:21.530Z"
 }

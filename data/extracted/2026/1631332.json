@@ -6,16 +6,16 @@
   "location": "Charlottenburg-Wilmersdorf",
   "extraction": {
     "category": "raid",
-    "incidentDate": "2026-01-06",
-    "street": "Heerstraße",
-    "houseNumberOrCrossing": null,
-    "placeName": "Unterkunft in Westend",
-    "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A 51-year-old man barricaded himself in a room at a shelter in Westend, and a special police unit with a dog arrested him after finding Molotov cocktails. He was bitten during the arrest and taken to hospital.",
-    "injured": 1,
     "dead": 0,
-    "weaponType": "Molotov cocktails"
+    "district": "Charlottenburg-Wilmersdorf",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-01-06",
+    "injured": 1,
+    "placeName": null,
+    "street": "Heerstraße",
+    "summaryEn": "A 51-year-old man barricaded himself in a shelter room on Heerstraße; a special forces unit with a police dog arrested him and found several Molotov cocktails. He was bitten by the dog and taken to hospital.",
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.338Z"
+  "extractedAt": "2026-11-13T18:50:50.079Z"
 }

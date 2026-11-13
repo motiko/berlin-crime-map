@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Königin-Elisabeth-Straße",
     "placeName": "Westend",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A 92-year-old driver hit a 13-year-old girl crossing Spandauer Damm in Westend and ran over her, causing a leg fracture. The driver was also treated at hospital and released.",
+    "summaryEn": "An elderly driver hit a 13-year-old girl crossing Spandauer Damm in Westend, and the car ran over her. The girl suffered a leg fracture and the 92-year-old driver was treated and released.",
     "injured": 2,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.012Z"
+  "extractedAt": "2026-11-13T18:49:04.383Z"
 }

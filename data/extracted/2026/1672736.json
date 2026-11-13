@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Gemeinschaftsunterkunft",
     "district": "Spandau",
-    "summaryEn": "A 32-year-old suspect was arrested in a shared accommodation in Spandau over a knife attack on a 15-year-old resident during the night of 18 to 19 May. The teenager suffered a stab wound to the back and was operated on; he was not in mortal danger.",
+    "summaryEn": "A 32-year-old suspect was arrested in a shared accommodation in Spandau over a knife attack on a 15-year-old resident during the night of 18 to 19 May. The victim was stabbed in the back, underwent emergency surgery and is not in mortal danger.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.677Z"
+  "extractedAt": "2026-11-13T18:49:04.115Z"
 }

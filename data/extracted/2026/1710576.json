@@ -6,16 +6,16 @@
   "location": "Pankow",
   "extraction": {
     "category": "political",
-    "incidentDate": "2026-09-03",
-    "street": "Romain-Rolland-Straße",
-    "houseNumberOrCrossing": null,
-    "placeName": "Heinersdorf",
-    "district": "Pankow",
-    "summaryEn": "Eggs were thrown at a party information stand in Heinersdorf around 17:20. A 74-year-old man standing nearby was hit on the leg and was not physically injured; the State Security unit is investigating.",
-    "injured": 0,
     "dead": 0,
+    "district": "Pankow",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-09-03",
+    "injured": 0,
+    "placeName": "Heinersdorf",
+    "street": "Romain-Rolland-Straße",
+    "summaryEn": "A 23-year-old man threw raw eggs at a party's information stand in Heinersdorf, hitting a 74-year-old bystander on the leg without injuring him. The state security unit (Staatsschutz) has taken over the investigation.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.684Z"
+  "extractedAt": "2026-11-13T18:49:04.266Z"
 }

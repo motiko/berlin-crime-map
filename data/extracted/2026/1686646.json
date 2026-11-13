@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Gemeinschaftsunterkunft Storkower Straße",
     "district": "Pankow",
-    "summaryEn": "A 16-year-old girl reported missing after leaving a shared accommodation on 24 June 2026 has returned safely to her family. The police have closed the search.",
+    "summaryEn": "A 16-year-old girl who had left a shelter in Pankow on 24 June 2026 has been found safe and is back with her family. The police had earlier appealed for public help in the search.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.775Z"
+  "extractedAt": "2026-11-13T18:49:04.242Z"
 }

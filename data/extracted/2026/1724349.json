@@ -7,15 +7,15 @@
   "extraction": {
     "category": "other",
     "incidentDate": "2026-10-13",
-    "street": null,
-    "houseNumberOrCrossing": null,
-    "placeName": null,
-    "district": null,
-    "summaryEn": "Berlin police announce the 3rd Senior Safety Day on 13 October 2026, with crime and traffic prevention events at several locations across the city. Events include a market stand in Spandau, a Biesdorf-Center event in Marzahn and a truck-based turning-safety session in Friedrichshain.",
-    "injured": null,
-    "dead": null,
+    "street": "Breite Straße",
+    "houseNumberOrCrossing": "37",
+    "placeName": "Wochenmarkt Spandau",
+    "district": "Spandau",
+    "summaryEn": "Police announce the 3rd Senior Safety Day on 13 October 2026 with prevention events across Berlin, including reaction and eye tests, crime and traffic safety advice. The events are held at several locations.",
+    "injured": 0,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.917Z"
+  "extractedAt": "2026-11-13T18:49:04.192Z"
 }

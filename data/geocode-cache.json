@@ -68,6 +68,7 @@
     "lat": 52.5105,
     "lng": 13.50683
   },
+  "Alt-Hohenschönhausen, Charlottenburg-Wilmersdorf, Berlin": null,
   "Alt-Mariendorf, Tempelhof-Schöneberg, Berlin": {
     "lat": 52.43968,
     "lng": 13.38751
@@ -92,11 +93,13 @@
     "lat": 52.54333,
     "lng": 13.59144
   },
+  "Alte Münze, Pankow, Berlin": null,
   "Altenhofer Straße, Lichtenberg, Berlin": {
     "lat": 52.53441,
     "lng": 13.4828
   },
   "Altglietzen (Bad Freienwalde), Berlin": null,
+  "Altglietzen (Bad Freienwalde), Marzahn-Hellersdorf, Berlin": null,
   "Altstädter Ring, Spandau, Berlin": {
     "lat": 52.53577,
     "lng": 13.20014
@@ -168,6 +171,10 @@
   "Anita-Berber-Park, Neukölln, Berlin": {
     "lat": 52.47191,
     "lng": 13.42451
+  },
+  "Anna-Seghers-Schule, Adlershof, Treptow-Köpenick, Berlin": {
+    "lat": 52.43485,
+    "lng": 13.54928
   },
   "Anna-Seghers-Schule, Treptow-Köpenick, Berlin": {
     "lat": 52.43485,
@@ -324,6 +331,14 @@
     "lat": 52.53441,
     "lng": 13.32939
   },
+  "Biesdorf, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.51099,
+    "lng": 13.55501
+  },
+  "Bismarckallee, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.48735,
+    "lng": 13.27723
+  },
   "Bismarckstraße, Charlottenburg-Wilmersdorf, Berlin": {
     "lat": 52.51151,
     "lng": 13.30524
@@ -362,6 +377,10 @@
     "lng": 13.41766
   },
   "Böckhstraße, Neukölln, Berlin": null,
+  "Bocksfeldstraße, Spandau, Berlin": {
+    "lat": 52.51236,
+    "lng": 13.19461
+  },
   "Böhlener Straße, Marzahn-Hellersdorf, Berlin": {
     "lat": 52.53865,
     "lng": 13.6338
@@ -398,6 +417,10 @@
     "lat": 52.49339,
     "lng": 13.31019
   },
+  "Breite Straße 37, Spandau, Berlin": {
+    "lat": 52.53834,
+    "lng": 13.20722
+  },
   "Breite Straße, Pankow, Berlin": {
     "lat": 52.56925,
     "lng": 13.40233
@@ -414,6 +437,7 @@
     "lat": 52.4614,
     "lng": 13.43489
   },
+  "Britzer Damm, Tempelhof-Schöneberg, Berlin": null,
   "Britzer Straße, Tempelhof-Schöneberg, Berlin": {
     "lat": 52.44012,
     "lng": 13.39535
@@ -488,6 +512,10 @@
   "Buschsperlingweg, Pankow, Berlin": {
     "lat": 52.59085,
     "lng": 13.43704
+  },
+  "Café, Neukölln, Berlin": {
+    "lat": 52.47166,
+    "lng": 13.44151
   },
   "Cecilienplatz, Marzahn-Hellersdorf, Berlin": {
     "lat": 52.5214,
@@ -598,6 +626,7 @@
     "lng": 13.55919
   },
   "Dream Apartments hotel, Neukölln, Berlin": null,
+  "Dream Apartments, Neukölln, Berlin": null,
   "Dreekamp 16, Berlin": null,
   "Dreekamp, Berlin": null,
   "Drei-Zinnen-Weg, Steglitz-Zehlendorf, Berlin": {
@@ -704,6 +733,10 @@
     "lat": 52.57188,
     "lng": 13.36453
   },
+  "Emser Straße, Neukölln, Berlin": {
+    "lat": 52.46749,
+    "lng": 13.42213
+  },
   "Eresburgstraße, Tempelhof-Schöneberg, Berlin": {
     "lat": 52.46701,
     "lng": 13.3753
@@ -753,6 +786,10 @@
     "lat": 52.5066,
     "lng": 13.328
   },
+  "Fennpfuhl, Neukölln, Berlin": {
+    "lat": 52.45079,
+    "lng": 13.44421
+  },
   "Feurigstraße, Tempelhof-Schöneberg, Berlin": {
     "lat": 52.48125,
     "lng": 13.34997
@@ -798,6 +835,7 @@
     "lat": 52.53503,
     "lng": 13.62358
   },
+  "Foyer des Polizeipräsidiums, Berlin": null,
   "Frankfurter Allee, Friedrichshain-Kreuzberg, Berlin": {
     "lat": 52.51362,
     "lng": 13.47544
@@ -909,6 +947,7 @@
     "lat": 52.39121,
     "lng": 13.53662
   },
+  "Gedenkort für Polen 1939 – 1945, Platz der Republik, Mitte, Berlin": null,
   "Gehrenseestraße, Lichtenberg, Berlin": {
     "lat": 52.5565,
     "lng": 13.52476
@@ -941,6 +980,10 @@
   "Germersheimer Weg, Spandau, Berlin": {
     "lat": 52.54683,
     "lng": 13.18642
+  },
+  "Gervinusstraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.50408,
+    "lng": 13.30433
   },
   "Gitschiner Straße, Friedrichshain-Kreuzberg, Berlin": {
     "lat": 52.49837,
@@ -1110,6 +1153,7 @@
     "lat": 52.51326,
     "lng": 13.50237
   },
+  "Gülzower Straße, Lichtenberg, Berlin": null,
   "Gülzower Straße, Marzahn-Hellersdorf, Berlin": {
     "lat": 52.51546,
     "lng": 13.58462
@@ -1134,6 +1178,10 @@
     "lat": 52.5423,
     "lng": 13.38301
   },
+  "Gutenbergstraße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.51377,
+    "lng": 13.58533
+  },
   "Gutschmidtstraße, Neukölln, Berlin": {
     "lat": 52.43691,
     "lng": 13.44531
@@ -1142,9 +1190,17 @@
     "lat": 52.51656,
     "lng": 13.50028
   },
+  "Hakenfelde, Spandau, Berlin": {
+    "lat": 52.56099,
+    "lng": 13.19677
+  },
   "Hakenfelder Straße, Spandau, Berlin": {
     "lat": 52.56618,
     "lng": 13.20077
+  },
+  "Halleschen Ufer, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.49911,
+    "lng": 13.38587
   },
   "Hallesches Ufer, Friedrichshain-Kreuzberg, Berlin": {
     "lat": 52.50259,
@@ -1254,6 +1310,10 @@
     "lat": 52.53618,
     "lng": 13.60273
   },
+  "Hellwichstorp, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.53353,
+    "lng": 13.59731
+  },
   "Helmut-Kohl-Allee, Mitte, Berlin": {
     "lat": 52.50961,
     "lng": 13.35147
@@ -1265,6 +1325,10 @@
   "Herbertstraße, Tempelhof-Schöneberg, Berlin": {
     "lat": 52.48613,
     "lng": 13.35855
+  },
+  "Hermann-Ganswindt-Brücke, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.47396,
+    "lng": 13.35801
   },
   "Hermannplatz, Neukölln, Berlin": {
     "lat": 52.48629,
@@ -1356,6 +1420,10 @@
     "lat": 52.57569,
     "lng": 13.29611
   },
+  "Hotel in Berlin-Mitte, Mitte, Berlin": {
+    "lat": 52.50417,
+    "lng": 13.34244
+  },
   "Hotelzimmer, Mitte, Berlin": null,
   "Hultschiner Damm, Marzahn-Hellersdorf, Berlin": {
     "lat": 52.48698,
@@ -1385,6 +1453,7 @@
     "lat": 52.5438,
     "lng": 13.46898
   },
+  "Insel Schwanenwerder, Steglitz-Zehlendorf, Berlin": null,
   "James-Simon-Park, Mitte, Berlin": {
     "lat": 52.52182,
     "lng": 13.3994
@@ -1466,6 +1535,7 @@
     "lat": 52.47627,
     "lng": 13.43934
   },
+  "Karstadt am Hermannplatz (heute Galeria), Neukölln, Berlin": null,
   "Kaskelstraße, Lichtenberg, Berlin": {
     "lat": 52.50528,
     "lng": 13.4753
@@ -1482,6 +1552,7 @@
     "lat": 52.49038,
     "lng": 13.37675
   },
+  "Kaulsdorf, Lichtenberg, Berlin": null,
   "Kavalierstraße, Pankow, Berlin": {
     "lat": 52.5721,
     "lng": 13.41138
@@ -1654,6 +1725,7 @@
     "lat": 52.56164,
     "lng": 13.32604
   },
+  "Kynaststraße, Neukölln, Berlin": null,
   "Lahnstraße, Neukölln, Berlin": {
     "lat": 52.46794,
     "lng": 13.44404
@@ -1678,6 +1750,7 @@
     "lat": 52.41222,
     "lng": 13.52615
   },
+  "Landwehrkanal, Neukölln, Berlin": null,
   "Landwehrkanal, Treptow-Köpenick, Berlin": null,
   "Lange Brücke, Treptow-Köpenick, Berlin": {
     "lat": 52.44446,
@@ -1722,6 +1795,10 @@
   "Leipziger Straße, Mitte, Berlin": {
     "lat": 52.51077,
     "lng": 13.39565
+  },
+  "Lennéstraße, Mitte, Berlin": {
+    "lat": 52.5116,
+    "lng": 13.37435
   },
   "Lewishamstraße, Charlottenburg-Wilmersdorf, Berlin": {
     "lat": 52.5033,
@@ -1832,6 +1909,10 @@
   "Maratstraße, Marzahn-Hellersdorf, Berlin": {
     "lat": 52.51807,
     "lng": 13.54833
+  },
+  "Mariendorf, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.44008,
+    "lng": 13.39003
   },
   "Mariendorfer Damm, Tempelhof-Schöneberg, Berlin": {
     "lat": 52.44691,
@@ -2015,6 +2096,10 @@
   "Narkauer Weg, Neukölln, Berlin": {
     "lat": 52.40773,
     "lng": 13.50863
+  },
+  "Naumburger Straße, Neukölln, Berlin": {
+    "lat": 52.46543,
+    "lng": 13.44746
   },
   "Naumburgerstraße, Neukölln, Berlin": {
     "lat": 52.46543,
@@ -2238,6 +2323,10 @@
     "lat": 52.44477,
     "lng": 13.4496
   },
+  "Park am Weißensee, Pankow, Berlin": {
+    "lat": 52.55395,
+    "lng": 13.46349
+  },
   "Park Hellwichstorp, Marzahn-Hellersdorf, Berlin": {
     "lat": 52.53353,
     "lng": 13.59731
@@ -2246,6 +2335,7 @@
     "lat": 52.55604,
     "lng": 13.45051
   },
+  "Parkeingang Park am Weißensee, Pankow, Berlin": null,
   "Parkstraße, Spandau, Berlin": {
     "lat": 52.5507,
     "lng": 13.21328
@@ -2298,6 +2388,10 @@
     "lat": 52.46751,
     "lng": 13.46546
   },
+  "Plänterwald, Treptow-Köpenick, Berlin": {
+    "lat": 52.47954,
+    "lng": 13.47881
+  },
   "Planufer, Friedrichshain-Kreuzberg, Berlin": {
     "lat": 52.49515,
     "lng": 13.41617
@@ -2322,9 +2416,17 @@
     "lat": 52.4641,
     "lng": 13.29575
   },
+  "Polizeipräsidium Platz der Luftbrücke, Berlin": {
+    "lat": 52.48295,
+    "lng": 13.387
+  },
   "Polizeipräsidium, Berlin": {
     "lat": 52.49607,
     "lng": 13.48618
+  },
+  "Potsdamer Chaussee, Spandau, Berlin": {
+    "lat": 52.50673,
+    "lng": 13.16543
   },
   "Potsdamer Chaussee, Steglitz-Zehlendorf, Berlin": {
     "lat": 52.42766,
@@ -2441,6 +2543,10 @@
     "lat": 52.41293,
     "lng": 13.40807
   },
+  "Reichweindamm, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.53567,
+    "lng": 13.30034
+  },
   "Reinickendorfer Straße, Mitte, Berlin": {
     "lat": 52.54004,
     "lng": 13.37029
@@ -2476,6 +2582,10 @@
   "Rheinstraße, Tempelhof-Schöneberg, Berlin": {
     "lat": 52.46573,
     "lng": 13.32935
+  },
+  "Rhin, Berlin": {
+    "lat": 52.54697,
+    "lng": 13.50893
   },
   "Rhinstraße, Lichtenberg, Berlin": {
     "lat": 52.54627,
@@ -2516,6 +2626,7 @@
     "lat": 52.58006,
     "lng": 13.34608
   },
+  "Rollbahn, Tempelhof-Schöneberg, Berlin": null,
   "Romain-Rolland-Straße, Pankow, Berlin": {
     "lat": 52.57515,
     "lng": 13.4368
@@ -2570,6 +2681,7 @@
   },
   "S- und U-Bahnhof Alexanderplatz, Mitte, Berlin": null,
   "S-Bahnhof Alexanderplatz, Mitte, Berlin": null,
+  "S-Bahnhof Bornholmer Straße, Pankow, Berlin": null,
   "S-Bahnhof Gesundbrunnen, Mitte, Berlin": {
     "lat": 52.54917,
     "lng": 13.39008
@@ -2655,6 +2767,10 @@
     "lat": 52.50023,
     "lng": 13.4436
   },
+  "Schlesisches Tor, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50083,
+    "lng": 13.44146
+  },
   "Schlitzer Straße, Reinickendorf, Berlin": {
     "lat": 52.60241,
     "lng": 13.34175
@@ -2662,6 +2778,10 @@
   "Schlossplatz, Mitte, Berlin": {
     "lat": 52.51607,
     "lng": 13.40032
+  },
+  "Schloßplatz, Mitte, Berlin": {
+    "lat": 52.5161,
+    "lng": 13.40155
   },
   "Schloßstraße, Steglitz-Zehlendorf, Berlin": {
     "lat": 52.46148,
@@ -2694,6 +2814,10 @@
   "Schönhauser Allee, Pankow, Berlin": {
     "lat": 52.54924,
     "lng": 13.4156
+  },
+  "Schönhauser Straße, Pankow, Berlin": {
+    "lat": 52.59271,
+    "lng": 13.42177
   },
   "Schönholzer Straße, Mitte, Berlin": {
     "lat": 52.53763,
@@ -2861,6 +2985,8 @@
     "lng": 13.59374
   },
   "Stadtautobahn (BAB 100), Tempelhof-Schöneberg, Berlin": null,
+  "Stadtautobahn BAB 100, Tempelhof-Schöneberg, Berlin": null,
+  "Stadtautobahn, Tempelhof-Schöneberg, Berlin": null,
   "Stadtrandstraße, Spandau, Berlin": {
     "lat": 52.56195,
     "lng": 13.15822
@@ -2910,6 +3036,7 @@
     "lat": 52.51278,
     "lng": 13.32347
   },
+  "Straßenbahn Warschauer Brücke, Friedrichshain-Kreuzberg, Berlin": null,
   "Straßenbahn, Marzahn-Hellersdorf, Berlin": {
     "lat": 52.54699,
     "lng": 13.57998
@@ -2958,6 +3085,7 @@
     "lat": 52.53589,
     "lng": 13.35013
   },
+  "TARGOBANK-Filiale am Wittenbergplatz, Tempelhof-Schöneberg, Berlin": null,
   "Tauentzienstraße, Tempelhof-Schöneberg, Berlin": {
     "lat": 52.50338,
     "lng": 13.33865
@@ -2981,6 +3109,10 @@
   "Tempelhofer Feld, Tempelhof-Schöneberg, Berlin": {
     "lat": 52.47442,
     "lng": 13.4026
+  },
+  "Tempelhofer Ufer, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.49849,
+    "lng": 13.38519
   },
   "Tempelhofer Weg, Tempelhof-Schöneberg, Berlin": {
     "lat": 52.47833,
@@ -3059,18 +3191,31 @@
     "lat": 52.52615,
     "lng": 13.3413
   },
+  "U-Bahn between Louis-Lewin-Straße and Hönow stations, Marzahn-Hellersdorf, Berlin": null,
+  "U-Bahn Linie U3 Schlesisches Tor, Friedrichshain-Kreuzberg, Berlin": null,
   "U-Bahn Linie U9, Charlottenburg-Wilmersdorf, Berlin": null,
+  "U-Bahn-Abstellgleis zwischen U-Bahnhof Kochstraße und U-Bahnhof Hallesches Tor, Friedrichshain-Kreuzberg, Berlin": null,
   "U-Bahn-Linie U3, Friedrichshain-Kreuzberg, Berlin": null,
   "U-Bahnhof Alexanderplatz, Mitte, Berlin": {
     "lat": 52.52158,
     "lng": 13.41391
   },
   "U-Bahnhof Alt-Mariendorf, Tempelhof-Schöneberg, Berlin": null,
+  "U-Bahnhof Berliner Straße / U-Bahnhof Eisenacher Straße, Charlottenburg-Wilmersdorf, Berlin": null,
   "U-Bahnhof Berliner Straße, Charlottenburg-Wilmersdorf, Berlin": null,
   "U-Bahnhof Deutsche Oper, Charlottenburg-Wilmersdorf, Berlin": null,
   "U-Bahnhof Frankfurter Tor, Friedrichshain-Kreuzberg, Berlin": null,
   "U-Bahnhof Gleisdreieck, Friedrichshain-Kreuzberg, Berlin": null,
+  "U-Bahnhof Gneisenaustraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.49129,
+    "lng": 13.39582
+  },
   "U-Bahnhof Grenzallee, Neukölln, Berlin": null,
+  "U-Bahnhof Hellersdorf, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.52862,
+    "lng": 13.59064
+  },
+  "U-Bahnhof Hermannplatz, Neukölln, Berlin": null,
   "U-Bahnhof Kaulsdorf, Marzahn-Hellersdorf, Berlin": {
     "lat": 52.52862,
     "lng": 13.59064
@@ -3079,12 +3224,17 @@
   "U-Bahnhof Osloer Straße, Mitte, Berlin": null,
   "U-Bahnhof Rathaus Spandau, Spandau, Berlin": null,
   "U-Bahnhof Rosa-Luxemburg-Platz, Mitte, Berlin": null,
+  "U-Bahnhof Rudow, Neukölln, Berlin": {
+    "lat": 52.4154,
+    "lng": 13.49636
+  },
   "U-Bahnhof Schillingstraße, Mitte, Berlin": null,
   "U-Bahnhof Schlesisches Tor, Friedrichshain-Kreuzberg, Berlin": {
     "lat": 52.50085,
     "lng": 13.44153
   },
   "U-Bahnhof Wittenbergplatz, Tempelhof-Schöneberg, Berlin": null,
+  "U-Bahnstation Rathaus Spandau, Spandau, Berlin": null,
   "Uber Platz, Friedrichshain-Kreuzberg, Berlin": {
     "lat": 52.50555,
     "lng": 13.44348
@@ -3102,6 +3252,7 @@
     "lat": 52.45374,
     "lng": 13.38447
   },
+  "Umzäunung des Görlitzer Parks, Friedrichshain-Kreuzberg, Berlin": null,
   "Unionstraße, Mitte, Berlin": {
     "lat": 52.53307,
     "lng": 13.3366
@@ -3118,6 +3269,10 @@
     "lat": 52.48952,
     "lng": 13.4211
   },
+  "Uthmannstraße, Neukölln, Berlin": {
+    "lat": 52.47562,
+    "lng": 13.44218
+  },
   "Viktoria-Luise-Platz, Tempelhof-Schöneberg, Berlin": {
     "lat": 52.49618,
     "lng": 13.34319
@@ -3126,6 +3281,7 @@
     "lat": 52.56548,
     "lng": 13.52416
   },
+  "Vitanas Senioren Centrum, Berlin-Frohnau, Reinickendorf, Berlin": null,
   "Vitanas Senioren Centrum, Frohnau, Reinickendorf, Berlin": null,
   "Volkspark Friedrichshain, Friedrichshain-Kreuzberg, Berlin": {
     "lat": 52.52716,
@@ -3174,6 +3330,10 @@
   "Waltersdorfer Chaussee, Neukölln, Berlin": {
     "lat": 52.40803,
     "lng": 13.50704
+  },
+  "Waltroper Platz, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.41936,
+    "lng": 13.30862
   },
   "Wanzlikpfad, Neukölln, Berlin": {
     "lat": 52.47614,
@@ -3273,9 +3433,17 @@
     "lat": 52.52023,
     "lng": 13.37049
   },
+  "Wilmersdorf, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.48712,
+    "lng": 13.32033
+  },
   "Wilmersdorfer Straße, Charlottenburg-Wilmersdorf, Berlin": {
     "lat": 52.50667,
     "lng": 13.30664
+  },
+  "Wiltbergstraße, Pankow, Berlin": {
+    "lat": 52.6351,
+    "lng": 13.49591
   },
   "Winckelmannstraße, Treptow-Köpenick, Berlin": {
     "lat": 52.44145,

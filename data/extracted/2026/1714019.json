@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Eitelstraße",
     "placeName": "Biesdorf",
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A truck pulled away from a junction in Biesdorf and collided with an e-scooter rider crossing the road. The 42-year-old rider was injured and taken to hospital for inpatient treatment.",
+    "summaryEn": "A truck pulled away from a junction and collided with a 42-year-old e-scooter rider crossing the road. The rider was taken to hospital for inpatient treatment.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.052Z"
+  "extractedAt": "2026-11-13T18:49:04.471Z"
 }

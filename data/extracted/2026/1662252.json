@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "Two men posing as police officers searched two men near a garden allotment in Marzahn. One of them pointed a handgun at the 21-year-old and took his wallet containing cash before fleeing.",
+    "summaryEn": "Two men posing as police officers searched a 20-year-old and a 21-year-old near a garden plot in Marzahn, and one of them pointed a handgun at the 21-year-old and took his wallet. The pair then drove off.",
     "injured": 0,
     "dead": 0,
-    "weaponType": "handgun"
+    "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.834Z"
+  "extractedAt": "2026-11-13T18:49:04.359Z"
 }

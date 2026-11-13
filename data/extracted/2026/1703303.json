@@ -8,14 +8,14 @@
     "category": "shooting",
     "incidentDate": "2026-08-13",
     "street": "Pradelstraße",
-    "houseNumberOrCrossing": "Wollankstraße",
+    "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "Several shots struck the window of a venue in Pankow in the early hours of Thursday. Police found cartridge casings and damage to the window at Wollankstraße.",
+    "summaryEn": "Several shots struck the window of a venue in Wollankstraße in the night from Wednesday to Thursday. Witnesses heard noises in Pradelstraße and officers found cartridge casings and damage to the window.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.038Z"
+  "extractedAt": "2026-11-13T18:49:04.318Z"
 }

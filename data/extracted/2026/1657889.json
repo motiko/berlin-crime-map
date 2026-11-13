@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Baumeisterstraße",
     "placeName": "Unterführung",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Four men aged 22 to 30 were arrested after spray-painting walls at an underpass in Schöneberg during the night. Spray cans and mobile phones were seized, and the State Criminal Police Office took over the investigation.",
+    "summaryEn": "Four men aged 22 to 30 were arrested after spraying walls in an underpass in Schöneberg during the night. Spray cans and mobile phones were seized, and the State Criminal Police Office took over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.250Z"
+  "extractedAt": "2026-11-13T18:42:21.608Z"
 }

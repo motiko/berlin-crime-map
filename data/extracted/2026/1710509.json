@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Kalvinistenweg",
     "placeName": "Französisch Buchholz",
     "district": "Pankow",
-    "summaryEn": "A 19-year-old pedestrian was seriously injured after being run over by a truck driven by a 61-year-old woman on Blankenfelder Straße. The road was closed in both directions until about 11:30.",
+    "summaryEn": "A 19-year-old pedestrian was seriously injured after being hit and run over by a truck on Blankenfelder Straße in Französisch Buchholz. The road was closed in both directions until about 11:30.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.905Z"
+  "extractedAt": "2026-11-13T18:49:04.196Z"
 }

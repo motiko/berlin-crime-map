@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Two masked suspects forced their way into a 73-year-old man's flat in Mariendorf, demanded valuables and searched the apartment before fleeing. They were reportedly armed with firearms; the man was not hurt.",
+    "summaryEn": "Two masked men forced their way into a 73-year-old man's apartment, demanded valuables and searched the flat while armed with what were reportedly firearms. The victim was not hurt.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.042Z"
+  "extractedAt": "2026-11-13T18:49:04.170Z"
 }

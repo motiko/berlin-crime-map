@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Neuendorfer Straße",
     "placeName": "Hakenfelde",
     "district": "Spandau",
-    "summaryEn": "Plainclothes officers searched a flat in Hakenfelde on suspicion of drug trafficking after a car check. The search found medicines, a loaded handgun later identified as a police service weapon stolen 15 years ago, and the suspect was released after identification procedures.",
+    "summaryEn": "Police searched a flat in Hakenfelde on suspicion of medicine trafficking, finding further suspect substances and a loaded handgun that turned out to be a police service weapon stolen 15 years ago in a burglary. The 26-year-old suspect was taken into custody for identification treatment and then released.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.331Z"
+  "extractedAt": "2026-11-13T18:50:48.326Z"
 }

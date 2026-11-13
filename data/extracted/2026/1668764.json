@@ -6,16 +6,16 @@
   "location": "Neukölln",
   "extraction": {
     "category": "shooting",
-    "incidentDate": "2023-04-23",
-    "street": null,
+    "incidentDate": "2026-04-23",
+    "street": "Anita-Berber-Park",
     "houseNumberOrCrossing": null,
     "placeName": "Anita-Berber-Park",
     "district": "Neukölln",
-    "summaryEn": "A 20-year-old suspect was arrested ten days after shots were fired at a 27-year-old and a 29-year-old in Anita-Berber-Park on 23 April 2026. He was also allegedly involved in another shooting in the park on 2 May 2026 and in a later theft of a police officer's phone.",
+    "summaryEn": "Police and prosecutors report the arrest of a 20-year-old suspected of shooting two men, aged 27 and 29, in Anita-Berber-Park on 23 April 2026. He was taken into custody on 4 May 2026 and is in pre-trial detention; a second shooting in the park on 2 May is also being examined.",
     "injured": 2,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.843Z"
+  "extractedAt": "2026-11-13T18:49:04.448Z"
 }

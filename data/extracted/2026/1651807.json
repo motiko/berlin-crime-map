@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Erkstraße",
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "A cyclist crossing Sonnenallee collided with a motorcyclist who had right of way, and both fell. The cyclist was hospitalised and the motorcyclist suffered minor abrasions.",
+    "summaryEn": "A cyclist crossing Sonnenallee collided with a motorcyclist in the evening, and both fell to the ground. The cyclist was taken to hospital and admitted; the motorcyclist had minor abrasions.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.288Z"
+  "extractedAt": "2026-11-13T18:42:21.523Z"
 }

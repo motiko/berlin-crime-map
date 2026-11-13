@@ -5,17 +5,17 @@
   "title": "Mann kündigte Amoktat an – mehrere Waffen beschlagnahmt",
   "location": "Marzahn-Hellersdorf",
   "extraction": {
-    "category": "assault",
+    "category": "raid",
     "incidentDate": "2026-09-24",
     "street": "Max-Herrmann-Straße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A 47-year-old man announced an \"amok\" attack at a bar in Marzahn and returned with a rifle after an argument. Police later searched his flat, seizing replica weapons, a revolver and accessories, and he faces charges for threatening crimes and weapons law violations.",
+    "summaryEn": "A 47-year-old man announced an \"amok\" attack at a bar in Marzahn and returned with a rifle. Police searched his flat afterwards and seized several replica guns and a revolver, but no live ammunition.",
     "injured": 0,
     "dead": 0,
-    "weaponType": "rifle"
+    "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.793Z"
+  "extractedAt": "2026-11-13T18:50:26.152Z"
 }

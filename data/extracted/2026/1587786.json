@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "S-Bahnhof Alexanderplatz",
     "district": "Mitte",
-    "summaryEn": "An unknown man entered an exchange office at S-Bahnhof Alexanderplatz, pressed an employee against a wall, and tried to steal banknotes from a drawer, strangling her during a struggle. The suspect has since been identified, and the investigation continues.",
+    "summaryEn": "A man attacked an employee at a currency exchange office in S-Bahnhof Alexanderplatz, pinning and choking her while trying to steal cash from a drawer. He fled without the money; the suspect has since been identified.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.753Z"
+  "extractedAt": "2026-11-13T18:49:04.250Z"
 }

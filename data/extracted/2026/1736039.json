@@ -6,16 +6,16 @@
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
     "category": "traffic",
-    "incidentDate": "2026-11-05",
+    "incidentDate": "2026-11-06",
     "street": "Richard-Ermisch-Straße",
     "houseNumberOrCrossing": "Eldenaer Straße",
-    "placeName": null,
+    "placeName": "Friedrichshain",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "After a collision at a turn in Friedrichshain around 1 a.m., the driver of a VW fled the scene while the 35-year-old Opel driver was hospitalized with injuries. Investigations were taken over by a traffic offences unit.",
+    "summaryEn": "Overnight a collision between an Opel and a VW at a junction in Friedrichshain injured the 35-year-old Opel driver, who was taken to hospital. The VW driver fled the scene.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.420Z"
+  "extractedAt": "2026-11-13T18:49:04.252Z"
 }

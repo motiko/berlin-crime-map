@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "3",
     "placeName": "Waldgabelung, Waidmannslust",
     "district": "Reinickendorf",
-    "summaryEn": "Investigators are treating as a homicide the April 2026 abduction of a man in Waidmannslust, who was taken in a white van; a second suspect, aged 32, was remanded in custody on 29 May 2026. A male body found in a forest near Potsdam on 22 May 2026 is being examined for identity.",
+    "summaryEn": "A second suspect, aged 32, was remanded in custody over the abduction of a man in Waidmannslust on 23 April 2026. The police now investigate a homicide after a male body was found in a wooded area near Potsdam on 22 May.",
     "injured": 0,
-    "dead": null,
-    "weaponType": "vehicle"
+    "dead": 1,
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.995Z"
+  "extractedAt": "2026-11-13T18:50:38.236Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Müggelspree",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A 19-year-old man allegedly stole a motorboat from a mooring in Köpenick and fled across the Müggelspree before being arrested near Friedrichshagen. He later resisted and insulted police officers at the station.",
+    "summaryEn": "A 19-year-old took a moored sports boat in Köpenick and fled across the Müggelspree, where he was later arrested. He was then held overnight after resisting police and insulting officers.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.802Z"
+  "extractedAt": "2026-11-13T18:49:04.465Z"
 }

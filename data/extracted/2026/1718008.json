@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Kottbusser Tor",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Berlin police are launching a pilot project using AI-assisted video surveillance at crime-burdened locations, starting at Kottbusser Tor with a roughly four-week camera configuration phase before test operation. No incident occurred.",
+    "summaryEn": "Berlin police are launching a pilot project using AI-supported video surveillance at crime-burdened locations, starting at Kottbusser Tor with a configuration phase of about four weeks before test operation. Further sites planned include Warschauer Brücke, Alexanderplatz and Görlitzer Park/Wrangelkiez.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.933Z"
+  "extractedAt": "2026-11-13T18:49:04.237Z"
 }

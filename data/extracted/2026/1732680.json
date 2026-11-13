@@ -6,16 +6,16 @@
   "location": "Spandau",
   "extraction": {
     "category": "shooting",
-    "dead": 0,
-    "district": "Spandau",
-    "houseNumberOrCrossing": null,
     "incidentDate": "2026-10-28",
-    "injured": 0,
-    "placeName": "Staaken",
     "street": "Obstallee",
-    "summaryEn": "Bullet holes were found in a car parked on Obstallee in Staaken on the morning of 28 October. No one was hurt, and police secured the vehicle for evidence.",
+    "houseNumberOrCrossing": null,
+    "placeName": "Staaken",
+    "district": "Spandau",
+    "summaryEn": "Bullet holes were found in a car parked in Obstallee in Staaken, reported by its 22-year-old driver. Nobody was hurt, and the vehicle was secured for forensic examination.",
+    "injured": 0,
+    "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.693Z"
+  "extractedAt": "2026-11-13T18:49:04.189Z"
 }

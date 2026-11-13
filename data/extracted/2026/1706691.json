@@ -6,16 +6,16 @@
   "location": "Charlottenburg-Wilmersdorf",
   "extraction": {
     "category": "traffic",
-    "dead": 0,
-    "district": "Charlottenburg-Wilmersdorf",
-    "houseNumberOrCrossing": "Landhausstraße",
     "incidentDate": "2026-08-24",
-    "injured": 1,
-    "placeName": null,
     "street": "Berliner Straße",
-    "summaryEn": "A car turning left collided with a motorcyclist travelling at high speed on Berliner Straße in Wilmersdorf on the evening of 24 August. The motorcyclist, 24, was injured and taken to hospital; the motorcycle was reported stolen and seized.",
-    "weaponType": "vehicle"
+    "houseNumberOrCrossing": "Landhausstraße",
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A car turning left collided with a motorcyclist in Wilmersdorf who was allegedly speeding. The 24-year-old motorcyclist was injured and had no driving licence; the motorcycle was reported stolen and seized.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.730Z"
+  "extractedAt": "2026-11-13T18:49:04.346Z"
 }

@@ -8,14 +8,14 @@
     "category": "raid",
     "incidentDate": "2026-02-18",
     "street": "Wollankstraße",
-    "houseNumberOrCrossing": "Soldiner Straße",
+    "houseNumberOrCrossing": null,
     "placeName": "Gesundbrunnen",
     "district": "Mitte",
-    "summaryEn": "Police with about 160 officers searched a bar and other premises and vehicles in Gesundbrunnen against illegal firearms. Five firearms were seized and three people were arrested.",
+    "summaryEn": "Police with about 160 officers searched a bar and other premises and vehicles in Gesundbrunnen for illegal firearms. Five real firearms were seized and three people were arrested.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.341Z"
+  "extractedAt": "2026-11-13T18:50:46.876Z"
 }

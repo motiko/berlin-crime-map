@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Spandau",
-    "summaryEn": "Three unknown individuals set fire to wooden chairs and two e-scooters in front of a supermarket entrance in the night. One attacker pointed a knife at a 15-year-old-age witness group member after being confronted; nobody was injured.",
+    "summaryEn": "Three unknown persons set wooden chairs and two e-scooters on fire in front of a supermarket entrance in Spandau at night. When two teenagers confronted them, one of the suspects threatened an older boy with a knife and the group fled.",
     "injured": 0,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.966Z"
+  "extractedAt": "2026-11-13T18:49:04.180Z"
 }

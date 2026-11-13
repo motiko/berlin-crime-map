@@ -6,16 +6,16 @@
   "location": "Charlottenburg-Wilmersdorf",
   "extraction": {
     "category": "shooting",
-    "incidentDate": "2026-02-09",
-    "street": "Konstanzer Straße",
-    "houseNumberOrCrossing": null,
-    "placeName": null,
-    "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Bullet holes were found in the door frame and skylight of a bar on Konstanzer Straße; the shots reportedly came during the previous night. No one was inside or hurt, and the LKA has taken over the investigation.",
-    "injured": 0,
     "dead": 0,
+    "district": "Charlottenburg-Wilmersdorf",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-02-09",
+    "injured": 0,
+    "placeName": null,
+    "street": "Konstanzer Straße",
+    "summaryEn": "Bullet holes were found in the door frame and transom of a bar in Wilmersdorf; the shots were reportedly fired at night and nobody was inside or hurt. The LKA specialist unit has taken over the investigation with BAO Ferrum.",
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.254Z"
+  "extractedAt": "2026-11-13T18:42:21.552Z"
 }

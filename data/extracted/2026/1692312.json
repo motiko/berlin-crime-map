@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Grünberger Straße",
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A truck tractor collided with a 58-year-old cyclist on Warschauer Straße, and a wheel ran over her arm. She was taken to hospital with a suspected arm fracture and underwent emergency surgery.",
+    "summaryEn": "A 58-year-old cyclist was run over by the front wheel of a truck tractor unit on Warschauer Straße and seriously injured in an arm. She was taken to hospital and underwent emergency surgery.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.772Z"
+  "extractedAt": "2026-11-13T18:49:04.248Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Waldowstraße",
     "placeName": null,
     "district": "Reinickendorf",
-    "summaryEn": "Several election posters of different parties were damaged across Reinickendorf and Tempelhof-Schöneberg, including two large posters sprayed with paint on the Lindauer Allee median. The police Staatsschutz is investigating.",
+    "summaryEn": "Several election posters of different parties were damaged in Reinickendorf and Schöneberg overnight. The Staatsschutz (state security unit) is investigating all cases.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.835Z"
+  "extractedAt": "2026-11-13T18:49:04.387Z"
 }

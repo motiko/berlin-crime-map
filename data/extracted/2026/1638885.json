@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 61-year-old woman reported missing since January 17, 2026 has been found safe. She has been back at her care facility since Saturday.",
+    "summaryEn": "A 61-year-old woman who had been missing since 17 January 2026 has been found safe and is back in her care facility. The police had appealed for public help in the search.",
     "injured": 0,
-    "dead": 0,
+    "dead": null,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.298Z"
+  "extractedAt": "2026-11-13T18:42:21.605Z"
 }

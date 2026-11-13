@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Seelingstraße",
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "An 81-year-old woman drove her car off the road and hit two parked vehicles on Sophie-Charlotten-Straße, overturning onto its roof. She was rescued and taken to hospital.",
+    "summaryEn": "An 81-year-old woman lost control of her car, hit two parked vehicles and the car overturned onto its roof in Charlottenburg. She was rescued and taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.269Z"
+  "extractedAt": "2026-11-13T18:42:21.660Z"
 }

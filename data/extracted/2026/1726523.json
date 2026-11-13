@@ -9,13 +9,13 @@
     "incidentDate": "2026-10-12",
     "street": "Katzbachstraße",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Spätkauf",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Witnesses heard a shop window break at a convenience store and saw a man leave; police arrested a 39-year-old suspect nearby with allegedly stolen goods.",
+    "summaryEn": "A 39-year-old suspected burglar was arrested after breaking a shop window of a convenience store and leaving with stolen goods. Police found stolen items on him during a search.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.028Z"
+  "extractedAt": "2026-11-13T18:49:04.405Z"
 }

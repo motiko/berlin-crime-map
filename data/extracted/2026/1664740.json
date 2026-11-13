@@ -8,14 +8,14 @@
     "category": "traffic",
     "incidentDate": "2026-04-25",
     "street": "Hauptstraße",
-    "houseNumberOrCrossing": "Markgrafendamm",
+    "houseNumberOrCrossing": null,
     "placeName": "Rummelsburg",
     "district": "Lichtenberg",
-    "summaryEn": "A 76-year-old cyclist suffered a medical emergency and fell on the pavement in Rummelsburg. Bystanders gave first aid and CPR, but he died in hospital.",
+    "summaryEn": "A 76-year-old cyclist suffered a medical emergency, fell and later died in hospital. Witnesses gave first aid and attempted resuscitation.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.895Z"
+  "extractedAt": "2026-11-13T18:49:04.454Z"
 }

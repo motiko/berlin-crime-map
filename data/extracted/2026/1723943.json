@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "A drunk man hit his neighbour with a key ring in a residential building in Gesundbrunnen, then resisted arrest and was subdued with a stun device (DEIG). Police officers were not injured.",
+    "summaryEn": "A 44-year-old man struck his 40-year-old neighbour with a key ring in a residential building, then resisted arrest and was hit with a conducted energy device (DEIG) by police. Officers were unhurt; the couple were taken for blood tests and released.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "key ring"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.802Z"
+  "extractedAt": "2026-11-13T18:49:04.220Z"
 }

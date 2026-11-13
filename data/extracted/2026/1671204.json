@@ -9,13 +9,13 @@
     "incidentDate": "2026-05-13",
     "street": "Groß-Ziethener Chaussee",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Rudow",
     "district": "Neukölln",
-    "summaryEn": "After being dismissed from his job, a 20-year-old man threatened a woman, stole a canister of liquid soap and caused disturbances in Rudow, then kicked a police officer during his arrest. The officer was injured and the man was taken into preventive custody.",
+    "summaryEn": "A 20-year-old man was arrested in Rudow after a series of offences, including threats, theft and kicking a police officer during the arrest. The officer was injured and had to end his shift.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.701Z"
+  "extractedAt": "2026-11-13T18:49:04.322Z"
 }

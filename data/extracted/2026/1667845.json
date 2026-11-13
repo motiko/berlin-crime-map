@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Klausenerplatz",
     "placeName": "Klausenerplatz",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Two unknown attackers sprayed a group of five men with pepper spray near Klausenerplatz around 1 a.m., then stabbed one 27-year-old man. The attackers fled by car; the injured man was taken to hospital, and the other two suffered eye irritation.",
+    "summaryEn": "Two unknown attackers sprayed a group of five men with tear gas near Klausenerplatz and stabbed one 27-year-old, then fled by car. One man was hospitalised, two others had eye irritation.",
     "injured": 3,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.744Z"
+  "extractedAt": "2026-11-13T18:49:04.306Z"
 }

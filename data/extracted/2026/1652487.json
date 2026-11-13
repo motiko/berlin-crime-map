@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Jonny-K.-Aktivpark",
     "district": "Spandau",
-    "summaryEn": "After a dispute between children and a group of youths in a park, a 13-year-old was stabbed in the buttock with a knife. The boy was taken to hospital and is not in danger of his life.",
-    "injured": 3,
+    "summaryEn": "During a dispute between children and a group of about 20 youths, a 13-year-old was stabbed in the buttock with a knife. The victim was taken to hospital and the attackers fled on foot and e-scooters.",
+    "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.257Z"
+  "extractedAt": "2026-11-13T18:42:21.590Z"
 }

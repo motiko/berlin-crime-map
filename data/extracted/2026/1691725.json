@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Hönower Straße",
     "placeName": "Mahlsdorf",
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A car collided at an intersection with an ambulance responding under emergency rights, pushing the car into a waiting van. All three vehicles were rendered undriveable.",
+    "summaryEn": "A car collided with an ambulance on a emergency run at a junction in Mahlsdorf, pushing the car into a waiting van. One van driver suffered neck pain; all three vehicles were undrivable afterwards.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.745Z"
+  "extractedAt": "2026-11-13T18:49:04.278Z"
 }

@@ -8,14 +8,14 @@
     "category": "robbery",
     "incidentDate": "2025-08-24",
     "street": "Baruther Straße",
-    "houseNumberOrCrossing": "Einmündung Baruther Straße/Mehringdamm",
+    "houseNumberOrCrossing": "Mehringdamm",
     "placeName": "Friedhöfe am Halleschen Tor",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Two unknown men threatened a 28-year-old man with a knife and attacked him, then took his bag with cash, jewellery, keys and phone. The police are seeking a witness who has since come forward.",
+    "summaryEn": "Two unknown men threatened a 28-year-old with a knife, beat him and kicked him to the ground on Baruther Straße, then stole his bag, cash, jewellery and phone. The police are still seeking a witness, who has since come forward.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.256Z"
+  "extractedAt": "2026-11-13T18:42:21.595Z"
 }

@@ -9,13 +9,13 @@
     "incidentDate": "2026-05-22",
     "street": "Gehrenseestraße",
     "houseNumberOrCrossing": null,
-    "placeName": "Alt-Hohenschönhausen",
+    "placeName": "Straßenbahn Linie M5, Alt-Hohenschönhausen",
     "district": "Lichtenberg",
-    "summaryEn": "Two unidentified teenagers sprayed irritant gas inside a tram (line M5) in Alt-Hohenschönhausen, affecting about five passengers. The suspects fled at the Gehrenseestraße stop.",
+    "summaryEn": "Two unknown youths sprayed irritant spray inside a M5 tram in Alt-Hohenschönhausen, injuring about five passengers. The suspects fled at the Gehrenseestraße stop.",
     "injured": 5,
     "dead": 0,
     "weaponType": "irritant spray"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.918Z"
+  "extractedAt": "2026-11-13T18:49:04.343Z"
 }

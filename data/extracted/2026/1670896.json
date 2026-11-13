@@ -9,13 +9,13 @@
     "incidentDate": "2026-05-12",
     "street": "Teterower Straße",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "U-Bahnhof Blaschkoallee",
     "district": "Neukölln",
-    "summaryEn": "A man damaged several parked cars and broke into a vehicle in Britz, going through its contents, before being arrested at the Blaschkoallee U-Bahn station. Stolen items were seized from him.",
+    "summaryEn": "A man damaged several parked cars and broke into one in Britz overnight; he was arrested on a platform at a nearby U-Bahn station with items believed to be stolen. The investigation continues.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.720Z"
+  "extractedAt": "2026-11-13T18:49:04.293Z"
 }

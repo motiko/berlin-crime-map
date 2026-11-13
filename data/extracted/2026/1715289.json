@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "S-Bahnhof Landsberger Allee",
     "district": "Pankow",
-    "summaryEn": "A 26-year-old man was attacked by several people at the entrance to Landsberger Allee S-Bahn station late at night, punched in the face, and robbed. The police Staatsschutz unit has taken over the investigation as a suspected anti-gay hate crime.",
+    "summaryEn": "A 26-year-old man was attacked and robbed by several people at the S-Bahn station Landsberger Allee in Prenzlauer Berg after being asked about his sexual orientation. The Staatsschutz has taken over the investigation.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.047Z"
+  "extractedAt": "2026-11-13T18:49:04.408Z"
 }

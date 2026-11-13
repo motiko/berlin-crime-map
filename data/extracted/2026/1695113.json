@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A 16-year-old girl reported missing since 1 April 2026 has been located and the public search has ended. She had left a youth welfare facility on Mindener Straße.",
+    "summaryEn": "A 16-year-old girl who had been missing since 1 April 2026 has been located, and the public search has ended. She had left a youth welfare facility on Mindener Straße.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.909Z"
+  "extractedAt": "2026-11-13T18:49:04.094Z"
 }

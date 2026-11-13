@@ -8,14 +8,14 @@
     "category": "traffic",
     "incidentDate": "2026-02-11",
     "street": "Tempelhofer Damm",
-    "houseNumberOrCrossing": "Ecke Thuyring",
-    "placeName": "Anschlussstelle Tempelhofer Damm",
+    "houseNumberOrCrossing": "Thuyring",
+    "placeName": "Autobahnbrücke am Tempelhofer Damm",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A driver fled police through Neukölln and Tempelhof, driving against oncoming traffic and crashing into three cars under the motorway bridge. He was arrested on foot and faces charges including illegal street racing and driving without a licence.",
+    "summaryEn": "A 23-year-old driver fled police from Neukölln, drove against oncoming traffic and crashed into three cars under the Tempelhofer Damm motorway bridge. Three drivers were injured and the suspect was arrested on foot.",
     "injured": 3,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.233Z"
+  "extractedAt": "2026-11-13T18:42:21.594Z"
 }

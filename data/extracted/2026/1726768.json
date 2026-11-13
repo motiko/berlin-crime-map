@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A 24-year-old man was attacked by three unknown men near a bus stop and suffered stab wounds to his back and leg. He was taken to hospital, and police say his life was not in danger.",
+    "summaryEn": "A 24-year-old man was attacked by three unknown men near a bus stop and suffered stab wounds to his back and leg. He was taken to hospital and was not in mortal danger.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.879Z"
+  "extractedAt": "2026-11-13T18:49:04.240Z"
 }

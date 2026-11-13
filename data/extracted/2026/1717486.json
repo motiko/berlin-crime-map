@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Seniorenpflegeeinrichtung",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A fire broke out in a room of a Kreuzberg care home for seniors, and 27 residents were evacuated. A 61-year-old resident was found dead, and a 74-year-old who was seriously injured later died in hospital; investigators suspect negligent arson.",
+    "summaryEn": "A fire broke out in a Kreuzberg care home on 19 September, killing one 61-year-old resident. A 74-year-old resident who was seriously injured later died in hospital; police suspect negligent arson.",
     "injured": 27,
     "dead": 2,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.983Z"
+  "extractedAt": "2026-11-13T18:49:04.273Z"
 }

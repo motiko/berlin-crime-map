@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Ahornsteig",
     "placeName": "Großer Tiergarten",
     "district": "Mitte",
-    "summaryEn": "Unknown perpetrators sprayed a rainbow memorial bench in Großer Tiergarten with black paint, apparently in connection with an attack on the CSD. The police Staatsschutz (political crimes unit) took over the investigation.",
+    "summaryEn": "A rainbow memorial bench in the Großer Tiergarten was spray-painted black early in the morning, apparently in connection with an attack on the CSD. The state security unit took over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.028Z"
+  "extractedAt": "2026-11-13T18:49:04.419Z"
 }

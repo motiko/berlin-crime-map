@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Oppelner Straße",
     "placeName": "Görlitzer Park",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Unknown perpetrators smeared a substance into the lock cylinder of a park gate, so it can no longer be closed. The State Security unit of the LKA has taken over the investigation for criminal damage.",
+    "summaryEn": "Unknown persons smeared a substance into the lock cylinder of an entrance gate to Görlitzer Park, preventing it from closing. The state security unit has taken over the investigation for property damage.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.996Z"
+  "extractedAt": "2026-11-13T18:49:04.203Z"
 }

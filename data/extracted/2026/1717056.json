@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Hinterhof",
     "district": "Spandau",
-    "summaryEn": "Five suspects robbed a 23-year-old man during a planned phone purchase in a backyard, one of them holding an apparent firearm to his head. Cash, a bag and a phone were taken, and the suspects fled.",
+    "summaryEn": "Five suspects robbed a 23-year-old man of cash and a phone after one of them held an apparent firearm to his head during a planned phone purchase. The suspects fled on foot in an unknown direction.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm (apparent)"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.807Z"
+  "extractedAt": "2026-11-13T18:49:04.444Z"
 }

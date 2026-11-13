@@ -9,13 +9,13 @@
     "incidentDate": "2026-11-01",
     "street": "Salvador-Allende-Straße",
     "houseNumberOrCrossing": "Strandschloßweg",
-    "placeName": "Köpenick",
+    "placeName": "Rettungsstelle eines Krankenhauses",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A 42-year-old man in a mental health crisis left a hospital emergency room and was located by police after he initially resisted; he was taken to hospital and admitted. A storm lighter was found in his hand and no one was hurt.",
+    "summaryEn": "A 42-year-old man in a psychological crisis left a hospital emergency room and was found by police. He held a lighter, not a weapon, and was taken back to hospital for treatment.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.419Z"
+  "extractedAt": "2026-11-13T18:49:04.161Z"
 }

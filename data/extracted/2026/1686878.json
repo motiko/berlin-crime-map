@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Sickingenstraße",
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "After an argument between a man and two unknown men, one attacker stabbed a 25-year-old in the groin and both fled. The victim was taken to hospital, where he underwent emergency surgery.",
+    "summaryEn": "After an argument between a man and two unknown people, one of them stabbed a 25-year-old in the groin. The victim was taken to hospital and underwent emergency surgery.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.893Z"
+  "extractedAt": "2026-11-13T18:49:04.315Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "U-Bahnhof Alt-Mariendorf",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "On a U6 platform at Alt-Mariendorf station, two men allegedly insulted a 30-year-old man in a homophobic manner and assaulted him, also injuring a witness and a bystander. Two 18-year-old suspects have since surrendered to police.",
+    "summaryEn": "Two suspects allegedly insulted a 30-year-old man with homophobic remarks and beat him on a U6 platform; two 18-year-old suspects have since surrendered. Two bystanders were also allegedly hurt.",
     "injured": 3,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.773Z"
+  "extractedAt": "2026-11-13T18:49:04.358Z"
 }

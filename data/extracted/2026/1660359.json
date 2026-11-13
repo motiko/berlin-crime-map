@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Böttgerstraße",
     "placeName": "Gesundbrunnen",
     "district": "Mitte",
-    "summaryEn": "A car driver lost control on Hochstraße in Gesundbrunnen and hit a 54-year-old cyclist on the bike lane, dragging him about 30 metres. The cyclist was seriously injured and hospitalised; police are seeking witnesses and video footage.",
+    "summaryEn": "A car driver lost control on Hochstraße in Gesundbrunnen and struck a 54-year-old cyclist, dragging him about 30 meters. The cyclist was hospitalized, and police are seeking witnesses and video footage.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.976Z"
+  "extractedAt": "2026-11-13T18:49:04.365Z"
 }

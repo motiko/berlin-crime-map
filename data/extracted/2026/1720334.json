@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "An unknown man pushed and spat at an emergency doctor and hit the windscreen and door of the ambulance vehicle while paramedics were treating a 44-year-old man. The treated man was not in critical condition and was taken to hospital.",
+    "summaryEn": "An unknown man pushed, spat at and hit the emergency vehicle of a rescue team treating a 44-year-old man in Marzahn overnight. The emergency doctor was spat on and the attacker left the scene.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.848Z"
+  "extractedAt": "2026-11-13T18:49:04.231Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "A 28-year-old man was beaten and stabbed in the thigh by a group after an argument in Wedding; a snack bar owner trying to intervene was sprayed with irritant gas. Three suspects aged 42, 38 and 26 were arrested nearby.",
+    "summaryEn": "A 28-year-old man was attacked by a group in a snack bar in Wedding after an argument and suffered a stab wound to the thigh. Three suspects were arrested nearby; the snack bar owner was pepper-sprayed.",
     "injured": 2,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.714Z"
+  "extractedAt": "2026-11-13T18:49:04.245Z"
 }

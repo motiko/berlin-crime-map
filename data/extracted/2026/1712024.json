@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Paul-Löbe-Allee",
     "placeName": "Bundeskanzleramt",
     "district": "Mitte",
-    "summaryEn": "Several small fires were found at a pedestrian protection tunnel at a construction site near the Federal Chancellery early in the morning. The fires were extinguished by the fire brigade and no one was hurt.",
+    "summaryEn": "Several small fires were set at a pedestrian protection tunnel at a construction site in front of the Federal Chancellery, and fire crews extinguished them. The Berlin LKA fire unit is investigating.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.756Z"
+  "extractedAt": "2026-11-13T18:49:04.412Z"
 }

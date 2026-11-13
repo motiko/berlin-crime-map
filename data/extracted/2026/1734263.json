@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Several large graffiti were sprayed on the courtyard of a residential and commercial building in Kreuzberg, reported via the online police portal. The State Security unit has taken over the investigation.",
+    "summaryEn": "Several large graffiti were sprayed in a courtyard of a residential and commercial building in Kreuzberg. The State Security unit (Staatsschutz) has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.429Z"
+  "extractedAt": "2026-11-13T18:49:04.436Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Markelstraße",
     "placeName": "Einkaufszentrum Steglitz",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "Three unknown suspects drove a car through the locked entrance of a shopping centre store in Steglitz overnight, smashed display cases and stole jewellery and watches before fleeing in another vehicle.",
+    "summaryEn": "Three unknown suspects drove a car through the locked entrance of a retail store in a shopping centre in Steglitz, smashed display cases and stole jewellery and watches. They fled in another vehicle parked nearby.",
     "injured": 0,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.308Z"
+  "extractedAt": "2026-11-13T18:42:21.527Z"
 }

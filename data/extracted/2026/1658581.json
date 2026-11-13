@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Police arrested a man driving through Charlottenburg with a firearm and a large amount of cash, and seized his car and searched two addresses. He was released after identification measures and faces charges including weapons law violations and money laundering.",
+    "summaryEn": "A 28-year-old man was arrested in Charlottenburg after police found a firearm, ammunition and a large amount of cash in his car. His car was seized and two addresses in Lichtenberg and Brandenburg were searched.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.325Z"
+  "extractedAt": "2026-11-13T18:50:44.737Z"
 }

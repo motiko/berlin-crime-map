@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Bahnhof Ostkreuz",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 42-year-old man allegedly attacked a 25-year-old passer-by at Ostkreuz station, throwing him onto the road and punching him in the head, with xenophobic insults and threats. Federal police ended the attack and arrested the suspect; the Staatsschutz is investigating.",
+    "summaryEn": "A 42-year-old man attacked passers-by at Ostkreuz station and then assaulted a 25-year-old on the road, shouting xenophobic remarks; Federal Police arrested him. The Staatsschutz took over the case.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.975Z"
+  "extractedAt": "2026-11-13T18:49:04.125Z"
 }

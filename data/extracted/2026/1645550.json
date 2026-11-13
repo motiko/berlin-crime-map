@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "An unknown man threatened a convenience store employee with a firearm shortly before midnight and demanded money, then fled. The employee was not injured.",
+    "summaryEn": "An unknown man threatened a convenience store employee with a firearm shortly before midnight and demanded money and tobacco products. He fled without taking the goods after the employee activated the shutters; the employee was unhurt.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.214Z"
+  "extractedAt": "2026-11-13T18:42:21.577Z"
 }

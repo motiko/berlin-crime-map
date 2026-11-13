@@ -9,13 +9,13 @@
     "incidentDate": "2026-02-23",
     "street": "Merlitzstraße",
     "houseNumberOrCrossing": null,
-    "placeName": "Adlershof",
+    "placeName": null,
     "district": "Treptow-Köpenick",
-    "summaryEn": "Overnight, unknown perpetrators smashed several windows and daubed red paint on signs at an insurance company office building in Adlershof, and stole two flags. The State Security unit (Staatsschutz) has taken over the investigation.",
+    "summaryEn": "Overnight, windows were smashed and signs and a logo were smeared with red paint at an office building of an insurance company in Adlershof. Two flags were stolen, and the State Security unit has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.213Z"
+  "extractedAt": "2026-11-13T18:42:21.606Z"
 }

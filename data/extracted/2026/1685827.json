@@ -6,16 +6,16 @@
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
     "category": "traffic",
-    "dead": 0,
-    "district": "Friedrichshain-Kreuzberg",
-    "houseNumberOrCrossing": "Karl-Marx-Allee",
     "incidentDate": "2026-06-24",
-    "injured": 1,
-    "placeName": null,
     "street": "Frankfurter Allee",
-    "summaryEn": "A 62-year-old cyclist fell after missing a curb at the Frankfurter Allee junction while overtaking other cyclists. He was taken to hospital with upper-body and head injuries.",
+    "houseNumberOrCrossing": "Karl-Marx-Allee",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A 62-year-old cyclist fell after missing a curb while overtaking other cyclists on the bike lane of Frankfurter Allee. He was taken to hospital with upper-body and head injuries.",
+    "injured": 1,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.949Z"
+  "extractedAt": "2026-11-13T18:49:04.221Z"
 }

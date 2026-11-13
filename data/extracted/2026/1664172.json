@@ -5,17 +5,17 @@
   "title": "Drei verletzte Beamte – Polizeihubschrauber im Einsatz",
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
-    "category": "assault",
-    "incidentDate": "2026-04-22",
-    "street": "Rigaer Straße",
-    "houseNumberOrCrossing": "Liebigstraße",
-    "placeName": null,
-    "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Up to 20 people gathered around a burning barrel on Rigaer Straße and sprayed fire extinguishers at officers who had asked them to extinguish it. Three officers reported breathing difficulties and continued their duty; the State Security unit is investigating.",
-    "injured": 3,
+    "category": "political",
     "dead": 0,
+    "district": "Friedrichshain-Kreuzberg",
+    "houseNumberOrCrossing": "Liebigstraße",
+    "incidentDate": "2026-04-22",
+    "injured": 3,
+    "placeName": null,
+    "street": "Rigaer Straße",
+    "summaryEn": "Up to 20 people gathered around a burning barrel on Rigaer Straße and sprayed fire extinguishers at police officers, injuring three. The Staatsschutz took over the investigation for dangerous bodily harm.",
     "weaponType": "fire extinguisher"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.770Z"
+  "extractedAt": "2026-11-13T18:49:04.355Z"
 }

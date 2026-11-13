@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Simonring",
     "placeName": "Spätkauf",
     "district": "Spandau",
-    "summaryEn": "Several men shot repeatedly at a 31-year-old in front of a convenience store in Haselhorst on 11 December 2025, seriously injuring him. On 21 January 2026 police raided 14 addresses citywide and arrested suspects aged 21 to 28.",
+    "summaryEn": "Following up on a December 2025 shooting in Haselhorst, police and prosecutors searched 14 properties citywide and arrested suspects. Seven men aged 21 to 28 are suspected of attempted manslaughter over shots fired at a 31-year-old.",
     "injured": 1,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.294Z"
+  "extractedAt": "2026-11-13T18:50:49.751Z"
 }

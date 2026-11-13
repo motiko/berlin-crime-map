@@ -5,17 +5,17 @@
   "title": "An Tankstelle Personen angegriffen und Brand verursacht",
   "location": "Treptow-Köpenick",
   "extraction": {
-    "category": "assault",
+    "category": "fire",
     "incidentDate": "2026-05-09",
     "street": "Michael-Brückner-Straße",
     "houseNumberOrCrossing": null,
     "placeName": "Tankstelle Niederschöneweide",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A woman allegedly attacked several people with a bottle and a cigarette at a petrol station, then caused a fire by throwing a lit cigarette into spilled petrol. Firefighters contained the fuel trail; no one was reported injured.",
-    "injured": 0,
+    "summaryEn": "A 49-year-old woman allegedly attacked customers and staff at a petrol station with a bottle, burned a man with a cigarette, and set fire to spilled petrol at a pump. Firefighters secured the fuel trail; nobody was seriously hurt and no damage occurred.",
+    "injured": 2,
     "dead": 0,
     "weaponType": "bottle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.809Z"
+  "extractedAt": "2026-11-13T18:49:04.311Z"
 }

@@ -6,16 +6,16 @@
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
     "category": "burglary",
-    "dead": 0,
-    "district": "Friedrichshain-Kreuzberg",
-    "houseNumberOrCrossing": "Mehringdamm",
     "incidentDate": "2026-07-19",
-    "injured": 0,
-    "placeName": null,
     "street": "Mehringdamm",
-    "summaryEn": "Police arrested three suspected burglars after a break-in at a ground-floor flat in a rear building, where a window was smashed and items were stolen. The men were found in a car with suspected stolen goods from the flat and possibly another burglary.",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Police arrested three suspected burglars, aged 19, 28 and 37, after a break-in through a ground-floor window of a flat at a rear building. Stolen goods were found in their car, which may also come from another burglary.",
+    "injured": 0,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.939Z"
+  "extractedAt": "2026-11-13T18:49:04.260Z"
 }

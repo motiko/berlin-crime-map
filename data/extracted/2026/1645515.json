@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Prenzlauer Promenade",
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "A 17-year-old patient allegedly attacked and bit a two-person ambulance crew while being transported to hospital. Both firefighter-paramedics were injured and had to end their shift; the teen was also found to have about half a per mille blood alcohol.",
+    "summaryEn": "A 17-year-old patient attacked the crew of an ambulance transporting him to hospital, hitting and biting them. Two fire service paramedics were injured and had to end their shift.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.202Z"
+  "extractedAt": "2026-11-13T18:42:21.605Z"
 }

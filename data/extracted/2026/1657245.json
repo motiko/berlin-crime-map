@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Police and prosecutors searched ten properties across several Berlin districts in a cocaine trafficking investigation against five suspects. A pistol, ammunition, about 50 kg of cannabis, 500 g of cocaine and around 100,000 euros in cash were seized, and one suspect was remanded in custody.",
+    "summaryEn": "Police and prosecutors executed ten search warrants across Berlin against five suspects accused of trafficking cocaine via \"cocaine taxis\". A real pistol, about 50 kg of cannabis, 500 g of cocaine and around 100,000 euros in cash were seized, and one 24-year-old suspect was remanded in custody.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.340Z"
+  "extractedAt": "2026-11-13T18:50:45.057Z"
 }

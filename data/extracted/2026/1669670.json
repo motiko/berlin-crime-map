@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Hostel",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "After a dispute at a hostel, a 32-year-old man attacked police officers who escorted him out and tried to grab an officer's service weapon. He was arrested after a stun device was used, and one officer and the man were hurt.",
-    "injured": 3,
+    "summaryEn": "After a man repeatedly attacked a hostel receptionist and police officers, he was arrested following the use of pepper spray and an electroshock weapon. Several people were slightly injured, including two officers.",
+    "injured": 4,
     "dead": 0,
-    "weaponType": null
+    "weaponType": "electroshock weapon"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.696Z"
+  "extractedAt": "2026-11-13T18:49:04.402Z"
 }

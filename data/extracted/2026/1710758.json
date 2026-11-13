@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Russisches Haus",
     "district": "Mitte",
-    "summaryEn": "Five rival demonstrations took place near the Russian House on Friday evening, largely without disruption. During the events, a 63-year-old man and a 61-year-old woman were investigated for resisting and assaulting police officers; the woman and two officers were slightly injured.",
+    "summaryEn": "Five rival assemblies took place in front of the Russian House on Friday evening, largely without disruption. During the dispersal, a 63-year-old man and a 61-year-old woman were investigated for resisting officers and assaulting police; the woman and two officers were slightly injured.",
     "injured": 3,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.791Z"
+  "extractedAt": "2026-11-13T18:49:04.336Z"
 }

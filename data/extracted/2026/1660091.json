@@ -5,17 +5,17 @@
   "title": "Schüsse im Mehrfamilienhaus",
   "location": "Tempelhof-Schöneberg",
   "extraction": {
-    "category": "raid",
+    "category": "shooting",
     "incidentDate": "2026-04-09",
     "street": "Rheinstraße",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Friedenau",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Witnesses reported several gunshots from an apartment in a residential building in Friedenau. Police searched the flat and an empty attic apartment, finding firearms, target boards, blank-firing and soft-air guns, and drugs.",
+    "summaryEn": "A witness heard several gunshots from an apartment in an apartment building in Friedenau and alerted police. Police searched the flat of a 30-year-old man, found several firearms and drugs, and he was released after identity checks.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.317Z"
+  "extractedAt": "2026-11-13T18:50:43.475Z"
 }

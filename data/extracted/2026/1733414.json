@@ -9,13 +9,13 @@
     "incidentDate": "2026-10-30",
     "street": "Bernstorffstraße",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Alt-Tegel",
     "district": "Reinickendorf",
-    "summaryEn": "A 35-year-old man repeatedly struck parked cars with a wooden batten in Tegel and threatened passers-by and officers with a glass bottle. Police used a taser, which had no effect, and then overpowered him and took him to hospital.",
+    "summaryEn": "A 35-year-old man damaged parked cars with a wooden batten and threatened passers-by and police with a glass bottle. He was subdued after a Taser deployment had no effect and taken to a hospital.",
     "injured": 0,
     "dead": 0,
-    "weaponType": "glass bottle"
+    "weaponType": "wooden batten, glass bottle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.950Z"
+  "extractedAt": "2026-11-13T18:49:04.231Z"
 }

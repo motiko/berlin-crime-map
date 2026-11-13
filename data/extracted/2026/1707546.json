@@ -7,15 +7,15 @@
   "extraction": {
     "category": "political",
     "incidentDate": "2026-08-27",
-    "street": "Erna-Samuel-Straße",
+    "street": null,
     "houseNumberOrCrossing": null,
     "placeName": null,
-    "district": "Mitte",
-    "summaryEn": "Several police incidents overnight involved damage to election posters in Berlin, handled by the State Protection unit. In Mitte, a 27-year-old man and 28-year-old woman were arrested at the scene after damaging and removing posters and were released after identification measures.",
+    "district": null,
+    "summaryEn": "Overnight, several incidents of damage to election posters across Berlin were reported, with the state security unit investigating. Suspects were identified or arrested at several locations, and at least one was taken to a hospital.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.995Z"
+  "extractedAt": "2026-11-13T18:49:04.421Z"
 }

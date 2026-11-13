@@ -6,16 +6,16 @@
   "location": "Neukölln",
   "extraction": {
     "category": "shooting",
-    "dead": 0,
-    "district": "Neukölln",
-    "houseNumberOrCrossing": null,
     "incidentDate": "2026-04-18",
-    "injured": 0,
-    "placeName": "Rudow",
     "street": "Kapaunenstraße",
-    "summaryEn": "Unknown persons fired shots in the night on Kapaunenstraße in Rudow, with cartridges and cases found on the street. Nobody was injured and no damage to residential buildings was found.",
+    "houseNumberOrCrossing": null,
+    "placeName": "Rudow",
+    "district": "Neukölln",
+    "summaryEn": "Shots were fired on Kapaunenstraße in Rudow around 1:20 a.m., and police found cartridges and casings. Nobody was injured and no damage to buildings was found.",
+    "injured": 0,
+    "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.886Z"
+  "extractedAt": "2026-11-13T18:49:04.270Z"
 }

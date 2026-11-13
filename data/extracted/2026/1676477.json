@@ -9,13 +9,13 @@
     "incidentDate": "2026-06-01",
     "street": "Teltower Damm",
     "houseNumberOrCrossing": "Laehrstraße",
-    "placeName": null,
+    "placeName": "Zebrastreifen Teltower Damm",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "An 80-year-old driver hit an eight-year-old boy on a pedestrian crossing on Teltower Damm in Zehlendorf. The child was taken to hospital with back, hip and facial injuries and suspected internal injuries.",
+    "summaryEn": "An 80-year-old driver hit an eight-year-old boy on a pedestrian crossing on Teltower Damm in Zehlendorf. The child was taken to hospital with back, hip and face injuries and suspected internal injuries.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.899Z"
+  "extractedAt": "2026-11-13T18:49:04.394Z"
 }

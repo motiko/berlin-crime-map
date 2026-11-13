@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "STATION Berlin",
     "district": null,
-    "summaryEn": "Road safety action day \"Sichtbar mobil zur Schule\" for second-graders was held at STATION Berlin near Park am Gleisdreieck. Officials urged drivers to take care around schoolchildren at the start of the school year.",
-    "injured": null,
-    "dead": null,
+    "summaryEn": "Berlin police and authorities held a road safety action day at STATION Berlin to mark the start of the school year, urging drivers to take care around schoolchildren. No incident occurred.",
+    "injured": 0,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.041Z"
+  "extractedAt": "2026-11-13T18:49:04.366Z"
 }

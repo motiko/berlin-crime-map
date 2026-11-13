@@ -6,16 +6,16 @@
   "location": "Lichtenberg",
   "extraction": {
     "category": "fire",
-    "incidentDate": "2026-10-07",
+    "incidentDate": "2026-10-08",
     "street": "Altenhofer Straße",
     "houseNumberOrCrossing": null,
-    "placeName": "Großraumparkplatz in Alt-Hohenschönhausen",
+    "placeName": "Öffentlicher Großraumparkplatz",
     "district": "Lichtenberg",
-    "summaryEn": "Three vehicles caught fire on a public parking lot in Alt-Hohenschönhausen overnight; two were completely burned out. Nobody was hurt, and a fire-investigation unit is probing suspected arson.",
+    "summaryEn": "Three vehicles caught fire on a public parking area in Alt-Hohenschönhausen overnight; two were completely burnt out. Nobody was hurt, and arson is suspected.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.955Z"
+  "extractedAt": "2026-11-13T18:49:04.426Z"
 }

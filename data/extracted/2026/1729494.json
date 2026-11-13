@@ -9,13 +9,13 @@
     "incidentDate": "2026-10-21",
     "street": null,
     "houseNumberOrCrossing": null,
-    "placeName": "Park Hellwichstorp",
+    "placeName": "Hellwichstorp",
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "An 18-year-old was stabbed by several unknown assailants in the Hellwichstorp park area in Hellersdorf and taken to hospital. The suspects fled toward Hellersdorf subway station.",
+    "summaryEn": "An 18-year-old young adult was stabbed with a knife by several unknown attackers in a park in Hellersdorf and taken to hospital. The suspects fled toward Hellersdorf U-Bahn station.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.052Z"
+  "extractedAt": "2026-11-13T18:49:04.245Z"
 }

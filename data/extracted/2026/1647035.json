@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Werner-Voß-Damm",
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A car driver hit a four-year-old boy crossing the road with his father, ran over him and drove on without stopping. The child was seriously injured but not in mortal danger; a 92-year-old driver was later identified as the suspect.",
+    "summaryEn": "A car driver hit a four-year-old boy crossing the road with his father and drove on without stopping. The child was injured and taken to hospital; a 92-year-old man was later identified as the suspected driver.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.324Z"
+  "extractedAt": "2026-11-13T18:42:21.589Z"
 }

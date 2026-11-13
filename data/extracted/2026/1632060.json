@@ -9,13 +9,13 @@
     "incidentDate": "2026-01-08",
     "street": "Lübbener Straße",
     "houseNumberOrCrossing": null,
-    "placeName": "Bar",
+    "placeName": "Bar an der Lübbener Straße",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Police inspecting a bar in Kreuzberg found several firearms and ammunition hidden in a billiard table. Two men, aged 27 and 29, were arrested and the weapons seized.",
+    "summaryEn": "Police inspection of a bar in Kreuzberg found several firearms and ammunition hidden in a pool table; two men aged 27 and 29 were arrested. The weapons and magazines were seized.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.316Z"
+  "extractedAt": "2026-11-13T18:50:50.013Z"
 }

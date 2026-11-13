@@ -9,13 +9,13 @@
     "incidentDate": "2026-08-26",
     "street": "Waltersdorfer Chaussee",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Rudow",
     "district": "Neukölln",
-    "summaryEn": "Two suspected fraudsters were arrested in Rudow while collecting cash and gold from a 91-year-old man after a fake accident call. The caller had threatened harm to the man's daughter if the money was not paid.",
+    "summaryEn": "Two suspects were arrested in Rudow while collecting cash and gold from a 91-year-old man after a fake accident call demanding bail. The caller had threatened the man's daughter.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.864Z"
+  "extractedAt": "2026-11-13T18:49:04.263Z"
 }

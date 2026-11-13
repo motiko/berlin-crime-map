@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Mehringplatz",
     "placeName": "Mehringplatz",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Several unknown people attacked a 18-year-old driver at a crossing in Kreuzberg, smashing his car window and beating and kicking him. He was taken to hospital with injuries.",
+    "summaryEn": "Several unknown people attacked an 18-year-old driver at the Mehringplatz/Friedrichstraße junction, smashing his car window, pulling him out and beating him with stones, fists and feet. He was taken to hospital with injuries to the head, arm and torso.",
     "injured": 1,
     "dead": 0,
-    "weaponType": null
+    "weaponType": "stones"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.253Z"
+  "extractedAt": "2026-11-13T18:42:21.587Z"
 }

@@ -8,14 +8,14 @@
     "category": "traffic",
     "incidentDate": "2026-05-27",
     "street": "Elgersburger Straße",
-    "houseNumberOrCrossing": "Delbrückstraße",
+    "houseNumberOrCrossing": "Delbrückstraße/Franzensbader Straße",
     "placeName": "Schmargendorf",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "An ambulance with blue lights and siren collided with a cyclist at a junction in Schmargendorf on the evening before publication. The 79-year-old cyclist fell and was taken to hospital with injuries.",
+    "summaryEn": "An ambulance driving with emergency lights and siren collided at an intersection in Schmargendorf with a 79-year-old cyclist, who was injured. The ambulance driver was unhurt; the cause is under investigation.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.984Z"
+  "extractedAt": "2026-11-13T18:49:04.475Z"
 }

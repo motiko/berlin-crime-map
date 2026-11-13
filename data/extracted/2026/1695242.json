@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "BVG-Bus Linie 122, Haltestelle Paracelsusbad",
     "district": "Reinickendorf",
-    "summaryEn": "Two unknown men fought on a BVG bus on line 122 and one sprayed the other with pepper spray. Three people, including the bus driver, suffered facial irritation and refused treatment.",
+    "summaryEn": "Two unknown men fought on a BVG bus on Lindauer Allee; one sprayed the other with pepper spray, affecting the bus driver and two women passengers. Police are investigating for dangerous bodily harm.",
     "injured": 3,
     "dead": 0,
     "weaponType": "pepper spray"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.771Z"
+  "extractedAt": "2026-11-13T18:49:04.293Z"
 }

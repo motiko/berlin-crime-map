@@ -8,14 +8,14 @@
     "category": "traffic",
     "incidentDate": "2026-09-22",
     "street": "Köpenicker Landstraße",
-    "houseNumberOrCrossing": "Dammweg",
+    "houseNumberOrCrossing": "Am Treptower Park",
     "placeName": "Plänterwald",
     "district": "Treptow-Köpenick",
-    "summaryEn": "An e-scooter rider aged 21 with about 1.3 per mille alcohol collided with a car waiting at a red light early in the morning. The rider was injured and taken to hospital, and the driver was unhurt.",
+    "summaryEn": "An e-scooter rider, about 1.3 per mille over the limit, crashed into a car waiting at a red light early in the morning. The 21-year-old rider was injured and taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.988Z"
+  "extractedAt": "2026-11-13T18:49:04.374Z"
 }

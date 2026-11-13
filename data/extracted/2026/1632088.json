@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 36-year-old man attacked a patrol crew after reporting a suspected theft, and then resisted arrest and pushed an officer. He was taken to hospital for a facial injury sustained during the arrest.",
+    "summaryEn": "A 36-year-old man who had reported a cash theft attacked a patrol crew and bystanders after police arrived. He resisted arrest and was taken into custody, with one injury to his face treated at a hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.284Z"
+  "extractedAt": "2026-11-13T18:42:21.562Z"
 }

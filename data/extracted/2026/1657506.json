@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "S-Bahnhof Karow",
     "district": "Pankow",
-    "summaryEn": "A 37-year-old man struck a police officer in the face after being questioned about a theft from a clothing container, and resisted arrest. Two officers were injured, one of whom had to end his shift.",
+    "summaryEn": "After a theft from a clothing container near Karow station, a 37-year-old man struck a police officer in the face and resisted arrest, injuring two officers. He was held briefly and released.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.261Z"
+  "extractedAt": "2026-11-13T18:42:21.649Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Filiale der Berliner Volksbank",
     "district": null,
-    "summaryEn": "A suspect presented a forged passport at a bank branch to obtain online banking access to a business account, and a gang then made unauthorized transfers of six-figure sums. Police seek the female suspect.",
+    "summaryEn": "Police seek a suspect in a gang-related computer fraud in which a forged passport was used at a Berliner Volksbank branch to obtain online banking access to a business account, followed by large unauthorized transfers. The incident date is 14 July 2025.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.239Z"
+  "extractedAt": "2026-11-13T18:42:21.630Z"
 }

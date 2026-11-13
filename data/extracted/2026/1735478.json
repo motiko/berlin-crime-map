@@ -5,17 +5,17 @@
   "title": "Mann durch Schüsse schwer verletzt",
   "location": "Mitte",
   "extraction": {
-    "category": "homicide",
+    "category": "shooting",
     "incidentDate": "2026-11-04",
     "street": "Seestraße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "A 22-year-old man was shot several times on Seestraße in Wedding and taken to hospital. The 5th Homicide Squad is investigating a suspected attempted killing.",
+    "summaryEn": "A 22-year-old man was seriously injured by gunshots in Wedding on the evening before publication. Homicide investigators are looking into a suspected attempted killing.",
     "injured": 1,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.442Z"
+  "extractedAt": "2026-11-13T18:49:04.154Z"
 }

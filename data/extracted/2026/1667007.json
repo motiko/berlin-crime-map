@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Moschee in Gesundbrunnen",
     "district": "Mitte",
-    "summaryEn": "Two men entered a mosque in Gesundbrunnen and allegedly sprayed animal repellent spray in the hallway and prayer room while about 100 people were present. One suspect was detained by bystanders and police, and the 59-year-old was taken to hospital for chest pain not linked to the incident.",
+    "summaryEn": "Two men entered a mosque in Gesundbrunnen and sprayed animal repellent spray in the hallway and prayer room while about 100 people were present. The suspects were held until police arrived, and one was taken into custody.",
     "injured": 0,
     "dead": 0,
     "weaponType": "animal repellent spray"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.852Z"
+  "extractedAt": "2026-11-13T18:49:04.191Z"
 }

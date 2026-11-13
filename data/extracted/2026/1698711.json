@@ -8,14 +8,14 @@
     "category": "traffic",
     "incidentDate": "2026-07-29",
     "street": "Turmstraße",
-    "houseNumberOrCrossing": "Stromstraße",
+    "houseNumberOrCrossing": "Rathenower Straße",
     "placeName": "Moabit",
     "district": "Mitte",
-    "summaryEn": "A truck turning right at the Turmstraße junction hit an 80-year-old cyclist, who fell and was pulled under the vehicle. The cyclist suffered hip injuries and polytrauma and was taken to hospital.",
+    "summaryEn": "A truck turning right at a junction hit an 80-year-old cyclist, who fell and was pulled under the vehicle. The cyclist was seriously injured and taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.042Z"
+  "extractedAt": "2026-11-13T18:49:04.417Z"
 }

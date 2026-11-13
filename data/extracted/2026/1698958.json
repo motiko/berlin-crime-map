@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Callers posing as police officers told a 76-year-old man that his wife had caused a serious traffic accident and needed bail, and he handed over gold to an unknown person. Police are seeking public help identifying the suspect from a surveillance image.",
+    "summaryEn": "Fake police officers called a 76-year-old man, claimed his wife had caused a fatal accident and needed bail, and he handed over gold. Police publish a surveillance image and seek the suspect's identity.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.023Z"
+  "extractedAt": "2026-11-13T18:49:04.434Z"
 }

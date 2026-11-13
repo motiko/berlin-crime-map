@@ -7,15 +7,15 @@
   "extraction": {
     "category": "explosion",
     "incidentDate": "2026-10-26",
-    "street": "Gneisenaustraße",
+    "street": null,
     "houseNumberOrCrossing": null,
     "placeName": "U-Bahnhof Gneisenaustraße",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Two men sprayed surveillance cameras with paint and blew up a freestanding cash machine at the Gneisenaustraße subway station around 2:30 a.m. The station was closed to passengers during the investigation.",
+    "summaryEn": "Two unknown men blew up a freestanding cash machine at Gneisenaustraße subway station in the early hours, after spraying surveillance cameras with paint. The station was closed to passengers during the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": "explosive"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.030Z"
+  "extractedAt": "2026-11-13T18:49:04.363Z"
 }

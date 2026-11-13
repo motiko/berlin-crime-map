@@ -7,15 +7,15 @@
   "extraction": {
     "category": "traffic",
     "incidentDate": "2026-05-24",
-    "street": "Dominicusstraße",
-    "houseNumberOrCrossing": "Feurigstraße",
+    "street": "Feurigstraße",
+    "houseNumberOrCrossing": "Dominicusstraße",
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A car and a motorcycle collided at the Feurigstraße/Dominicusstraße crossing in Schöneberg shortly after midnight. The 28-year-old motorcyclist suffered life-threatening injuries and was taken to hospital.",
+    "summaryEn": "A car and a motorcycle collided at a junction in Schöneberg shortly after midnight. The 28-year-old motorcyclist suffered life-threatening injuries and was taken to hospital.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "vehicle"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.741Z"
+  "extractedAt": "2026-11-13T18:49:04.223Z"
 }

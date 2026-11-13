@@ -8,14 +8,14 @@
     "category": "assault",
     "incidentDate": "2026-05-12",
     "street": "Beusselstraße",
-    "houseNumberOrCrossing": "Siemensstraße",
-    "placeName": "Beusselbrücke",
+    "houseNumberOrCrossing": "Beusselbrücke",
+    "placeName": "Moabit",
     "district": "Mitte",
-    "summaryEn": "A cyclist fled a traffic check in Moabit and struck a police officer with his bicycle, then resisted arrest. Two officers were injured and went off duty after outpatient treatment.",
+    "summaryEn": "A cyclist fleeing a traffic check rammed a police officer on the pavement and then kicked and struck officers during his arrest. Two officers were hurt and went off duty after outpatient treatment.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.011Z"
+  "extractedAt": "2026-11-13T18:49:04.351Z"
 }

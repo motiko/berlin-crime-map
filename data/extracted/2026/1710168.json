@@ -9,13 +9,13 @@
     "incidentDate": "2026-09-02",
     "street": "Johannisthaler Chaussee",
     "houseNumberOrCrossing": "Fanny-Zobel-Brücke",
-    "placeName": "Baumschulenweg",
-    "district": "Treptow-Köpenick",
-    "summaryEn": "Police checked a 38-year-old man's van after an suspected drug deal and seized nine firearms, three in the vehicle and six in a garden plot. The man was arrested for resisting officers and is to be brought before a judge.",
+    "placeName": "Kleingartenanlage an der Johannisthaler Chaussee",
+    "district": "Neukölln",
+    "summaryEn": "Police checked a 38-year-old man's van after suspected drug dealing and seized nine firearms from the vehicle and a garden plot in Baumschulenweg. The man resisted and faces weapons, drug and resisting-arrest investigations.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.962Z"
+  "extractedAt": "2026-11-13T18:50:29.746Z"
 }

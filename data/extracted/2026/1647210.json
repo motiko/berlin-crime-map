@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "A 25-year-old man struck a 41-year-old woman in the face outside a shop in Wedding and fled, but was arrested at the U-Bahn station. The woman was injured and taken to hospital.",
+    "summaryEn": "A 25-year-old man struck a 41-year-old woman in the face outside a shop in Müllerstraße, Wedding, and fled. He was arrested at Wedding U-Bahn station and the woman was taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.290Z"
+  "extractedAt": "2026-11-13T18:42:21.652Z"
 }

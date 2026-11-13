@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Unterkunft für Geflüchtete",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Around 5 a.m. a 31-year-old allegedly struck a 30-year-old man on the head with a glass bottle at a refugee accommodation after an argument. The injured man was taken to hospital.",
+    "summaryEn": "Early in the morning, a 31-year-old allegedly struck a 30-year-old man on the head with a glass bottle during an argument at a refugee shelter. The injured man was taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": "glass bottle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.273Z"
+  "extractedAt": "2026-11-13T18:42:21.638Z"
 }

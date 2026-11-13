@@ -6,16 +6,16 @@
   "location": "berlinweit",
   "extraction": {
     "category": "traffic",
-    "incidentDate": "2026-04-13",
+    "incidentDate": "2026-04-19",
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Berlin police reported results of the ROADPOL \"Speedweek\" speed enforcement campaign from 13 to 19 April 2026, including a Blitzermarathon control day on 15 April. At 203 control sites, 6,732 speeding violations were recorded, 58 of them exceeding the limit by more than 31 km/h.",
+    "summaryEn": "Berlin police report results of a speed control week (13–19 April 2026) at 203 locations, recording 6,732 speeding violations, 58 of them over 31 km/h above the limit. Police also reported 341 other traffic offences and 49 criminal offences.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.816Z"
+  "extractedAt": "2026-11-13T18:49:04.379Z"
 }

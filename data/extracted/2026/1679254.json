@@ -6,16 +6,16 @@
   "location": "bundesweit",
   "extraction": {
     "category": "fraud",
-    "incidentDate": "2024-11-18",
-    "street": "Dreekamp",
-    "houseNumberOrCrossing": "16",
-    "placeName": "expert Fachmarkt, Aurich",
+    "incidentDate": "2024-11-16",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
     "district": null,
-    "summaryEn": "Police are searching for an unknown man who allegedly used a debit card stolen in Berlin in November 2024 for fraudulent payments in several German cities, including Aurich. The card was used at a retail store in Aurich on 18 November 2024.",
+    "summaryEn": "Police seek an unknown man who allegedly used a debit card stolen in Berlin in November 2024 for fraudulent payments in several German cities. The card was used in Aurich on 18 November 2024.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.001Z"
+  "extractedAt": "2026-11-13T18:49:04.463Z"
 }

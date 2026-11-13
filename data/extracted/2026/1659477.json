@@ -5,17 +5,17 @@
   "title": "Mann nach Auseinandersetzung im Krankenhaus – Mordkommission ermittelt",
   "location": "Mitte",
   "extraction": {
-    "category": "homicide",
+    "category": "knife",
     "incidentDate": "2026-04-08",
     "street": "Alt-Moabit",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "Early in the morning, a 25-year-old allegedly stabbed a 30-year-old outside a bar after an argument, leaving the victim seriously injured. The suspect was arrested and the homicide unit has taken over the investigation.",
+    "summaryEn": "After a dispute at a bar in Alt-Moabit, a 25-year-old allegedly stabbed a 30-year-old man who had tried to mediate. The victim is in emergency surgery; the suspect was arrested and the homicide unit is investigating.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.234Z"
+  "extractedAt": "2026-11-13T18:42:21.599Z"
 }

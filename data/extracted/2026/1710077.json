@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Nollendorfplatz",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 62-year-old man was insulted in a homophobic manner and punched in the face by an unknown suspect at Nollendorfplatz. He suffered a nose injury, fell to the ground and was taken to hospital.",
+    "summaryEn": "A 62-year-old man was insulted in a homophobic manner and punched in the face by an unknown suspect at Nollendorfplatz. He suffered a nose injury and was taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.801Z"
+  "extractedAt": "2026-11-13T18:49:04.301Z"
 }

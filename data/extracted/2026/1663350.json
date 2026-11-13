@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "S-Bahnhof Gesundbrunnen",
     "district": "Mitte",
-    "summaryEn": "A 25-year-old woman who is cognitively impaired went missing on 21 April 2026 after leaving Gesundbrunnen S-Bahn station. She was found safe on 23 April and returned to her home.",
+    "summaryEn": "A 25-year-old woman with a cognitive impairment, reported missing since 21 April 2026, has been found safe and returned home. The public search has been called off.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.058Z"
+  "extractedAt": "2026-11-13T18:49:04.446Z"
 }

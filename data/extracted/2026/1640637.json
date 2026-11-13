@@ -9,13 +9,13 @@
     "incidentDate": "2026-02-03",
     "street": "Buschsperlingweg",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Französisch Buchholz",
     "district": "Pankow",
-    "summaryEn": "Police were called to a garden hut after a man threatened officers, and an officer used a stun device when he came out toward them. The 50-year-old was taken to hospital, and drugs were seized.",
+    "summaryEn": "Police were called to a garden allotment hut after a man threatened officers from inside it. When he came out toward an officer, he was hit with a stun device, resisted arrest and was taken to hospital; a small quantity of suspected narcotics was seized.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.289Z"
+  "extractedAt": "2026-11-13T18:42:21.658Z"
 }

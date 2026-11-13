@@ -9,13 +9,13 @@
     "incidentDate": "2026-06-21",
     "street": "Kaiser-Wilhelm-Straße",
     "houseNumberOrCrossing": null,
-    "placeName": "Tankstelle in Lankwitz",
+    "placeName": "Tankstelle Lankwitz",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "Two unknown men entered a petrol station in Lankwitz shortly before 2 a.m., threatened a 26-year-old cashier with a knife and took money from the till. They sprayed the cashier with pepper spray before fleeing on a scooter.",
+    "summaryEn": "Two unknown men entered a petrol station in Lankwitz shortly before 2 a.m., threatened a 26-year-old cashier with a knife and took money from the till. They sprayed him with pepper spray before fleeing on a scooter.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.781Z"
+  "extractedAt": "2026-11-13T18:49:04.433Z"
 }

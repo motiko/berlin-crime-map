@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Tunnel Flughafen Tegel",
     "district": "Reinickendorf",
-    "summaryEn": "A police patrol car with emergency signals lost control in the Flughafen Tegel tunnel on the A111 and hit the tunnel wall. The crew was not injured, but the vehicle is no longer roadworthy and the motorway was closed until about 21:30.",
+    "summaryEn": "A police vehicle with emergency signals on, heading out of the city on the A111, lost control in the Flughafen Tegel tunnel, hit the left wall and was damaged beyond use. The crew was not injured.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.984Z"
+  "extractedAt": "2026-11-13T18:49:04.430Z"
 }

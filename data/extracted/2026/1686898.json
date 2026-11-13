@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "A 33-year-old man was sprayed with irritant gas and stabbed in the upper body during an argument outside a supermarket. The unknown suspect fled with a female companion, and the man was taken to hospital.",
+    "summaryEn": "A 33-year-old man was pepper-sprayed and stabbed in the upper body during an argument outside a supermarket in Prenzlauer Berg. The suspect fled with a female companion.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.728Z"
+  "extractedAt": "2026-11-13T18:49:04.369Z"
 }

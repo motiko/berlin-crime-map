@@ -9,13 +9,13 @@
     "incidentDate": "2026-04-07",
     "street": "Krossener Straße",
     "houseNumberOrCrossing": null,
-    "placeName": "Bar in Friedrichshain",
+    "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "After being repeatedly removed from a bar, a 30-year-old man got into a physical fight with a 49-year-old man outside, who suffered cut and stab wounds to his thigh. The suspect was arrested nearby after discarding a knife while fleeing.",
+    "summaryEn": "After a bar brawl in Friedrichshain, a 49-year-old man suffered cut and stab wounds to his thigh. A 30-year-old suspect was arrested after discarding a knife while fleeing.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.313Z"
+  "extractedAt": "2026-11-13T18:42:21.561Z"
 }

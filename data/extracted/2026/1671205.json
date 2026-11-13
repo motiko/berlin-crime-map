@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 33-year-old man allegedly threatened a 50-year-old visitor with a baseball bat and locked him in the flat, which led to a police operation. Officers used a taser on the suspect, who was arrested and taken to hospital.",
+    "summaryEn": "A 33-year-old man allegedly threatened a 50-year-old visitor with a baseball bat and locked him in the flat; he was then taken down with a conducted energy device when he advanced on officers. Police also found a bag of suspected narcotics.",
     "injured": 0,
     "dead": 0,
     "weaponType": "baseball bat"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.937Z"
+  "extractedAt": "2026-11-13T18:49:04.268Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "Unknown person fired several shots at an office in Neukölln around 18:00 on the previous evening. Bullet holes were found in an office door of a workshop; nobody was hurt.",
+    "summaryEn": "An unknown person fired several shots at an office in a workshop building on Boschweg in Neukölln. Bullet holes were found in an office door, and nobody was hurt.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.332Z"
+  "extractedAt": "2026-11-13T18:42:21.649Z"
 }

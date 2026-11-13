@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Tiefgarage",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A car caught fire in an underground car park at Iburger Ufer early in the morning and the flames spread to two more vehicles and parts of the building. Nobody was injured; arson is suspected and the investigation was taken over by a Landeskriminalamt fire unit.",
+    "summaryEn": "A vehicle caught fire in an underground car park on Iburger Ufer early in the morning, spreading to two more cars and parts of the building. No one was hurt; police are investigating suspected arson.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.264Z"
+  "extractedAt": "2026-11-13T18:42:21.618Z"
 }

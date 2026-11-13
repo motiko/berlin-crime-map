@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Beusselstraße",
     "placeName": "Moabit",
     "district": "Mitte",
-    "summaryEn": "During an altercation while putting up election posters in Moabit, several men insulted each other and one man was punched in the face by an unknown person. The police Staatsschutz (political crime unit) is investigating.",
+    "summaryEn": "Three men putting up election posters in Moabit were verbally attacked, and one of them was punched in the face by an unknown person. The case was taken over by the State Security unit (Staatsschutz).",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.747Z"
+  "extractedAt": "2026-11-13T18:49:04.393Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Alt-Hohenschönhausen",
     "district": "Lichtenberg",
-    "summaryEn": "Two masked men attacked a 52-year-old man on the street, forced him into a van and bound him, then stole cash, a phone and documents. He freed himself about two hours later and was taken to hospital with injuries.",
+    "summaryEn": "Masked attackers overpowered a 52-year-old man on the street, forced him into a van, and left him bound in a garden colony after taking cash and personal items. He freed himself after about two hours and was hospitalized with injuries.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.780Z"
+  "extractedAt": "2026-11-13T18:49:04.238Z"
 }

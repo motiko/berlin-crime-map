@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "A neighbour dispute in an apartment building in Britz escalated into threats, with one man allegedly approaching with an axe-like object and another imitating loading a firearm. Two suspects were arrested, and police later searched their homes and seized additional weapons and prescription medication; two officers were hurt while handling a cat.",
+    "summaryEn": "A neighbour dispute in an apartment building in Britz escalated into threats, with one suspect allegedly wielding an axe-like object and another imitating loading a firearm. Two suspects were arrested, and police later searched their flats and seized weapons and prescription medication; two officers were hurt while taking a cat into protective custody.",
     "injured": 2,
     "dead": 0,
     "weaponType": "axe-like object"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.732Z"
+  "extractedAt": "2026-11-13T18:49:04.290Z"
 }

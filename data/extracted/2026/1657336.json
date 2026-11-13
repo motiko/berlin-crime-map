@@ -9,13 +9,13 @@
     "incidentDate": "2026-03-28",
     "street": "Fritz-Reuter-Straße",
     "houseNumberOrCrossing": null,
-    "placeName": "Dönerimbiss",
+    "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "After a man demanded repayment of gambling losses at a kebab shop, he threatened staff with a fork, took cash from the till and wounded an employee with a kebab knife during a scuffle. Two employees were injured.",
+    "summaryEn": "After losing money at a slot machine, a man threatened two kebab shop workers with a fork, took cash from the till and fled. During a struggle he stabbed one employee with a kebab knife, injuring him, and the other employee was hurt in a fall.",
     "injured": 2,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.349Z"
+  "extractedAt": "2026-11-13T18:42:21.594Z"
 }

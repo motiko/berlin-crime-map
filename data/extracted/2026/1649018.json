@@ -5,17 +5,17 @@
   "title": "Schussabgaben im Volkspark Friedrichshain - Zeugenaufruf",
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
-    "category": "homicide",
+    "category": "shooting",
     "incidentDate": "2026-03-03",
     "street": "Friedenstraße",
     "houseNumberOrCrossing": null,
     "placeName": "Volkspark Friedrichshain",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Shots were fired in Volkspark Friedrichshain overnight; a 50-year-old man was found with life-threatening gunshot wounds and taken to hospital. Police are investigating attempted manslaughter.",
+    "summaryEn": "Shots were fired in Volkspark Friedrichshain overnight; a 50-year-old man was found with life-threatening gunshot wounds and taken to hospital. Police are investigating attempted manslaughter and appealing for witnesses.",
     "injured": 1,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.339Z"
+  "extractedAt": "2026-11-13T18:42:21.623Z"
 }

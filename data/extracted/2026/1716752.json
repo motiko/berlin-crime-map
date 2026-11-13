@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Kurfürstendamm",
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Police arrested a 22-year-old driver after observing a bag handover and seizing prescription medicines, a loaded firearm without a full magazine, and about 60 rounds of ammunition. A 29-year-old woman was also investigated and cash was seized from her apartment.",
+    "summaryEn": "Police observed a bag handover for prescription medicines in Schöneberg and stopped the car afterwards, seizing the drugs, a loaded-magazine-less firearm with about 60 rounds of ammunition, and cash. The driver was arrested and both suspects were released after the measures.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.856Z"
+  "extractedAt": "2026-11-13T18:50:27.861Z"
 }

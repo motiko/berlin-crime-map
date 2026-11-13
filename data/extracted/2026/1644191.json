@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Klinikum Benjamin-Franklin",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A 71-year-old man reported missing since 16 February 2026 has been found again and is in a hospital. The police had appealed for public help in the search.",
+    "summaryEn": "A 71-year-old man reported missing since 16 February 2026 has been found and is in hospital. The police had appealed for public help in the search.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.219Z"
+  "extractedAt": "2026-11-13T18:42:21.637Z"
 }

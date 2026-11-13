@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Kleingartenanlage",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Several unknown attackers tried to rob a 77-year-old man in a allotment garden area in Charlottenburg after he refused to hand over his valuables. He was beaten, bitten and injured with a pointed object, and taken to hospital for outpatient treatment.",
+    "summaryEn": "Several unknown people demanded valuables from a 77-year-old man in a allotment garden area shortly after midnight; when he refused, he was beaten, bitten and injured with a pointed object. He was taken to hospital and treated as an outpatient.",
     "injured": 1,
     "dead": 0,
-    "weaponType": null
+    "weaponType": "pointed object"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.931Z"
+  "extractedAt": "2026-11-13T18:49:04.298Z"
 }

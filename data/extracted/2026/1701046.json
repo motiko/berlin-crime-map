@@ -9,13 +9,13 @@
     "incidentDate": "2026-08-08",
     "street": "Heinitzweg",
     "houseNumberOrCrossing": "Buckower Chaussee",
-    "placeName": null,
+    "placeName": "Lichtenrade",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A kitchen fire broke out in a semi-detached house in Lichtenrade overnight. A 56-year-old woman was found unresponsive and died despite resuscitation attempts.",
+    "summaryEn": "A fire broke out in the kitchen of a semi-detached house in Lichtenrade overnight. A 56-year-old woman died after firefighters found her unresponsive and resuscitation failed.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.799Z"
+  "extractedAt": "2026-11-13T18:49:04.147Z"
 }

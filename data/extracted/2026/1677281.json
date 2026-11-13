@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Markgrafenstraße",
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "A 60-year-old motorcyclist was seriously injured after a car collided with him at an intersection in Mitte. The motorcyclist was taken to hospital, and the traffic accident unit is investigating.",
+    "summaryEn": "A car driver collided with a motorcyclist at the Markgrafenstraße/Französische Straße crossing in Mitte. The 60-year-old motorcyclist was seriously injured, with life-threatening injuries initially assumed.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "vehicle"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.929Z"
+  "extractedAt": "2026-11-13T18:49:04.185Z"
 }

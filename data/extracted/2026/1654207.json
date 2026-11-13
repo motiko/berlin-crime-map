@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Danckelmannstraße",
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Plainclothes officers arrested a 22-year-old suspected drug dealer after stopping his car and searching it and his apartment. Several hundred prescription tablets, drugs, and cash including US dollars were seized.",
+    "summaryEn": "Plainclothes officers stopped a car in Charlottenburg and arrested a 22-year-old suspected drug dealer. Several hundred pills, including pregabalin and diazepam, plus cash and US dollars were seized in the car and his apartment.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.273Z"
+  "extractedAt": "2026-11-13T18:42:21.553Z"
 }

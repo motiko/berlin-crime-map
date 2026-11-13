@@ -6,16 +6,16 @@
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
     "category": "political",
-    "incidentDate": "2026-07-11",
-    "street": "Rigaer Straße",
-    "houseNumberOrCrossing": "Liebigstraße",
-    "placeName": null,
-    "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Over the weekend of 11 July 2026, groups in Friedrichshain set fires on the street, burned bins and a construction barrier, and attacked police with pyrotechnics and a glass bottle during a rally-related disturbance. No one was injured; four criminal proceedings were opened.",
-    "injured": 0,
     "dead": 0,
+    "district": "Friedrichshain-Kreuzberg",
+    "houseNumberOrCrossing": "Liebigstraße",
+    "incidentDate": "2026-07-11",
+    "injured": 0,
+    "placeName": null,
+    "street": "Rigaer Straße",
+    "summaryEn": "During a demonstration weekend in Friedrichshain, people set fires and rubbish bins alight on Rigaer Straße, and police were attacked with fireworks and a glass bottle. Nobody was injured; four criminal proceedings were opened.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.912Z"
+  "extractedAt": "2026-11-13T18:49:04.171Z"
 }

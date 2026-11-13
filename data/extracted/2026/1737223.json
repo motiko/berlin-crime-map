@@ -6,16 +6,16 @@
   "location": "Neukölln",
   "extraction": {
     "category": "political",
-    "incidentDate": "2026-11-09",
-    "street": "Siegfriedstraße",
-    "houseNumberOrCrossing": null,
-    "placeName": null,
-    "district": "Neukölln",
-    "summaryEn": "Unknown persons stuck stickers with pro-Palestinian references over the eyes of people depicted on a memorial campaign advertising column, and the images were damaged when the stickers were removed. The state security unit has taken over the investigation for property damage.",
-    "injured": 0,
     "dead": 0,
+    "district": "Neukölln",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-11-09",
+    "injured": 0,
+    "placeName": null,
+    "street": "Siegfriedstraße",
+    "summaryEn": "Unknown persons stuck stickers with a pro-Palestinian reference over the eyes of people on a memorial campaign advertising column in Siegfriedstraße, and the images were damaged when the stickers were removed. The State Security unit has taken over the investigation for criminal damage.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.409Z"
+  "extractedAt": "2026-11-13T18:49:04.222Z"
 }

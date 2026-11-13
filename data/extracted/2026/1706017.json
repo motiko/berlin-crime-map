@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Boxhagener Platz",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 36-year-old man was repeatedly punched in the face at Boxhagener Platz, then subjected to a racist insult. The Staatsschutz (political police unit) has taken over the investigation.",
+    "summaryEn": "A 57-year-old man allegedly punched a 36-year-old man several times in the face at Boxhagener Platz, then insulted him racially. The Staatsschutz has taken over the investigation.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.833Z"
+  "extractedAt": "2026-11-13T18:49:04.106Z"
 }

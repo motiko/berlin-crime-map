@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Gropiusstadt",
     "district": "Neukölln",
-    "summaryEn": "Unknown persons allegedly set off several pyrotechnic devices in Käthe-Dorsch-Ring in Gropiusstadt around 20:40, injuring three children and a woman. Police are investigating for causing an explosion and dangerous bodily injury.",
+    "summaryEn": "Unknown people set off several pyrotechnic devices in Gropiusstadt on the evening of 16 July, injuring three children aged five to seven and a 33-year-old woman. Police are investigating explosion and bodily injury offences.",
     "injured": 4,
     "dead": 0,
     "weaponType": "explosive"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.920Z"
+  "extractedAt": "2026-11-13T18:49:04.318Z"
 }

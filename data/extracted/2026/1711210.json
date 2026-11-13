@@ -6,16 +6,16 @@
   "location": "Tempelhof-Schöneberg",
   "extraction": {
     "category": "homicide",
-    "incidentDate": "2026-09-07",
+    "incidentDate": "2026-09-06",
     "street": "Wippraer Weg",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 36-year-old man in a mental crisis set fire to items in a house in Marienfelde and collapsed after being restrained by police; he died in hospital. The state homicide commission has taken over the investigation.",
+    "summaryEn": "After his father called for help, police found a 36-year-old man in a mental crisis setting fire in a house in Marienfelde. He collapsed during restraint, died in hospital, and the homicide unit took over the investigation.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.027Z"
+  "extractedAt": "2026-11-13T18:50:28.264Z"
 }

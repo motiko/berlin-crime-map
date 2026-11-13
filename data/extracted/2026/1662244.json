@@ -9,13 +9,13 @@
     "incidentDate": "2026-04-17",
     "street": "Norwegerstraße",
     "houseNumberOrCrossing": "Finnländische Straße",
-    "placeName": "Prenzlauer Berg",
+    "placeName": null,
     "district": "Pankow",
-    "summaryEn": "A dispute between women in Prenzlauer Berg escalated into a racist insult and mutual assaults, with one woman fleeing and hitting a man who had blocked her car. Staatsschutz took over the investigation.",
+    "summaryEn": "After an argument in Prenzlauer Berg, a 49-year-old woman allegedly insulted another woman on racist grounds and several people were involved in assaults. Staatsschutz has taken over the investigation, and one of the suspects allegedly drove into a man blocking her car.",
     "injured": 4,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.020Z"
+  "extractedAt": "2026-11-13T18:49:04.348Z"
 }

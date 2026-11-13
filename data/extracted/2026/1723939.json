@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Treptow-Köpenick",
-    "summaryEn": "After a brief collision on the street, an 18-year-old allegedly punched a 49-year-old man unconscious, causing him to hit his head on the pavement. The victim suffered a life-threatening head injury and underwent emergency surgery; the suspect was held by witnesses until police arrived.",
+    "summaryEn": "After a brief collision on the street, an 18-year-old punched a 49-year-old man in the face, knocking him unconscious; the man hit his head on the pavement and needed emergency surgery. The suspect was held by witnesses until police arrived.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.950Z"
+  "extractedAt": "2026-11-13T18:49:04.121Z"
 }

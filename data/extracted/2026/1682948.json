@@ -9,13 +9,13 @@
     "incidentDate": "2026-06-21",
     "street": "Ludwig-Erhard-Ufer",
     "houseNumberOrCrossing": null,
-    "placeName": "Regierungsviertel (Spreebogenpark)",
+    "placeName": "Regierungsviertel",
     "district": "Mitte",
-    "summaryEn": "Police issued a general order closing roads and areas in the government district on 21 June 2026 from 8 to 20 hours for the second national Veterans Day. Parking and public assemblies are banned in the marked zones during these hours.",
-    "injured": null,
-    "dead": null,
+    "summaryEn": "Police issued a general order with security measures and road closures in the government district in Mitte for the second national Veterans Day on 21 June 2026, from 8 to 20 hours. Parking and public assemblies are prohibited in the marked areas.",
+    "injured": 0,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.752Z"
+  "extractedAt": "2026-11-13T18:49:04.330Z"
 }

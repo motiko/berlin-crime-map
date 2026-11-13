@@ -6,16 +6,16 @@
   "location": "Treptow-Köpenick",
   "extraction": {
     "category": "political",
-    "dead": 0,
-    "district": "Treptow-Köpenick",
-    "houseNumberOrCrossing": null,
     "incidentDate": "2026-08-06",
-    "injured": 1,
-    "placeName": "Adlershof",
     "street": "Ernst-Ruska-Ufer",
-    "summaryEn": "A 47-year-old campaign helper putting up election posters was hit from behind by a cyclist and fell, suffering injuries. The cyclist fled, and the police Staatsschutz unit is investigating.",
+    "houseNumberOrCrossing": null,
+    "placeName": "Adlershof",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A 47-year-old campaign helper putting up election posters was allegedly deliberately struck from behind by an unknown cyclist and injured. The state security unit is investigating.",
+    "injured": 1,
+    "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.895Z"
+  "extractedAt": "2026-11-13T18:49:04.289Z"
 }

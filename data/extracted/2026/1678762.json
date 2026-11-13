@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "Two men were seen removing wheels from a parked car in Mitte and fled in a rental vehicle. Police later found the vehicle, five tyre sets and suspected tools, and arrested a 19-year-old man at his Neukölln flat.",
+    "summaryEn": "Two men were seen removing wheels from a parked car in Mitte and fled in a rental vehicle. A 19-year-old suspect was later arrested at his Neukölln flat after a search.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.719Z"
+  "extractedAt": "2026-11-13T18:49:04.225Z"
 }

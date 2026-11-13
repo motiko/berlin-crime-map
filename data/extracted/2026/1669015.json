@@ -6,16 +6,16 @@
   "location": "Charlottenburg-Wilmersdorf",
   "extraction": {
     "category": "traffic",
-    "incidentDate": "2026-05-06",
-    "street": "Seesener Straße",
-    "houseNumberOrCrossing": "Hohenzollerndamm",
-    "placeName": "Wilmersdorf",
-    "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A car turning right from Seesener Straße onto Hohenzollerndamm hit a 70-year-old woman crossing the road around 1 p.m. The pedestrian suffered a leg fracture and was taken to hospital.",
-    "injured": 1,
     "dead": 0,
+    "district": "Charlottenburg-Wilmersdorf",
+    "houseNumberOrCrossing": "Hohenzollerndamm",
+    "incidentDate": "2026-05-06",
+    "injured": 1,
+    "placeName": null,
+    "street": "Seesener Straße",
+    "summaryEn": "A 42-year-old driver hit a 70-year-old pedestrian turning right onto Hohenzollerndamm in Wilmersdorf. The woman suffered a leg fracture and was taken to hospital.",
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.829Z"
+  "extractedAt": "2026-11-13T18:49:04.200Z"
 }

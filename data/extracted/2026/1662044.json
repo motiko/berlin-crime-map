@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Mildred-Harnack-Straße",
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 65-year-old cyclist who collided with another cyclist at a red light on Mühlenstraße later died in hospital from his injuries. The 14-year-old cyclist was unhurt.",
+    "summaryEn": "A 65-year-old cyclist who collided with a 14-year-old cyclist at a red light on Mühlenstraße later died in hospital. The 14-year-old was not injured.",
     "injured": 1,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.849Z"
+  "extractedAt": "2026-11-13T18:49:04.307Z"
 }

@@ -5,17 +5,17 @@
   "title": "Angeschossener Jugendlicher im Krankenhaus",
   "location": "Steglitz-Zehlendorf",
   "extraction": {
-    "category": "homicide",
-    "incidentDate": "2026-06-27",
-    "street": "Holsteinische Straße",
-    "houseNumberOrCrossing": null,
-    "placeName": null,
-    "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A 17-year-old was shot on a pavement and seriously wounded by an unknown gunman, who fled; a homicide unit is investigating an attempted killing. The victim is in critical condition after emergency surgery.",
-    "injured": 1,
+    "category": "shooting",
     "dead": 0,
+    "district": "Steglitz-Zehlendorf",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-06-27",
+    "injured": 1,
+    "placeName": null,
+    "street": "Holsteinische Straße",
+    "summaryEn": "A 17-year-old was shot on the pavement in Holsteinische Straße in Steglitz and is in critical condition; the unknown shooter fled. Homicide investigators are handling the case as an attempted killing.",
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.808Z"
+  "extractedAt": "2026-11-13T18:49:04.319Z"
 }

@@ -7,15 +7,15 @@
   "extraction": {
     "category": "political",
     "incidentDate": "2026-08-20",
-    "street": "Potsdamer Straße",
-    "houseNumberOrCrossing": "Großgörschen Straße",
+    "street": null,
+    "houseNumberOrCrossing": null,
     "placeName": null,
-    "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Multiple election posters were damaged overnight across Berlin, including several in Lichtenberg, Pankow and Schöneberg; the State Protection unit is investigating. In Schöneberg, a 35-year-old man was found to have set a poster on fire and was taken to a hospital for psychiatric care.",
+    "district": null,
+    "summaryEn": "Multiple incidents of damaged, removed and burned election posters across Berlin were reported in the day and night before the House of Representatives election. The Staatsschutz is investigating all cases; one 35-year-old man admitted setting a poster on fire.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.866Z"
+  "extractedAt": "2026-11-13T18:49:04.189Z"
 }

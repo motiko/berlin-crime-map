@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "Unknown perpetrators tried to blow up a cash machine in Moabit around 4 a.m. and damaged the machine. The State Criminal Police Office's specialist unit has taken over the investigation.",
+    "summaryEn": "Unknown perpetrators tried to blow up a cash machine in Moabit in the early morning, damaging the machine. The State Criminal Police Office's specialist unit is investigating.",
     "injured": 0,
     "dead": 0,
     "weaponType": "explosive"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.292Z"
+  "extractedAt": "2026-11-13T18:42:21.599Z"
 }

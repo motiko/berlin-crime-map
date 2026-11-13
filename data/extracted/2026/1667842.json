@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Reinickendorf",
-    "summaryEn": "Two men were injured in a physical fight in a residential building on Eichborndamm after a witness heard noises and saw blood in the stairwell. Police found blood-stained objects, including a knife blade, at the scene.",
+    "summaryEn": "Two men got into a physical fight in a residential building on Eichborndamm, leaving both injured. Police found blood-stained objects, including a knife blade, at the scene.",
     "injured": 2,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.724Z"
+  "extractedAt": "2026-11-13T18:49:04.327Z"
 }

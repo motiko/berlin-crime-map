@@ -8,14 +8,14 @@
     "category": "other",
     "incidentDate": "2026-07-27",
     "street": "Falckensteinstraße",
-    "houseNumberOrCrossing": "Wrangelstraße",
+    "houseNumberOrCrossing": "Schlesische Straße",
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A loud bang reported in Falckensteinstraße was followed by a power outage affecting several buildings in the area. A short circuit in a nearby transformer station is believed to have caused the outage, and no one was hurt.",
+    "summaryEn": "A loud bang in Falckensteinstraße was followed by a power outage affecting several buildings in the area. Police found a short circuit in a nearby transformer caused the outage, and nobody was hurt.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.738Z"
+  "extractedAt": "2026-11-13T18:49:04.129Z"
 }

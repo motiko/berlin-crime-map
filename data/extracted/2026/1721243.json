@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Hotel",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A group of about ten people attacked two guests in a hotel stairwell in Charlottenburg, and one of them threatened a 20-year-old with a weapon and a knife. Two 17-year-old guests were also punched while the group fled, and three suspects were arrested and released after identification measures.",
+    "summaryEn": "A group of about ten people attacked two men in a hotel stairwell, and one member threatened a 20-year-old with a weapon and a knife. Two 17-year-old guests were punched while the group fled, and three suspects were detained and later released.",
     "injured": 4,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.712Z"
+  "extractedAt": "2026-11-13T18:49:04.319Z"
 }

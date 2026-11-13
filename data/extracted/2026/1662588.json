@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Sportplatz am Oschatzer Ring",
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "After a football match, around 20 people allegedly attacked two players and a spectator of the visiting team with punches, kicks and shoves. One attacker allegedly tried to hit a player with a fire extinguisher in the changing room, but witnesses prevented it.",
+    "summaryEn": "After a football match in Hellersdorf, about 20 people attacked two players and a spectator from the visiting team; one attacker tried to hit a player with a fire extinguisher in the changing room, but witnesses stopped it. The injured were 20, 21 and 23 years old and declined medical treatment.",
     "injured": 3,
     "dead": 0,
-    "weaponType": "fire extinguisher"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.890Z"
+  "extractedAt": "2026-11-13T18:49:04.473Z"
 }

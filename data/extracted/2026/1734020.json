@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Café",
     "district": "Reinickendorf",
-    "summaryEn": "A fire broke out in the women's toilet of a café on Residenzstraße, cause unknown; an employee opened the emergency exit and smoke entered the stairwell. Two people were treated for smoke inhalation, and police are investigating suspected attempted arson.",
+    "summaryEn": "A fire broke out in the women's toilet of a café on Residenzstraße, causing smoke in the stairwell and forcing firefighters to open apartment doors. Two people were treated for smoke inhalation; police are investigating suspected attempted arson.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.445Z"
+  "extractedAt": "2026-11-13T18:49:04.382Z"
 }

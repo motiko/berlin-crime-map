@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Wilhelm-Guddorf-Straße",
     "placeName": null,
     "district": "Lichtenberg",
-    "summaryEn": "A 39-year-old pedestrian was hit by a car on Gürtelstraße while crossing from the median strip and was seriously injured. The road was closed to traffic for about 1.5 hours, affecting two tram lines.",
+    "summaryEn": "A 39-year-old pedestrian crossing Gürtelstraße was hit by a car and suffered serious internal injuries. He was taken to hospital, and the road was closed to traffic for about 1.5 hours.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.986Z"
+  "extractedAt": "2026-11-13T18:49:04.241Z"
 }

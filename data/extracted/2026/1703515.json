@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Europaplatz",
     "district": "Mitte",
-    "summaryEn": "A 37-year-old man repeatedly kicked a 43-year-old man lying on the ground at Europaplatz in Mitte, causing a serious head injury. BVG employees intervened and held the suspect until federal police arrived.",
+    "summaryEn": "A 37-year-old man repeatedly kicked a 43-year-old man lying on the ground at Europaplatz, causing a serious head injury. BVG staff held the suspect until federal police arrived.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.697Z"
+  "extractedAt": "2026-11-13T18:49:04.400Z"
 }

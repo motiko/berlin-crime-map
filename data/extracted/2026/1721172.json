@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "A 46-year-old man allegedly spray-painted several memorial stones laid in the pavement on Greifswalder Straße and was temporarily detained. The case was taken over by the state security unit (Staatsschutz).",
+    "summaryEn": "A 46-year-old man allegedly spray-painted several memorial stones laid in the pavement on Greifswalder Straße and was briefly detained. The Staatsschutz unit has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.947Z"
+  "extractedAt": "2026-11-13T18:49:04.300Z"
 }

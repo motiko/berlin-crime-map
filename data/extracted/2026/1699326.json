@@ -9,13 +9,13 @@
     "incidentDate": "2026-07-31",
     "street": "Kronprinzenbrücke",
     "houseNumberOrCrossing": null,
-    "placeName": "Kronprinzenbrücke",
+    "placeName": null,
     "district": "Mitte",
-    "summaryEn": "After an argument between four men on the Kronprinzenbrücke around midnight, one man struck two others with a fist, a bottle and a knife, injuring both. Police later found several knives at the suspect's apartment and seized them.",
+    "summaryEn": "After an argument on the Kronprinzenbrücke around midnight, a man struck another man with a bottle and a fist and then injured two men with a knife before fleeing. Police later searched the suspect's flat, seized several knives, and released him after identification measures.",
     "injured": 2,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.855Z"
+  "extractedAt": "2026-11-13T18:49:04.205Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Ritterfelddamm",
     "placeName": "Kladow",
     "district": "Spandau",
-    "summaryEn": "A 65-year-old cyclist was injured after a car pulled out of a parking area and her near-collision led to a fall. The unknown driver fled the scene.",
+    "summaryEn": "A 65-year-old cyclist was injured after an unknown driver pulled out from a parking area and fled the scene. The cyclist fell while trying to avoid a collision and was taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.209Z"
+  "extractedAt": "2026-11-13T18:42:21.566Z"
 }

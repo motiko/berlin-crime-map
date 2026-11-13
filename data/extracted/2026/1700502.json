@@ -9,13 +9,13 @@
     "incidentDate": "2026-08-06",
     "street": "David-Francke-Straße",
     "houseNumberOrCrossing": null,
-    "placeName": "Imbiss in Hakenfelde",
+    "placeName": "Hakenfelde",
     "district": "Spandau",
-    "summaryEn": "Two unknown men robbed a snack bar in Hakenfelde early in the morning, threatening an employee with a firearm and taking the cash box. The employee was not injured and the suspects fled on a motorcycle.",
+    "summaryEn": "Two masked unknown suspects robbed a snack bar in Hakenfelde early in the morning, threatening an employee with a firearm and taking the cash register. The employee was not hurt; the suspects fled on a motorbike.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.670Z"
+  "extractedAt": "2026-11-13T18:49:04.233Z"
 }

@@ -7,15 +7,15 @@
   "extraction": {
     "category": "traffic",
     "incidentDate": "2026-09-21",
-    "street": "Stadtautobahn (BAB 100)",
-    "houseNumberOrCrossing": "Anschlussstelle Alboinstraße",
-    "placeName": null,
+    "street": "Stadtautobahn BAB 100",
+    "houseNumberOrCrossing": "Alboinstraße",
+    "placeName": "Stadtautobahn",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 32-year-old motorcyclist was injured in a collision with a Ford and a Kia on the urban motorway (BAB 100) near the Alboinstraße junction. The motorway was closed in the direction of the north for about half an hour.",
+    "summaryEn": "A 32-year-old motorcyclist was injured after a collision with two cars while overtaking on the urban motorway (BAB 100) near the Alboinstraße exit. The motorway was closed in the northbound direction for about half an hour.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.699Z"
+  "extractedAt": "2026-11-13T18:49:04.095Z"
 }

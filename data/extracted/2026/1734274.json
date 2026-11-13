@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Münsinger Park",
     "district": "Spandau",
-    "summaryEn": "A 38-year-old man was punched in the face by an unknown attacker at Münsinger Park and taken to hospital with a serious facial wound. The attacker fled and the investigation was taken over by a specialist unit.",
+    "summaryEn": "A 38-year-old man was punched in the face by an unknown attacker at Münsinger Park and fled. Police found his left cheek had been pierced and an ambulance took him to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.427Z"
+  "extractedAt": "2026-11-13T18:49:04.386Z"
 }

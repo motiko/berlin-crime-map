@@ -6,16 +6,16 @@
   "location": "Reinickendorf",
   "extraction": {
     "category": "traffic",
-    "dead": 0,
-    "district": "Reinickendorf",
-    "houseNumberOrCrossing": "Treuenbrietzener Straße",
     "incidentDate": "2026-04-20",
-    "injured": 1,
-    "placeName": "Märkisches Viertel",
     "street": "Wilhelmsruher Damm",
-    "summaryEn": "A 61-year-old man overturned his car on Wilhelmsruher Damm in the Märkisches Viertel area overnight and was seriously hurt. Two parked cars were also damaged, and the road was closed during the accident investigation.",
-    "weaponType": "vehicle"
+    "houseNumberOrCrossing": "Treuenbrietzener Straße",
+    "placeName": "Märkisches Viertel",
+    "district": "Reinickendorf",
+    "summaryEn": "A 61-year-old man lost control of his car on Wilhelmsruher Damm overnight and it overturned, injuring him. Two parked cars were also damaged.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.973Z"
+  "extractedAt": "2026-11-13T18:49:04.329Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Virchow-Klinikum",
     "district": "Mitte",
-    "summaryEn": "Unknown suspects threatened a cash-transport driver (38) with a weapon on the Virchow Clinic grounds and stole several cash boxes. The suspects fled in an anthracite Audi A3.",
+    "summaryEn": "Unknown suspects threatened a 38-year-old cash-transport driver with a weapon and took cash cassettes from the vehicle at the Virchow-Klinikum campus. The suspects fled in an anthracite Audi A3, and police are asking for witnesses.",
     "injured": 0,
     "dead": 0,
-    "weaponType": "firearm"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.959Z"
+  "extractedAt": "2026-11-13T18:49:04.340Z"
 }

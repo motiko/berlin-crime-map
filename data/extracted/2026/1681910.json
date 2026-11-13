@@ -5,17 +5,17 @@
   "title": "Durchsuchungen und Haftbefehle wegen bandenmäßiger Urkundenfälschung",
   "location": "berlinweit",
   "extraction": {
-    "category": "fraud",
+    "category": "raid",
     "incidentDate": "2026-06-15",
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Police and prosecutors raided 14 residences across Berlin and arrested five suspects over an alleged gang forging language certificates sold nationwide. Ten suspects, aged 22 to 32, are under investigation for gang-based document forgery.",
+    "summaryEn": "Police and prosecutors searched 14 residences across Berlin and arrested five suspects in a gang-related investigation into forged language certificates. Cash, certificates, printers and data devices were seized.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.860Z"
+  "extractedAt": "2026-11-13T18:50:36.627Z"
 }

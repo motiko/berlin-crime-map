@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Buckow",
     "district": "Neukölln",
-    "summaryEn": "A 47-year-old man caused several hit-and-run traffic accidents with parked cars in Buckow, then fled the scene. He was later found nearby, resisted police and headbutted an officer, injuring the officer.",
+    "summaryEn": "A 47-year-old man caused several parked-car collisions in Buckow and fled the scene, suspected of being under the influence of alcohol. During his arrest he resisted officers and headbutted one, injuring the officer.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.766Z"
+  "extractedAt": "2026-11-13T18:49:04.200Z"
 }

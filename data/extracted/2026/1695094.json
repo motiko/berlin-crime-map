@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "21",
     "placeName": "Wittenau",
     "district": "Reinickendorf",
-    "summaryEn": "A 24-year-old cyclist swerved to avoid a car overtaking too closely, crashed into a parked car and was injured. The driver did not stop and fled the scene.",
+    "summaryEn": "A 24-year-old cyclist was injured after swerving to avoid a close-passing car and crashing into a parked car. The unidentified driver did not stop after the collision.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.059Z"
+  "extractedAt": "2026-11-13T18:49:04.286Z"
 }

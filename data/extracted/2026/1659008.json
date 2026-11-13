@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Reinickendorf",
-    "summaryEn": "A hole was found in the transom window of a shop on Namslaustraße, and a projectile resembling a shotgun slug was discovered inside. An unknown man then took the projectile and left a stone behind before fleeing.",
+    "summaryEn": "Damage was found in the transom window of a shop on Namslaustraße, with a projectile found inside. An unknown man reportedly took the projectile and left a stone before fleeing.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.327Z"
+  "extractedAt": "2026-11-13T18:42:21.591Z"
 }

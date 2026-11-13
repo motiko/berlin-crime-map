@@ -9,13 +9,13 @@
     "incidentDate": "2026-05-21",
     "street": "Edwin-Redslob-Straße",
     "houseNumberOrCrossing": null,
-    "placeName": "Spielplatz in Dahlem",
+    "placeName": "Dahlem",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "Six Middle East-related slogans were sprayed in silver paint on the backrests of four park benches, reported by a passerby. The state security unit has taken over the investigation.",
+    "summaryEn": "Four park benches in Dahlem were found with six Middle East conflict-related slogans sprayed in silver paint. The State Security unit (Staatsschutz) has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.956Z"
+  "extractedAt": "2026-11-13T18:49:04.225Z"
 }

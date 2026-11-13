@@ -5,17 +5,17 @@
   "title": "Auf gestohlenem Motorrad eingeschlafen - Festnahme",
   "location": "Neukölln",
   "extraction": {
-    "category": "robbery",
+    "category": "burglary",
     "incidentDate": "2026-10-12",
     "street": "Bendastraße",
     "houseNumberOrCrossing": "Kranoldplatz",
     "placeName": "Kranoldplatz",
     "district": "Neukölln",
-    "summaryEn": "Passers-by found a man asleep on a motorcycle at Kranoldplatz in the early hours and alerted police. The Honda was believed stolen earlier in the week, and a 21-year-old was arrested.",
+    "summaryEn": "Police arrested a 21-year-old man found asleep on a motorbike suspected of being stolen, with manipulated ignition. The motorcycle had reportedly been stolen in Gropiusstadt earlier in the week.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.040Z"
+  "extractedAt": "2026-11-13T18:49:04.288Z"
 }

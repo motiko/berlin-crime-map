@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Müggelseedamm",
     "placeName": "Friedrichshagen",
     "district": "Treptow-Köpenick",
-    "summaryEn": "An eight-year-old girl was injured when she collided with a cyclist at a crossing in Friedrichshagen and suffered a leg fracture. The cyclist was unhurt.",
+    "summaryEn": "An eight-year-old girl was injured when she collided with a cyclist at a crossing in Friedrichshagen and suffered a leg fracture. The cyclist was not hurt.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.848Z"
+  "extractedAt": "2026-11-13T18:49:04.284Z"
 }

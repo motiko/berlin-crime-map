@@ -9,13 +9,13 @@
     "incidentDate": "2026-01-27",
     "street": "Heinz-Galinski-Straße",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Krankenhaus Gesundbrunnen",
     "district": "Mitte",
-    "summaryEn": "A fire broke out in a patient's room at a hospital in Gesundbrunnen overnight, spreading to the mattress. Hospital staff began extinguishing it before the fire brigade arrived, and 14 people were injured.",
+    "summaryEn": "A fire broke out in a hospital patient room at night, spreading to the mattress. The arson investigation was taken over by a fire investigation unit after political motives were ruled out.",
     "injured": 14,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.239Z"
+  "extractedAt": "2026-11-13T18:42:21.537Z"
 }

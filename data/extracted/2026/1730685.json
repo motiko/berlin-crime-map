@@ -9,13 +9,13 @@
     "incidentDate": "2026-10-22",
     "street": "Berliner Straße",
     "houseNumberOrCrossing": null,
-    "placeName": "ehemaliges Jüdisches Waisenhaus (Bibliothek)",
+    "placeName": "Bibliothek, ehemaliges Jüdisches Waisenhaus",
     "district": "Pankow",
-    "summaryEn": "An unknown person scratched an information board at a library entrance with a broken beer bottle and made antisemitic remarks. The Staatsschutz (political crime unit) has taken over the investigation.",
+    "summaryEn": "An unknown person scratched an information board at a library entrance with a broken beer bottle and made antisemitic remarks. State security (Staatsschutz) has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": "broken bottle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.820Z"
+  "extractedAt": "2026-11-13T18:49:04.340Z"
 }

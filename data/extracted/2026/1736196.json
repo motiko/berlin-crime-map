@@ -13,9 +13,9 @@
     "injured": 0,
     "placeName": "Mentzelpark",
     "street": null,
-    "summaryEn": "Two teenagers were reported for playing inflammatory extremist music loudly in a park in Köpenick. Police seized one teen's mobile phone, and the Staatsschutz has taken over the investigation.",
+    "summaryEn": "Two teenagers were found playing inflammatory extremist music loudly in a park in Köpenick. The State Security unit has taken over the investigation.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.421Z"
+  "extractedAt": "2026-11-13T18:49:04.378Z"
 }

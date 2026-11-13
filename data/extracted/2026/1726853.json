@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Sensburger Allee",
     "placeName": "Westend",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "During a traffic check in Westend, a 20-year-old driver fled and sprayed irritant spray at a police officer, who fell and was hurt. The suspect was later arrested and two irritant spray devices were seized.",
+    "summaryEn": "After a traffic check, a 20-year-old driver fled on foot and sprayed irritant spray into a police officer's face, injuring the officer. The suspect was arrested later in a garden plot and found with two irritant spray devices.",
     "injured": 1,
     "dead": 0,
     "weaponType": "irritant spray"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.880Z"
+  "extractedAt": "2026-11-13T18:49:04.191Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Marzahner Straße",
     "placeName": "Alt-Hohenschönhausen",
     "district": "Lichtenberg",
-    "summaryEn": "Two drivers and a passenger were injured in a collision at an intersection where the traffic lights were out of order. The driver of an unlicensed car is under investigation for driving without a licence.",
+    "summaryEn": "A collision at an unlit intersection in Alt-Hohenschönhausen (traffic light out of order) sent two drivers and a passenger to hospital. The 65-year-old driver had no valid driving licence and is under investigation.",
     "injured": 3,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.207Z"
+  "extractedAt": "2026-11-13T18:42:21.611Z"
 }

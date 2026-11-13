@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Groenerstraße",
     "placeName": null,
     "district": "Spandau",
-    "summaryEn": "In the early hours, a man was hit by an air rifle pellet on Falkenseer Damm in Spandau and suffered a superficial skin injury. A 28-year-old suspect was arrested in a nearby flat, where police seized an air rifle, a blank pistol, a butterfly knife and an axe.",
+    "summaryEn": "A 32-year-old man was hit in the stomach by an air rifle pellet on Falkenseer Damm in Spandau and suffered a superficial skin injury. A 28-year-old suspect was arrested in an apartment in Groenerstraße after a police search.",
     "injured": 2,
     "dead": 0,
     "weaponType": "air rifle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.957Z"
+  "extractedAt": "2026-11-13T18:49:04.232Z"
 }

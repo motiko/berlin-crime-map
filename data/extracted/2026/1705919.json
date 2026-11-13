@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Helsingforser Platz",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 20-year-old man reported missing from a psychiatric ward, who was considered a danger to others, was found and taken back into care at Helsingforser Platz in Friedrichshain. He is back under supervision at the hospital.",
+    "summaryEn": "A 20-year-old missing man, who had been reported as a potential danger to others, was found and taken into custody in Friedrichshain and returned to hospital care. The earlier appeal concerned a man who had gone missing from a psychiatric ward on Dieffenbachstraße.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.051Z"
+  "extractedAt": "2026-11-13T18:49:04.404Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Bullet holes were found in a company building and a company vehicle parked in front of it in Wilmersdorf. Several cartridge casings were secured, and no one was hurt.",
+    "summaryEn": "Bullet holes were found in a company building and a company vehicle parked in front of it in Wilmersdorf. Police secured several cartridge cases; nobody was hurt.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.904Z"
+  "extractedAt": "2026-11-13T18:49:04.423Z"
 }

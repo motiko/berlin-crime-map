@@ -7,15 +7,15 @@
   "extraction": {
     "category": "assault",
     "incidentDate": "2026-02-14",
-    "street": "Rheinsteinpark",
+    "street": null,
     "houseNumberOrCrossing": null,
     "placeName": "Rheinsteinpark",
     "district": "Lichtenberg",
-    "summaryEn": "A 19-year-old man sprayed paint inside a public toilet and into the face of a 17-year-old, then struck him twice in the face. He was arrested and released after an identity check; the 17-year-old was treated in hospital.",
+    "summaryEn": "A 19-year-old sprayed paint in a public toilet at a park in Karlshorst and then sprayed paint into a 17-year-old's face and punched him twice. The suspect was arrested and later released after a breath test showed about 1.6 per mille.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.318Z"
+  "extractedAt": "2026-11-13T18:42:21.606Z"
 }

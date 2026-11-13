@@ -9,13 +9,13 @@
     "incidentDate": "2026-07-16",
     "street": "Berliner Allee",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Weißensee",
     "district": "Pankow",
-    "summaryEn": "Several unknown perpetrators forced their way into a flat in Weißensee by knocking, attacked the 72-year-old tenant with a baseball bat and iron bar, and searched the apartment. The tenant was injured and sprayed with pepper spray before the suspects fled.",
+    "summaryEn": "Several unknown perpetrators forced their way into a flat by knocking, attacked the 72-year-old tenant with a baseball bat and an iron bar, searched the flat and sprayed him with pepper spray. The man suffered head and torso injuries.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "baseball bat and iron bar"
+    "weaponType": "baseball bat, iron bar, pepper spray"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.969Z"
+  "extractedAt": "2026-11-13T18:49:04.205Z"
 }

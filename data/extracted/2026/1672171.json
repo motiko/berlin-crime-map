@@ -5,17 +5,17 @@
   "title": "Auseinandersetzung im Volkspark – Zeuginnen und Zeugen gesucht",
   "location": "Neukölln",
   "extraction": {
-    "category": "homicide",
+    "category": "knife",
     "incidentDate": "2026-05-18",
     "street": "Lucy-Lameck-Straße",
-    "houseNumberOrCrossing": "Eingang Volkspark Hasenheide",
+    "houseNumberOrCrossing": null,
     "placeName": "Volkspark Hasenheide",
     "district": "Neukölln",
-    "summaryEn": "A dispute at Volkspark Hasenheide escalated when a man from a group allegedly stabbed a 60-year-old who had tried to mediate. His 48-year-old friend, who came to help, was also stabbed; both were seriously injured and a homicide unit is investigating attempted killings.",
+    "summaryEn": "During an argument in Volkspark Hasenheide, a man was stabbed several times with a knife, and a 48-year-old who came to help was also stabbed. The 60-year-old is in life-threatening condition, and the 48-year-old in critical condition, and the 7th Homicide Commission is investigating.",
     "injured": 2,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.959Z"
+  "extractedAt": "2026-11-13T18:49:04.214Z"
 }

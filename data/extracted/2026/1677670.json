@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "Special forces arrested a 37-year-old man in his Hellersdorf flat after he reportedly went door to door in an apartment block holding a weapon. Police seized two blank-firing guns, an air pistol, two machetes, fireworks and suspected narcotics.",
-    "injured": 1,
+    "summaryEn": "Special forces arrested a 37-year-old man who had allegedly gone door to door in an apartment block with a weapon. A search of his flat found replica guns, machetes, fireworks and suspected narcotics.",
+    "injured": 0,
     "dead": 0,
-    "weaponType": "machete"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.716Z"
+  "extractedAt": "2026-11-13T18:50:38.134Z"
 }

@@ -6,16 +6,16 @@
   "location": "Spandau",
   "extraction": {
     "category": "burglary",
-    "incidentDate": "2026-07-07",
-    "street": "Semmelländerweg",
-    "houseNumberOrCrossing": null,
-    "placeName": "Bäckerei",
-    "district": "Spandau",
-    "summaryEn": "A 20-year-old man was arrested after attempting to break into a bakery at night; an off-duty police officer caught him and police seized his tools. No loot was taken, and a judge later ordered his detention.",
-    "injured": 0,
     "dead": 0,
+    "district": "Spandau",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-07-07",
+    "injured": 0,
+    "placeName": "Staaken",
+    "street": "Semmelländerweg",
+    "summaryEn": "An attempted break-in at a bakery was foiled when an off-duty police officer saw the broken window and caught a 20-year-old suspect. Police seized the suspect's torch and burglary tools, and a court issued an arrest warrant.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.788Z"
+  "extractedAt": "2026-11-13T18:49:04.423Z"
 }

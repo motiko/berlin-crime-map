@@ -8,14 +8,14 @@
     "category": "political",
     "incidentDate": "2026-09-15",
     "street": "Johannisthaler Chaussee",
-    "houseNumberOrCrossing": "Johannisthaler Chaussee",
+    "houseNumberOrCrossing": null,
     "placeName": "U-Bahnhof Johannisthaler Chaussee",
     "district": "Neukölln",
-    "summaryEn": "An unknown man verbally attacked a 40-year-old member of parliament at a party information stand, then pushed him, shouted at him and dropped a campaign stand to the ground. The police Staatsschutz unit has taken over the investigation.",
+    "summaryEn": "An unknown man verbally attacked a 40-year-old member of parliament at a party information stand, pushed him and shouted at him, then fled. The State Security unit has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.817Z"
+  "extractedAt": "2026-11-13T18:49:04.404Z"
 }

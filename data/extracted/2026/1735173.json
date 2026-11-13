@@ -5,17 +5,17 @@
   "title": "Polizist bestohlen - Festnahme",
   "location": "Tempelhof-Schöneberg",
   "extraction": {
-    "category": "robbery",
+    "category": "burglary",
     "incidentDate": "2026-11-03",
     "street": "Kleiststraße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "An off-duty police officer caught a suspected pickpocket who had opened his backpack in Schöneberg; a second off-duty officer assisted, and the suspect resisted arrest. A pepper spray and a pocket knife were seized.",
+    "summaryEn": "An off-duty police officer caught a pickpocket who had opened his backpack in Schöneberg and detained him until more officers arrived. The suspect resisted arrest and was found with a pepper spray and a pocket knife, which were seized.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.433Z"
+  "extractedAt": "2026-11-13T18:49:04.442Z"
 }

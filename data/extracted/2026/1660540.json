@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Alt-Treptow",
     "placeName": "Plänterwald",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A 22-year-old driver without a valid licence fled a traffic check in Plänterwald and crashed into a tree after mounting the pavement and hitting a pedestrian's area. A pedestrian suffered only grazes and the 19-year-old passenger was hospitalised.",
+    "summaryEn": "A 22-year-old driver without a valid licence fled a traffic check at high speed, hit a pedestrian's side and crashed into a tree. A passenger was hospitalised, and the car was seized along with drugs and a replica gun.",
     "injured": 2,
     "dead": 0,
-    "weaponType": null
+    "weaponType": "blank-firing gun"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.766Z"
+  "extractedAt": "2026-11-13T18:49:04.169Z"
 }

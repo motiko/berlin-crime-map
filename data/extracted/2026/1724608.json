@@ -6,16 +6,16 @@
   "location": "Charlottenburg-Wilmersdorf",
   "extraction": {
     "category": "explosion",
-    "incidentDate": "2026-10-12",
+    "incidentDate": "2026-10-11",
     "street": "Stuttgarter Platz",
     "houseNumberOrCrossing": null,
     "placeName": "Stuttgarter Platz",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Suspected explosive device detonated overnight at Stuttgarter Platz, damaging two vehicles, a third vehicle and apartment windows nearby. The state criminal police task force BAO Ferrum took over the investigation.",
+    "summaryEn": "Overnight, a suspected explosive device went off at Stuttgarter Platz, damaging two vehicles, a third vehicle and apartment windows nearby. Nobody was hurt; the state criminal police's special commission BAO Ferrum took over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": "explosive"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.970Z"
+  "extractedAt": "2026-11-13T18:49:04.311Z"
 }

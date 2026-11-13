@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "A 72-year-old tourist stepped onto a bike lane in Schönhauser Allee and collided with an e-scooter rider, both falling. The tourist suffered a foot injury and was taken to hospital; the rider was unhurt.",
+    "summaryEn": "A 72-year-old tourist stepped onto a bike lane in Prenzlauer Berg and collided with an e-scooter rider, both falling. The tourist suffered a foot injury and was taken to hospital; the rider was unhurt.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.690Z"
+  "extractedAt": "2026-11-13T18:49:04.393Z"
 }

@@ -9,13 +9,13 @@
     "incidentDate": "2026-07-17",
     "street": "Großbeerenstraße",
     "houseNumberOrCrossing": null,
-    "placeName": "Tankstelle Mariendorf",
+    "placeName": "Tankstelle Großbeerenstraße, Mariendorf",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Four unknown men attacked a car with a baseball bat and stabbed an 18-year-old occupant, who was seriously injured. Two companions aged 16 and 20 were hurt by shattered windows.",
+    "summaryEn": "Four unknown men attacked a car at a petrol station in Mariendorf with a baseball bat and a knife, seriously injuring an 18-year-old. Two companions, aged 16 and 20, were hurt by shattered windows.",
     "injured": 3,
     "dead": 0,
-    "weaponType": "knife, baseball bat"
+    "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.026Z"
+  "extractedAt": "2026-11-13T18:49:04.176Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Weichselstraße",
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "An unknown man insulted and assaulted an 18-year-old trans person in front of a restaurant, kicking them in the head while on the ground. The case was taken over by the State Security unit.",
-    "injured": 2,
+    "summaryEn": "An unknown man insulted and punched a transgender 18-year-old in front of a restaurant, then kicked her in the head while she lay on the ground; her 21-year-old companion was also insulted. The Staatsschutz took over the investigation.",
+    "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.795Z"
+  "extractedAt": "2026-11-13T18:49:04.265Z"
 }

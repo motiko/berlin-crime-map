@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "S-Bahnhof Grünau",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A missing 16-year-old boy was found safe at Grünau S-Bahn station after a citizen tip and was returned to his mother. He had been missing since 29 April 2026 after leaving a tram in Pankow.",
+    "summaryEn": "A 16-year-old boy reported missing since 29 April 2026 was found safe and returned to his mother. He was located after a citizen tip at S-Bahnhof Grünau.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.876Z"
+  "extractedAt": "2026-11-13T18:49:04.343Z"
 }

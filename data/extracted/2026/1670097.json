@@ -5,17 +5,17 @@
   "title": "Gestohlener Rucksack führt zu mutmaßlichem Drogenhändler",
   "location": "Pankow",
   "extraction": {
-    "category": "drugs",
+    "category": "raid",
     "incidentDate": "2026-05-09",
     "street": "Pappelallee",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "After a stolen tablet was located, police searched a flat in Pappelallee and arrested a 56-year-old suspected thief. Over one kilogram of cocaine, hundreds of ecstasy tablets and other drugs were seized, and the suspect was remanded in custody.",
+    "summaryEn": "Police searched a flat after a stolen backpack and tablet were traced there and arrested a 56-year-old man. Over a kilogram of cocaine, hundreds of ecstasy tablets, cannabis, counterfeit money and other items were seized.",
     "injured": 0,
     "dead": 0,
-    "weaponType": "knife"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.987Z"
+  "extractedAt": "2026-11-13T18:50:41.377Z"
 }

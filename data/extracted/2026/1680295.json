@@ -6,16 +6,16 @@
   "location": "Neukölln",
   "extraction": {
     "category": "assault",
-    "dead": 0,
-    "district": "Neukölln",
-    "houseNumberOrCrossing": null,
     "incidentDate": "2026-06-09",
-    "injured": 6,
-    "placeName": null,
     "street": "Karl-Marx-Straße",
-    "summaryEn": "Police were called to a restaurant on Karl-Marx-Straße over alleged bill evasion, trespassing and threats by a five-person group. Three men were detained after resisting handcuffing, and a stun device was used on two of them.",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "After a report of a bill-evasion, trespass and threats at a bar, police arrested three men; two resisted handcuffing and were subdued with a conducted energy device. Several officers and both arrested men were lightly injured.",
+    "injured": 5,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.035Z"
+  "extractedAt": "2026-11-13T18:49:04.343Z"
 }

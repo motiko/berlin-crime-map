@@ -6,16 +6,16 @@
   "location": "Steglitz-Zehlendorf",
   "extraction": {
     "category": "explosion",
-    "dead": 0,
-    "district": "Steglitz-Zehlendorf",
-    "houseNumberOrCrossing": "1",
     "incidentDate": "2026-06-26",
-    "injured": 0,
-    "placeName": null,
     "street": "Kleinmachnower Weg",
-    "summaryEn": "An explosion occurred on the premises of a car dealership in Zehlendorf in the early hours of 26 June 2026, damaging several vehicles and parts of a building. No one was hurt, and the police are seeking witnesses.",
+    "houseNumberOrCrossing": "1",
+    "placeName": "Gelände eines Autohändlers",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "An explosion occurred on the premises of a car dealer in Zehlendorf, with an unknown person reportedly throwing an object over the fence. Several vehicles and a building were damaged, and nobody was hurt; the State Security unit is investigating.",
+    "injured": 0,
+    "dead": 0,
     "weaponType": "explosive"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.799Z"
+  "extractedAt": "2026-11-13T18:49:04.415Z"
 }

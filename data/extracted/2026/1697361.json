@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Hohensaatener Straße",
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A 19-year-old driver fled from plainclothes police at high speed in a BMW, including on sidewalks and through a red light, before ending in a dead-end street. He and his 20-year-old passenger were arrested, and the car was seized.",
+    "summaryEn": "A 19-year-old fleeing plainclothes officers in a BMW at high speed, driving on pavements and through a red light, ended in a dead-end street and was arrested. He faces charges including illegal street racing and driving without a licence.",
     "injured": 0,
     "dead": 0,
-    "weaponType": null
+    "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.800Z"
+  "extractedAt": "2026-11-13T18:49:04.274Z"
 }

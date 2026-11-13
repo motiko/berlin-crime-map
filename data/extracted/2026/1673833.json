@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A 35-year-old man allegedly threatened playing children with a long-barrelled weapon from a balcony after a noise complaint. A special operations unit entered the flat and found a rifle without ammunition, prohibited knives and untaxed cigarettes.",
+    "summaryEn": "A 35-year-old man allegedly threatened playing children with a long gun from a balcony after complaining about noise; a special forces unit later entered the flat and seized a rifle without ammunition, knives and cigarettes.",
     "injured": 0,
     "dead": 0,
-    "weaponType": "long gun"
+    "weaponType": "long gun (rifle without ammunition)"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.853Z"
+  "extractedAt": "2026-11-13T18:50:39.710Z"
 }

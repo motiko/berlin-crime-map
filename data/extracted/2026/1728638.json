@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "A car hit a 43-year-old pedestrian who stepped into the road on Stralauer Straße in the evening, after emergency braking. A following car then collided with the first vehicle; the pedestrian was taken to hospital with a broken leg and head wound, and two occupants of the second car were treated at the scene.",
-    "injured": 4,
+    "summaryEn": "A pedestrian aged 43 was hit by a car on Stralauer Straße after stepping into the road, and a second car then collided with the first. The pedestrian was taken to hospital with serious injuries, and the two occupants of the second car were treated at the scene.",
+    "injured": 3,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.051Z"
+  "extractedAt": "2026-11-13T18:49:04.450Z"
 }

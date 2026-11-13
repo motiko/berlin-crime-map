@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "Three men tried to steal a car in Zehlendorf using a radio-wave jammer to gain access, but fled without loot when disturbed. Police arrested them shortly afterwards.",
+    "summaryEn": "Three men attempted to steal a car in Zehlendorf using a radio-wave jammer to gain access, but fled without loot when disturbed. Police arrested the suspects shortly afterwards.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.270Z"
+  "extractedAt": "2026-11-13T18:42:21.603Z"
 }

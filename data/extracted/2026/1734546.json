@@ -10,12 +10,12 @@
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": "Altglietzen (Bad Freienwalde)",
-    "district": null,
-    "summaryEn": "A 13-year-old girl who disappeared on her way to school in Berlin-Marzahn on 3 November 2026 was found dead on 8 November 2026 in a vacant building in Altglietzen, Brandenburg. Police are seeking witnesses regarding a silver Citroën C5 estate suspected to have been used in the offence.",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A 13-year-old girl who disappeared on her way to school in Marzahn was found dead in a vacant building in Altglietzen on 8 November. Police are seeking witnesses regarding a Citroën C5 estate suspected to have been used in the crime.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.418Z"
+  "extractedAt": "2026-11-13T18:50:23.200Z"
 }

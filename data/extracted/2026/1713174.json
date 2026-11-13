@@ -6,16 +6,16 @@
   "location": "Pankow",
   "extraction": {
     "category": "traffic",
-    "dead": 1,
-    "district": "Pankow",
-    "houseNumberOrCrossing": "Parkstraße",
     "incidentDate": "2026-09-11",
-    "injured": 2,
-    "placeName": "Weißensee",
     "street": "Rennbahnstraße",
-    "summaryEn": "A 26-year-old driver turning left collided with an oncoming motorcyclist on Rennbahnstraße in Weißensee. The 61-year-old motorcyclist died later in hospital; the driver and his passenger were treated as outpatients.",
+    "houseNumberOrCrossing": "Parkstraße",
+    "placeName": "Weißensee",
+    "district": "Pankow",
+    "summaryEn": "A 26-year-old driver turning left collided with a 61-year-old motorcyclist in Weißensee; the motorcyclist died later in hospital. The driver and his passenger were treated as outpatients.",
+    "injured": 3,
+    "dead": 1,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.964Z"
+  "extractedAt": "2026-11-13T18:49:04.291Z"
 }

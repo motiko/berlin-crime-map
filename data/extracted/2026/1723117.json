@@ -6,16 +6,16 @@
   "location": "Charlottenburg-Wilmersdorf",
   "extraction": {
     "category": "traffic",
-    "dead": null,
-    "district": "Charlottenburg-Wilmersdorf",
-    "houseNumberOrCrossing": "Gotzkowskybrücke",
     "incidentDate": "2026-10-07",
-    "injured": 1,
-    "placeName": null,
     "street": "Franklinstraße",
-    "summaryEn": "A 79-year-old truck driver turned left on Franklinstraße and hit a cyclist, who was seriously injured. The road was closed to traffic for about three hours during the police investigation.",
+    "houseNumberOrCrossing": "Gotzkowskybrücke",
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A 79-year-old truck driver turned left on Franklinstraße and hit a cyclist, a 55-year-old, who was seriously injured. Police traffic investigators have taken over the case.",
+    "injured": 1,
+    "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.673Z"
+  "extractedAt": "2026-11-13T18:49:04.320Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Bürgeramt",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Politically motivated paint graffiti was found on the facade of a district citizens' office overnight. The State Security unit has taken over the investigation.",
+    "summaryEn": "Red paint with political slogans was sprayed on the facade of a district citizens' office in Kreuzberg overnight. The state security unit has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.432Z"
+  "extractedAt": "2026-11-13T18:49:04.342Z"
 }

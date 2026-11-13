@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "S-Bahnhof Tegel",
     "district": "Reinickendorf",
-    "summaryEn": "After police were called to S-Bahn Tegel over people surfing on a train, a 15-year-old sprayed an officer with pepper spray as he pursued them. The officer was injured and treated in hospital, and the teenager was handed over to his parents.",
+    "summaryEn": "A 15-year-old sprayed pepper spray into a police officer's face after officers tried to stop people suspected of S-Bahn surfing at Tegel station. The officer was hurt, treated in hospital as an outpatient and ended his shift.",
     "injured": 1,
     "dead": 0,
     "weaponType": "pepper spray"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.675Z"
+  "extractedAt": "2026-11-13T18:49:04.167Z"
 }

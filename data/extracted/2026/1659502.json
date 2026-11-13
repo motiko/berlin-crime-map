@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Bundeskanzleramt",
     "district": "Mitte",
-    "summaryEn": "A 76-year-old man spray-painted a large area of the Federal Chancellery facade in red and held up a political banner while a 40-year-old companion filmed. The State Security unit took over the investigation for criminal damage.",
+    "summaryEn": "A 76-year-old man spray-painted red paint over about six square metres of the Federal Chancellery facade and held up a political banner. The case was taken over by the state security unit.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.344Z"
+  "extractedAt": "2026-11-13T18:42:21.622Z"
 }

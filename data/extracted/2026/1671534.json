@@ -6,16 +6,16 @@
   "location": "Treptow-Köpenick",
   "extraction": {
     "category": "traffic",
-    "dead": 0,
-    "district": "Treptow-Köpenick",
-    "houseNumberOrCrossing": "Lahmertstraße",
     "incidentDate": "2026-05-16",
-    "injured": 1,
-    "placeName": "Grünau",
     "street": "Regattastraße",
-    "summaryEn": "An 85-year-old driver hit a 6-year-old child who ran between parked cars into the road on Regattastraße in Grünau, despite an emergency braking attempt. The child was taken to hospital with a head wound and back injuries.",
+    "houseNumberOrCrossing": "Lahmertstraße",
+    "placeName": "Grünau",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "An 85-year-old driver hit a 6-year-old child who ran between parked cars into the road on Regattastraße in Grünau despite emergency braking. The child suffered a head wound and back injuries and was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.829Z"
+  "extractedAt": "2026-11-13T18:49:04.342Z"
 }

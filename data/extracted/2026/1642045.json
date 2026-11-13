@@ -9,13 +9,13 @@
     "incidentDate": "2026-02-09",
     "street": "Große Hamburger Straße",
     "houseNumberOrCrossing": null,
-    "placeName": "Jüdischer Friedhof",
+    "placeName": "jüdischer Friedhof",
     "district": "Mitte",
-    "summaryEn": "Unknown persons destroyed a memorial plaque at a Jewish cemetery in Mitte; glass fragments and the damaged metal frame were found. The State Security unit has taken over the investigation.",
+    "summaryEn": "Unknown perpetrators destroyed a memorial plaque at a Jewish cemetery in Mitte. The Staatsschutz has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.254Z"
+  "extractedAt": "2026-11-13T18:42:21.545Z"
 }

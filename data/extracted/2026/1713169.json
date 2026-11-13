@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Berliner Straße",
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "Four teenagers were arrested in Pankow after election posters of a party were smeared with paint at the Breite Straße/Berliner Straße crossing. The Staatsschutz (political crime unit) is investigating.",
+    "summaryEn": "Four teenagers were detained after witnesses reported people defacing election posters with political slogans at a crossing in Pankow. The case is being handled by the State Security unit.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.674Z"
+  "extractedAt": "2026-11-13T18:49:04.216Z"
 }

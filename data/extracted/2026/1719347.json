@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Großer Tiergarten",
     "district": "Mitte",
-    "summaryEn": "Unknown persons damaged a rainbow memorial bench in Großer Tiergarten that had been set up after the attack on the Berlin CSD. The Staatsschutz is investigating, as the bench was also destroyed twice earlier in September.",
+    "summaryEn": "Unknown persons damaged a rainbow memorial bench set up after the attack on the Berlin CSD, in the Großer Tiergarten. The bench had already been vandalised twice earlier in September; the State Security unit is investigating.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.837Z"
+  "extractedAt": "2026-11-13T18:49:04.384Z"
 }

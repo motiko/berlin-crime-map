@@ -6,16 +6,16 @@
   "location": "Reinickendorf",
   "extraction": {
     "category": "missing",
-    "incidentDate": "2026-02-02",
+    "incidentDate": "2026-02-10",
     "street": "Aroser Allee",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Reinickendorf",
-    "summaryEn": "A 25-year-old man reported missing on 2 February 2026 has been found and is receiving medical treatment. He had been believed to be in a psychological crisis.",
-    "injured": 0,
-    "dead": 0,
+    "summaryEn": "A 25-year-old man reported missing on 2 February 2026 has been found and is receiving medical treatment. He had been believed to be in a psychological emergency.",
+    "injured": null,
+    "dead": null,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.302Z"
+  "extractedAt": "2026-11-13T18:42:21.586Z"
 }

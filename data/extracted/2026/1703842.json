@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Borkumer Straße",
     "placeName": null,
     "district": "Spandau",
-    "summaryEn": "Election posters of two parties were torn from a light pole and damaged, and a sticker was placed on one of them. The State Protection unit is investigating.",
+    "summaryEn": "Election posters were torn down from a lamp post and damaged, with a sticker added to one. Police Staatsschutz is investigating; the case is linked to the Berlin state election. Separately, two teenagers were caught trying to steal election posters in Zehlendorf.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.048Z"
+  "extractedAt": "2026-11-13T18:49:04.304Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "After a verbal dispute in an apartment, a 33-year-old man allegedly beat another man and threatened him with a machete. The suspect was identified and arrested after a search; the victim suffered a head wound from a fall.",
+    "summaryEn": "After an argument in an apartment, a 33-year-old man allegedly beat another man and threatened him with a machete before the victim fled. The suspect was later identified and arrested; both men were heavily intoxicated.",
     "injured": 1,
     "dead": 0,
     "weaponType": "machete"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.795Z"
+  "extractedAt": "2026-11-13T18:49:04.360Z"
 }

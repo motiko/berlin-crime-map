@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "U-Bahnhof Residenzstraße",
     "district": "Reinickendorf",
-    "summaryEn": "A suspect allegedly tore a football scarf from a 25-year-old man's neck on a subway platform shortly after 1 a.m. Police are asking the public for information.",
+    "summaryEn": "An unknown suspect violently tore a football scarf from the neck of a 25-year-old on the platform of Residenzstraße subway station. Police published images and appealed for information.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.419Z"
+  "extractedAt": "2026-11-13T18:49:04.261Z"
 }

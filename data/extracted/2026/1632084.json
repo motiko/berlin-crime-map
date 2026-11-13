@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Gesundbrunnen",
     "district": "Mitte",
-    "summaryEn": "Police searched an apartment after stolen headphones were located there and found over one kilogram of suspected heroin and cash. A 31-year-old man was arrested on suspicion of drug trafficking.",
+    "summaryEn": "Police searched an apartment on Soldiner Straße after stolen headphones were traced there and found over one kilogram of suspected heroin and cash. A 31-year-old man was arrested and investigations into drug dealing continue.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.250Z"
+  "extractedAt": "2026-11-13T18:42:21.632Z"
 }

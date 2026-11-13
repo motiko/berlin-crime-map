@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Prenzlauer Allee",
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "A car turning left collided with an oncoming car at the Danziger Straße/Prenzlauer Allee junction, which then hit a cyclist and several objects. Three people were injured, including a 52-year-old cyclist with serious injuries.",
+    "summaryEn": "A car collision at the Danziger Straße/Prenzlauer Allee junction injured three people, including a 52-year-old cyclist who was thrown onto the road and briefly lost consciousness. The driver of a car struck by the impact lost control and hit the cyclist.",
     "injured": 3,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.044Z"
+  "extractedAt": "2026-11-13T18:49:04.324Z"
 }

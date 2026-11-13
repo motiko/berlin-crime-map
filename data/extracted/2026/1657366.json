@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A 49-year-old man threatened a 42-year-old pizza delivery worker with a handgun in a residential building in Hellersdorf. The man was arrested by a SWAT unit after a search of his flat, and the firearm was seized.",
+    "summaryEn": "A 49-year-old man allegedly threatened a pizza delivery worker with a handgun in a residential building in Hellersdorf. A special forces unit later arrested him in his flat and seized a live firearm and ammunition.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.300Z"
+  "extractedAt": "2026-11-13T18:42:21.621Z"
 }

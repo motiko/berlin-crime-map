@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Schönhauser Allee",
     "placeName": "U-Bahnhof Schönhauser Allee",
     "district": "Pankow",
-    "summaryEn": "Four teenagers were surrounded by up to 30 people on Greifenhagener Straße, threatened with violence, and had a backpack torn from one of them. The group then fled, and police later checked a group of eleven men nearby.",
+    "summaryEn": "Up to 30 people surrounded four teenagers and threatened them with violence to demand their backpacks, tearing one off a 14-year-old. The group fled, and police later stopped eleven men nearby, with the link still under investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.191Z"
+  "extractedAt": "2026-11-13T18:42:21.524Z"
 }

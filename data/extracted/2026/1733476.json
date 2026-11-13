@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Lankwitz",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "Shots were fired at an apartment building in Lankwitz overnight; several bullet holes were found in the front door and adjacent glass. No one was injured.",
+    "summaryEn": "Shots were fired at an apartment building in Lankwitz overnight, leaving bullet holes in the front door and adjacent glass. Nobody was hurt; the State Criminal Police Office has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.841Z"
+  "extractedAt": "2026-11-13T18:49:04.216Z"
 }

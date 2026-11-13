@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Isoldestraße",
     "placeName": "Nikolassee",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A 41-year-old driver pulled out of a parking space on Potsdamer Chaussee and collided with a Smart car, which overturned. The Smart driver, also 41, was freed by rescuers and taken to hospital with head and torso pain.",
+    "summaryEn": "A car pulling out of a parking space collided with a Smart on Potsdamer Chaussee in Nikolassee, and the Smart overturned. The 41-year-old woman driver was injured and taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.273Z"
+  "extractedAt": "2026-11-13T18:42:21.611Z"
 }

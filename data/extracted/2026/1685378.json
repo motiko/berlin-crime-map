@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Katzbachstraße",
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 22-year-old cyclist suffered serious head injuries after falling from his bicycle on the Dudenstraße cycle path in Kreuzberg. He was given emergency care at the scene and taken to hospital.",
+    "summaryEn": "A 22-year-old cyclist fell from his bicycle on the Dudenstraße cycle path in Kreuzberg for unknown reasons and suffered serious head injuries. He was treated by an emergency doctor and taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.045Z"
+  "extractedAt": "2026-11-13T18:49:04.197Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "An 18-year-old was punched and robbed of cash and headphones on Grimmstraße, then forced to withdraw more money from a nearby cash machine. A second 18-year-old suspect was arrested in Schleiermacherstraße with the stolen items.",
+    "summaryEn": "An 18-year-old was punched and robbed of cash and headphones on Grimmstraße, then forced to withdraw more money from an cash machine. A second 18-year-old suspect was arrested nearby with the stolen items and drugs.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.272Z"
+  "extractedAt": "2026-11-13T18:42:21.555Z"
 }

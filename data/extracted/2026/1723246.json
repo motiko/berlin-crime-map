@@ -7,15 +7,15 @@
   "extraction": {
     "category": "political",
     "incidentDate": "2026-10-07",
-    "street": "Oranienplatz",
+    "street": null,
     "houseNumberOrCrossing": null,
-    "placeName": "Oranienplatz",
+    "placeName": null,
     "district": null,
-    "summaryEn": "Police summarized the Berlin demonstrations on the third anniversary of the Hamas attack on Israel; eight pro-Israeli and two pro-Palestinian assemblies were policed. A pro-Palestinian march was dissolved early after antisemitic chants, assaults on officers and other offences; 46 criminal proceedings were opened and four officers were injured.",
+    "summaryEn": "Police summarized the policing of pro-Israeli and pro-Palestinian assemblies in Berlin on the third anniversary of the Hamas attack on Israel. A pro-Palestinian march was dissolved early after kicks at officers and antisemitic chants; 46 criminal investigations were opened.",
     "injured": 4,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.793Z"
+  "extractedAt": "2026-11-13T18:49:04.340Z"
 }

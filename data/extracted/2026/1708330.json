@@ -7,15 +7,15 @@
   "extraction": {
     "category": "drugs",
     "incidentDate": "2026-08-28",
-    "street": "Sybelstraße",
-    "houseNumberOrCrossing": "Gervinusstraße",
+    "street": "Gervinusstraße",
+    "houseNumberOrCrossing": "Kurfürstendamm/Nestorstraße",
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "After a traffic stop attempt, a driver fled police on foot and discarded a bag, which contained about one kilogram of suspected cocaine. The 37-year-old man was arrested and cash was seized.",
+    "summaryEn": "After a traffic stop attempt, police arrested a 37-year-old man who had fled on foot and discarded a bag. Around one kilogram of suspected cocaine and cash were found, and the man faces a custody hearing.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.036Z"
+  "extractedAt": "2026-11-13T18:49:04.288Z"
 }

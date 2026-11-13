@@ -5,17 +5,17 @@
   "title": "In Brand gesetzt",
   "location": "Steglitz-Zehlendorf",
   "extraction": {
-    "category": "assault",
+    "category": "fire",
     "incidentDate": "2026-11-06",
     "street": "Hohenzollernplatz",
     "houseNumberOrCrossing": null,
     "placeName": "Hohenzollernplatz",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "After an argument over alleged sexual harassment, a 24-year-old allegedly doused an 18-year-old with a flammable liquid and set him on fire. The 18-year-old suffered burns and the suspect was arrested nearby.",
+    "summaryEn": "After a dispute following alleged sexual harassment, a 24-year-old allegedly doused an 18-year-old with a flammable liquid and set him on fire. The 18-year-old suffered burns and the suspect was arrested nearby.",
     "injured": 1,
     "dead": 0,
     "weaponType": "flammable liquid"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.437Z"
+  "extractedAt": "2026-11-13T18:49:04.160Z"
 }

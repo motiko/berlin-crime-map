@@ -6,16 +6,16 @@
   "location": "Tempelhof-Schöneberg",
   "extraction": {
     "category": "traffic",
-    "dead": 0,
-    "district": "Tempelhof-Schöneberg",
-    "houseNumberOrCrossing": "Mariendorfer Damm",
     "incidentDate": "2026-09-26",
-    "injured": 0,
-    "placeName": "Mariendorf",
     "street": "Bahnstraße",
-    "summaryEn": "A driver fled a police check at high speed, running several red lights, and crashed into a parked excavator in a dead-end street. He then reversed into a police vehicle; both occupants were arrested and nobody was hurt.",
-    "weaponType": "vehicle"
+    "houseNumberOrCrossing": "Mariendorfer Damm",
+    "placeName": "Mariendorf",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 19-year-old driver fled a police check at high speed, ran red lights and crashed into a parked excavator and then a police vehicle. Nobody was injured; the driver had no valid licence and the license plates were stolen.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.053Z"
+  "extractedAt": "2026-11-13T18:49:04.097Z"
 }

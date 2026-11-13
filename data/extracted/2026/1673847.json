@@ -6,16 +6,16 @@
   "location": "Tempelhof-Schöneberg",
   "extraction": {
     "category": "homicide",
-    "dead": 1,
-    "injured": 0,
     "incidentDate": "2026-05-24",
     "street": "Hilbertstraße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 69-year-old woman was found dead with a gunshot wound in her apartment in Lichtenrade. Her 84-year-old husband was arrested, and the homicide unit has taken over the investigation.",
+    "summaryEn": "A 69-year-old woman was found dead with a gunshot wound in her apartment in Lichtenrade. Her 84-year-old husband was temporarily arrested, and the homicide unit has taken over the investigation.",
+    "injured": 0,
+    "dead": 1,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.991Z"
+  "extractedAt": "2026-11-13T18:50:38.798Z"
 }

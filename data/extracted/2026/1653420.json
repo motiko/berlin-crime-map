@@ -6,16 +6,16 @@
   "location": "Steglitz-Zehlendorf",
   "extraction": {
     "category": "traffic",
-    "incidentDate": "2026-03-16",
-    "street": "Kaiser-Wilhelm-Straße",
-    "houseNumberOrCrossing": "Ruthstraße",
-    "placeName": "Lankwitz",
-    "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A 61-year-old man fell from his bicycle in Lankwitz and was seriously injured. Police traffic investigators are examining the cause of the fall.",
-    "injured": 1,
     "dead": 0,
+    "district": "Steglitz-Zehlendorf",
+    "houseNumberOrCrossing": "Ruthstraße",
+    "incidentDate": "2026-03-16",
+    "injured": 1,
+    "placeName": "Lankwitz",
+    "street": "Kaiser-Wilhelm-Straße",
+    "summaryEn": "A 61-year-old man fell from his bicycle on Kaiser-Wilhelm-Straße in Lankwitz and was seriously injured. He remains in intensive care, and a traffic unit is investigating the cause of the fall.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.199Z"
+  "extractedAt": "2026-11-13T18:42:21.543Z"
 }

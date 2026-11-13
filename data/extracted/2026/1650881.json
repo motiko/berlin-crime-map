@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "After a traffic dispute, a cyclist kicked a car and then beat the 44-year-old driver, who was injured. The cyclist fled unidentified.",
+    "summaryEn": "After a traffic dispute, a cyclist allegedly punched and kicked a 44-year-old driver, who suffered bruises and cuts and was taken to hospital. The cyclist fled before police arrived.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.272Z"
+  "extractedAt": "2026-11-13T18:42:21.657Z"
 }

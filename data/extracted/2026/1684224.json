@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Thyssentraße",
     "placeName": null,
     "district": "Reinickendorf",
-    "summaryEn": "A rental car turning on Roedernallee collided with another car, injuring six people, including a one-month-old baby in life-threatening condition. The road was closed for about five hours during the investigation.",
+    "summaryEn": "A rental car turning on Roedernallee collided with another car in the evening; six people were hurt, including a one-month-old baby with life-threatening head injuries. The road was closed for about five hours.",
     "injured": 6,
     "dead": 0,
-    "weaponType": "vehicle"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.999Z"
+  "extractedAt": "2026-11-13T18:49:04.430Z"
 }

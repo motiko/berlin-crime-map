@@ -6,16 +6,16 @@
   "location": "Spandau",
   "extraction": {
     "category": "shooting",
-    "dead": 0,
-    "district": "Spandau",
-    "houseNumberOrCrossing": "Borkzeile",
     "incidentDate": "2026-07-31",
-    "injured": 0,
-    "placeName": null,
     "street": "An der Kappe",
-    "summaryEn": "Shots were fired at a residential building in Spandau on the evening of 31 July, around 20:15. Two suspects fled, and bullet holes were found in an apartment door; nobody was hurt.",
+    "houseNumberOrCrossing": "Borkzeile",
+    "placeName": null,
+    "district": "Spandau",
+    "summaryEn": "Shots were fired at a residential building in Spandau on the evening before publication. Bullet holes were found in an apartment door; nobody was hurt and two suspects fled.",
+    "injured": 0,
+    "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.687Z"
+  "extractedAt": "2026-11-13T18:49:04.271Z"
 }

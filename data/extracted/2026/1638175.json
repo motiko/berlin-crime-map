@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Theodor-Heuss-Platz",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A 59-year-old woman made antisemitic remarks at a Holocaust remembrance event in Westend and insulted a pupil during the police report. The State Protection unit is investigating.",
+    "summaryEn": "A 59-year-old woman made antisemitic statements at a Holocaust memorial event in Westend and insulted a teenage participant. Police detained her at the scene and the State Security unit is investigating.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.280Z"
+  "extractedAt": "2026-11-13T18:42:21.611Z"
 }

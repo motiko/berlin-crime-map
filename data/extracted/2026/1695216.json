@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A 29-year-old man in a mental health crisis repeatedly ran toward vehicles on Blumberger Damm and then resisted officers during transport to a hospital. A police officer used a conducted electrical weapon (DEIG) on his arm after a warning; he was not injured and was admitted to psychiatric care.",
+    "summaryEn": "A 29-year-old man in a psychological crisis ran toward vehicles on Blumberger Damm and then resisted police and paramedics during transport to hospital. A police officer used a stun device (DEIG) on him after warning him; he was not injured and was admitted to psychiatric care.",
     "injured": 0,
     "dead": 0,
-    "weaponType": "conducted electrical weapon (DEIG)"
+    "weaponType": "stun device (DEIG)"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.767Z"
+  "extractedAt": "2026-11-13T18:49:04.420Z"
 }

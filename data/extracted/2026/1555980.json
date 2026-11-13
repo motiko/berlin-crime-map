@@ -7,15 +7,15 @@
   "extraction": {
     "category": "knife",
     "incidentDate": "2025-04-29",
-    "street": "Alexanderplatz",
+    "street": "Rathausstraße",
     "houseNumberOrCrossing": null,
     "placeName": "S-Bahnhof Alexanderplatz",
     "district": "Mitte",
-    "summaryEn": "Police are seeking a suspect in connection with a group assault on a 36-year-old man in front of the S-Bahn station Alexanderplatz, in which the victim was stabbed in the thigh with a knife. The incident occurred on 29 April 2025 shortly before 22:30.",
+    "summaryEn": "Police are seeking an unidentified suspect over a dispute on 29 April 2025 near the Alexanderplatz S-Bahn station in which a 36-year-old was stabbed in the thigh by a group. The suspect is described by police and images from a surveillance camera were released.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.032Z"
+  "extractedAt": "2026-11-13T18:49:04.128Z"
 }

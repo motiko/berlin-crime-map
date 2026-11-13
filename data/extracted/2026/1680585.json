@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Laubacher Straße",
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A 45-year-old driver rear-ended a stopped car at a red light on Südwestkorso in Wilmersdorf, injuring four people. The driver was found to have alcohol and suspected narcotics in his car and had a blood sample taken.",
+    "summaryEn": "A 45-year-old driver rear-ended a stopped Land Rover at a red light in Wilmersdorf while apparently under the influence of alcohol and drugs. Four people were injured, and the driver's blood sample was taken.",
     "injured": 4,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.051Z"
+  "extractedAt": "2026-11-13T18:49:04.188Z"
 }

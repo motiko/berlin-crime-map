@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A masked man allegedly committed four robberies of flower and other shops in Charlottenburg on the evening of 2 November, with one robbery on Wilmersdorfer Straße. He was arrested in a courtyard on Schillerstraße after a passer-by alerted police.",
+    "summaryEn": "A suspected robber was arrested after four robberies of shops and flower shops in Charlottenburg on the evening of 2 November. The first robbery, in Wilmersdorfer Straße, was attempted, and the suspect fled with cash from a later one in Pestalozzistraße.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.403Z"
+  "extractedAt": "2026-11-13T18:49:04.306Z"
 }

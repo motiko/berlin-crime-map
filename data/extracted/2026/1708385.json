@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Boelckestraße",
     "placeName": "Bayernring",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Between 26 and 27 August 2026, unknown persons sprayed 18 politically worded graffiti on building facades and a supermarket in Tempelhof. The State Security unit of the State Criminal Police Office has taken over the investigation.",
+    "summaryEn": "Unknown perpetrators sprayed 18 politically themed graffiti on house facades and a supermarket in Tempelhof between 26 and 27 August 2026. The State Security unit has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.839Z"
+  "extractedAt": "2026-11-13T18:49:04.190Z"
 }

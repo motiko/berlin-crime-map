@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "An 18-year-old e-scooter rider was seriously injured after colliding with a car while crossing Raoul-Wallenberg-Straße in Marzahn. The 73-year-old driver was unhurt.",
+    "summaryEn": "An 18-year-old e-scooter rider was seriously injured after colliding with a car while crossing the road in Marzahn. The 73-year-old female driver was unhurt.",
     "injured": 1,
     "dead": 0,
-    "weaponType": null
+    "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.815Z"
+  "extractedAt": "2026-11-13T18:49:04.243Z"
 }

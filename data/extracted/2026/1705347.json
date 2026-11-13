@@ -9,13 +9,13 @@
     "incidentDate": "2026-08-19",
     "street": "Gutschmidtstraße",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Britz",
     "district": "Neukölln",
-    "summaryEn": "An 82-year-old scooter rider was seriously injured after colliding with a car while changing lanes on Gutschmidtstraße in Britz. The car driver was unhurt.",
+    "summaryEn": "An 82-year-old scooter rider was seriously injured after colliding with a car while changing lanes on Gutschmidtstraße. The car driver was unhurt.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.919Z"
+  "extractedAt": "2026-11-13T18:49:04.305Z"
 }

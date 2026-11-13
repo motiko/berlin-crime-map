@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Unstrutstraße",
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "A food delivery courier was robbed at knifepoint by a group of five young people, who took his phone and ordered a ride using his account. Four suspects were arrested after police stopped the ride vehicle.",
+    "summaryEn": "A food delivery cyclist was robbed at knifepoint by a group of five youths and young adults, who took his phone and ordered a ride using his account. Four suspects were arrested after police stopped the ride, and the investigation was taken over by a specialist unit.",
     "injured": 0,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.906Z"
+  "extractedAt": "2026-11-13T18:49:04.230Z"
 }

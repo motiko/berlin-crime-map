@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "A man fired a firearm several times into the air in Wedding during the night. Police later searched a nearby venue on Luxemburger Straße, found a loaded handgun and arrested three male suspects aged 30, 32 and 34.",
+    "summaryEn": "Shots were fired into the air on Reinickendorfer Straße around 2:30 a.m. Police later found a firearm in a nearby venue on Luxemburger Straße and arrested three men aged 30, 32 and 34.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.901Z"
+  "extractedAt": "2026-11-13T18:49:04.378Z"
 }

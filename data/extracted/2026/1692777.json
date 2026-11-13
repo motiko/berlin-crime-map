@@ -6,16 +6,16 @@
   "location": "Reinickendorf",
   "extraction": {
     "category": "raid",
-    "incidentDate": "2026-07-12",
-    "street": "Lindauer Allee",
-    "houseNumberOrCrossing": null,
-    "placeName": null,
-    "district": "Reinickendorf",
-    "summaryEn": "Police stopped a car for suspected drunk driving in Reinickendorf and found a loaded pistol, nitrous oxide canisters, cannabis, medication blisters and cash inside. Both occupants were arrested on suspicion of illegal drug dealing and later released.",
-    "injured": 0,
     "dead": 0,
+    "district": "Reinickendorf",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-07-12",
+    "injured": 0,
+    "placeName": null,
+    "street": "Lindauer Allee",
+    "summaryEn": "During a traffic check for drunk driving in Reinickendorf, police found a loaded pistol, nitrous oxide canisters, cannabis and cash in a car. Two men aged 26 were arrested on suspicion of illegal drug trading.",
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.994Z"
+  "extractedAt": "2026-11-13T18:50:33.437Z"
 }

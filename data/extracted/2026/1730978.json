@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "A 47-year-old man allegedly stabbed a 42-year-old man in the upper body on Oderberger Straße in the evening. The suspect was arrested in a nearby bar and the knife was seized.",
+    "summaryEn": "A 47-year-old man allegedly stabbed a 42-year-old man in Oderberger Straße in Prenzlauer Berg on the evening before publication. The suspect was arrested in a nearby venue and the knife was seized.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.941Z"
+  "extractedAt": "2026-11-13T18:49:04.401Z"
 }

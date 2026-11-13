@@ -7,15 +7,15 @@
   "extraction": {
     "category": "other",
     "incidentDate": "2026-04-15",
-    "street": "Louis-Lewin-Straße",
+    "street": null,
     "houseNumberOrCrossing": null,
     "placeName": "U-Bahn between Louis-Lewin-Straße and Hönow stations",
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "Two stones were thrown at a moving U-Bahn train between the Louis-Lewin-Straße and Hönow stations, destroying two windows. Nobody was hurt.",
+    "summaryEn": "Unknown persons threw two stones at the windows of a moving U-Bahn train, destroying both panes. Nobody was hurt.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.869Z"
+  "extractedAt": "2026-11-13T18:49:04.227Z"
 }

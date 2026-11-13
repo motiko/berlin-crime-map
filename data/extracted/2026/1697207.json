@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Tegel",
     "district": "Reinickendorf",
-    "summaryEn": "A 78-year-old man crashed his small motorcycle into a construction barrier on Waidmannsluster Damm in Tegel and died two days later. Police are seeking witnesses, especially a cyclist who helped him after the fall.",
+    "summaryEn": "A 78-year-old man crashed his small motorcycle into a construction barrier on Waidmannsluster Damm and died two days later. Police are investigating whether the crash injuries caused the death and are seeking witnesses, especially a cyclist who helped him.",
     "injured": 1,
     "dead": 1,
-    "weaponType": "vehicle"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.933Z"
+  "extractedAt": "2026-11-13T18:49:04.371Z"
 }

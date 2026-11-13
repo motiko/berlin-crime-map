@@ -6,16 +6,16 @@
   "location": "Treptow-Köpenick",
   "extraction": {
     "category": "robbery",
-    "incidentDate": "2026-06-13",
+    "incidentDate": "2026-06-14",
     "street": "Michael-Brückner-Straße",
     "houseNumberOrCrossing": null,
-    "placeName": "Schnellrestaurant",
+    "placeName": null,
     "district": "Treptow-Köpenick",
-    "summaryEn": "A 22-year-old suspect allegedly robbed a fast-food restaurant at gunpoint in the night to Sunday and fled in a car whose driver he had forced to drive. He was arrested the following afternoon in Adlershof, and police found cash, cash boxes and a blank-firing pistol.",
+    "summaryEn": "A 22-year-old man was arrested in Adlershof for allegedly robbing a fast-food restaurant at gunpoint, taking a cash box. He also allegedly forced a driver at gunpoint to take him away.",
     "injured": 0,
     "dead": 0,
-    "weaponType": "pistol"
+    "weaponType": "blank-firing gun"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.924Z"
+  "extractedAt": "2026-11-13T18:49:04.458Z"
 }

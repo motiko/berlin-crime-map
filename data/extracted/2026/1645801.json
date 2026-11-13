@@ -8,14 +8,14 @@
     "category": "burglary",
     "incidentDate": "2026-02-23",
     "street": "Wollankstraße",
-    "houseNumberOrCrossing": "Schönholzer Straße",
+    "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "Two teenagers, 17 and 15, broke into a shop in Wollankstraße early in the morning and took the cash register. Both were arrested nearby shortly afterwards.",
+    "summaryEn": "Two teenagers, 17 and 15, broke into a shop on Wollankstraße at night and took the cash register; both were arrested nearby shortly after. Police found suspected burglary tools and pepper spray on the 17-year-old.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.268Z"
+  "extractedAt": "2026-11-13T18:42:21.556Z"
 }

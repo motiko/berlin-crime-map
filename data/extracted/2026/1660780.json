@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Clayallee",
     "placeName": "Zehlendorf",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A 57-year-old driver veered off the road in Zehlendorf and crashed into four parked cars, overturning his vehicle. He was injured, taken to hospital, and a blood test was taken because of suspected alcohol influence.",
+    "summaryEn": "A 57-year-old driver veered off the road and hit four parked cars, then overturned; he was taken to hospital and a blood test was ordered over suspected alcohol use. His driving licence was seized.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.798Z"
+  "extractedAt": "2026-11-13T18:49:04.098Z"
 }

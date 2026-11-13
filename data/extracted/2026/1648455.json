@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Hakenfelde",
     "district": "Spandau",
-    "summaryEn": "A 19-year-old man threatened emergency responders with a blank-firing pistol at an apartment in Hakenfelde during the night. He was arrested and the weapon was seized; a 17-year-old was taken to hospital.",
+    "summaryEn": "A man threatened paramedics with a blank-firing pistol (Schreckschusspistole) at an apartment after a domestic violence call; he was arrested and the weapon seized. A 17-year-old woman was taken to hospital for treatment.",
     "injured": 0,
     "dead": 0,
     "weaponType": "blank-firing gun"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.235Z"
+  "extractedAt": "2026-11-13T18:42:21.549Z"
 }

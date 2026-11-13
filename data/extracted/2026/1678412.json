@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Frankfurter Allee",
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "After a police vehicle braked hard on Frankfurter Allee, a 34-year-old man was arrested in Kreutziger Straße. Several people then attacked officers, leaving five police officers injured.",
+    "summaryEn": "After a man ran into the road and forced an emergency vehicle to brake hard, several people attacked and injured police officers during his arrest. Five officers were hurt but remained on duty; four people were detained.",
     "injured": 5,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.980Z"
+  "extractedAt": "2026-11-13T18:49:04.316Z"
 }

@@ -5,17 +5,17 @@
   "title": "Polizei Berlin erlässt Allgemeinverfügung zum 2. August 2026",
   "location": "Mitte",
   "extraction": {
-    "category": "political",
+    "category": "other",
     "incidentDate": "2026-08-02",
     "street": "Simsonweg",
     "houseNumberOrCrossing": null,
     "placeName": "Denkmal für die im Nationalsozialismus ermordeten Sinti und Roma Europas",
     "district": "Mitte",
-    "summaryEn": "Police issued a general order banning public assemblies and events in the government district around the Sinti and Roma memorial in Berlin-Mitte on 2 August 2026, the international day of remembrance. The restriction runs from 6:00 to 23:59 to protect commemorations and quiet remembrance.",
+    "summaryEn": "The police issued a general order (Allgemeinverfügung) banning assemblies and events in the government district around the Memorial to the Sinti and Roma murdered under National Socialism on 2 August 2026, the day of commemoration. The order runs from 6:00 to 23:59.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.044Z"
+  "extractedAt": "2026-11-13T18:49:04.263Z"
 }

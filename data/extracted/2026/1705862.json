@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Adalbertstraße",
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 40-year-old man was robbed by four unknown men at a street crossing in Kreuzberg in the night. He was punched in the face and ribs, and his wallet and phone were taken with a sharp object.",
+    "summaryEn": "A 40-year-old man was attacked and robbed of his wallet and smartphone by four unknown people in the early hours. He was punched in the face and suffered rib injuries that did not need medical treatment.",
     "injured": 1,
     "dead": 0,
     "weaponType": "sharp object"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.695Z"
+  "extractedAt": "2026-11-13T18:49:04.328Z"
 }

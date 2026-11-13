@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Scholzplatz",
     "placeName": "Westend",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A car driver changing lanes on Heerstraße in Westend overlooked a motorcyclist, who was thrown from his bike and taken to hospital. The 65-year-old motorcyclist suffered bruises and leg injuries.",
+    "summaryEn": "A car driver changing lanes on Heerstraße overlooked a motorcyclist, who was thrown to the road and injured. The 65-year-old was taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.881Z"
+  "extractedAt": "2026-11-13T18:49:04.156Z"
 }

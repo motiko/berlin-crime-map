@@ -6,16 +6,16 @@
   "location": "Steglitz-Zehlendorf",
   "extraction": {
     "category": "traffic",
-    "dead": 0,
-    "district": "Steglitz-Zehlendorf",
-    "houseNumberOrCrossing": "Clayallee",
     "incidentDate": "2026-04-22",
-    "injured": 2,
-    "placeName": "Zehlendorf",
     "street": "Berliner Straße",
-    "summaryEn": "A car driver allegedly ran a red light and hit a 28-year-old woman crossing on a pedestrian crossing with her three-year-old daughter in her arms. Both were injured and taken to hospital, where the child was admitted.",
+    "houseNumberOrCrossing": "Clayallee",
+    "placeName": "Zehlendorf",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A 47-year-old driver allegedly ran a red light at a pedestrian crossing and hit a 28-year-old woman carrying her three-year-old daughter. Both were injured and taken to hospital, the child for inpatient treatment.",
+    "injured": 2,
+    "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.746Z"
+  "extractedAt": "2026-11-13T18:49:04.186Z"
 }

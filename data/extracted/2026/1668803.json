@@ -9,13 +9,13 @@
     "incidentDate": "2026-05-07",
     "street": null,
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Rhin",
     "district": null,
-    "summaryEn": "A 91-year-old woman missing since 5 May 2026 was found in a vehicle near the Rhin river in Brandenburg after a police helicopter search. She was taken to hospital for examination.",
+    "summaryEn": "A 91-year-old woman missing since 5 May 2026 was found alive in a vehicle in Brandenburg after a helicopter search. She was taken to hospital for examination.",
     "injured": null,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.682Z"
+  "extractedAt": "2026-11-13T18:49:04.238Z"
 }

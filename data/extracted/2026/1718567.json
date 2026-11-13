@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Viktoria-Luise-Platz",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 31-year-old man was punched in the face by an unknown person at Viktoria-Luise-Platz in the early hours, while a couple was allegedly filmed. The State Security unit is investigating a possible hate crime.",
+    "summaryEn": "A 31-year-old man and his 24-year-old companion were attacked by two unknown people on Viktoria-Luise-Platz in the early hours; one was punched in the face and suffered injuries to the jaw and teeth. The police Staatsschutz is investigating a possible homophobic motive.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.717Z"
+  "extractedAt": "2026-11-13T18:49:04.387Z"
 }

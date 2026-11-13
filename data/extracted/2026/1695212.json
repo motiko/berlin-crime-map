@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Görlitzer Straße",
     "placeName": "Görlitzer Park",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 22-year-old man stabbed a 25-year-old man in Kreuzberg shortly after 0:40 a.m. and then stabbed a second 25-year-old man nearby. Both victims were taken to hospital, and the suspect was arrested with the knife.",
+    "summaryEn": "A 22-year-old man stabbed a 25-year-old man in Kreuzberg after a verbal dispute, then stabbed another 25-year-old man nearby. Both victims were taken to hospital, and the suspect was arrested with the knife.",
     "injured": 2,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.974Z"
+  "extractedAt": "2026-11-13T18:49:04.186Z"
 }

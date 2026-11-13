@@ -8,14 +8,14 @@
     "category": "traffic",
     "incidentDate": "2026-08-05",
     "street": "Bundesautobahn 103",
-    "houseNumberOrCrossing": "Filandastraße/Saarstraße",
+    "houseNumberOrCrossing": "Filandastraße / Saarstraße",
     "placeName": "Tunnel Friedenau",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A police patrol car responding to an emergency collided with a car in the Friedenau tunnel on the A103 after a lane change. Two police officers were injured, and the patrol car was no longer roadworthy.",
+    "summaryEn": "A police patrol car responding to a call collided with a car in the Friedenau tunnel on the A103 after a lane change. Two police officers were injured, one seriously enough to end his shift early.",
     "injured": 2,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.944Z"
+  "extractedAt": "2026-11-13T18:49:04.312Z"
 }

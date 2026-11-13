@@ -6,16 +6,16 @@
   "location": "Neukölln",
   "extraction": {
     "category": "knife",
-    "incidentDate": "2026-10-22",
+    "incidentDate": "2026-10-21",
     "street": "Donaustraße",
     "houseNumberOrCrossing": null,
     "placeName": "Schulhof",
     "district": "Neukölln",
-    "summaryEn": "A 20-year-old man was stabbed in the buttock in the courtyard of a school in Donaustraße overnight. He was taken to hospital and admitted; no suspects were found at the scene.",
+    "summaryEn": "A 20-year-old man was stabbed in the buttock in the courtyard of a school in Donaustraße overnight. He was taken to hospital, and no suspects were found at the scene.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.060Z"
+  "extractedAt": "2026-11-13T18:49:04.465Z"
 }

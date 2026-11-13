@@ -9,13 +9,13 @@
     "incidentDate": "2026-02-03",
     "street": "Eichborndamm",
     "houseNumberOrCrossing": "Taldorfer Weg",
-    "placeName": "Wittenau",
+    "placeName": null,
     "district": "Reinickendorf",
-    "summaryEn": "Around 19:00, police were called to a restaurant where people had disrupted a political party's regulars' meeting, with an unregistered assembly held outside. The case was taken over by the State Security unit.",
+    "summaryEn": "An unregistered assembly gathered around a political party's regulars' table in a pub in Wittenau. Two people who entered the pub were carried out by police and resisted; the Staatsschutz took over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.307Z"
+  "extractedAt": "2026-11-13T18:42:21.564Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Westend",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A 64-year-old van driver turning into a property driveway hit a 10-year-old boy on the pavement and ran over him. The boy suffered head injuries and was taken to hospital.",
+    "summaryEn": "A 64-year-old van driver turning into a driveway hit a 10-year-old boy on the pavement, who was run over by the van. The boy suffered head injuries and was taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.345Z"
+  "extractedAt": "2026-11-13T18:42:21.650Z"
 }

@@ -5,17 +5,17 @@
   "title": "Schüsse auf 44-Jährigen – Staatsanwaltschaft Berlin und 6. Mordkommission ermitteln",
   "location": "Tempelhof-Schöneberg",
   "extraction": {
-    "category": "homicide",
+    "category": "shooting",
     "incidentDate": "2026-05-05",
     "street": "Yorckstraße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 44-year-old man was shot by an unknown gunman in Yorckstraße in Schöneberg in the early hours. He suffered life-threatening injuries, and the 6th Homicide Commission is investigating an attempted killing.",
+    "summaryEn": "A 44-year-old man was shot by an unknown gunman in Yorckstraße in Schöneberg around 1:05 a.m. He suffered life-threatening injuries, and the homicide unit is investigating an attempted killing.",
     "injured": 1,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.814Z"
+  "extractedAt": "2026-11-13T18:49:04.435Z"
 }

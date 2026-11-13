@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "Two men aged 31 and 32 were arrested after attempting to break into a parked Peugeot car in a car park. One allegedly acted as lookout while the other opened and searched the vehicle.",
+    "summaryEn": "Two men aged 31 and 32 were arrested after attempting to steal from a parked car in Neukölln. One allegedly searched a Peugeot while the other acted as lookout; a signal jammer was seized.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.234Z"
+  "extractedAt": "2026-11-13T18:42:21.625Z"
 }

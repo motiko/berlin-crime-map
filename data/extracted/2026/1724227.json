@@ -7,15 +7,15 @@
   "extraction": {
     "category": "fraud",
     "incidentDate": "2026-07-25",
-    "street": "Wittenbergplatz",
+    "street": null,
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "TARGOBANK-Filiale am Wittenbergplatz",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 66-year-old woman was tricked by a phone caller posing as a bank employee into handing over her bank card and PIN; a man collected the card at her flat and cash was withdrawn at a bank branch. Police are seeking two unknown suspects via CCTV images.",
+    "summaryEn": "A 66-year-old woman in Schöneberg was tricked by a caller posing as a bank employee into giving up her PIN and bank card, which were then used for unauthorised withdrawals. Police are searching for two unknown suspects.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.885Z"
+  "extractedAt": "2026-11-13T18:49:04.470Z"
 }

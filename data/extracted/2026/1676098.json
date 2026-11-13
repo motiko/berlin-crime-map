@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Heidenheimer Straße",
     "placeName": "Hermsdorf",
     "district": "Reinickendorf",
-    "summaryEn": "A car and a motorcycle collided at a junction in Hermsdorf, causing the motorcyclist and his pillion passenger to fall. Both were injured; the passenger was kept in hospital, and police say there is no danger to life.",
+    "summaryEn": "A car and a motorcycle collided at a junction in Hermsdorf. A motorcyclist and his pillion passenger were injured and taken to hospital, one of them remaining there.",
     "injured": 2,
     "dead": 0,
-    "weaponType": "vehicle"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.919Z"
+  "extractedAt": "2026-11-13T18:49:04.309Z"
 }

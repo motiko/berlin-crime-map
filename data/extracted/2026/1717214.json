@@ -6,16 +6,16 @@
   "location": "Pankow",
   "extraction": {
     "category": "traffic",
-    "dead": 1,
-    "district": "Pankow",
-    "houseNumberOrCrossing": "Bornholmer Straße",
     "incidentDate": "2026-09-19",
-    "injured": null,
-    "placeName": "Bösebrücke",
     "street": "Osloer Straße",
-    "summaryEn": "A 31-year-old driver speeding in a BMW lost control on the Bösebrücke bridge early on 19 September 2026 and crashed onto the S-Bahn tracks below, dying at the scene. Police are seeking witnesses and video footage.",
+    "houseNumberOrCrossing": "Bösebrücke",
+    "placeName": "S-Bahnhof Bornholmer Straße",
+    "district": "Pankow",
+    "summaryEn": "A 31-year-old driver speeding in a BMW lost control on the Bösebrücke in Prenzlauer Berg, went over the bridge railing onto the S-Bahn tracks below and died at the scene. Police are seeking witnesses and video material.",
+    "injured": 0,
+    "dead": 1,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.809Z"
+  "extractedAt": "2026-11-13T18:50:26.600Z"
 }

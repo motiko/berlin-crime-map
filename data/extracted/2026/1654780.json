@@ -13,9 +13,9 @@
     "injured": 1,
     "placeName": null,
     "street": "Laubacher Straße",
-    "summaryEn": "A 54-year-old driver collided with a 61-year-old woman in Wilmersdorf. The unsecured car then rolled over the injured woman and into a tree, and she was taken to hospital with fractures.",
+    "summaryEn": "A 54-year-old driver collided with a 61-year-old pedestrian in Wilmersdorf, then the unsecured car rolled over the injured woman and into a tree. The 61-year-old suffered broken bones and was taken to hospital.",
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.244Z"
+  "extractedAt": "2026-11-13T18:42:21.543Z"
 }

@@ -8,14 +8,14 @@
     "category": "traffic",
     "incidentDate": "2026-09-15",
     "street": "Motzener Straße",
-    "houseNumberOrCrossing": "Nunsdorfer Ring",
+    "houseNumberOrCrossing": "Nunsdorfer Ring Nord",
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "An 84-year-old woman lost control of her car on Motzener Straße in Marienfelde and crashed into parked cars, causing a chain reaction that also involved an oncoming VW. The woman suffered several fractures and was taken to hospital, while the 58-year-old VW driver was uninjured.",
+    "summaryEn": "An 84-year-old woman lost control of her car in Marienfelde and hit several parked cars, causing a chain-reaction collision with an oncoming VW. The woman was seriously injured and taken to hospital.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "vehicle"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.925Z"
+  "extractedAt": "2026-11-13T18:49:04.358Z"
 }

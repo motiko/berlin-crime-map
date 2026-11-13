@@ -8,14 +8,14 @@
     "category": "fire",
     "incidentDate": "2026-04-04",
     "street": "Pannierstraße",
-    "houseNumberOrCrossing": "Sonnenallee",
-    "placeName": "Volkspark Hasenheide",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "An apartment in a residential building in Pannierstraße was completely burned out early in the morning, and residents were rescued by the fire brigade. Police are investigating aggravated arson.",
+    "summaryEn": "An apartment in a residential building in Pannierstraße burned out early in the morning, and residents were rescued by fire crews. Seventeen people were treated for smoke inhalation, and police are investigating suspected arson.",
     "injured": 17,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.296Z"
+  "extractedAt": "2026-11-13T18:42:21.655Z"
 }

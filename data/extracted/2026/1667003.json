@@ -5,17 +5,17 @@
   "title": "Tödlicher Unfall im U-Bahnhof",
   "location": "Friedrichshain-Kreuzberg",
   "extraction": {
-    "category": "homicide",
-    "incidentDate": "2026-05-02",
-    "street": null,
-    "houseNumberOrCrossing": null,
-    "placeName": "U-Bahnhof Gleisdreieck",
-    "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 69-year-old man was dragged by a departing U-Bahn train at Gleisdreieck station after trying to hold the doors open with his walking aid. He was found dead beside the tracks around 5:30 a.m., and U1 and U3 services were suspended until 7 a.m.",
-    "injured": 0,
+    "category": "traffic",
     "dead": 1,
+    "district": "Friedrichshain-Kreuzberg",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-05-02",
+    "injured": 0,
+    "placeName": "U-Bahnhof Gleisdreieck",
+    "street": null,
+    "summaryEn": "A 69-year-old man was fatally dragged by a departing U-Bahn train at Gleisdreieck station after trying to hold the doors open with his walking aid. U1 and U3 services were suspended until 7 a.m.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.709Z"
+  "extractedAt": "2026-11-13T18:50:41.477Z"
 }

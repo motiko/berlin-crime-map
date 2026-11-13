@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Around 2 a.m. police found a 40-year-old man with a gunshot wound to the leg in a residential building hallway in Schöneberg. Two firearms and ammunition were secured, and the victim was taken to hospital for emergency surgery.",
+    "summaryEn": "A 40-year-old man was shot in the leg in a residential building hallway in Schöneberg; unknown men fled. Police found two firearms and secured them.",
     "injured": 1,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.446Z"
+  "extractedAt": "2026-11-13T18:49:04.436Z"
 }

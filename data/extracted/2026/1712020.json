@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Garten der Fugger-Klinik",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Three bronze sculptures were stolen from the garden of a clinic between 25 and 26 August 2026. Police are asking for information on their whereabouts.",
+    "summaryEn": "Three bronze sculptures were stolen from the garden of a clinic in Fuggerstraße between 25 and 26 August 2026. Police are asking for information on their whereabouts.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.912Z"
+  "extractedAt": "2026-11-13T18:49:04.441Z"
 }

@@ -6,16 +6,16 @@
   "location": "bezirksübergreifend",
   "extraction": {
     "category": "political",
-    "incidentDate": "2026-02-07",
-    "street": "Müllerstraße",
-    "houseNumberOrCrossing": "Triftstraße",
-    "placeName": "Gesundbrunnen",
-    "district": "Mitte",
-    "summaryEn": "Police handled several political demonstrations across Mitte, Gesundbrunnen, Wedding and Märkisches Viertel on 7 February, with 30 arrests in total. Incidents included Middle East and Iran-related protests and a blockade at a party event, with 22 criminal investigations opened.",
-    "injured": 0,
     "dead": 0,
+    "district": "Mitte",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-02-07",
+    "injured": 1,
+    "placeName": "Platz des 18. März",
+    "street": null,
+    "summaryEn": "Police deployed about 800 officers at several political assemblies in Mitte, Gesundbrunnen, Wedding and Märkisches Viertel; 30 people were arrested and 22 criminal investigations opened. One police officer was hurt during a blockade at a party event on Eichhorster Weg.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.340Z"
+  "extractedAt": "2026-11-13T18:42:21.576Z"
 }

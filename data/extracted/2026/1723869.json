@@ -6,16 +6,16 @@
   "location": "Mitte",
   "extraction": {
     "category": "traffic",
-    "incidentDate": "2026-10-09",
-    "street": "Holländerstraße",
-    "houseNumberOrCrossing": "Belfaster Straße",
-    "placeName": "Wedding",
-    "district": "Mitte",
-    "summaryEn": "A 59-year-old woman was fatally struck by a semi-trailer truck while crossing Holländerstraße in Wedding. The truck driver left the scene without stopping.",
-    "injured": 0,
     "dead": 1,
+    "district": "Mitte",
+    "houseNumberOrCrossing": "Belfaster Straße",
+    "incidentDate": "2026-10-09",
+    "injured": 0,
+    "placeName": null,
+    "street": "Holländerstraße",
+    "summaryEn": "A 59-year-old woman was struck by a semi-trailer truck while crossing Holländerstraße in Wedding and died at the scene. The truck driver left the scene without stopping.",
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.032Z"
+  "extractedAt": "2026-11-13T18:49:04.281Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Parkstraße",
     "placeName": "Weißensee",
     "district": "Pankow",
-    "summaryEn": "A ten-year-old boy was hit by a tram while crossing the tram tracks on Berliner Allee in Weißensee. He was seriously injured with head injuries and taken to hospital; the tram driver was also taken to hospital for outpatient treatment.",
+    "summaryEn": "A ten-year-old boy was hit by a tram on Berliner Allee in Weißensee while crossing the tram tracks. He was seriously injured and taken to hospital; the tram driver was also treated.",
     "injured": 2,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.949Z"
+  "extractedAt": "2026-11-13T18:49:04.387Z"
 }

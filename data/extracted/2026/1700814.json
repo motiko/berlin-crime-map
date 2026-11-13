@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Goltzstraße",
     "placeName": "Hakenfelde",
     "district": "Spandau",
-    "summaryEn": "A motorcyclist rammed the rear of a car waiting at a red light on Streitstraße in Hakenfelde. The 53-year-old motorcyclist was seriously injured in the head and neck area and taken to hospital.",
+    "summaryEn": "A motorcyclist rear-ended a car stopped at a red light on Streitstraße in Hakenfelde and was seriously injured. Police traffic investigators are looking into the cause of the crash.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.805Z"
+  "extractedAt": "2026-11-13T18:49:04.228Z"
 }

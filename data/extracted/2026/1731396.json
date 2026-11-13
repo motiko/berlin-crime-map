@@ -6,16 +6,16 @@
   "location": "Mitte",
   "extraction": {
     "category": "traffic",
-    "incidentDate": "2026-10-26",
-    "street": "Prinzenallee",
-    "houseNumberOrCrossing": "Badstraße",
-    "placeName": "Gesundbrunnen",
-    "district": "Mitte",
-    "summaryEn": "A truck turned right into Prinzenallee and struck a 31-year-old pedestrian crossing from Badstraße, running over her in part. The woman was seriously injured and taken to hospital for emergency surgery.",
-    "injured": 1,
     "dead": 0,
+    "district": "Mitte",
+    "houseNumberOrCrossing": "Prinzenallee",
+    "incidentDate": "2026-10-26",
+    "injured": 1,
+    "placeName": "Gesundbrunnen",
+    "street": "Badstraße",
+    "summaryEn": "A truck turning right hit a 31-year-old pedestrian crossing Badstraße in Gesundbrunnen, who was seriously injured and run over in part. She was taken to hospital for emergency surgery.",
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.867Z"
+  "extractedAt": "2026-11-13T18:49:04.238Z"
 }

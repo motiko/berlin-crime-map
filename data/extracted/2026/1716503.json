@@ -9,13 +9,13 @@
     "incidentDate": "2026-09-20",
     "street": "Goebelstraße",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Charlottenburg-Nord",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Two unknown youths entered a restaurant in Charlottenburg-Nord, one brandished a firearm while the other took a cash register and both fled. A 60-year-old female customer was pushed from a chair and injured.",
+    "summaryEn": "Two youths entered a restaurant on Goebelstraße, one brandished a firearm and the other took a cash register. A 60-year-old customer was pushed and injured in the fall.",
     "injured": 1,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.043Z"
+  "extractedAt": "2026-11-13T18:49:04.453Z"
 }

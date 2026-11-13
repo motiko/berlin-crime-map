@@ -9,13 +9,13 @@
     "incidentDate": "2026-11-08",
     "street": "BAB 100",
     "houseNumberOrCrossing": "Anschlussstelle Gradestraße",
-    "placeName": null,
+    "placeName": "Tunnel BAB 100 between Gradestraße and Britzer Damm",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 38-year-old van driver lost control on the A100 motorway in the tunnel section between Gradestraße and Britzer Damm, hitting the tunnel wall and an emergency exit. He died on 12 November from injuries sustained in the crash.",
+    "summaryEn": "A 38-year-old van driver left the carriageway for unclear reasons on the A100 motorway tunnel and hit the wall and an emergency exit. He died later in hospital from his injuries, which he sustained on 8 November.",
     "injured": 1,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:37:15.432Z"
+  "extractedAt": "2026-11-13T18:49:04.273Z"
 }

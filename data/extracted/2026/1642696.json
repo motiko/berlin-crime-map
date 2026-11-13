@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "A 35-year-old woman driving a Jeep hit a 60-year-old pedestrian while leaving a shopping center car park, and the car ran over him. The pedestrian suffered serious injuries but is not in danger of his life.",
+    "summaryEn": "A 35-year-old woman driving a Jeep hit a 60-year-old pedestrian while leaving a shopping centre car park onto Karl-Marx-Straße, and the car ran over him. The pedestrian suffered serious injuries but is not in danger of his life.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.280Z"
+  "extractedAt": "2026-11-13T18:42:21.578Z"
 }

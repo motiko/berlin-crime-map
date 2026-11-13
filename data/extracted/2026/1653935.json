@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Schildower Straße",
     "placeName": "Hermsdorf",
     "district": "Reinickendorf",
-    "summaryEn": "Two police officers responding to an emergency call with lights and siren collided with a turning car in Hermsdorf. The officers and the 83-year-old driver were injured.",
+    "summaryEn": "Two police officers responding to an urgent call with blue lights and siren collided with a turning car in Hermsdorf. The two officers and the 83-year-old driver were injured.",
     "injured": 3,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.278Z"
+  "extractedAt": "2026-11-13T18:42:21.581Z"
 }

@@ -9,13 +9,13 @@
     "incidentDate": "2026-05-16",
     "street": "Danziger Straße",
     "houseNumberOrCrossing": "Knaackstraße",
-    "placeName": "Prenzlauer Berg",
+    "placeName": null,
     "district": "Pankow",
-    "summaryEn": "After a physical altercation between two men, one 21-year-old was stabbed in the upper body and taken to hospital. The other man fled the scene by car; police say his life is not in danger.",
+    "summaryEn": "After a physical altercation between two men in Danziger Straße, one man was stabbed in the upper body and taken to hospital with non-life-threatening injuries. The other man fled by car.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.736Z"
+  "extractedAt": "2026-11-13T18:49:04.420Z"
 }

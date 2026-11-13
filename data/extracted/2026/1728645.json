@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "After a dispute over a lane change, two occupants of a van got out and attacked a 22-year-old cyclist, who was struck with a metal rod. The cyclist was hurt in the arm and hand and declined immediate medical treatment.",
+    "summaryEn": "After a lane change in traffic, a van driver and passenger attacked a cyclist on Alexanderstraße, hitting him with a metal bar. The cyclist was injured in the arm and hand and the attackers fled.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "metal rod"
+    "weaponType": "metal bar"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.786Z"
+  "extractedAt": "2026-11-13T18:49:04.366Z"
 }

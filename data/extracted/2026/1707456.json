@@ -9,13 +9,13 @@
     "incidentDate": "2026-08-26",
     "street": "Winckelmannstraße",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Parteibüro",
     "district": "Treptow-Köpenick",
-    "summaryEn": "Feces were smeared on the lock and door handle of a party office in Johannisthal, discovered around 3 p.m. The State Security unit has taken over the investigation.",
+    "summaryEn": "Feces were smeared on the lock and handle of a political party office in Johannisthal. The State Security unit has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.764Z"
+  "extractedAt": "2026-11-13T18:49:04.154Z"
 }

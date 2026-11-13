@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Randowstraße",
     "placeName": null,
     "district": "Lichtenberg",
-    "summaryEn": "Two men allegedly robbed a 42-year-old man at knifepoint-style threat with a weapon and took his smartphone. One 26-year-old suspect was arrested after the phone was located, and a replica gas-type pistol was seized.",
+    "summaryEn": "Two men allegedly robbed a 42-year-old man at gunpoint of his smartphone. One suspect, 26, was arrested after the phone was located, and a starter pistol was seized; the second suspect is still sought.",
     "injured": 0,
     "dead": 0,
     "weaponType": "blank-firing gun"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.922Z"
+  "extractedAt": "2026-11-13T18:49:04.439Z"
 }

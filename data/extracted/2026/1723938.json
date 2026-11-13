@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Rathaus Spandau",
     "district": "Spandau",
-    "summaryEn": "A group of four to six youths threatened a 13-year-old child and robbed them of a small amount of money and their jacket at Spandau town hall square. The child was not physically injured.",
+    "summaryEn": "A group of four to six youths threatened a 13-year-old child with violence and robbed them of a small amount of cash and their jacket. The child was not physically injured.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.685Z"
+  "extractedAt": "2026-11-13T18:49:04.402Z"
 }

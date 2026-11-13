@@ -6,16 +6,16 @@
   "location": "berlinweit",
   "extraction": {
     "category": "other",
-    "incidentDate": "2026-03-13",
+    "incidentDate": "2026-03-16",
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Police Berlin announce a traffic accident prevention campaign week from 16 to 20 March 2026 to protect elderly pedestrians, with events at weekly markets across the city. No incident occurred.",
-    "injured": 0,
-    "dead": 0,
+    "summaryEn": "Police Berlin run a traffic accident prevention campaign week from 16 to 20 March 2026 to protect elderly pedestrians, with events at weekly markets across the city. The events offer reaction tests and safety tips for seniors.",
+    "injured": null,
+    "dead": null,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T18:31:46.270Z"
+  "extractedAt": "2026-11-13T18:42:21.631Z"
 }
