@@ -6,6 +6,7 @@
  *   pnpm extract --year 2026 --limit 100 --direct   # dry run with immediate results and cost
  *   pnpm extract --ids 1701194,1689852 --direct     # specific reports (any year)
  *   pnpm extract --collect                   # only wait for and save batches submitted earlier
+ *   pnpm extract --year 2026 --force         # re-extract reports that were already extracted
  *
  * Batches can take up to 24 hours. Submitted batches are recorded in data/batches/, so the
  * command can be stopped and rerun: it collects pending batches and never resubmits a
@@ -172,7 +173,7 @@ if (!args.collect) {
   for (const year of years) {
     for (const report of await readYear<RawReport>(RAW_DIR, year)) {
       if (ids && !ids.has(report.id)) continue;
-      if (!ids && existsSync(extractedPath(year, report.id))) continue;
+      if (!ids && !args.force && existsSync(extractedPath(year, report.id))) continue;
       if (inFlight.has(report.id)) continue;
       todo.push({ year, report });
     }

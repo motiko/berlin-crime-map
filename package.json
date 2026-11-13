@@ -18,7 +18,8 @@
     "build-data": "tsx pipeline/build-data.ts",
     "daily": "tsx pipeline/daily.ts",
     "backfill": "tsx pipeline/backfill.ts",
-    "districts": "tsx pipeline/districts.ts"
+    "districts": "tsx pipeline/districts.ts",
+    "eval": "tsx pipeline/eval.ts"
   },
   "dependencies": {
     "@fontsource/barlow": "^5.3.0",

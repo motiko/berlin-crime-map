@@ -36,25 +36,58 @@ export const FAMILY_META: Record<Family, { label: string; color: string; colorDa
 interface CategoryMeta {
   label: string;
   family: Family;
+  /** Short text for tooltips on the site. */
   description: string;
+  /** What belongs in this category, for the extraction model. The prompt is built from these. */
+  definition: string;
 }
 
 const META: Record<Category, CategoryMeta> = {
-  shooting: { label: 'Shooting', family: 'people', description: 'Shots fired from a real or blank-firing gun, or a gunshot injury' },
-  knife: { label: 'Knife attack', family: 'people', description: 'Stabbing or an attack with a knife or other blade' },
-  homicide: { label: 'Homicide / death', family: 'people', description: 'Killing, attempted killing or a death under investigation' },
-  explosion: { label: 'Explosion', family: 'property', description: 'Cash machine or vending machine blasts, explosive devices' },
-  robbery: { label: 'Robbery', family: 'people', description: 'Robbery, armed robbery, extortion' },
-  burglary: { label: 'Burglary / theft', family: 'property', description: 'Burglary, theft, vehicle theft' },
-  assault: { label: 'Assault', family: 'people', description: 'Bodily harm without a knife or gun' },
-  political: { label: 'Political / hate', family: 'police', description: 'Politically motivated, antisemitic, racist, homophobic or other hate crime' },
-  traffic: { label: 'Traffic', family: 'other', description: 'Traffic accidents, dangerous driving, police chases' },
-  fire: { label: 'Fire / arson', family: 'property', description: 'Arson and fires investigated by police' },
-  missing: { label: 'Missing person', family: 'other', description: 'Missing person appeals and their outcomes' },
-  raid: { label: 'Raid / searches', family: 'police', description: 'Large police operations, searches and arrests' },
-  drugs: { label: 'Drugs', family: 'police', description: 'Drug offences and seizures' },
-  fraud: { label: 'Fraud', family: 'property', description: 'Fraud, scam calls, forgery' },
-  other: { label: 'Other', family: 'other', description: 'Everything else' },
+  shooting: { label: 'Shooting', family: 'people', description: 'Shots fired from a real or blank-firing gun, or a gunshot injury',
+    definition:
+      'Shots fired from a real, blank-firing or gas gun, or a gunshot injury. A gun that is only shown or pointed is not a shooting.' },
+  knife: { label: 'Knife attack', family: 'people', description: 'Stabbing or an attack with a knife or other blade',
+    definition:
+      'Stabbing, cutting or an attack with a knife or other blade (Messerangriff), or a blade drawn against a person.' },
+  homicide: { label: 'Homicide / death', family: 'people', description: 'Killing, attempted killing or a death under investigation',
+    definition:
+      'A killing or attempted killing (Mord, Totschlag, versuchte Tötung), or a death investigated by a homicide unit (Mordkommission).' },
+  explosion: { label: 'Explosion', family: 'property', description: 'Cash machine or vending machine blasts, explosive devices',
+    definition:
+      'Blasts and explosive devices: cash machines or vending machines blown up, pyrotechnics or bombs used as a weapon.' },
+  robbery: { label: 'Robbery', family: 'people', description: 'Property taken or demanded by force or threat',
+    definition:
+      'Property taken or demanded by force or a threat against a person: Raub, schwerer Raub, räuberische Erpressung (including forcing someone to pay a claimed debt or money demand with threats or a weapon), räuberischer Diebstahl (force used to keep stolen goods right after the theft), and Überfall on people, shops or cash transporters. NOT robbery: a theft without force against the victim (pickpocketing, shoplifting, break-ins, vehicle theft), even if the suspect later resists arrest, flees, or is found carrying a weapon; and a threat with a weapon where nothing is taken or demanded (that is assault).' },
+  burglary: { label: 'Burglary / theft', family: 'property', description: 'Theft without force: pickpocketing, shoplifting, break-ins, vehicle theft',
+    definition:
+      'Theft without force against a person: Diebstahl, Taschendiebstahl (pickpocketing), Ladendiebstahl (shoplifting), Einbruch (break-ins, smash-and-grab), and theft of cars, motorbikes, bikes or number plates. Includes Trickdiebstahl (distraction theft, e.g. by people posing as care workers or tradespeople), where things are taken rather than handed over.' },
+  assault: { label: 'Assault', family: 'people', description: 'Bodily harm without a knife or gun',
+    definition:
+      'Violence, threats or coercion against a person with no blade used and no shot fired: Körperverletzung, Bedrohung (including threats with a gun that was not fired, where nothing is demanded), Nötigung, attacks on police or emergency services.' },
+  political: { label: 'Political / hate', family: 'police', description: 'Politically motivated, antisemitic, racist, homophobic or other hate crime',
+    definition:
+      'Anything the police treat as politically motivated or as hate crime: cases taken over by the Staatsschutz (state security unit), antisemitic, racist, homophobic, misogynist or extremist acts.' },
+  traffic: { label: 'Traffic', family: 'other', description: 'Traffic accidents, dangerous driving, police chases',
+    definition:
+      'Traffic accidents, dangerous or drunk driving, illegal races and police chases where no other category fits better.' },
+  fire: { label: 'Fire / arson', family: 'property', description: 'Arson and fires investigated by police',
+    definition:
+      'Arson and fires that the police investigate.' },
+  missing: { label: 'Missing person', family: 'other', description: 'Missing person appeals and their outcomes',
+    definition:
+      'Missing person appeals and reports that a missing person was found.' },
+  raid: { label: 'Raid / searches', family: 'police', description: 'Large police operations, searches and arrests',
+    definition:
+      'Large police operations, searches (Durchsuchungen) and arrests that are not about one of the incident types above.' },
+  drugs: { label: 'Drugs', family: 'police', description: 'Drug offences and seizures',
+    definition:
+      'Drug offences and seizures.' },
+  fraud: { label: 'Fraud', family: 'property', description: 'Fraud, scam calls, forgery',
+    definition:
+      'Deception for money: Betrug, scam calls (Enkeltrick, falsche Polizeibeamte, Schockanrufe), Trickbetrug (the victim is tricked into handing over money or valuables, e.g. to fake police officers), forgery, investment and online fraud.' },
+  other: { label: 'Other', family: 'other', description: 'Everything else',
+    definition:
+      'Anything that fits none of the categories above.' },
 };
 
 /** Category metadata; `color` is the family's colour (light map and panel). */

@@ -1,4 +1,4 @@
-import { CATEGORIES, DISTRICTS } from '../../shared/categories.ts';
+import { CATEGORIES, CATEGORY_META, DISTRICTS } from '../../shared/categories.ts';
 import type { Extraction, RawReport } from '../../shared/types.ts';
 
 /** Any OpenRouter model with tool support works; override with OPENROUTER_MODEL. */
@@ -10,11 +10,9 @@ export const SYSTEM_PROMPT = `You extract structured data from Berlin police pre
 Call the record_incident tool exactly once.
 
 Rules:
-- category: the single most serious incident in the report. When several apply, prefer this order:
+- category: the single most serious incident in the report, using the definitions under "Categories" below. When several apply, prefer this order:
   homicide > shooting > explosion > knife > robbery > political > assault > fire > raid > missing > drugs > fraud > burglary > traffic > other.
-  "shooting" includes blank-firing or gas pistols when shots were fired. A gun shown or used for threats without firing is "robbery" if something was stolen or demanded, otherwise "assault".
-  "homicide" covers killings, attempted killings, and deaths investigated by a homicide unit (Mordkommission).
-  "political" covers anything handled as politically motivated or hate crime (Staatsschutz, antisemitic, racist, homophobic, etc.).
+  Classify by what the suspect did to the victim, not by what happened during the arrest: resisting arrest, fleeing, or a weapon found in a search do not make a theft a robbery.
 - street: the street where the incident happened, spelled as in the text (e.g. "Meinekestraße"). Never use the address of a police office or where tips can be given (e.g. "Keithstraße 30", "Platz der Luftbrücke 6"). Null if no incident street is named.
 - houseNumberOrCrossing: a house number ("52") or the crossing street ("Sonnenallee") if given, else null.
 - placeName: a named place if that is the best location (a park, station, square or landmark such as "Görlitzer Park" or "Bahnhof Zoo"), else null.
@@ -22,7 +20,10 @@ Rules:
 - incidentDate: the date the incident happened (YYYY-MM-DD). Resolve words like "gestern" or "heute früh" relative to the publication date. Null if unknown.
 - summaryEn: at most two short, neutral English sentences about what happened. Never include personal names (not even abbreviated ones like "Lisa T."), nationalities, ethnicities or descriptions of appearance. Ages and genders are fine.
 - injured / dead: number of people injured or killed as stated, 0 if the text says nobody was hurt, null if not stated.
-- weaponType: e.g. "firearm", "blank-firing gun", "knife", "explosive", "vehicle", or null.`;
+- weaponType: e.g. "firearm", "blank-firing gun", "knife", "explosive", "vehicle", or null.
+
+Categories:
+${CATEGORIES.map((c) => `- ${c}: ${CATEGORY_META[c].definition}`).join('\n')}`;
 
 const TOOL = {
   type: 'function',

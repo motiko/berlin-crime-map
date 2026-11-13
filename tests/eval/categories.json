@@ -1,0 +1,90 @@
+{
+  "_note": "Reports with a known correct category, checked by hand. `pnpm eval` re-extracts them and fails on any mismatch. Add a case whenever a misclassification is found.",
+  "cases": [
+    {
+      "id": "1735173",
+      "expected": "burglary",
+      "why": "Pickpocket caught; resisting arrest and a seized knife do not make it robbery"
+    },
+    {
+      "id": "1680282",
+      "expected": "burglary",
+      "why": "Pickpocketing (Taschendiebstahl) on the U-Bahn; pepper spray only found in a search"
+    },
+    {
+      "id": "1736192",
+      "expected": "burglary",
+      "why": "Phone pickpocketed in a tram"
+    },
+    {
+      "id": "1724391",
+      "expected": "burglary",
+      "why": "Stolen motorbike"
+    },
+    {
+      "id": "1734952",
+      "expected": "burglary",
+      "why": "Smash-and-grab at a jeweller, handled by the burglary squad"
+    },
+    {
+      "id": "1650457",
+      "expected": "assault",
+      "why": "Doorman threatened with a blank-firing gun; nothing taken or demanded"
+    },
+    {
+      "id": "1695243",
+      "expected": "assault",
+      "why": "Gun pointed at plain-clothes officers from a passing car"
+    },
+    {
+      "id": "1657366",
+      "expected": "assault",
+      "why": "Delivery driver threatened with a gun; nothing demanded"
+    },
+    {
+      "id": "1710499",
+      "expected": "assault",
+      "why": "Threat to use a gun during a TV interview"
+    },
+    {
+      "id": "1689511",
+      "expected": "burglary",
+      "why": "Trickdiebstahl by fake care workers: legally theft (things are taken, not handed over), not fraud"
+    },
+    {
+      "id": "1692331",
+      "expected": "robbery",
+      "why": "Gun threat to force payment of a money demand (räuberische Erpressung)"
+    },
+    {
+      "id": "1714078",
+      "expected": "robbery",
+      "why": "Attack on a cash transporter, cash taken"
+    },
+    {
+      "id": "1695048",
+      "expected": "robbery",
+      "why": "Senior robbed and injured in their flat"
+    },
+    {
+      "id": "1723938",
+      "expected": "robbery",
+      "why": "Child threatened and robbed by a group: threat used to take property"
+    },
+    {
+      "id": "1637263",
+      "expected": "robbery",
+      "why": "Late-night shop held up with a gun: a gun threat where something is taken"
+    },
+    {
+      "id": "1701194",
+      "expected": "homicide",
+      "why": "Fatal shooting at Hardenbergplatz: killing outranks shooting"
+    },
+    {
+      "id": "1689852",
+      "expected": "shooting",
+      "why": "Blank-firing gun fired, one injured"
+    }
+  ]
+}

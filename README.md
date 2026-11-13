@@ -48,6 +48,19 @@ pnpm geocode --year 2026
 pnpm build-data
 ```
 
+### Categories and the regression check
+
+Each category has a definition in [`shared/categories.ts`](shared/categories.ts) (German legal terms included, e.g. Raub vs. Diebstahl). The extraction prompt is built from these definitions, so the site's legend and the model use the same rules.
+
+[`tests/eval/categories.json`](tests/eval/categories.json) lists reports with a hand-checked category. After changing a definition, the prompt or the model, run:
+
+```bash
+pnpm eval                                   # re-extract the checked cases; fails on any mismatch (< 1 cent)
+pnpm extract --year 2026 --force            # then re-extract a year with the new rules
+```
+
+When a misclassification turns up, add it to the eval file with the correct category and a one-line reason before fixing the definition.
+
 ### Backfill
 
 The archive goes back to 2020 in the current format. Scraping is slow by design (about 3.5 s per request, so several hours per year). Every step is resumable: rerun the same command after an interruption.
