@@ -88,11 +88,36 @@ export function MapView({ incidents, selectedId, district, onSelect, onBoundsCha
   const mapRef = useRef<maplibregl.Map | null>(null);
   const readyRef = useRef(false);
   const shownDistrict = useRef('');
-  const latest = useRef({ incidents, district, onSelect, onBoundsChange });
-  latest.current = { incidents, district, onSelect, onBoundsChange };
+  const latest = useRef({ incidents, selectedId, district, onSelect, onBoundsChange });
+  latest.current = { incidents, selectedId, district, onSelect, onBoundsChange };
+  /** The incident the map last zoomed to, so it zooms once per selection, not on every data update. */
+  const focused = useRef<string | null>(null);
+
+  /**
+   * Highlight the selected incident and zoom to it. Runs when the selection changes, and when
+   * the map or the data become ready, so a shared link (?incident=…) also opens zoomed in.
+   */
+  const focusSelected = (map: maplibregl.Map) => {
+    const { selectedId: id, incidents: all } = latest.current;
+    map.setFilter('selected', ['==', ['get', 'id'], id ?? '']);
+    if (!id) {
+      focused.current = null;
+      return;
+    }
+    if (focused.current === id) return;
+    const incident = all.find((i) => i.id === id);
+    if (!incident) return; // data not loaded yet: try again when it is
+    focused.current = id;
+    if (incident.lat == null || incident.lng == null) return;
+    map.easeTo({
+      center: [incident.lng, incident.lat],
+      zoom: Math.max(map.getZoom(), incident.precision === 'street' ? 15 : 12),
+      offset: clearOfDetails(map),
+    });
+  };
 
   /** Outline the district and zoom to it; with '' zoom back out to Berlin. */
-  const showDistrict = (map: maplibregl.Map, name: string) => {
+  const showDistrict = (map: maplibregl.Map, name: string, fit = true) => {
     const filter: maplibregl.FilterSpecification = ['==', ['get', 'name'], name];
     map.setFilter('district-fill', filter);
     map.setFilter('district-line', filter);
@@ -105,7 +130,7 @@ export function MapView({ incidents, selectedId, district, onSelect, onBoundsCha
     loadDistrictShapes()
       .then((shapes) => {
         const feature = shapes.features.find((f) => f.properties.name === name);
-        if (feature && shownDistrict.current === name) {
+        if (feature && fit && shownDistrict.current === name) {
           map.fitBounds(bboxOf(feature.geometry), { padding: 40, duration: 800 });
         }
       })
@@ -248,7 +273,9 @@ export function MapView({ incidents, selectedId, district, onSelect, onBoundsCha
 
       readyRef.current = true;
       latest.current.onBoundsChange(map.getBounds());
-      if (latest.current.district) showDistrict(map, latest.current.district);
+      // On a shared link with an incident, zoom to the incident rather than to its district.
+      if (latest.current.district) showDistrict(map, latest.current.district, !latest.current.selectedId);
+      focusSelected(map);
     });
 
     return () => {
@@ -275,18 +302,10 @@ export function MapView({ incidents, selectedId, district, onSelect, onBoundsCha
   useEffect(() => {
     const map = mapRef.current;
     if (!map || !readyRef.current) return;
-    map.setFilter('selected', ['==', ['get', 'id'], selectedId ?? '']);
-    const incident = incidents.find((i) => i.id === selectedId);
-    if (incident?.lat != null && incident.lng != null) {
-      map.easeTo({
-        center: [incident.lng, incident.lat],
-        zoom: Math.max(map.getZoom(), incident.precision === 'street' ? 15 : 12),
-        offset: clearOfDetails(map),
-      });
-    }
-    // Only react to a new selection, not to every data change.
+    focusSelected(map);
+    // focusSelected reads the latest props from a ref and zooms once per selection.
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [selectedId]);
+  }, [selectedId, incidents]);
 
   return <div ref={container} className="map" role="region" aria-label="Map of incidents" />;
 }
