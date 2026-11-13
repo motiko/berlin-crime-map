@@ -8,3 +8,4 @@ NOTES.local.md
 # Raw police report text: kept locally for re-extraction, never published.
 data/raw
 data/batches
+.playwright-mcp

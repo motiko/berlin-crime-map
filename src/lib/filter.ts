@@ -9,9 +9,10 @@ export interface Filters {
   query: string;
 }
 
-export function isoDaysAgo(days: number, from = new Date()): string {
-  const d = new Date(from);
-  d.setDate(d.getDate() - days);
+/** All date math is in UTC on plain YYYY-MM-DD strings, so DST changes can't shift a day. */
+export function isoDaysAgo(days: number, from: string = new Date().toISOString().slice(0, 10)): string {
+  const d = new Date(`${from}T00:00:00Z`);
+  d.setUTCDate(d.getUTCDate() - days);
   return d.toISOString().slice(0, 10);
 }
 

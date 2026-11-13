@@ -16,7 +16,7 @@ const PRESETS = [
 
 export function Filters({ value, minDate, maxDate, onChange }: Props) {
   const set = (patch: Partial<FilterState>) => onChange({ ...value, ...patch });
-  const activePreset = PRESETS.find((p) => value.to === maxDate && value.from === isoDaysAgo(p.days, new Date(maxDate)));
+  const activePreset = PRESETS.find((p) => value.to === maxDate && value.from === isoDaysAgo(p.days, maxDate));
   const isAll = value.from === minDate && value.to === maxDate;
 
   return (
@@ -28,7 +28,7 @@ export function Filters({ value, minDate, maxDate, onChange }: Props) {
             type="button"
             className="chip"
             aria-pressed={activePreset === p}
-            onClick={() => set({ from: isoDaysAgo(p.days, new Date(maxDate)), to: maxDate })}
+            onClick={() => set({ from: isoDaysAgo(p.days, maxDate), to: maxDate })}
           >
             {p.label}
           </button>

@@ -84,7 +84,21 @@ async function collectAll() {
   let pending = await pendingBatches();
   while (pending.length) {
     for (const record of pending) {
-      const batch = await getBatch(record.id, apiKey as string);
+      let batch;
+      try {
+        batch = await getBatch(record.id, apiKey as string);
+      } catch (error) {
+        // A just-submitted batch can return 404 for a while before it becomes visible.
+        const ageMin = (Date.now() - Date.parse(record.submittedAt)) / 60_000;
+        const message = (error as Error).message;
+        if (message.includes(' 404') && ageMin > 30) {
+          console.warn(`  batch ${record.id} still unknown after 30 min; dropping it so its reports are resubmitted`);
+          await rm(join(BATCH_DIR, `${record.id}.json`));
+        } else {
+          console.warn(`  batch ${record.id}: ${message.slice(0, 200)} (will retry)`);
+        }
+        continue;
+      }
       const c = batch.request_counts ?? {};
       console.log(`batch ${record.id}: ${batch.status} ${JSON.stringify(c)}`);
       if (!FINAL.includes(batch.status)) continue;

@@ -3,8 +3,13 @@ import * as maplibregl from 'maplibre-gl';
 import type { GeoJSONSource, LngLatBounds } from 'maplibre-gl';
 import type * as GeoJSON from 'geojson';
 import 'maplibre-gl/dist/maplibre-gl.css';
+// MapLibre 6 looks for its worker next to its own module, which Vite moves when bundling.
+// The worker is self-contained, so serve it as an asset and point MapLibre at it.
+import workerUrl from 'maplibre-gl/dist/maplibre-gl-worker.mjs?url';
 import { CATEGORIES, CATEGORY_META } from '../../shared/categories.ts';
 import type { Incident } from '../../shared/types.ts';
+
+maplibregl.setWorkerUrl(workerUrl);
 
 const STYLE_URL = 'https://tiles.openfreemap.org/styles/positron';
 const BERLIN_CENTER: [number, number] = [13.405, 52.515];
