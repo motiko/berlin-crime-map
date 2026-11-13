@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from 'react';
 import type { LngLatBounds } from 'maplibre-gl';
 import { CATEGORIES, type Category } from '../shared/categories.ts';
+import { nextSelection } from '../shared/selection.ts';
 import type { DataIndex, Incident } from '../shared/types.ts';
 import { About } from './components/About.tsx';
 import { Filters } from './components/Filters.tsx';
@@ -64,12 +65,6 @@ export function App() {
   const minDate = index?.years.length ? `${index.years[0].year}-01-01` : today;
 
   const setCategories = (categories: Set<Category>) => setFilters((f) => ({ ...f, categories }));
-  const toggleCategory = (c: Category) => {
-    const next = new Set(filters.categories);
-    if (next.has(c)) next.delete(c);
-    else next.add(c);
-    setCategories(next);
-  };
 
   return (
     <div className="app">
@@ -91,8 +86,7 @@ export function App() {
         <StatsBar
           counts={counts}
           selected={filters.categories}
-          onToggle={toggleCategory}
-          onOnly={(c) => setCategories(new Set([c]))}
+          onSelect={(c) => setCategories(nextSelection(CATEGORIES, filters.categories, c))}
           onAll={() => setCategories(new Set(CATEGORIES))}
         />
 

@@ -3,25 +3,29 @@ import { CATEGORIES, CATEGORY_META, type Category } from '../../shared/categorie
 interface Props {
   counts: Map<Category, number>;
   selected: Set<Category>;
-  onToggle: (category: Category) => void;
-  onOnly: (category: Category) => void;
+  onSelect: (category: Category) => void;
   onAll: () => void;
 }
 
-/** Category legend that doubles as the category filter: click toggles, double-click shows only that category. */
-export function StatsBar({ counts, selected, onToggle, onOnly, onAll }: Props) {
+/**
+ * Category legend that doubles as the filter. With all categories shown, a click shows only
+ * that category; further clicks add or remove categories; "Show all" resets.
+ */
+export function StatsBar({ counts, selected, onSelect, onAll }: Props) {
   const allOn = selected.size === CATEGORIES.length;
   return (
     <div className="stats">
       <div className="stats-head">
-        <span>Categories</span>
+        <span id="categories-label">
+          {allOn ? 'Categories · click one to show only it' : `Categories · ${selected.size} of ${CATEGORIES.length} shown`}
+        </span>
         {!allOn && (
           <button type="button" className="link" onClick={onAll}>
             Show all
           </button>
         )}
       </div>
-      <ul>
+      <ul aria-labelledby="categories-label">
         {CATEGORIES.map((c) => {
           const meta = CATEGORY_META[c];
           const on = selected.has(c);
@@ -30,10 +34,10 @@ export function StatsBar({ counts, selected, onToggle, onOnly, onAll }: Props) {
               <button
                 type="button"
                 className="stat"
-                aria-pressed={on}
-                title={`${meta.description}. Click to toggle, double-click to show only this category.`}
-                onClick={() => onToggle(c)}
-                onDoubleClick={() => onOnly(c)}
+                aria-pressed={!allOn && on}
+                data-dimmed={!on}
+                title={meta.description}
+                onClick={() => onSelect(c)}
               >
                 <span className="dot" style={{ background: meta.color }} aria-hidden />
                 <span className="stat-label">{meta.label}</span>

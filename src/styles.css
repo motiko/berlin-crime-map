@@ -197,8 +197,13 @@ select {
   background: var(--hover);
 }
 
-.stat[aria-pressed='false'] {
+.stat[data-dimmed='true'] {
   opacity: 0.4;
+}
+
+.stat[aria-pressed='true'] {
+  background: var(--hover);
+  font-weight: 600;
 }
 
 .stat-label {
