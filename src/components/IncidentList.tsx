@@ -9,6 +9,8 @@ interface Props {
   total: number;
   selectedId: string | null;
   onSelect: (id: string) => void;
+  /** New data is loading; the current list stays visible, dimmed. */
+  busy?: boolean;
 }
 
 const PAGE = 100;
@@ -25,7 +27,7 @@ function byDay(incidents: Incident[]): { day: string; items: Incident[] }[] {
   return days;
 }
 
-export function IncidentList({ incidents, total, selectedId, onSelect }: Props) {
+export function IncidentList({ incidents, total, selectedId, onSelect, busy = false }: Props) {
   const [shown, setShown] = useState(PAGE);
   const listRef = useRef<HTMLElement>(null);
 
@@ -41,7 +43,7 @@ export function IncidentList({ incidents, total, selectedId, onSelect }: Props) 
   for (const i of incidents) perDay.set(i.date.slice(0, 10), (perDay.get(i.date.slice(0, 10)) ?? 0) + 1);
 
   return (
-    <section ref={listRef} className="list" aria-labelledby="list-label">
+    <section ref={listRef} className="list" aria-labelledby="list-label" aria-busy={busy}>
       <h2 id="list-label" className="list-head">
         {incidents.length === total
           ? `${total.toLocaleString('en-GB')} incidents`

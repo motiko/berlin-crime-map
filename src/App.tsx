@@ -29,6 +29,9 @@ export function App() {
   const [index, setIndex] = useState<DataIndex | null>(null);
   const [incidents, setIncidents] = useState<Incident[]>([]);
   const [loading, setLoading] = useState(true);
+  // After the first load, a new time range keeps the current list on screen (dimmed) until the
+  // data is in. Swapping it for the skeleton collapsed the panel and could make it jump.
+  const [loadedOnce, setLoadedOnce] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [attempt, setAttempt] = useState(0);
   const [filters, setFilters] = useState<FilterState>(initialFilters);
@@ -48,7 +51,11 @@ export function App() {
     setLoading(true);
     setError(null);
     loadRange(index, filters.from, filters.to)
-      .then((data) => !cancelled && setIncidents(data))
+      .then((data) => {
+        if (cancelled) return;
+        setIncidents(data);
+        setLoadedOnce(true);
+      })
       .catch((e: Error) => !cancelled && setError(e.message))
       .finally(() => !cancelled && setLoading(false));
     return () => {
@@ -125,14 +132,14 @@ export function App() {
               Try again
             </button>
           </div>
-        ) : loading ? (
+        ) : loading && !loadedOnce ? (
           <div className="skeleton" aria-busy="true" aria-label="Loading incidents…">
             {Array.from({ length: 6 }, (_, i) => (
               <div key={i} className="skeleton-row" />
             ))}
           </div>
         ) : (
-          <IncidentList incidents={inView} total={filtered.length} selectedId={selectedId} onSelect={setSelectedId} />
+          <IncidentList incidents={inView} total={filtered.length} selectedId={selectedId} onSelect={setSelectedId} busy={loading} />
         )}
       </aside>
 
