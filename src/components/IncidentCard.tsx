@@ -89,7 +89,7 @@ export function IncidentCard({ incident, position, onNewer, onOlder, onClose }: 
         </dl>
         {PRECISION_NOTE[incident.precision] && <p className="note">{PRECISION_NOTE[incident.precision]}</p>}
         <a className="source" href={incident.url} target="_blank" rel="noreferrer">
-          Read the police report (German) ↗
+          Police press release↗
         </a>
         {incident.news && <NewsLinks links={incident.news} />}
       </div>
