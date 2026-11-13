@@ -2,7 +2,7 @@ import { describe, expect, it } from 'vitest';
 import { CATEGORIES, CATEGORY_META } from '../shared/categories.ts';
 import { SYSTEM_PROMPT } from '../pipeline/lib/extraction.ts';
 import evalSet from './eval/categories.json' with { type: 'json' };
-import overrides from '../data/overrides.json' with { type: 'json' };
+import overrides from '../pipeline/overrides.json' with { type: 'json' };
 
 describe('extraction prompt', () => {
   it('defines every category for the model', () => {

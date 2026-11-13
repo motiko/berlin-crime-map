@@ -61,7 +61,7 @@ pnpm extract --year 2026 --force            # then re-extract a year with the ne
 
 When a misclassification turns up, add it to the eval file with the correct category and a one-line reason before fixing the definition.
 
-For a single report the model keeps getting wrong (or flips on between runs), add a hand-checked correction to [`data/overrides.json`](data/overrides.json) instead of rewording the prompt again: `pnpm build-data` applies it on top of the extraction. Systematic errors still belong in the definitions.
+For a single report the model keeps getting wrong (or flips on between runs), add a hand-checked correction to [`pipeline/overrides.json`](pipeline/overrides.json) instead of rewording the prompt again: `pnpm build-data` applies it on top of the extraction. Systematic errors still belong in the definitions.
 
 ### Backfill
 

@@ -12,14 +12,14 @@ import type { DataIndex, ExtractedReport, Incident } from '../shared/types.ts';
 import { type GeocodeCache, locate } from './lib/geo.ts';
 import { EXTRACTED_DIR, GEOCODE_CACHE, PUBLIC_DATA, ROOT, readJson, readYear, writeJson, yearsWithData } from './lib/store.ts';
 
-/** Hand-checked corrections for single reports (data/overrides.json). */
+/** Hand-checked corrections for single reports (pipeline/overrides.json). */
 export interface Override {
   category?: Incident['category'];
   injured?: number | null;
   dead?: number | null;
   why: string;
 }
-export const OVERRIDES_FILE = join(ROOT, 'data/overrides.json');
+export const OVERRIDES_FILE = join(ROOT, 'pipeline/overrides.json');
 
 export function toIncident(report: ExtractedReport, cache: GeocodeCache, override?: Override): Incident {
   const x = { ...report.extraction, ...(override && { ...override, why: undefined }) };
