@@ -8,6 +8,7 @@ import 'maplibre-gl/dist/maplibre-gl.css';
 import workerUrl from 'maplibre-gl/dist/maplibre-gl-worker.mjs?url';
 import { CATEGORIES, CATEGORY_META } from '../../shared/categories.ts';
 import type { Incident } from '../../shared/types.ts';
+import { addMarkerImages } from '../lib/mapIcons.ts';
 
 maplibregl.setWorkerUrl(workerUrl);
 
@@ -15,6 +16,8 @@ const STYLE_URL = 'https://tiles.openfreemap.org/styles/positron';
 const BERLIN_CENTER: [number, number] = [13.405, 52.515];
 const BERLIN_ZOOM = 10;
 const DISTRICTS_URL = '/data/districts.geojson';
+/** From this zoom on, single incidents show as icon markers instead of dots. */
+const ICON_ZOOM = 13;
 const INK = '#15181d';
 const SIGNAL = '#ffd400';
 
@@ -116,6 +119,8 @@ export function MapView({ incidents, selectedId, district, onSelect, onBoundsCha
       attributionControl: { compact: true },
     });
     mapRef.current = map;
+    // Dev only: lets browser tests drive the map (window.__map.jumpTo(...)).
+    if (import.meta.env.DEV) (window as unknown as { __map?: maplibregl.Map }).__map = map;
     map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-right');
 
     map.on('load', () => {
@@ -169,6 +174,7 @@ export function MapView({ incidents, selectedId, district, onSelect, onBoundsCha
         type: 'circle',
         source: 'incidents',
         filter: ['!', ['has', 'point_count']],
+        maxzoom: ICON_ZOOM,
         paint: {
           'circle-color': categoryColor,
           'circle-radius': 7,
@@ -183,8 +189,30 @@ export function MapView({ incidents, selectedId, district, onSelect, onBoundsCha
         type: 'circle',
         source: 'incidents',
         filter: ['==', ['get', 'id'], ''],
-        paint: { 'circle-radius': 13, 'circle-color': SIGNAL, 'circle-opacity': 0.55, 'circle-stroke-width': 2.5, 'circle-stroke-color': INK },
+        paint: { 'circle-radius': ['step', ['zoom'], 13, ICON_ZOOM, 19], 'circle-color': SIGNAL, 'circle-opacity': 0.55, 'circle-stroke-width': 2.5, 'circle-stroke-color': INK },
       }, 'points'); // a yellow halo under the selected point
+
+      // Icon markers for single incidents once zoomed in; added when their images are drawn.
+      addMarkerImages(map)
+        .then(() => {
+          if (map.getLayer('points-icon')) return;
+          map.addLayer({
+            id: 'points-icon',
+            type: 'symbol',
+            source: 'incidents',
+            minzoom: ICON_ZOOM,
+            filter: ['!', ['has', 'point_count']],
+            layout: {
+              'icon-image': ['concat', 'cat-', ['get', 'category'], ['case', ['==', ['get', 'precision'], 'district'], '-hollow', '']],
+              'icon-allow-overlap': true,
+              'icon-ignore-placement': true,
+            },
+          });
+        })
+        .catch(() => {
+          // Without the images the dots stay visible at every zoom.
+          map.setLayerZoomRange('points', 0, 24);
+        });
 
       map.on('click', 'clusters', async (e) => {
         const feature = e.features?.[0];
@@ -193,11 +221,13 @@ export function MapView({ incidents, selectedId, district, onSelect, onBoundsCha
         const zoom = await source.getClusterExpansionZoom(feature.properties.cluster_id);
         map.easeTo({ center: (feature.geometry as GeoJSON.Point).coordinates as [number, number], zoom });
       });
-      map.on('click', 'points', (e) => {
-        const id = e.features?.[0]?.properties.id;
-        if (id) latest.current.onSelect(String(id));
-      });
-      for (const layer of ['clusters', 'points']) {
+      for (const layer of ['points', 'points-icon']) {
+        map.on('click', layer, (e) => {
+          const id = e.features?.[0]?.properties.id;
+          if (id) latest.current.onSelect(String(id));
+        });
+      }
+      for (const layer of ['clusters', 'points', 'points-icon']) {
         map.on('mouseenter', layer, () => (map.getCanvas().style.cursor = 'pointer'));
         map.on('mouseleave', layer, () => (map.getCanvas().style.cursor = ''));
       }

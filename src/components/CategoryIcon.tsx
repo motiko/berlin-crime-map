@@ -22,7 +22,7 @@ import { CATEGORY_META, type Category } from '../../shared/categories.ts';
  * One icon family (Phosphor), one weight. Shooting uses a crosshair rather than a gun
  * silhouette, and homicide the cross (†) German news uses for a death.
  */
-const GLYPHS: Record<Category, Icon> = {
+export const GLYPHS: Record<Category, Icon> = {
   shooting: Crosshair,
   knife: Knife,
   homicide: Cross,
