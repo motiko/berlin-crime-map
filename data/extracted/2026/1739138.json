@@ -1,0 +1,21 @@
+{
+  "id": "1739138",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1739138.php",
+  "publishedAt": "2026-11-13T11:42",
+  "title": "Fahrzeug eines Medienunternehmens in Brand gesetzt",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "political",
+    "dead": 0,
+    "district": "Charlottenburg-Wilmersdorf",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-11-13",
+    "injured": 0,
+    "placeName": null,
+    "street": "Knesebeckstraße",
+    "summaryEn": "A car belonging to a media company was set on fire on Knesebeckstraße in the night, destroying it almost completely. The police State Protection unit is investigating on suspicion of arson, as a political motive cannot be ruled out.",
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.424Z"
+}

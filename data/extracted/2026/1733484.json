@@ -1,0 +1,21 @@
+{
+  "id": "1733484",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733484.php",
+  "publishedAt": "2026-11-01T13:37",
+  "title": "Bilanzmeldung zum stadtweiten Einsatzgeschehen \"Halloween\"",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-10-31",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "Berlin police summarised Halloween operations citywide, with illegal fireworks, arson attempts, thrown objects at police and transit vehicles, and 16 arrests. Incidents included a Molotov cocktail thrown at a police vehicle and several burning bins.",
+    "injured": null,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.410Z"
+}

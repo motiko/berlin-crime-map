@@ -1,0 +1,21 @@
+{
+  "id": "1738725",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1738725.php",
+  "publishedAt": "2026-11-12T14:45",
+  "title": "Sachbeschädigung mit Nahost-Bezug",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-11-11",
+    "street": "Kottbusser Damm",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "White paint lettering with a Middle East reference was found on a pavement below three Stolpersteine (memorial stones) on Kottbusser Damm around 5 p.m. Police removed the lettering, and investigations continue.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.436Z"
+}

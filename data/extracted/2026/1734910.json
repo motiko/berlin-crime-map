@@ -1,0 +1,21 @@
+{
+  "id": "1734910",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1734910.php",
+  "publishedAt": "2026-11-05T16:55",
+  "title": "Vermisster Senior verstorben",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2026-11-05",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A 74-year-old man reported missing since 3 November 2026 was found dead in Mitte on the morning of 5 November. Police see no indication of third-party involvement.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.441Z"
+}

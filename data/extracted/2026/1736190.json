@@ -1,0 +1,21 @@
+{
+  "id": "1736190",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1736190.php",
+  "publishedAt": "2026-11-07T12:04",
+  "title": "Schnittverletzungen an Händen und einem Bein",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-11-06",
+    "street": "Schnellerstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A 25-year-old man was found with multiple cut injuries to both hands and a leg after an altercation in which an unknown man allegedly held a knife-like object. The suspect reportedly fled by car toward Oberspreestraße.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.407Z"
+}

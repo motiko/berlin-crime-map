@@ -1,0 +1,21 @@
+{
+  "id": "1733711",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733711.php",
+  "publishedAt": "2026-11-02T12:23",
+  "title": "Schussabgabe auf Gewerbegelände",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "shooting",
+    "dead": 0,
+    "district": "Neukölln",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-11-01",
+    "injured": 0,
+    "placeName": "Gewerbegelände",
+    "street": "Naumburgerstraße",
+    "summaryEn": "Bullet holes were found in the roller door of a rented garage on a commercial site in Neukölln. No people were present when the shots were fired, and the police state group BAO Ferrum is investigating.",
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.434Z"
+}

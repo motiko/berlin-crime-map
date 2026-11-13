@@ -1,0 +1,21 @@
+{
+  "id": "1734749",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1734749.php",
+  "publishedAt": "2026-11-04T11:50",
+  "title": "Tierskulpturen im Großen Tiergarten beschmiert",
+  "location": "Mitte",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-11-03",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Großer Tiergarten",
+    "district": "Mitte",
+    "summaryEn": "Two animal sculptures in the Großer Tiergarten were smeared with red paint containing inflammatory hate speech. Police removed the writing, and the State Security unit has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.431Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1734536",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1734536.php",
+  "publishedAt": "2026-11-03T16:53",
+  "title": "Mutmaßlicher Räuber festgenommen",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-11-02",
+    "street": "Wilmersdorfer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A masked man allegedly committed four robberies of flower and other shops in Charlottenburg on the evening of 2 November, with one robbery on Wilmersdorfer Straße. He was arrested in a courtyard on Schillerstraße after a passer-by alerted police.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.403Z"
+}

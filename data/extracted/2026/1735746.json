@@ -1,0 +1,21 @@
+{
+  "id": "1735746",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1735746.php",
+  "publishedAt": "2026-11-06T09:57",
+  "title": "Bewaffneter Überfall auf Tankstelle",
+  "location": "Mitte",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-11-05",
+    "street": "Kapweg",
+    "houseNumberOrCrossing": null,
+    "placeName": "Tankstelle",
+    "district": "Mitte",
+    "summaryEn": "A masked, armed man robbed a petrol station employee in Wedding, demanding the cash register contents. He fled and dropped the empty till, which police recovered nearby.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.411Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1734755",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1734755.php",
+  "publishedAt": "2026-11-04T11:55",
+  "title": "Schuss auf Reifen eines flüchtenden Fahrzeugs",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-11-03",
+    "street": "Uhlandstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "After a traffic stop attempt, a 44-year-old driver fled through Charlottenburg with police in pursuit, causing several accidents. An officer fired a shot at a tire of the car, and the driver and his 43-year-old passenger were arrested; nobody was injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.447Z"
+}

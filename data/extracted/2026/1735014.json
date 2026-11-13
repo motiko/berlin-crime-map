@@ -1,0 +1,21 @@
+{
+  "id": "1735014",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1735014.php",
+  "publishedAt": "2026-11-04T22:30",
+  "title": "Politiker tot im Hotelzimmer aufgefunden – Todesermittlungsverfahren eingeleitet",
+  "location": "Mitte",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-11-04",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Hotelzimmer",
+    "district": "Mitte",
+    "summaryEn": "A politician was found dead in a hotel room in Mitte, and a death investigation has been opened by the homicide unit. Police are working to determine the cause of death and rule out third-party involvement.",
+    "injured": null,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.443Z"
+}

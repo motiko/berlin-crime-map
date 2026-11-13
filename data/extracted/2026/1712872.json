@@ -1,0 +1,21 @@
+{
+  "id": "1712872",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712872.php",
+  "publishedAt": "2026-11-12T15:45",
+  "title": "Festnahmen nach versuchtem Totschlag – Sieben Personen in Untersuchungshaft",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-09-11",
+    "street": "Dörpfeldstraße",
+    "houseNumberOrCrossing": "Marktplatz Adlershof",
+    "placeName": "Adlershof",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "Attempted homicide: a 20-year-old man was shot at several times in Adlershof, and seven people have since been arrested and remanded in custody. The Mordkommission continues to investigate.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.442Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1735173",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1735173.php",
+  "publishedAt": "2026-11-05T09:56",
+  "title": "Polizist bestohlen - Festnahme",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-11-03",
+    "street": "Kleiststraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "An off-duty police officer caught a suspected pickpocket who had opened his backpack in Schöneberg; a second off-duty officer assisted, and the suspect resisted arrest. A pepper spray and a pocket knife were seized.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.433Z"
+}

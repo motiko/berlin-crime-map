@@ -1,0 +1,21 @@
+{
+  "id": "1731974",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1731974.php",
+  "publishedAt": "2026-11-08T11:55",
+  "title": "Fußgänger nach Verkehrsunfall verstorben",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "traffic",
+    "dead": 1,
+    "district": "Reinickendorf",
+    "houseNumberOrCrossing": "Hatzfeldtallee",
+    "incidentDate": "2026-10-27",
+    "injured": 1,
+    "placeName": null,
+    "street": "Ziekowstraße",
+    "summaryEn": "An 85-year-old pedestrian hit by a car while crossing Ziekowstraße in Tegel died in hospital on 8 November. The driver was an 86-year-old man in a small car.",
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.435Z"
+}

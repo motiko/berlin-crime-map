@@ -1,0 +1,21 @@
+{
+  "id": "1737653",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1737653.php",
+  "publishedAt": "2026-11-10T16:51",
+  "title": "Zwei verletzte Seniorinnen nach Stürzen im Bus – Zeuginnen und Zeugen gesucht",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-11-09",
+    "street": "Rhinstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A hit-and-run driver cut into the bus lane on Rhinstraße, forcing a BVG bus to brake hard. An 86-year-old passenger was seriously injured and an 83-year-old passenger was hurt in the fall.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.423Z"
+}

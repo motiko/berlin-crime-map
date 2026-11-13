@@ -1,0 +1,21 @@
+{
+  "id": "1736492",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1736492.php",
+  "publishedAt": "2026-11-09T11:23",
+  "title": "Schüsse auf Fahrschule",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-11-08",
+    "street": "Oranienburger Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "Several bullet holes were found in the door and facade of a driving school office in Wittenau, discovered around 10:30 on the morning before publication. Nobody was injured, and the state criminal police task force has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.439Z"
+}

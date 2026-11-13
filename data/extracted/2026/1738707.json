@@ -1,0 +1,21 @@
+{
+  "id": "1738707",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1738707.php",
+  "publishedAt": "2026-11-12T14:32",
+  "title": "Durchsuchungen wegen des Verdachts des illegalen Waffenbesitzes – Schusswaffen beschlagnahmt und eine Festnahme",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "raid",
+    "dead": 0,
+    "district": "Spandau",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-11-12",
+    "injured": 0,
+    "placeName": null,
+    "street": null,
+    "summaryEn": "Police and prosecutors searched three properties in Spandau and Prenzlauer Berg over illegal weapons possession. Eight illegal firearms, ammunition, phones, data storage devices and cash were seized, and a 28-year-old man was arrested.",
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.449Z"
+}

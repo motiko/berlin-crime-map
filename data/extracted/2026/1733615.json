@@ -1,0 +1,21 @@
+{
+  "id": "1733615",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733615.php",
+  "publishedAt": "2026-11-02T10:27",
+  "title": "Unbekannte werfen Steine auf Straßenbahnen",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-11-01",
+    "street": "Jan-Petersen-Straße",
+    "houseNumberOrCrossing": "Lea-Grundig-Straße",
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "Unknown persons threw stones at two tram cars in Marzahn, breaking windows while passengers were on board. No one was hurt, and both trams were taken out of service.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "stone"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.433Z"
+}

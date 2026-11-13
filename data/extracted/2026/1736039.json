@@ -1,0 +1,21 @@
+{
+  "id": "1736039",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1736039.php",
+  "publishedAt": "2026-11-06T15:14",
+  "title": "Verkehrsunfallflucht – Mann im Krankenhaus",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-11-05",
+    "street": "Richard-Ermisch-Straße",
+    "houseNumberOrCrossing": "Eldenaer Straße",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "After a collision at a turn in Friedrichshain around 1 a.m., the driver of a VW fled the scene while the 35-year-old Opel driver was hospitalized with injuries. Investigations were taken over by a traffic offences unit.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.420Z"
+}

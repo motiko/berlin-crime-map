@@ -1,0 +1,21 @@
+{
+  "id": "1737866",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1737866.php",
+  "publishedAt": "2026-11-11T11:57",
+  "title": "Geldautomat gesprengt",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "explosion",
+    "incidentDate": "2026-11-11",
+    "street": "Sewanstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Friedrichsfelde",
+    "district": "Lichtenberg",
+    "summaryEn": "Unknown perpetrators blew up a cash machine in a supermarket vestibule in Friedrichsfelde at about 3:20 a.m. The machine was destroyed, nearby windows and a pharmacy were damaged, and nobody was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "explosive"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.447Z"
+}

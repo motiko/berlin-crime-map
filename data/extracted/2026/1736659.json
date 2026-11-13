@@ -1,0 +1,21 @@
+{
+  "id": "1736659",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1736659.php",
+  "publishedAt": "2026-11-09T13:18",
+  "title": "Teenagerin bewusstlos geschlagen - Zeugenaufruf",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-11-08",
+    "street": "Wuhlewanderweg",
+    "houseNumberOrCrossing": "Cecilienbrücke",
+    "placeName": "Hellersdorf",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A man allegedly approached a 17-year-old pedestrian near the Cecilienbrücke, threatened her with a firearm and struck her on the head with it, causing her to lose consciousness. Police are seeking witnesses.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.437Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1736248",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1736248.php",
+  "publishedAt": "2026-11-08T11:40",
+  "title": "Durch Messerangriffe verletzte Männer",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-11-07",
+    "street": "Schlesische Straße",
+    "houseNumberOrCrossing": "Falckensteinstraße",
+    "placeName": "U-Bahnhof Schlesisches Tor",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Two men were stabbed in separate knife attacks around Schlesisches Tor in Kreuzberg overnight and early in the morning. Both were taken to hospital, and police are investigating whether the cases are connected.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.449Z"
+}

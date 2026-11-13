@@ -1,0 +1,21 @@
+{
+  "id": "1736257",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1736257.php",
+  "publishedAt": "2026-11-08T13:55",
+  "title": "Raubüberfall mit Hammer",
+  "location": "Mitte",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-11-07",
+    "street": "Simon-Dach-Straße",
+    "houseNumberOrCrossing": "Boxhagener Straße",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Three unknown men attacked a 27-year-old man with a hammer in Friedrichshain and stole his valuables. The victim suffered leg and torso injuries and was treated as an outpatient.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "hammer"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.444Z"
+}

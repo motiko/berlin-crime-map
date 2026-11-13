@@ -1,0 +1,21 @@
+{
+  "id": "1736192",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1736192.php",
+  "publishedAt": "2026-11-07T12:12",
+  "title": "Handyortung überführt mutmaßliche Taschendiebe",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-11-07",
+    "street": "Rathausstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A 27-year-old woman's mobile phone was stolen by pickpockets on a tram near Warschauer Brücke around 1 a.m. The phone was located in a venue on Rathausstraße, where two suspects were arrested and the phone was recovered.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.423Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1736255",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1736255.php",
+  "publishedAt": "2026-11-08T13:30",
+  "title": "Flagge der deutschen Einheit zu Boden geworfen",
+  "location": "Mitte",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-11-08",
+    "street": "Platz der Republik",
+    "houseNumberOrCrossing": null,
+    "placeName": "Nationaldenkmal",
+    "district": "Mitte",
+    "summaryEn": "A 22-year-old man climbed the national monument on Platz der Republik, removed the German unity flag and replaced it with a Palestinian flag, supported by two other men. Police detained the men, and the State Security unit is investigating.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.436Z"
+}

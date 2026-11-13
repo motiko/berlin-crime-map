@@ -1,0 +1,21 @@
+{
+  "id": "1735380",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1735380.php",
+  "publishedAt": "2026-11-05T14:07",
+  "title": "Verkehrsunfall mit gestohlenem Motorrad und ohne Führerschein",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-11-04",
+    "street": "Alt-Friedrichsfelde",
+    "houseNumberOrCrossing": null,
+    "placeName": "Friedrichsfelde",
+    "district": "Lichtenberg",
+    "summaryEn": "A 25-year-old motorcyclist was injured after colliding with a car while changing lanes in Friedrichsfelde. He had no driving licence, had taken drugs, and the motorcycle was reported stolen.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.426Z"
+}

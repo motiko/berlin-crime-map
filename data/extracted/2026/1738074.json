@@ -1,0 +1,21 @@
+{
+  "id": "1738074",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1738074.php",
+  "publishedAt": "2026-11-11T14:54",
+  "title": "Durchsuchungen wegen des Verdachts des gewerbsmäßigen Bandenbetrugs im Gesundheitswesen",
+  "location": "bundeslandübergreifend",
+  "extraction": {
+    "category": "fraud",
+    "incidentDate": "2026-11-10",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "Searches at 14 residential and commercial premises in Berlin, Brandenburg and Saxony targeted six suspects over alleged gang fraud against statutory health insurers via an occupational therapy practice. The alleged damage exceeds 6.7 million euros, and cash, documents, accounts and two vehicles were seized.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.438Z"
+}

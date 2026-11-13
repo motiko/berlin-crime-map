@@ -1,0 +1,21 @@
+{
+  "id": "1737477",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1737477.php",
+  "publishedAt": "2026-11-10T13:59",
+  "title": "Mutmaßlichen Betäubungsmittellieferdienst nach Handyverstoß festgestellt",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-11-10",
+    "street": "Leibnizstraße",
+    "houseNumberOrCrossing": "Goethestraße",
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Police stopped a 23-year-old driver after a phone-use violation and found suspected cocaine packaged for sale, cash and a pepper spray device in the car. The vehicle also lacked compulsory insurance, and a drug-trafficking investigation was opened.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.445Z"
+}

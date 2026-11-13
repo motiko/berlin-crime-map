@@ -1,0 +1,21 @@
+{
+  "id": "1733749",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733749.php",
+  "publishedAt": "2026-11-02T13:09",
+  "title": "Raub auf Tankstelle",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-11-01",
+    "street": "Friedrichshagener Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Tankstelle",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "Two masked men robbed a petrol station in Köpenick at night, and one fired a shot into the ceiling with a suspected blank-firing gun before taking cash. Nobody was injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "blank-firing gun"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.429Z"
+}

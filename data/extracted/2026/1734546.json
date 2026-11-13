@@ -1,0 +1,21 @@
+{
+  "id": "1734546",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1734546.php",
+  "publishedAt": "2026-11-11T16:42",
+  "title": "Tötungsdelikt zum Nachteil der 13-jährigen Lisa T. – Polizei sucht Zeuginnen und Zeugen zu einem Fahrzeug",
+  "location": "Berlin/Brandenburg",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-11-03",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Altglietzen (Bad Freienwalde)",
+    "district": null,
+    "summaryEn": "A 13-year-old girl who disappeared on her way to school in Berlin-Marzahn on 3 November 2026 was found dead on 8 November 2026 in a vacant building in Altglietzen, Brandenburg. Police are seeking witnesses regarding a silver Citroën C5 estate suspected to have been used in the offence.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.418Z"
+}

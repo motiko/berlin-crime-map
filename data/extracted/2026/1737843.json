@@ -1,0 +1,21 @@
+{
+  "id": "1737843",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1737843.php",
+  "publishedAt": "2026-11-11T11:15",
+  "title": "Zigarettenautomat aufgesprengt – mehrere Fahrzeuge beschädigt",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "explosion",
+    "incidentDate": "2026-11-10",
+    "street": "Landsberger Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "An explosion blew up a cigarette vending machine on a pavement in Marzahn, and debris damaged three parked vehicles nearby. Nobody was hurt, and cigarette packs were found around the machine.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "explosive"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.409Z"
+}

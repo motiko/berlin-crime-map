@@ -1,0 +1,21 @@
+{
+  "id": "1735478",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1735478.php",
+  "publishedAt": "2026-11-05T16:04",
+  "title": "Mann durch Schüsse schwer verletzt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-11-04",
+    "street": "Seestraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A 22-year-old man was shot several times on Seestraße in Wedding and taken to hospital. The 5th Homicide Squad is investigating a suspected attempted killing.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.442Z"
+}

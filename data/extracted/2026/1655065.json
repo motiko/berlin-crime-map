@@ -1,0 +1,21 @@
+{
+  "id": "1655065",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1655065.php",
+  "publishedAt": "2026-11-12T16:29",
+  "title": "Erstes Urteil gegen zwei Männer nach Schüssen in der Ebersstraße",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-03-22",
+    "street": "Ebersstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Court convicted two men on 10 November 2026 of attempted manslaughter over a March 2026 shooting of a 38-year-old man in Schöneberg; a third defendant was acquitted and the verdict is not yet final. The shooting itself injured the victim, who was not in mortal danger.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.420Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1701194",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701194.php",
+  "publishedAt": "2026-08-10T10:41",
+  "title": "Schüsse auf 30-Jährigen – Zeugenaufruf",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-08-09",
+    "street": "Hardenbergplatz",
+    "houseNumberOrCrossing": null,
+    "placeName": "Hardenbergplatz",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "After an argument among several people at Hardenbergplatz, one person fired shots at a 30-year-old man, who died at the scene despite resuscitation attempts. The shooter fled the scene by vehicle; the homicide squad is investigating and seeking witnesses.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:28:43.159Z"
+}

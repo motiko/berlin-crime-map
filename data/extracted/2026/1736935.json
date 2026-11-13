@@ -1,0 +1,21 @@
+{
+  "id": "1736935",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1736935.php",
+  "publishedAt": "2026-11-09T16:14",
+  "title": "Verbotenes Kraftfahrzeugrennen endet mit Unfall",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-11-09",
+    "street": "Elsenstraße",
+    "houseNumberOrCrossing": "Kiehlufer",
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "A stolen car driven by an 18-year-old under the influence of drugs ran a red light during an unlicensed street race and crashed through a railing into the Landwehr Canal. Two former occupants had to be rescued from the water and were taken to hospital.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.448Z"
+}

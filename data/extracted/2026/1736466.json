@@ -1,0 +1,21 @@
+{
+  "id": "1736466",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1736466.php",
+  "publishedAt": "2026-11-09T11:16",
+  "title": "Mann flüchtet nach Messerangriff zu Polizeikräften - Zwei Tatverdächtige festgenommen",
+  "location": "Spandau",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-11-08",
+    "street": "Seegefelder Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Münsinger Park",
+    "district": "Spandau",
+    "summaryEn": "A 19-year-old man was stabbed near Münsinger Park in Spandau after being held by another man. He fled to a passing police car, and two suspects were arrested.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.422Z"
+}

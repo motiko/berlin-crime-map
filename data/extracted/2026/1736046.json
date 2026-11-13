@@ -1,0 +1,21 @@
+{
+  "id": "1736046",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1736046.php",
+  "publishedAt": "2026-11-06T15:25",
+  "title": "Bildungs- und Kunstprojekt beschädigt",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-11-05",
+    "street": "Olympischer Platz",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A double-decker bus used as a democracy education and art project was found damaged, with several windows and two doors broken, parked at Olympischer Platz. Police assume a political motive and the State Security unit has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.428Z"
+}

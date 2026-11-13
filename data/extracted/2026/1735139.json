@@ -1,0 +1,21 @@
+{
+  "id": "1735139",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1735139.php",
+  "publishedAt": "2026-11-04T16:35",
+  "title": "Randalierende Frau verletzt Security-Mitarbeiter und zwei Polizeikräfte",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-11-04",
+    "street": "Lankwitzer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Männerwohnheim",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 39-year-old woman entered a men's hostel without permission, threw glass bottles and struck a security guard with a traffic sign, then attacked a police officer and resisted arrest. Two police officers and one security employee were injured.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.426Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1736121",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1736121.php",
+  "publishedAt": "2026-11-06T17:02",
+  "title": "Überfall in Wohnung – Täterinnen flüchten mit Beute",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-11-05",
+    "street": "Große-Leege-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Lichtenberg",
+    "summaryEn": "Three women forced their way into a 92-year-old man's apartment in Alt-Hohenschönhausen, held him down and fled with stolen property. The victim suffered arm injuries and was taken to hospital for outpatient treatment.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.439Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1738849",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1738849.php",
+  "publishedAt": "2026-11-12T16:56",
+  "title": "Mutmaßliche Wohnungseinbrecher auf frischer Tat festgenommen",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-11-11",
+    "street": "Kilstetter Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "Three suspected burglars were arrested in an apartment in a multi-family building after neighbors reported noises and police found a damaged door lock. A folding knife was seized at the scene and stolen gold jewelry was found on the suspects.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.435Z"
+}

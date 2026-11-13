@@ -1,0 +1,21 @@
+{
+  "id": "1733482",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733482.php",
+  "publishedAt": "2026-11-01T13:12",
+  "title": "Böller und Brandsatz in Kneipe geworfen",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-10-31",
+    "street": "Juliusstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "An incendiary device was thrown into a bar in Juliusstraße in the evening after a masked person opened the door. The device did not ignite, and nobody was injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "incendiary device"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.408Z"
+}

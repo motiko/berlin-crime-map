@@ -1,0 +1,21 @@
+{
+  "id": "1736196",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1736196.php",
+  "publishedAt": "2026-11-07T13:28",
+  "title": "Volksverhetzende Musik abgespielt",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "political",
+    "dead": 0,
+    "district": "Treptow-Köpenick",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-11-06",
+    "injured": 0,
+    "placeName": "Mentzelpark",
+    "street": null,
+    "summaryEn": "Two teenagers were reported for playing inflammatory extremist music loudly in a park in Köpenick. Police seized one teen's mobile phone, and the Staatsschutz has taken over the investigation.",
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.421Z"
+}

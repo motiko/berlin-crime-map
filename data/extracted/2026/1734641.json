@@ -1,0 +1,21 @@
+{
+  "id": "1734641",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1734641.php",
+  "publishedAt": "2026-11-04T09:40",
+  "title": "Fanschal geraubt – Polizei bittet um Mithilfe",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-02-11",
+    "street": "Residenzstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahnhof Residenzstraße",
+    "district": "Reinickendorf",
+    "summaryEn": "A suspect allegedly tore a football scarf from a 25-year-old man's neck on a subway platform shortly after 1 a.m. Police are asking the public for information.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:37:15.419Z"
+}
