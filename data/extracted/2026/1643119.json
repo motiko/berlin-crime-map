@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Richard-Tauber-Damm",
     "placeName": "Lichtenrade",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 79-year-old driver hit a six-year-old girl who was crossing Buckower Chaussee in Lichtenrade. The child was taken to hospital with leg injuries.",
+    "summaryEn": "A 79-year-old driver struck a six-year-old girl crossing Buckower Chaussee in Lichtenrade. The child was taken to hospital with lower-body injuries.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.446Z"
+  "extractedAt": "2026-11-13T18:31:46.216Z"
 }

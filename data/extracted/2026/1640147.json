@@ -5,17 +5,17 @@
   "title": "Mann attackiert Frau in Wohnung",
   "location": "Pankow",
   "extraction": {
-    "category": "assault",
+    "category": "knife",
     "incidentDate": "2026-02-02",
     "street": "Friesickestraße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "A 50-year-old man attacked a 45-year-old woman in an apartment in Weißensee, stabbing her several times. The suspect was arrested at the scene and was about 1.4 per mille intoxicated.",
+    "summaryEn": "A 50-year-old man attacked a 45-year-old woman in an apartment in Weißensee, inflicting several stab wounds. The woman was taken to hospital, and the suspect was arrested.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.380Z"
+  "extractedAt": "2026-11-13T18:31:46.320Z"
 }

@@ -9,13 +9,13 @@
     "incidentDate": "2026-04-09",
     "street": "Buckower Damm",
     "houseNumberOrCrossing": "Britzer Damm",
-    "placeName": null,
+    "placeName": "Britz",
     "district": "Neukölln",
-    "summaryEn": "After a dispute at a venue in Britz escalated, two men aged 20 were found injured in the street, one with stab wounds to the thigh and one with head injuries from blunt force. Both were taken to hospital, and the suspects are still at large.",
+    "summaryEn": "After an argument at a venue on Britzer Damm escalated, two men aged 20 were injured overnight, one with a stab wound to the thigh and one with head injuries from blunt force. Both were taken to hospital and the investigation is ongoing.",
     "injured": 2,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.794Z"
+  "extractedAt": "2026-11-13T18:31:46.263Z"
 }

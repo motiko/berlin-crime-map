@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Police and tax investigators searched 16 properties in Berlin and Brandenburg over alleged insurance premium fraud linked to illegal car rentals. Six suspects are under investigation, with an estimated damage of at least 111,400 euros, and luxury jewelry and four high-end vehicles were seized.",
+    "summaryEn": "Police and tax investigators searched 16 properties in Berlin and Brandenburg over alleged insurance premium fraud linked to illegal car rentals. Six suspects aged 33 to 46 are under investigation, with damage of at least about 111,400 euros, and luxury items and four high-end vehicles were seized.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.954Z"
+  "extractedAt": "2026-11-13T18:31:46.247Z"
 }

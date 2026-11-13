@@ -5,17 +5,17 @@
   "title": "Mehrere Schusswaffen nach Bedrohung aufgefunden",
   "location": "bezirksübergreifend",
   "extraction": {
-    "category": "shooting",
+    "category": "raid",
     "incidentDate": "2026-04-03",
     "street": "Neufertstraße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A 20-year-old man threatened to shoot through a locked apartment door in Charlottenburg and assaulted two people after it was opened. Police later found several firearms, a starter pistol and over 650 rounds of ammunition in his Friedenau apartment.",
-    "injured": 2,
+    "summaryEn": "A man threatened to shoot through a locked apartment door and assaulted two people, a 16-year-old and a 19-year-old. Police later searched his flat and found several firearms, some believed to be from a burglary.",
+    "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.795Z"
+  "extractedAt": "2026-11-13T18:31:46.262Z"
 }

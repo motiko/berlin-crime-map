@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Stockholmer Straße",
     "placeName": "Gesundbrunnen",
     "district": "Mitte",
-    "summaryEn": "A 79-year-old man crossing the tram tracks on Osloer Straße was hit by a tram on the M13 line. He suffered multiple fractures and internal injuries and was taken to hospital.",
+    "summaryEn": "A 79-year-old man was hit by a tram while crossing the tram tracks on Osloer Straße. He suffered fractures and internal injuries and was taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.430Z"
+  "extractedAt": "2026-11-13T18:31:46.337Z"
 }

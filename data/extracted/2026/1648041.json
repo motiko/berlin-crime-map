@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Albrechtstraße",
     "placeName": null,
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "Three unknown men allegedly robbed a 20-year-old man of his backpack at knifepoint, and one of them injured him with a knife. The victim was treated as an outpatient and the investigation is ongoing.",
+    "summaryEn": "Three unknown men robbed a 20-year-old man of his backpack in Steglitz, and one of them cut his thigh with a knife. The victim was treated as an outpatient and the investigation continues.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.377Z"
+  "extractedAt": "2026-11-13T18:31:46.264Z"
 }

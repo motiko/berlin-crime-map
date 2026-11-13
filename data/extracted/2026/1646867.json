@@ -6,16 +6,16 @@
   "location": "Tempelhof-Schöneberg",
   "extraction": {
     "category": "traffic",
-    "dead": 0,
-    "district": "Tempelhof-Schöneberg",
-    "houseNumberOrCrossing": null,
     "incidentDate": "2026-02-24",
-    "injured": 1,
-    "placeName": null,
     "street": "Grazer Damm",
-    "summaryEn": "A 65-year-old driver lost control of his car while reversing into a roadside parking space on Grazer Damm after a medical emergency, running over his 59-year-old wife. She suffered multiple fractures and was taken to hospital.",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 65-year-old man lost control of his car while reversing into a roadside parking space on Grazer Damm after a medical emergency, and ran over his 59-year-old wife standing behind the car. She suffered several fractures and was admitted to hospital.",
+    "injured": 1,
+    "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.345Z"
+  "extractedAt": "2026-11-13T18:31:46.336Z"
 }

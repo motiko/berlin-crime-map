@@ -7,15 +7,15 @@
   "extraction": {
     "category": "shooting",
     "incidentDate": "2026-03-05",
-    "street": "Fontanestraße",
-    "houseNumberOrCrossing": "Hagenstraße",
-    "placeName": "Grunewald",
+    "street": "Bismarckallee",
+    "houseNumberOrCrossing": null,
+    "placeName": "Bismarckplatz",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "After a chase that began with reports of men with a gun, a passenger fired a handgun repeatedly at pursuing police officers, who were unhurt. Two men were arrested after hiding in a residential building's basement; one officer was injured during the arrest.",
+    "summaryEn": "Two men fleeing police in a car fired a handgun at pursuing officers, and were later arrested after hiding in a building's cellar. One officer was injured during the arrest.",
     "injured": 1,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.463Z"
+  "extractedAt": "2026-11-13T18:31:46.200Z"
 }

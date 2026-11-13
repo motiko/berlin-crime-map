@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A fire broke out at a homeless encampment on Yorckstraße in Kreuzberg, spreading to a church door. Police suspect arson, and nobody was hurt.",
+    "summaryEn": "A fire broke out at a homeless encampment on Yorckstraße in Kreuzberg, damaging tents, mattresses and a church door. Police are investigating suspected arson, and nobody was hurt.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.375Z"
+  "extractedAt": "2026-11-13T18:31:46.334Z"
 }

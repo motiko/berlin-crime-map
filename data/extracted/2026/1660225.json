@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "An unknown man fired a gun at Mainzer Straße in Neukölln around 8 p.m. after stepping out of a car. No injuries were reported and the street was closed during the crime scene search.",
+    "summaryEn": "An unknown man fired a gun at least once on Mainzer Straße in Neukölln after getting out of a car around 8 p.m. No injuries were reported, and the street was closed for evidence collection.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.941Z"
+  "extractedAt": "2026-11-13T18:31:46.333Z"
 }

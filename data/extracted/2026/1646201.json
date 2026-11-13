@@ -6,16 +6,16 @@
   "location": "Treptow-Köpenick",
   "extraction": {
     "category": "traffic",
-    "dead": 0,
-    "district": "Treptow-Köpenick",
-    "houseNumberOrCrossing": "S-Bahnhof Baumschulenweg",
     "incidentDate": "2026-02-23",
-    "injured": 1,
-    "placeName": "S-Bahnhof Baumschulenweg",
     "street": "Baumschulenstraße",
-    "summaryEn": "A 63-year-old driver hit a 13-year-old boy who ran onto the road past a stopped bus in Baumschulenweg. The boy was seriously injured in the head and taken to hospital.",
+    "houseNumberOrCrossing": null,
+    "placeName": "S-Bahnhof Baumschulenweg",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A 63-year-old driver struck a 13-year-old boy who ran onto the road in Baumschulenweg. The boy suffered head injuries and was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.422Z"
+  "extractedAt": "2026-11-13T18:31:46.331Z"
 }

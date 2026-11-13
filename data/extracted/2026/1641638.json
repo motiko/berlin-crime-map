@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "U-Bahnhof Schwartzkopffstraße",
     "district": "Mitte",
-    "summaryEn": "Around 17:00 a group of about six masked people allegedly chased and attacked two men, aged 20 and 22, at a subway station after they passed a Middle East-related demonstration. One attacker allegedly used a knuckle duster; the State Protection unit is investigating a politically motivated assault.",
+    "summaryEn": "Around six masked people pursued two men, aged 20 and 22, to a subway station and attacked them after a pro-Palestinian rally; one attacker used a knife-like blunt weapon. The State Security unit took over the investigation as a politically motivated assault.",
     "injured": 2,
     "dead": 0,
-    "weaponType": "knuckle duster"
+    "weaponType": "brass knuckles"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.371Z"
+  "extractedAt": "2026-11-13T18:31:46.229Z"
 }

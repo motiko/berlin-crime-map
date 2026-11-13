@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A residential flat fire in an apartment building in Märkische Allee was discovered early in the morning. A 61-year-old man was found unresponsive, died later, and the cause of the fire is still under investigation.",
+    "summaryEn": "A flat fire in an apartment building in Märkische Allee left a 61-year-old man dead; the cause is still under investigation. The fire brigade found him unresponsive and attempted resuscitation.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.390Z"
+  "extractedAt": "2026-11-13T18:31:46.294Z"
 }

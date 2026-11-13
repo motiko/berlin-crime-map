@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Adlershof",
     "district": "Treptow-Köpenick",
-    "summaryEn": "Overnight, unknown persons smashed windows, sprayed red paint on signs and stole two flags at an office building of an insurance company in Adlershof. The police state-protection unit (Staatsschutz) has taken over the investigation.",
+    "summaryEn": "Overnight, unknown perpetrators smashed several windows and daubed red paint on signs at an insurance company office building in Adlershof, and stole two flags. The State Security unit (Staatsschutz) has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.459Z"
+  "extractedAt": "2026-11-13T18:31:46.213Z"
 }

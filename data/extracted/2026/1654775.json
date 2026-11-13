@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "S-Bahnhof Grünau",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A 28-year-old man was attacked by several men at Grünau S-Bahn station and stabbed in the back with a knife. He suffered a stab wound, is in hospital, and is not in danger of his life.",
+    "summaryEn": "A 28-year-old man was attacked by several men at Grünau S-Bahn station and stabbed in the back with a knife. Police searched a nearby warehouse building without finding suspects.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.470Z"
+  "extractedAt": "2026-11-13T18:31:46.288Z"
 }

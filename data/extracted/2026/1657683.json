@@ -9,13 +9,13 @@
     "incidentDate": "2026-03-29",
     "street": "Fischerstraße",
     "houseNumberOrCrossing": null,
-    "placeName": "Rummelsburg (Stadion, Sparta Lichtenberg vs. BFC Dynamo)",
+    "placeName": "Rummelsburg (Stadion, Fußballspiel Sparta Lichtenberg – BFC Dynamo)",
     "district": "Lichtenberg",
-    "summaryEn": "Fans of BFC Dynamo set off pyrotechnics outside the stadium and attacked police with bottles, firecrackers and punches during a football match, injuring a child, a steward and twelve officers. Two cases of Nazi salute display and one of insulting police were also recorded, plus a separate group chanting unconstitutional slogans in a pub on Weitlingstraße.",
-    "injured": 15,
+    "summaryEn": "During a football match in Rummelsburg, BFC Dynamo supporters set off pyrotechnics and attacked police with bottles, firecrackers and punches, leaving several people injured. Later, eleven people in a Weitlingstraße pub chanted unconstitutional slogans and insulted officers.",
+    "injured": 14,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.907Z"
+  "extractedAt": "2026-11-13T18:31:46.215Z"
 }

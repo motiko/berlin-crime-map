@@ -9,13 +9,13 @@
     "incidentDate": "2026-02-11",
     "street": "Dolgenseestraße",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Friedrichsfelde",
     "district": "Lichtenberg",
-    "summaryEn": "A residential building fire in Friedrichsfelde killed a nine-month-old infant; the mother and five-year-old brother later died of their injuries. The cause is still under investigation by the state criminal police.",
-    "injured": 44,
+    "summaryEn": "A fire broke out in an apartment building in Friedrichsfelde, killing a nine-month-old baby. The baby's mother and five-year-old brother later died of their injuries.",
+    "injured": 43,
     "dead": 3,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.435Z"
+  "extractedAt": "2026-11-13T18:31:46.347Z"
 }

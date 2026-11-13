@@ -6,16 +6,16 @@
   "location": "Reinickendorf",
   "extraction": {
     "category": "missing",
-    "dead": null,
-    "district": "Reinickendorf",
-    "houseNumberOrCrossing": null,
     "incidentDate": "2026-01-11",
-    "injured": null,
-    "placeName": null,
     "street": null,
-    "summaryEn": "A 73-year-old man with dementia has been missing since 11 January 2026. Police are asking the public for information on his whereabouts.",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "A 73-year-old man with dementia has been missing from Reinickendorf since 11 January 2026. Police are asking the public for information on his whereabouts.",
+    "injured": 0,
+    "dead": null,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.397Z"
+  "extractedAt": "2026-11-13T18:31:46.316Z"
 }

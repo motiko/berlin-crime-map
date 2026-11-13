@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Reinickendorf",
-    "summaryEn": "A 37-year-old man was shot several times from the pavement while sitting in a vehicle in Tegel and was seriously injured. He is now out of danger, and police are searching for the unidentified gunman, with a homicide unit investigating an attempted killing.",
+    "summaryEn": "Shots were fired from the pavement at a 37-year-old man sitting in a vehicle in Tegel, who was seriously injured. The homicide unit is investigating an attempted killing and the unknown shooter fled.",
     "injured": 1,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.456Z"
+  "extractedAt": "2026-11-13T18:31:46.303Z"
 }

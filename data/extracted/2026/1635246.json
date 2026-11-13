@@ -10,12 +10,12 @@
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": null,
-    "district": "Mitte",
-    "summaryEn": "A 28-year-old man was hit in the arm after a starter-pistol shot was fired during an argument with two men in a car in Wedding. The man was then struck by an unrelated vehicle whose driver fled.",
-    "injured": 2,
+    "district": null,
+    "summaryEn": "A 28-year-old man was injured after a blank-firing pistol was fired at him during an argument with two men in a car, and he was then hit by another vehicle while running onto the road. The occupants fled and the driver of the second vehicle also left the scene.",
+    "injured": 1,
     "dead": 0,
     "weaponType": "blank-firing gun"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.382Z"
+  "extractedAt": "2026-11-13T18:31:46.311Z"
 }

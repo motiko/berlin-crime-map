@@ -5,17 +5,17 @@
   "title": "Bedrohung mit Schusswaffe",
   "location": "Marzahn-Hellersdorf",
   "extraction": {
-    "category": "robbery",
+    "category": "assault",
     "incidentDate": "2026-03-28",
     "street": "Forster Straße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A 42-year-old delivery driver was threatened with a handgun by a resident of an apartment building in Hellersdorf. A special forces unit later arrested the 49-year-old man in his flat and seized the firearm.",
+    "summaryEn": "A 49-year-old man threatened a 42-year-old pizza delivery worker with a handgun in a residential building in Hellersdorf. The man was arrested by a SWAT unit after a search of his flat, and the firearm was seized.",
     "injured": 0,
     "dead": 0,
-    "weaponType": "handgun"
+    "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.679Z"
+  "extractedAt": "2026-11-13T18:31:46.300Z"
 }

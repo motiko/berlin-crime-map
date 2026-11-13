@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Schönholzer Straße",
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "Two suspects, aged 17 and 15, broke into a shop in Wollankstraße early in the morning and stole the cash register. Both were arrested nearby shortly after fleeing.",
+    "summaryEn": "Two teenagers, 17 and 15, broke into a shop in Wollankstraße early in the morning and took the cash register. Both were arrested nearby shortly afterwards.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.466Z"
+  "extractedAt": "2026-11-13T18:31:46.268Z"
 }

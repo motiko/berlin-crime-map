@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Lohmühlenbrücke",
     "placeName": "Landwehrkanal",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A 31-year-old man missing since February 2026 was found dead in the Landwehrkanal, east of the Lohmühlenbrücke. No signs of a criminal offence have been found so far and an autopsy has been suggested.",
+    "summaryEn": "A 31-year-old man reported missing in February 2026 was found dead in the Landwehrkanal. Police see no sign of a crime and an autopsy has been suggested.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.408Z"
+  "extractedAt": "2026-11-13T18:31:46.290Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Unknown persons fired shots at a restaurant on Oranienstraße overnight from Monday to Tuesday. Bullet holes were found in the front window on Tuesday morning and nobody was injured.",
+    "summaryEn": "Unknown persons fired shots at a restaurant overnight, leaving bullet holes in the front windows. No one was injured.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.466Z"
+  "extractedAt": "2026-11-13T18:31:46.274Z"
 }

@@ -6,16 +6,16 @@
   "location": "Reinickendorf",
   "extraction": {
     "category": "traffic",
-    "dead": 0,
-    "district": "Reinickendorf",
-    "houseNumberOrCrossing": "Schildower Straße",
     "incidentDate": "2026-03-17",
-    "injured": 3,
-    "placeName": "Hermsdorf",
     "street": "Berliner Straße",
-    "summaryEn": "Two police officers responding to an emergency call collided with a turning car at Hermsdorf while driving with sirens and lights. Two officers and the 83-year-old driver were hurt, and the road was closed during the investigation.",
+    "houseNumberOrCrossing": "Schildower Straße",
+    "placeName": "Hermsdorf",
+    "district": "Reinickendorf",
+    "summaryEn": "Two police officers responding to an emergency call with lights and siren collided with a turning car in Hermsdorf. The officers and the 83-year-old driver were injured.",
+    "injured": 3,
+    "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.343Z"
+  "extractedAt": "2026-11-13T18:31:46.278Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Boddinstraße",
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "Police arrested five men in Kreuzberg and searched two flats in Neukölln linked to suspected commercial drug dealing. Cocaine, ketamine, LSD, a machete and cash were seized.",
+    "summaryEn": "Police arrested five men aged 25 to 31 on suspicion of commercial drug dealing in Kreuzberg and searched two flats in Neukölln. Cocaine, ketamine, LSD, a machete and cash were seized.",
     "injured": 0,
     "dead": 0,
     "weaponType": "machete"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.338Z"
+  "extractedAt": "2026-11-13T18:31:46.346Z"
 }

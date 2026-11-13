@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Spandau",
-    "summaryEn": "A 38-year-old man entered an apartment building on Pillnitzer Weg in Staaken and left shortly after; residents found burning waste in the ground-floor hallway and put it out. The man was arrested nearby on suspicion of serious arson.",
+    "summaryEn": "A 38-year-old man set fire to rubbish in the ground floor of an apartment building in Staaken and was arrested nearby. Residents extinguished the flames and nobody was hurt.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.354Z"
+  "extractedAt": "2026-11-13T18:31:46.275Z"
 }

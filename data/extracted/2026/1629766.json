@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A tent fire broke out at a homeless encampment under a bridge on Lewishamstraße in the evening. Three men were rescued and nobody was injured, but nearly the entire camp burned down.",
+    "summaryEn": "A tent fire destroyed almost an entire homeless encampment under a bridge on Lewishamstraße in Charlottenburg. Three people were rescued and nobody was injured; police found no indication of deliberate arson.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.430Z"
+  "extractedAt": "2026-11-13T18:31:46.299Z"
 }

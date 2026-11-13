@@ -5,17 +5,17 @@
   "title": "Schlafende Wohnungslose attackiert",
   "location": "Mitte",
   "extraction": {
-    "category": "assault",
+    "category": "robbery",
     "incidentDate": "2026-01-11",
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": "S- und U-Bahnhof Alexanderplatz",
     "district": "Mitte",
-    "summaryEn": "A man attacked a 43-year-old woman sleeping on the ground near Alexanderplatz station around midnight, hitting and kicking her head and trying to take her sleeping bag. She fled before police arrived and the woman declined medical treatment.",
+    "summaryEn": "Around midnight an unknown man attacked a 43-year-old woman sleeping on the ground, hitting and kicking her head and trying to take her sleeping bag. She prevented the theft and the man fled before police arrived.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.459Z"
+  "extractedAt": "2026-11-13T18:31:46.332Z"
 }

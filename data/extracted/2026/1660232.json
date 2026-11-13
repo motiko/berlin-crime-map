@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Bushaltestelle in Altglienicke",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A 34-year-old man allegedly robbed a 76-year-old man at a bus stop in Altglienicke and put him in a chokehold. Police intervened, and the suspect and one officer were injured during the arrest.",
+    "summaryEn": "A 34-year-old man robbed a 76-year-old man at a bus stop in Altglienicke, pushing him to the ground and briefly choking him. He then resisted arrest after police intervened and one officer was injured.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.877Z"
+  "extractedAt": "2026-11-13T18:31:46.287Z"
 }

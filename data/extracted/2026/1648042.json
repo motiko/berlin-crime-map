@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Landschaftspark Rudow-Altglienicke",
     "district": "Treptow-Köpenick",
-    "summaryEn": "Two 18-year-olds were robbed of cannabis in a landscape park, and one was chased, held down and choked while his phone was stolen. The suspects threatened to stab them; the victim was taken to hospital for outpatient treatment.",
+    "summaryEn": "Two 18-year-olds were approached in a park by two men, who took cannabis from one of them and threatened to stab them. One victim was chased, held down and choked, and his mobile phone was stolen.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.339Z"
+  "extractedAt": "2026-11-13T18:31:46.329Z"
 }

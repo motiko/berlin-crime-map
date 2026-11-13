@@ -5,17 +5,17 @@
   "title": "Durchsuchungen und Festnahmen nach Angriff und Schussabgaben auf 31-Jährigen",
   "location": "berlinweit",
   "extraction": {
-    "category": "homicide",
+    "category": "shooting",
     "incidentDate": "2025-12-11",
     "street": "Gartenfelder Straße",
     "houseNumberOrCrossing": "Simonring",
     "placeName": "Spätkauf",
     "district": "Spandau",
-    "summaryEn": "Multiple shots were fired at a 31-year-old man outside a convenience store in Spandau, and he was seriously injured. Police later searched 14 addresses citywide and arrested suspects on suspicion of attempted manslaughter.",
+    "summaryEn": "Several men shot repeatedly at a 31-year-old in front of a convenience store in Haselhorst on 11 December 2025, seriously injuring him. On 21 January 2026 police raided 14 addresses citywide and arrested suspects aged 21 to 28.",
     "injured": 1,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.409Z"
+  "extractedAt": "2026-11-13T18:31:46.294Z"
 }

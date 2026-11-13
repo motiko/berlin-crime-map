@@ -5,17 +5,17 @@
   "title": "U-Bahnwagons beschmiert - Festnahmen",
   "location": "Charlottenburg-Wilmersdorf",
   "extraction": {
-    "category": "other",
+    "category": "burglary",
     "incidentDate": "2026-02-09",
     "street": "Spichernstraße",
     "houseNumberOrCrossing": "Geisbergstraße",
     "placeName": "U-Bahnhof Spichernstraße",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Two men were arrested after BVG staff saw them spraying graffiti on two subway cars at Spichernstraße station in the night to 9 February. The suspects fled into the tunnel and were caught at an emergency exit.",
+    "summaryEn": "Two 21-year-old men were arrested after allegedly spray-painting two BVG subway cars at Spichernstraße station and fleeing into the tunnel. Police seized spray cans; investigations continue.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.426Z"
+  "extractedAt": "2026-11-13T18:31:46.197Z"
 }

@@ -8,14 +8,14 @@
     "category": "traffic",
     "incidentDate": "2026-03-11",
     "street": "Sonnenallee",
-    "houseNumberOrCrossing": "Elbestraße",
+    "houseNumberOrCrossing": "Erkstraße",
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "A cyclist crossing Sonnenallee collided with a motorcyclist who had right of way, and both fell to the ground. The cyclist was taken to hospital and admitted, and the motorcyclist suffered minor injuries.",
+    "summaryEn": "A cyclist crossing Sonnenallee collided with a motorcyclist who had right of way, and both fell. The cyclist was hospitalised and the motorcyclist suffered minor abrasions.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.389Z"
+  "extractedAt": "2026-11-13T18:31:46.288Z"
 }

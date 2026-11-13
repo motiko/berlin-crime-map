@@ -9,13 +9,13 @@
     "incidentDate": "2026-03-23",
     "street": "Schloßstraße",
     "houseNumberOrCrossing": "Markelstraße",
-    "placeName": "Einkaufszentrum in Steglitz",
+    "placeName": "Einkaufszentrum Steglitz",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "Three unknown suspects drove a car through the locked entrance of a retail store in a shopping centre in Steglitz around 3:30 a.m., smashed display cases and stole jewellery and watches. They fled in a second vehicle parked nearby.",
+    "summaryEn": "Three unknown suspects drove a car through the locked entrance of a shopping centre store in Steglitz overnight, smashed display cases and stole jewellery and watches before fleeing in another vehicle.",
     "injured": 0,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.383Z"
+  "extractedAt": "2026-11-13T18:31:46.308Z"
 }

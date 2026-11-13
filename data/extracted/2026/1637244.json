@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Two unknown women posed as cleaners and visited an 87-year-old woman in her apartment, then left and did not return. The woman later noticed cash and jewelry were missing.",
+    "summaryEn": "Two women posing as cleaning staff visited an 87-year-old woman's apartment, then left under a pretext and took cash and jewelry. The victim noticed the loss after they did not return.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.440Z"
+  "extractedAt": "2026-11-13T18:31:46.279Z"
 }

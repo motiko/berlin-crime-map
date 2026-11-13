@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Bushaltestelle Filehner Straße",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A 19-year-old man was stabbed in the abdomen and chest during an attempted robbery at a bus stop in Köpenick after refusing to hand over his belongings. He fled to his nearby apartment and was taken to hospital, where he was operated on.",
+    "summaryEn": "Two unknown men demanded valuables from a 19-year-old man at a bus stop in Köpenick. When he refused, one of them stabbed him in the abdomen and chest.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.397Z"
+  "extractedAt": "2026-11-13T18:31:46.194Z"
 }

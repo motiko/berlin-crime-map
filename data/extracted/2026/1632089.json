@@ -5,17 +5,17 @@
   "title": "Rettungsring in die Havel geworfen, Widerstand geleistet und Einsatzkräfte beleidigt",
   "location": "Spandau",
   "extraction": {
-    "category": "other",
+    "category": "assault",
     "incidentDate": "2026-01-10",
     "street": "Tiefwerderweg",
     "houseNumberOrCrossing": "Schulenburgbrücke",
-    "placeName": "Havel",
+    "placeName": "Wilhelmstadt",
     "district": "Spandau",
-    "summaryEn": "Three young men were caught after taking a lifebuoy from the Havel bank and throwing it into the water. The youngest, 18, resisted arrest, insulted officers and was taken into custody; one officer was slightly injured.",
+    "summaryEn": "Three young men took a lifebuoy from the Havel bank and threw it into the water. One of them resisted arrest, insulted officers and an officer was injured in the knee.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.426Z"
+  "extractedAt": "2026-11-13T18:31:46.291Z"
 }

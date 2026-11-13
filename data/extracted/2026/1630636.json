@@ -5,17 +5,17 @@
   "title": "Trickdiebstahl bei Seniorin",
   "location": "Pankow",
   "extraction": {
-    "category": "fraud",
+    "category": "burglary",
     "incidentDate": "2026-01-05",
     "street": "Immanuelkirchstraße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "Two unknown men posing as a criminal police officer and an electricity network employee gained access to a 91-year-old woman's flat, obtained her PIN and stole her bank card. The pair fled in an unknown direction.",
+    "summaryEn": "Two unknown men posing as a criminal police officer and a power grid employee entered a 91-year-old woman's flat, obtained her PIN and stole her bank card. The pair then fled.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.346Z"
+  "extractedAt": "2026-11-13T18:31:46.311Z"
 }

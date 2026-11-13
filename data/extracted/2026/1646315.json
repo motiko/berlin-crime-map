@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Unterkunft für Geflüchtete in Buch",
     "district": "Pankow",
-    "summaryEn": "A 26-year-old resident allegedly stabbed a security guard at a refugee accommodation in Buch after being refused a cigarette. The guard was taken to hospital with non-life-threatening injuries.",
+    "summaryEn": "A 26-year-old resident allegedly attacked a security guard with a knife at a refugee accommodation in Buch after being refused a cigarette. The guard was injured and taken to hospital; he is not in danger of his life.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.394Z"
+  "extractedAt": "2026-11-13T18:31:46.243Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "During a vehicle check on Seestraße, a driver started his car and dragged a plainclothes police officer several metres before fleeing. The officer fell to the road and was injured.",
+    "summaryEn": "During a vehicle check on Seestraße, a 21-year-old driver started his car and dragged a police officer along the road before fleeing. The officer was injured in the hands and legs.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.417Z"
+  "extractedAt": "2026-11-13T18:31:46.285Z"
 }

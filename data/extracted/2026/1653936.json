@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Hafenplatz",
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Two cyclists collided on the bike lane of Schöneberger Straße while one attempted to overtake on the right as the other turned into a driveway. The female cyclist was seriously injured and taken to hospital, and the male cyclist sustained minor injuries.",
+    "summaryEn": "Two cyclists collided on the cycle lane of Schöneberger Straße while one was turning right and the other overtaking on the right. The female cyclist suffered serious head injuries and was taken to hospital.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.437Z"
+  "extractedAt": "2026-11-13T18:31:46.294Z"
 }

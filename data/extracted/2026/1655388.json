@@ -6,16 +6,16 @@
   "location": "Berlin/Brandenburg",
   "extraction": {
     "category": "traffic",
-    "incidentDate": "2026-03-23",
-    "street": "Alt Kleinziethen",
-    "houseNumberOrCrossing": "Glasower Allee",
+    "incidentDate": "2026-03-22",
+    "street": "Glasower Allee",
+    "houseNumberOrCrossing": "Alt Kleinziethen",
     "placeName": "Kleinziethen",
     "district": null,
-    "summaryEn": "A police vehicle chasing a motorcyclist crashed into a wall in Kleinziethen (Brandenburg) shortly before midnight. Both officers were injured and taken to hospital, and the motorcyclist escaped.",
+    "summaryEn": "A police unit following a motorcyclist who had fled a traffic offence crashed into a wall in Kleinziethen, Brandenburg, at about 23:45. Both officers were injured and taken to hospital.",
     "injured": 2,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.358Z"
+  "extractedAt": "2026-11-13T18:31:46.260Z"
 }

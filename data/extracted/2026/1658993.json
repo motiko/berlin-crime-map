@@ -9,13 +9,13 @@
     "incidentDate": "2026-04-04",
     "street": "Schönwalder Allee",
     "houseNumberOrCrossing": null,
-    "placeName": "Diakoniegelände in Hakenfelde",
+    "placeName": "Diakoniegelände Hakenfelde",
     "district": "Spandau",
-    "summaryEn": "Several wheelie bins caught fire overnight at a waste area on a Diakonie site in Hakenfelde, destroying five bins and damaging a nearby building's canopy. The state criminal police fire unit is taking over the investigation.",
+    "summaryEn": "Several wheelie bins caught fire at a waste area on a church social-service site in Hakenfelde overnight. Five bins were destroyed, and the flames also damaged the canopy of a nearby building.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.820Z"
+  "extractedAt": "2026-11-13T18:31:46.297Z"
 }

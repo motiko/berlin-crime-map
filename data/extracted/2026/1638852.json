@@ -8,14 +8,14 @@
     "category": "traffic",
     "incidentDate": "2026-01-28",
     "street": "Achillesstraße",
-    "houseNumberOrCrossing": "Bucher Chaussee",
+    "houseNumberOrCrossing": null,
     "placeName": "Karow",
     "district": "Pankow",
-    "summaryEn": "A 52-year-old driver hit a seven-year-old girl who stepped onto the road from behind a stopped bus in Karow. The child suffered head injuries and the driver was also taken to hospital with chest pain.",
+    "summaryEn": "A 52-year-old driver hit a seven-year-old girl who stepped out from behind a stopped bus on Achillesstraße in Karow. The child suffered head injuries and the driver complained of chest pain; both were taken to hospital.",
     "injured": 2,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.458Z"
+  "extractedAt": "2026-11-13T18:31:46.279Z"
 }

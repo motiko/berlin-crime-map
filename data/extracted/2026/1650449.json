@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "S-Bahnhof Alexanderplatz",
     "district": "Mitte",
-    "summaryEn": "After an argument at Alexanderplatz S-Bahn station in the early hours, an unknown man stabbed a 25-year-old in the abdomen with a pointed object and fled. The victim needed emergency surgery but was never in life-threatening danger.",
+    "summaryEn": "After an argument at Alexanderplatz S-Bahn station, an unknown man stabbed a 25-year-old in the abdomen with a pointed object and fled. The victim needed emergency surgery but was not in mortal danger.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "knife"
+    "weaponType": "pointed object"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.434Z"
+  "extractedAt": "2026-11-13T18:31:46.276Z"
 }

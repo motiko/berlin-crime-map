@@ -9,13 +9,13 @@
     "incidentDate": "2026-03-17",
     "street": "Kaiser-Wilhelm-Straße",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Lankwitz",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A police patrol car responding with lights and siren collided with a VW turning left in Lankwitz while using the oncoming lane. The police passenger was injured in the arm and two parked cars were damaged.",
+    "summaryEn": "A police patrol car using blue lights and siren collided with a VW turning left on Kaiser-Wilhelm-Straße in Lankwitz, also damaging two parked cars. The police passenger was injured in the arm.",
     "injured": 1,
     "dead": 0,
-    "weaponType": null
+    "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.415Z"
+  "extractedAt": "2026-11-13T18:31:46.220Z"
 }

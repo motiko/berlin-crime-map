@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Reinickendorf",
-    "summaryEn": "A flat fire in a residential building in Tegel left one man dead, likely the 63-year-old occupant, and damaged several other flats. Six residents were taken to hospital with suspected smoke inhalation.",
+    "summaryEn": "A fire broke out in a sixth-floor flat in an apartment building in Tegel; firefighters found one dead man, believed to be the 63-year-old resident. Six other residents were taken to hospital with suspected smoke inhalation.",
     "injured": 6,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.428Z"
+  "extractedAt": "2026-11-13T18:31:46.300Z"
 }

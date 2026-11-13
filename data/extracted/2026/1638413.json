@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Reinickendorf",
-    "summaryEn": "A 14-year-old was pushed and xenophobically insulted during an argument with a 45-year-old man, and a passing pedestrian then punched the man. The police Staatsschutz is handling the case.",
+    "summaryEn": "A man allegedly pushed a 14-year-old boy after a verbal dispute and insulted him with xenophobic remarks. An unknown bystander then struck the man in the face, and the case was taken over by the state security unit.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.399Z"
+  "extractedAt": "2026-11-13T18:31:46.205Z"
 }

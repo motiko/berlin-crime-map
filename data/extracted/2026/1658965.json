@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "An unknown man drove a car into the entrance door of a shop on Münzstraße at about 5 a.m., destroying it. He took goods and fled with the car.",
+    "summaryEn": "An unknown man rammed a shop entrance in Münzstraße with a car around 5 a.m., then took goods and drove off. The shop door was destroyed.",
     "injured": 0,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.938Z"
+  "extractedAt": "2026-11-13T18:31:46.277Z"
 }

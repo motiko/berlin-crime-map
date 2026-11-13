@@ -13,9 +13,9 @@
     "injured": 0,
     "placeName": null,
     "street": "Sachsendamm",
-    "summaryEn": "An unknown person threw a paving stone through the glass door of an LGBTQ+ bar on Sachsendamm around 23:30. No one was hurt, and the State Security unit is investigating a suspected anti-gay hate crime.",
+    "summaryEn": "An unknown person threw a paving stone through the glass door of an LGBTQ+ bar on Sachsendamm around 23:30. Nobody was hurt, and the State Security unit is investigating a possible homophobic motive.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.424Z"
+  "extractedAt": "2026-11-13T18:31:46.225Z"
 }

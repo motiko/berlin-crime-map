@@ -7,15 +7,15 @@
   "extraction": {
     "category": "robbery",
     "incidentDate": "2026-03-16",
-    "street": "Kottbusser Tor",
+    "street": "Kottbusser Damm",
     "houseNumberOrCrossing": null,
     "placeName": "U-Bahnhof Kottbusser Tor",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Two men were arrested after a suspected snatch theft on a subway platform, during which a 41-year-old woman and her 38-year-old companion were assaulted. An axe was used in the ensuing fight, and the 38-year-old was injured.",
+    "summaryEn": "Two men were arrested after a 28-year-old allegedly snatched 20 euros from a 41-year-old woman on a subway platform and then assaulted her and her companion. An axe was allegedly used during the ensuing fight, and a knife was drawn.",
     "injured": 1,
     "dead": 0,
     "weaponType": "axe"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.405Z"
+  "extractedAt": "2026-11-13T18:31:46.307Z"
 }

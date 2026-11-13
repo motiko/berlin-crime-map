@@ -9,13 +9,13 @@
     "incidentDate": "2026-02-23",
     "street": "Mariendorfer Damm",
     "houseNumberOrCrossing": "Hundsteinweg",
-    "placeName": "Mariendorf",
+    "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 35-year-old driver died after his car skidded and hit a tree on Mariendorfer Damm late at night. The road was closed in the stadteinwärts direction during the accident investigation.",
+    "summaryEn": "A 35-year-old driver died after his BMW skidded and hit a tree on Mariendorfer Damm at night. The cause of the crash is still under investigation.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.333Z"
+  "extractedAt": "2026-11-13T18:31:46.265Z"
 }

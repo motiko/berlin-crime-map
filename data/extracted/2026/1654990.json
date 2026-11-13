@@ -5,17 +5,17 @@
   "title": "Mann in Wohnung gelockt, gefesselt und geschlagen",
   "location": "Mitte",
   "extraction": {
-    "category": "assault",
+    "category": "knife",
     "incidentDate": "2026-03-22",
     "street": "Pankstraße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "A 26-year-old man was lured into an apartment on Pankstraße, beaten, attacked with an iron bar and pepper spray, and bound with tape. Two suspects, aged 18 and 29, were arrested; a police officer was injured.",
+    "summaryEn": "A 26-year-old man was lured into an apartment in Gesundbrunnen, beaten, attacked with an iron bar and pepper spray, and bound with tape. Two suspects, aged 18 and 29, were arrested and an officer was injured.",
     "injured": 2,
     "dead": 0,
     "weaponType": "iron bar"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.472Z"
+  "extractedAt": "2026-11-13T18:31:46.196Z"
 }

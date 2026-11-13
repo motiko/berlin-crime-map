@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Unknown perpetrators set several tyres on fire on Rigaer Straße overnight, damaging two nearby parked cars. Pyrotechnics were thrown at responding firefighters, who were not injured; the case is handled by the state security unit.",
+    "summaryEn": "Unknown perpetrators set several tyres on fire on Rigaer Straße, damaging two parked cars. Pyrotechnics were thrown at responding emergency crews, who were unhurt; the State Security unit has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.419Z"
+  "extractedAt": "2026-11-13T18:31:46.302Z"
 }

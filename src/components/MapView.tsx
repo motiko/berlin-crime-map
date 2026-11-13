@@ -44,6 +44,16 @@ function bboxOf(geometry: GeoJSON.Polygon | GeoJSON.MultiPolygon): [[number, num
   ];
 }
 
+/**
+ * Where to put the selected point so the floating details don't cover it: left of centre on
+ * wide screens. On phones the details are a bottom sheet over the list, below the map, so no
+ * shift is needed. A one-off offset, not map padding, so closing the details doesn't move the map.
+ */
+function clearOfDetails(map: maplibregl.Map): [number, number] {
+  if (window.matchMedia('(max-width: 760px)').matches) return [0, 0];
+  return [-Math.min(map.getContainer().clientWidth * 0.45, 400) / 2, 0];
+}
+
 interface Props {
   incidents: Incident[];
   selectedId: string | null;
@@ -121,7 +131,8 @@ export function MapView({ incidents, selectedId, district, onSelect, onBoundsCha
     mapRef.current = map;
     // Dev only: lets browser tests drive the map (window.__map.jumpTo(...)).
     if (import.meta.env.DEV) (window as unknown as { __map?: maplibregl.Map }).__map = map;
-    map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-right');
+    // Top left: the incident details float over the right side.
+    map.addControl(new maplibregl.NavigationControl({ showCompass: false }), 'top-left');
 
     map.on('load', () => {
       // District outline, drawn under the incident points.
@@ -267,7 +278,11 @@ export function MapView({ incidents, selectedId, district, onSelect, onBoundsCha
     map.setFilter('selected', ['==', ['get', 'id'], selectedId ?? '']);
     const incident = incidents.find((i) => i.id === selectedId);
     if (incident?.lat != null && incident.lng != null) {
-      map.easeTo({ center: [incident.lng, incident.lat], zoom: Math.max(map.getZoom(), incident.precision === 'street' ? 15 : 12) });
+      map.easeTo({
+        center: [incident.lng, incident.lat],
+        zoom: Math.max(map.getZoom(), incident.precision === 'street' ? 15 : 12),
+        offset: clearOfDetails(map),
+      });
     }
     // Only react to a new selection, not to every data change.
     // eslint-disable-next-line react-hooks/exhaustive-deps

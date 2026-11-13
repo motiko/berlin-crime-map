@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Frauenwohnheim",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 37-year-old man who was asked to leave a women's residence after 10 p.m. resisted arrest, and police used a stun device to subdue him. An officer was injured during the arrest and ended his shift.",
+    "summaryEn": "A 37-year-old man who was in a women's residence after curfew resisted arrest and was subdued with a taser (DEIG). He injured a police officer's hand during the arrest.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "Distanzelektroimpulsgerät (DEIG)"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.364Z"
+  "extractedAt": "2026-11-13T18:31:46.318Z"
 }

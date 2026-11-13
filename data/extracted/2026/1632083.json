@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Halensee",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Police arrested a 37-year-old driver suspected of drug trafficking after a traffic check in Halensee. Drugs and a knife were found on him and in the car, and two blank-firing pistols were later found during a search of his apartment.",
+    "summaryEn": "Police arrested a 37-year-old driver suspected of drug dealing and driving under the influence in Halensee. Drugs, a knife and two blank-firing guns were found during searches of the car and his home.",
     "injured": 0,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.438Z"
+  "extractedAt": "2026-11-13T18:31:46.267Z"
 }

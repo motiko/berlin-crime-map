@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "Two unknown men attacked a 69-year-old man in the ground floor of an apartment building, tore off his wristwatch and tried to steal his wallet. The victim was treated on scene for injuries to his hand and torso.",
+    "summaryEn": "Two unknown men attacked a 69-year-old man in the entrance area of an apartment building, took his wristwatch and tried to steal his wallet. The victim was treated at the scene by paramedics.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.450Z"
+  "extractedAt": "2026-11-13T18:31:46.345Z"
 }

@@ -54,13 +54,23 @@ export function App() {
     () => countByCategory(applyFilters(incidents, { ...filters, categories: new Set(CATEGORIES) })),
     [incidents, filters],
   );
-  const inView = useMemo(() => {
-    const visible = bounds
-      ? filtered.filter((i) => i.lat === null || i.lng === null || bounds.contains([i.lng, i.lat]))
-      : filtered;
-    return [...visible].sort((a, b) => b.date.localeCompare(a.date) || b.publishedAt.localeCompare(a.publishedAt));
-  }, [filtered, bounds]);
+  const newestFirst = useMemo(
+    () => [...filtered].sort((a, b) => b.date.localeCompare(a.date) || b.publishedAt.localeCompare(a.publishedAt)),
+    [filtered],
+  );
+  const inView = useMemo(
+    () => (bounds ? newestFirst.filter((i) => i.lat === null || i.lng === null || bounds.contains([i.lng, i.lat])) : newestFirst),
+    [newestFirst, bounds],
+  );
   const selected = selectedId ? (incidents.find((i) => i.id === selectedId) ?? null) : null;
+
+  // Newer / Older step through every incident matching the filters, newest first. Not only the
+  // ones in the map view: selecting zooms the map in, which would shrink that list to a few.
+  const selectedIndex = selected ? newestFirst.findIndex((i) => i.id === selected.id) : -1;
+  const step = (offset: number) => {
+    const next = newestFirst[selectedIndex + offset];
+    return selectedIndex >= 0 && next ? () => setSelectedId(next.id) : null;
+  };
 
   const minDate = index?.years.length ? `${index.years[0].year}-01-01` : today;
 
@@ -88,8 +98,6 @@ export function App() {
           onAll={() => setCategories(new Set(CATEGORIES))}
         />
 
-        {selected && <IncidentCard incident={selected} onClose={() => setSelectedId(null)} />}
-
         {error ? (
           <div className="error" role="alert">
             <p>Could not load the data: {error}</p>
@@ -110,6 +118,15 @@ export function App() {
 
       <main className="map-wrap">
         <MapView incidents={filtered} selectedId={selectedId} district={filters.district} onSelect={setSelectedId} onBoundsChange={setBounds} />
+        {selected && (
+          <IncidentCard
+            incident={selected}
+            position={selectedIndex >= 0 ? { index: selectedIndex + 1, total: newestFirst.length } : null}
+            onNewer={step(-1)}
+            onOlder={step(1)}
+            onClose={() => setSelectedId(null)}
+          />
+        )}
       </main>
 
       <About open={aboutOpen} onClose={() => setAboutOpen(false)} />

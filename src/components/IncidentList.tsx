@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import type { Incident } from '../../shared/types.ts';
 import { formatDay, placeLabel } from '../lib/filter.ts';
 import { CategoryIcon } from './CategoryIcon.tsx';
@@ -27,13 +27,21 @@ function byDay(incidents: Incident[]): { day: string; items: Incident[] }[] {
 
 export function IncidentList({ incidents, total, selectedId, onSelect }: Props) {
   const [shown, setShown] = useState(PAGE);
+  const listRef = useRef<HTMLElement>(null);
+
+  // Bring the selected incident into the list (picked on the map or with Newer / Older).
+  const selectedIndex = selectedId ? incidents.findIndex((i) => i.id === selectedId) : -1;
+  if (selectedIndex >= shown) setShown(Math.ceil((selectedIndex + 1) / PAGE) * PAGE);
+  useEffect(() => {
+    listRef.current?.querySelector('[aria-current="true"]')?.scrollIntoView({ block: 'nearest' });
+  }, [selectedId]);
   const days = byDay(incidents.slice(0, shown));
   // Count from the full list, so a day cut off by paging still shows its real total.
   const perDay = new Map<string, number>();
   for (const i of incidents) perDay.set(i.date.slice(0, 10), (perDay.get(i.date.slice(0, 10)) ?? 0) + 1);
 
   return (
-    <section className="list" aria-labelledby="list-label">
+    <section ref={listRef} className="list" aria-labelledby="list-label">
       <h2 id="list-label" className="list-head">
         {incidents.length === total
           ? `${total.toLocaleString('en-GB')} incidents`

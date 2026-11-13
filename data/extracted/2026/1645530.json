@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Rosenthaler Platz",
     "district": "Mitte",
-    "summaryEn": "A 32-year-old trans man was stopped and spat at by an unknown man at Rosenthaler Platz around 11:50. The police state Security Division (Staatsschutz) has taken over the investigation as a transphobic attack.",
+    "summaryEn": "A 32-year-old trans man was stopped and spat at by an unknown man at Rosenthaler Platz in a transphobic attack. The State Security unit has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.376Z"
+  "extractedAt": "2026-11-13T18:31:46.289Z"
 }

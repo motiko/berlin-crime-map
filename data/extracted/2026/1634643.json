@@ -8,14 +8,14 @@
     "category": "robbery",
     "incidentDate": "2026-01-16",
     "street": "Emmentaler Straße",
-    "houseNumberOrCrossing": "Reginhardstraße",
+    "houseNumberOrCrossing": "Armbrustweg",
     "placeName": "Supermarkt-Parkplatz",
     "district": "Reinickendorf",
-    "summaryEn": "Two men posing as plainclothes police robbed a buyer of cash during a planned car purchase, then fled and threatened pursuers with a weapon. A suspect, later identified as an off-duty police officer, has been in pretrial detention since 17 January 2026.",
+    "summaryEn": "Two men posing as plainclothes police took cash from a 29-year-old during a car purchase and then threatened him with a gun. A 42-year-old suspect was arrested and is in pre-trial detention; the investigation continues.",
     "injured": 1,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.427Z"
+  "extractedAt": "2026-11-13T18:31:46.242Z"
 }

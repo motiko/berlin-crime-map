@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Steinplatz",
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "After fleeing a traffic check at high speed, a 15-year-old driver crashed into a police car at the Uhlandstraße/Steinplatz junction and was arrested. He was suspected of being under the influence of drugs and had no valid driving licence.",
+    "summaryEn": "A 15-year-old driver fled a traffic check at high speed and braked suddenly at an intersection, causing a collision with a police car. Two police officers were slightly injured; the driver was arrested, allegedly under the influence of drugs and without a valid licence.",
     "injured": 2,
     "dead": 0,
-    "weaponType": null
+    "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.450Z"
+  "extractedAt": "2026-11-13T18:31:46.298Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Brunsbütteler Damm",
     "placeName": "Staaken",
     "district": "Spandau",
-    "summaryEn": "A 25-year-old driver fled from police at high speed in Staaken and lost control at a junction, colliding with five parked cars. He was arrested shortly afterwards and had no driving licence.",
+    "summaryEn": "A 25-year-old driver fled from police at high speed in Staaken and lost control at a crossing, colliding with five parked cars. He was arrested shortly afterwards and had no driving licence.",
     "injured": 0,
     "dead": 0,
-    "weaponType": "vehicle"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.453Z"
+  "extractedAt": "2026-11-13T18:31:46.261Z"
 }

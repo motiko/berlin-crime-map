@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A homeless man was lured into a residential building in Marzahn and robbed of his bank card by a 19-year-old, who showed a firearm and demanded his PIN. The victim reported the robbery to police.",
+    "summaryEn": "A 43-year-old man without a fixed address was lured into an apartment building and robbed of his bank card, and was forced under threat of a firearm to hand over his PIN. The suspect is a 19-year-old.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.341Z"
+  "extractedAt": "2026-11-13T18:31:46.329Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Two men were arrested after allegedly attempting purchases with stolen bank cards at shops on Alboinstraße. The 39-year-old allegedly drove a vehicle with stolen number plates and a forged driving licence.",
+    "summaryEn": "Two men aged 24 and 39 were arrested after attempting to pay for goods with stolen bank cards in shops on Alboinstraße. The 39-year-old is also suspected of driving the getaway car, which had stolen number plates.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.361Z"
+  "extractedAt": "2026-11-13T18:31:46.244Z"
 }

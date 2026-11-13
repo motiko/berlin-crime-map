@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "A 32-year-old man was stabbed in the shoulder by an unknown attacker on a pavement in Buch. The attacker fled and the victim was taken to hospital with serious injuries.",
+    "summaryEn": "A 32-year-old man was allegedly stabbed in the shoulder by an unknown attacker on a pavement in Buch. The attacker fled, and the victim was taken to hospital with serious injuries.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.465Z"
+  "extractedAt": "2026-11-13T18:31:46.232Z"
 }

@@ -9,13 +9,13 @@
     "incidentDate": "2026-03-27",
     "street": "Königin-Elisabeth-Straße",
     "houseNumberOrCrossing": "Knobelsdorffstraße",
-    "placeName": "BAB 100",
+    "placeName": "Westend",
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A driver fled from a police traffic check in Westend, colliding with a police car during an illegal street race and driving on a sidewalk. Both officers in the police car were injured and ended their shifts.",
+    "summaryEn": "A driver without number plates fled a police traffic check at high speed, running red lights and colliding with a police car. Two officers were injured and the driver escaped.",
     "injured": 2,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.698Z"
+  "extractedAt": "2026-11-13T18:31:46.243Z"
 }

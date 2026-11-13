@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Rummelsburg",
     "district": "Lichtenberg",
-    "summaryEn": "After a honking dispute at a traffic light in Rummelsburg, an unknown driver allegedly cut a 23-year-old driver's finger with a knife. The victim was treated as an outpatient after an ambulance took him to hospital.",
+    "summaryEn": "After a honking dispute at a traffic light in Rummelsburg, an unknown driver got out and injured a 23-year-old motorist's finger with a knife. The victim was treated at a hospital as an outpatient.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.413Z"
+  "extractedAt": "2026-11-13T18:31:46.310Z"
 }

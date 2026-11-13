@@ -6,16 +6,16 @@
   "location": "Charlottenburg-Wilmersdorf",
   "extraction": {
     "category": "traffic",
-    "incidentDate": "2026-03-21",
-    "street": "Laubacher Straße",
-    "houseNumberOrCrossing": null,
-    "placeName": null,
-    "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "An unsecured car rolled over a woman, aged 61, who was lying on the ground after a collision with another car. She suffered fractures and was taken to hospital.",
-    "injured": 1,
     "dead": 0,
+    "district": "Charlottenburg-Wilmersdorf",
+    "houseNumberOrCrossing": "Südwestkorso",
+    "incidentDate": "2026-03-21",
+    "injured": 1,
+    "placeName": null,
+    "street": "Laubacher Straße",
+    "summaryEn": "A 54-year-old driver collided with a 61-year-old woman in Wilmersdorf. The unsecured car then rolled over the injured woman and into a tree, and she was taken to hospital with fractures.",
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.445Z"
+  "extractedAt": "2026-11-13T18:31:46.244Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "Arson was committed on a cold-weather bus of a charity on a parking lot in Lehrter Straße, and security staff held the suspect until police arrived. A 43-year-old man was arrested and is to be brought before a judge.",
+    "summaryEn": "A man set fire to a cold-weather outreach bus of a charity parked in Moabit. Security staff held him until police arrived and arrested him.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.400Z"
+  "extractedAt": "2026-11-13T18:31:46.323Z"
 }

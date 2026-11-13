@@ -9,13 +9,13 @@
     "incidentDate": "2026-01-26",
     "street": "Mariendorfer Weg",
     "houseNumberOrCrossing": null,
-    "placeName": "Kita im Mariendorfer Weg",
+    "placeName": "Kita",
     "district": "Neukölln",
-    "summaryEn": "A 43-year-old woman took her seven-year-old son from in front of a day-care centre and left with him in an unknown direction. Police are searching for both, and a risk to themselves or others cannot be ruled out.",
+    "summaryEn": "A 43-year-old woman took her seven-year-old son from in front of a kindergarten and left in an unknown direction; both are missing and police are asking for information. The woman has no custody and is believed to be in a psychological crisis.",
     "injured": 0,
-    "dead": 0,
+    "dead": null,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.362Z"
+  "extractedAt": "2026-11-13T18:31:46.302Z"
 }

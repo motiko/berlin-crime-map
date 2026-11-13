@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Reinickendorf",
-    "summaryEn": "A 25-year-old man reported missing by relatives on 2 February 2026 has been found and is receiving medical treatment. He was believed to be in a psychological crisis.",
-    "injured": null,
-    "dead": null,
+    "summaryEn": "A 25-year-old man reported missing on 2 February 2026 has been found and is receiving medical treatment. He had been believed to be in a psychological crisis.",
+    "injured": 0,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.444Z"
+  "extractedAt": "2026-11-13T18:31:46.302Z"
 }

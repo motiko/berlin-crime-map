@@ -9,13 +9,13 @@
     "incidentDate": "2026-01-03",
     "street": "Bremer Straße",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Teltowkanal",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "Unknown perpetrators set several high-voltage power cables on fire near the Teltow Canal in Lichterfelde, causing a large-scale power outage. The state security unit is investigating and seeking witnesses.",
+    "summaryEn": "Unknown persons set several high-voltage power cables on fire near the Teltowkanal in Lichterfelde, causing a large-scale power outage. The Staatsschutz is investigating and asks for witnesses.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.360Z"
+  "extractedAt": "2026-11-13T18:31:46.274Z"
 }

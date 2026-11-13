@@ -9,13 +9,13 @@
     "incidentDate": "2026-02-24",
     "street": "Schloßstraße",
     "houseNumberOrCrossing": null,
-    "placeName": "Bus der Linie M48",
+    "placeName": "Bus M48",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A young woman was xenophobically insulted and hit on a bus in Steglitz; the attacker also insulted her at the Schloßstraße stop. The Staatsschutz has taken over the investigation.",
+    "summaryEn": "On a bus in Steglitz, an unknown woman allegedly hit and insulted a 19-year-old woman with xenophobic remarks and pulled her headscarf. The State Security unit has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.467Z"
+  "extractedAt": "2026-11-13T18:31:46.255Z"
 }

@@ -6,16 +6,16 @@
   "location": "Spandau",
   "extraction": {
     "category": "traffic",
-    "dead": 0,
-    "district": "Spandau",
-    "houseNumberOrCrossing": "Mahnkopfweg",
     "incidentDate": "2026-01-28",
-    "injured": 1,
-    "placeName": "Wilhelmstadt",
     "street": "Heerstraße",
-    "summaryEn": "A 25-year-old cyclist turned left across several lanes on Heerstraße and collided with an oncoming van. The cyclist was injured and taken to hospital; the van driver was not reported hurt.",
+    "houseNumberOrCrossing": "Mahnkopfweg",
+    "placeName": "Wilhelmstadt",
+    "district": "Spandau",
+    "summaryEn": "A 25-year-old cyclist turned left across several lanes of the Heerstraße and collided with an oncoming van. The cyclist was seriously injured and taken to hospital, and property damage occurred.",
+    "injured": 1,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.463Z"
+  "extractedAt": "2026-11-13T18:31:46.347Z"
 }

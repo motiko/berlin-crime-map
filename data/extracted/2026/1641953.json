@@ -6,16 +6,16 @@
   "location": "Spandau",
   "extraction": {
     "category": "traffic",
-    "incidentDate": "2026-02-09",
-    "street": "Altstädter Ring",
-    "houseNumberOrCrossing": null,
-    "placeName": null,
+    "dead": null,
     "district": "Spandau",
-    "summaryEn": "A car driver suffered a medical emergency while driving on Altstädter Ring and the car crashed into a bus stop pole, median and embankment. The driver was resuscitated and both occupants were taken to hospital.",
+    "houseNumberOrCrossing": "Falkenseer Platz",
+    "incidentDate": "2026-02-09",
     "injured": 2,
-    "dead": 0,
+    "placeName": null,
+    "street": "Altstädter Ring",
+    "summaryEn": "A driver suffered a medical emergency while driving on Altstädter Ring in Spandau, causing a crash into a bus stop pole and trees. The driver was resuscitated and both occupants were taken to hospital.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.449Z"
+  "extractedAt": "2026-11-13T18:31:46.330Z"
 }

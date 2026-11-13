@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Weltzeituhr",
     "district": "Mitte",
-    "summaryEn": "A man was approached at the Weltzeituhr on Alexanderplatz, and an Israeli flag he was carrying was taken, thrown to the ground and trampled. Police handle the case through the political crime unit (Staatsschutz).",
+    "summaryEn": "A 27-year-old man's Israeli flag was taken, thrown to the ground and damaged by an unknown man near the Weltzeituhr after a verbal dispute. The case is being investigated by the state security unit (Staatsschutz).",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.862Z"
+  "extractedAt": "2026-11-13T18:31:46.292Z"
 }

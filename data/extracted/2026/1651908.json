@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Treptow-Köpenick",
-    "summaryEn": "After a dispute over refused alcohol service, a 63-year-old guest allegedly punched a 54-year-old pub owner in the face, and the owner later returned to the bar with a serious head injury. The owner was taken to hospital; police are investigating for assault.",
-    "injured": 1,
+    "summaryEn": "After a dispute over being refused more alcohol, a 63-year-old guest punched a 54-year-old pub landlord in the face, and the landlord was later found with a serious head injury. The landlord was taken to hospital; no life-threatening danger was reported.",
+    "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.448Z"
+  "extractedAt": "2026-11-13T18:31:46.328Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Falkenhagener Feld",
     "district": "Spandau",
-    "summaryEn": "A fire broke out in a flat in a residential building in Falkenhagener Feld overnight. One resident was seriously hurt, two others were treated for smoke inhalation, and 19 flats are uninhabitable.",
+    "summaryEn": "A fire broke out in an apartment in a residential building in Falkenhagener Feld overnight. One resident was seriously injured, two others were treated for smoke inhalation, and 48 residents were evacuated.",
     "injured": 3,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.373Z"
+  "extractedAt": "2026-11-13T18:31:46.245Z"
 }

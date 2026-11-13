@@ -7,15 +7,15 @@
   "extraction": {
     "category": "traffic",
     "incidentDate": "2026-03-10",
-    "street": "Heerstraße",
-    "houseNumberOrCrossing": "Bocksfeldplatz",
+    "street": "Bocksfeldstraße",
+    "houseNumberOrCrossing": null,
     "placeName": "Bocksfeldplatz",
     "district": "Spandau",
-    "summaryEn": "Four teenagers fled from police in a car without a number plate, driving through several red lights and onto the wrong side of the road before crashing into bushes at Bocksfeldplatz. Three were arrested and one slightly injured.",
+    "summaryEn": "Four teenagers fled from police in a car without number plates, causing a chase through Wilhelmstadt that ended in a bush. One passenger was slightly injured and three suspects were arrested.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.425Z"
+  "extractedAt": "2026-11-13T18:31:46.251Z"
 }

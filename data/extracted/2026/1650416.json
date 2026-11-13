@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Wilhelmstadt",
     "district": "Spandau",
-    "summaryEn": "A fire broke out in a residential house in Wilhelmstadt, with six residents escaping unhurt. An 81-year-old bedridden resident was found dead in his room after the building burned almost completely.",
+    "summaryEn": "A fire broke out in a residential house in Wilhelmstadt, and an 81-year-old bedridden resident was found dead in the rear section. Six other residents escaped unharmed, and the building was almost completely destroyed.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.454Z"
+  "extractedAt": "2026-11-13T18:31:46.246Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Märkisches Viertel",
     "district": "Reinickendorf",
-    "summaryEn": "Police and prosecutors executed nine search warrants in the Märkisches Viertel linked to a drug trafficking and robbery investigation, arresting six people. Several hundred grams of cocaine, about 2.5 kg of marijuana and cash were seized, and arrest warrants were issued for four suspects.",
+    "summaryEn": "Police and prosecutors executed nine search warrants in the Märkisches Viertel linked to drug dealing and a serious robbery, arresting six people. Several hundred grams of cocaine, about 2.5 kg of marijuana and cash were seized.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.432Z"
+  "extractedAt": "2026-11-13T18:31:46.315Z"
 }

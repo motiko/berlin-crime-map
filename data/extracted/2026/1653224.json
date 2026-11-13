@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Friedrichsfelde",
     "district": "Lichtenberg",
-    "summaryEn": "A 50-year-old man with a knife threatened passengers on a tram at a stop on Am Tierpark and damaged seats and windows. He was overpowered after resisting arrest, taken to hospital, and found to be under the influence of drugs.",
+    "summaryEn": "A 50-year-old man with a knife threatened passengers on a tram and damaged seats and windows, then resisted arrest and was injured. Police say he was under the influence of narcotics.",
     "injured": 0,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.428Z"
+  "extractedAt": "2026-11-13T18:31:46.245Z"
 }

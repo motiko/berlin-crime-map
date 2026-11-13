@@ -6,16 +6,16 @@
   "location": "Reinickendorf",
   "extraction": {
     "category": "political",
-    "incidentDate": "2026-03-19",
-    "street": "Residenzstraße",
-    "houseNumberOrCrossing": null,
-    "placeName": null,
+    "dead": null,
     "district": "Reinickendorf",
-    "summaryEn": "Plainclothes officers arrested a 21-year-old man who was spraying an antisemitic slogan on a clothing shop's facade on Residenzstraße. The slogan was made illegible and the case was handed to the Staatsschutz.",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-03-19",
     "injured": 0,
-    "dead": 0,
+    "placeName": null,
+    "street": "Residenzstraße",
+    "summaryEn": "Police arrested a 21-year-old man who was spraying an antisemitic slogan on a clothing shop facade at Residenzstraße around 1:20 a.m. The Staatsschutz took over the investigation.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.381Z"
+  "extractedAt": "2026-11-13T18:31:46.263Z"
 }

@@ -6,16 +6,16 @@
   "location": "Charlottenburg-Wilmersdorf",
   "extraction": {
     "category": "traffic",
-    "dead": 0,
-    "district": "Charlottenburg-Wilmersdorf",
-    "houseNumberOrCrossing": null,
     "incidentDate": "2026-02-25",
-    "injured": 1,
-    "placeName": "Westend",
     "street": "Preußenallee",
-    "summaryEn": "A 64-year-old van driver turning into a property driveway hit a 10-year-old boy walking on the pavement, who was run over by the van. The boy suffered head injuries and was taken to hospital.",
+    "houseNumberOrCrossing": null,
+    "placeName": "Westend",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A 64-year-old van driver turning into a property driveway hit a 10-year-old boy on the pavement and ran over him. The boy suffered head injuries and was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.413Z"
+  "extractedAt": "2026-11-13T18:31:46.345Z"
 }

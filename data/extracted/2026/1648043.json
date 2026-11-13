@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Charlottenstraße",
     "placeName": "Friedrichsfelde",
     "district": "Lichtenberg",
-    "summaryEn": "A 19-year-old driver rear-ended a car on Alt-Friedrichsfelde after a suspected street race with an unidentified vehicle. Two women were slightly injured and treated as outpatients; the driver's licence and car were seized.",
+    "summaryEn": "A 19-year-old driver rear-ended a car after an alleged street race with another vehicle in Friedrichsfelde. Two women were slightly injured and the driver's licence and car were seized.",
     "injured": 2,
     "dead": 0,
-    "weaponType": "vehicle"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.459Z"
+  "extractedAt": "2026-11-13T18:31:46.237Z"
 }

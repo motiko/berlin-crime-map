@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Anschlussstelle Treptower Park",
     "placeName": "Britzer Tunnel",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A driver fled from a plainclothes police patrol on the A100 motorway after a speeding offence, driving on the hard shoulder and ramming two cars before escaping. Nobody was injured.",
+    "summaryEn": "A driver fled from a plainclothes motorway police patrol at high speed on the A100, ramming two cars at a traffic jam before escaping. Nobody was injured.",
     "injured": 0,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.369Z"
+  "extractedAt": "2026-11-13T18:31:46.212Z"
 }

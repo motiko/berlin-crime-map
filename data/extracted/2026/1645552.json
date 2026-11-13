@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Alt-Hohenschönhausen",
     "district": "Lichtenberg",
-    "summaryEn": "A car driver lost control after a collision with a minibus at a driveway exit in Alt-Hohenschönhausen and the car rolled over into the tram track. The 40-year-old driver was taken to hospital.",
+    "summaryEn": "A woman driver crashed and her car rolled over several times after a collision with a minibus at an intersection in Alt-Hohenschönhausen. She was taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.449Z"
+  "extractedAt": "2026-11-13T18:31:46.198Z"
 }

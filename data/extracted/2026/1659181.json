@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "Unknown suspects broke into a food store in Britz at about 1:40 a.m. to attack an ATM inside. They fled without loot after an alarm was triggered.",
+    "summaryEn": "Unknown suspects broke into a food shop in Britz overnight to attack a cash machine inside. They fled without loot when an alarm went off.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:18.045Z"
+  "extractedAt": "2026-11-13T18:31:46.322Z"
 }

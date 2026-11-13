@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Alte Hellersdorfer Straße",
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "Police stopped a 19-year-old driver suspected of driving under the influence of nitrous oxide after a witness reported erratic, speeding driving. The driver barricaded himself in the car, was arrested, and drugs-related containers were seized.",
+    "summaryEn": "A 19-year-old driver was stopped by police after witnesses reported erratic, speeding driving under the influence of nitrous oxide. He was arrested after resisting a vehicle search, and nitrous oxide bottles were seized.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.395Z"
+  "extractedAt": "2026-11-13T18:31:46.231Z"
 }

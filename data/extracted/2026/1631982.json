@@ -6,16 +6,16 @@
   "location": "Treptow-Köpenick",
   "extraction": {
     "category": "traffic",
-    "incidentDate": "2026-01-08",
-    "street": "Rummelsburger Straße",
-    "houseNumberOrCrossing": "An der Wuhlheide",
-    "placeName": "Oberschöneweide",
-    "district": "Treptow-Köpenick",
-    "summaryEn": "An 80-year-old driver rear-ended a car waiting at a red light in Oberschöneweide, pushing it into a third vehicle. Three people were injured and taken to hospital, one person was unhurt.",
-    "injured": 3,
     "dead": 0,
-    "weaponType": "vehicle"
+    "district": "Treptow-Köpenick",
+    "houseNumberOrCrossing": "An der Wuhlheide",
+    "incidentDate": "2026-01-08",
+    "injured": 3,
+    "placeName": "Oberschöneweide",
+    "street": "Rummelsburger Straße",
+    "summaryEn": "An 80-year-old driver rear-ended a stopped car at a red light in Oberschöneweide, pushing it into a third vehicle. Three people were taken to hospital; the third driver was unhurt.",
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.353Z"
+  "extractedAt": "2026-11-13T18:31:46.252Z"
 }

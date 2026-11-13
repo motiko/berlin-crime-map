@@ -8,14 +8,14 @@
     "category": "traffic",
     "incidentDate": "2026-04-02",
     "street": "Potsdamer Chaussee",
-    "houseNumberOrCrossing": "Lindenthaler Allee",
+    "houseNumberOrCrossing": null,
     "placeName": "Schlachtensee",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A 75-year-old woman drove her car off the Potsdamer Chaussee near a petrol station and hit two parked vehicles, and the car overturned onto its roof. She suffered head injuries and was taken to hospital.",
+    "summaryEn": "A 75-year-old woman drove off the road near a petrol station in Schlachtensee and hit two parked cars; her car overturned. She suffered head injuries and was taken to hospital.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "vehicle"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.933Z"
+  "extractedAt": "2026-11-13T18:31:46.212Z"
 }

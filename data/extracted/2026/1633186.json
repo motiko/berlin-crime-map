@@ -8,14 +8,14 @@
     "category": "fire",
     "incidentDate": "2026-01-13",
     "street": "Buggenhagenstraße",
-    "houseNumberOrCrossing": "Erich-Kuttner-Straße",
+    "houseNumberOrCrossing": null,
     "placeName": "Fennpfuhl",
     "district": "Lichtenberg",
-    "summaryEn": "A kitchen fire broke out in a fourth-floor apartment in a residential building in Fennpfuhl, and a 44-year-old resident was found unresponsive. He died in hospital shortly afterwards; the investigation is handled by a fire unit of the LKA.",
+    "summaryEn": "A kitchen fire broke out in a fourth-floor flat in an apartment building in Fennpfuhl. A 44-year-old resident was found unresponsive, died in hospital, and no one else was hurt.",
     "injured": 0,
     "dead": 1,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.383Z"
+  "extractedAt": "2026-11-13T18:31:46.281Z"
 }

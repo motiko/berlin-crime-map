@@ -13,9 +13,9 @@
     "injured": 1,
     "placeName": "Niederschöneweide",
     "street": "Schnellerstraße",
-    "summaryEn": "A garbage truck crashed head-on into a car stopped on the Schnellerstraße in Niederschöneweide early in the morning. The car driver suffered an ankle fracture and was hospitalized; the truck driver was unhurt.",
-    "weaponType": "vehicle"
+    "summaryEn": "A garbage truck veered into the oncoming lane on Schnellerstraße and hit a stationary car that was turning. The car driver suffered a fractured ankle and was hospitalized.",
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.854Z"
+  "extractedAt": "2026-11-13T18:31:46.340Z"
 }

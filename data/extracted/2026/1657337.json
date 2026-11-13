@@ -6,16 +6,16 @@
   "location": "Treptow-Köpenick",
   "extraction": {
     "category": "traffic",
-    "dead": 0,
-    "district": "Treptow-Köpenick",
-    "houseNumberOrCrossing": "Kasperstraße",
     "incidentDate": "2026-03-27",
-    "injured": 1,
-    "placeName": "Altglienicke",
     "street": "Schönefelder Chaussee",
-    "summaryEn": "A 66-year-old pedestrian was hit by a car on Schönefelder Chaussee in Altglienicke and was taken to hospital for emergency surgery. The 39-year-old driver was unhurt, and the road was closed until the evening for the accident investigation.",
+    "houseNumberOrCrossing": "Kasperstraße",
+    "placeName": "Altglienicke",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A 66-year-old woman stepped onto the road without looking and was hit by a car on Schönefelder Chaussee in Altglienicke. She was seriously injured and taken to hospital for emergency surgery.",
+    "injured": 1,
+    "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.756Z"
+  "extractedAt": "2026-11-13T18:31:46.333Z"
 }

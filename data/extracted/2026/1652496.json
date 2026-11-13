@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "S-Bahnhof Tempelhof",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "Police observed a suspected drug dealer selling narcotics at S-Bahn station Tempelhof, then arrested him at Hermannstraße station after a chase. He carried a firearm, ammunition, drugs and a knife, and an arrest warrant was issued.",
+    "summaryEn": "Police observed a suspected drug dealer selling narcotics at S-Bahnhof Tempelhof; he was arrested at S-Bahnhof Hermannstraße and found carrying a firearm, ammunition, drugs and a knife. An arrest warrant was issued.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.472Z"
+  "extractedAt": "2026-11-13T18:31:46.259Z"
 }

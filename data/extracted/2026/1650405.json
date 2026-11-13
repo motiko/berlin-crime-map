@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Police executed four search warrants over suspected commercial handling of stolen reusable deposit crates, with two brothers aged 51 and 56 suspected. About 8,000 crates and around 950,000 euros in cash were seized.",
+    "summaryEn": "Police and prosecutors searched four addresses in Tempelhof and Kreuzberg over suspected commercial receiving of stolen reusable crates. About 8,000 crates and around 950,000 euros in cash were seized.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.342Z"
+  "extractedAt": "2026-11-13T18:31:46.194Z"
 }

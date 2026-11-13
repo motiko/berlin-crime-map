@@ -5,17 +5,17 @@
   "title": "Versuchter Autodiebstahl - Festnahme",
   "location": "Steglitz-Zehlendorf",
   "extraction": {
-    "category": "other",
+    "category": "burglary",
     "incidentDate": "2026-03-05",
     "street": "Berliner Straße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "Three men attempted to steal a car in Zehlendorf using a radio-wave jammer but were disturbed and fled without loot. All three were arrested shortly afterwards.",
+    "summaryEn": "Three men tried to steal a car in Zehlendorf using a radio-wave jammer to gain access, but fled without loot when disturbed. Police arrested them shortly afterwards.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.432Z"
+  "extractedAt": "2026-11-13T18:31:46.270Z"
 }

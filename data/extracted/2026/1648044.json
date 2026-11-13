@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Glogauer Straße",
     "placeName": "Görlitzer Park",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A swing gate at the Görlitzer Park access point was found damaged in the morning after its lower mounting bolt had been cut through with a tool. The state security unit (Staatsschutz) has taken over the investigation.",
+    "summaryEn": "Unknown perpetrators cut the lower mounting bolt of a swing gate at Görlitzer Park with a tool, damaging it. The State Security unit (Staatsschutz) has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.431Z"
+  "extractedAt": "2026-11-13T18:31:46.225Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Harzer Straße",
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "A 31-year-old man was found on a pavement at the corner of Elsenstraße and Harzer Straße with several stab wounds. He was taken to hospital and is not in life-threatening danger.",
+    "summaryEn": "A 31-year-old man was found on a pavement with several stab wounds in Neukölln in the early hours. He was taken to hospital and is not in life-threatening condition.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.758Z"
+  "extractedAt": "2026-11-13T18:31:46.343Z"
 }

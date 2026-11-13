@@ -6,16 +6,16 @@
   "location": "Pankow",
   "extraction": {
     "category": "political",
-    "incidentDate": "2026-03-08",
-    "street": "Thulestraße",
-    "houseNumberOrCrossing": null,
-    "placeName": null,
+    "dead": null,
     "district": "Pankow",
-    "summaryEn": "A house wall in Thulestraße was smeared with paint, including a politically themed slogan and symbols. A resident alerted police around 9 a.m.; the case is being investigated by a state criminal police specialist unit.",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-03-08",
     "injured": 0,
-    "dead": 0,
+    "placeName": null,
+    "street": "Thulestraße",
+    "summaryEn": "A residential building wall in Pankow was smeared with paint, including a politically themed slogan and symbols. The police found the damage around 9 a.m. and a specialist unit of the State Criminal Police Office is investigating.",
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.442Z"
+  "extractedAt": "2026-11-13T18:31:46.228Z"
 }

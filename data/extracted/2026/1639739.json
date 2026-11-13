@@ -9,13 +9,13 @@
     "incidentDate": "2026-02-01",
     "street": "Otto-Suhr-Allee",
     "houseNumberOrCrossing": null,
-    "placeName": "Blumenladen",
+    "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A suspect shoved a 54-year-old shop owner during a meeting about a watch offered online and fled with the watch. A passer-by detained him in Zillestraße until police arrested him; a pocket knife was found on him.",
+    "summaryEn": "A 20-year-old man allegedly pushed a 54-year-old shop clerk during a sale of a watch and fled with it. A passer-by followed him, detained him until police arrived, and a switchblade was found on him.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "knife"
+    "weaponType": "switchblade"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.467Z"
+  "extractedAt": "2026-11-13T18:31:46.304Z"
 }

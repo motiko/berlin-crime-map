@@ -6,16 +6,16 @@
   "location": "Tempelhof-Schöneberg",
   "extraction": {
     "category": "missing",
-    "incidentDate": "2026-01-17",
+    "incidentDate": "2026-01-31",
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 61-year-old woman who had left her residential care facility in January was reported missing. She has since been found safe and is back at her facility.",
+    "summaryEn": "A 61-year-old woman reported missing since January 17, 2026 has been found safe. She has been back at her care facility since Saturday.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.456Z"
+  "extractedAt": "2026-11-13T18:31:46.298Z"
 }

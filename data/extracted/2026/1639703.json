@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Müllerstraße",
     "placeName": "Wedding",
     "district": "Mitte",
-    "summaryEn": "During a demonstration in Wedding, participants threw stones, bottles and wooden slats toward a residential building, and a bottle hit a police officer on the head. Five people were temporarily detained and the State Protection unit took over investigations into riot charges.",
+    "summaryEn": "During a pro-Rojava assembly in Wedding, participants threw stones, bottles and wooden slats, and a bottle hit a police officer on the head. Four criminal investigations were opened, and the Staatsschutz took over the riot cases.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "bottle"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.468Z"
+  "extractedAt": "2026-11-13T18:31:46.227Z"
 }

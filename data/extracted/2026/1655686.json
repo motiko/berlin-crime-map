@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "A 37-year-old woman was arrested after allegedly insulting a 39-year-old man antisemitically and striking him on the head in Oderberger Straße. The State Security unit has taken over the investigation.",
+    "summaryEn": "A 37-year-old woman allegedly insulted a 39-year-old man antisemitically and struck him on the head in Oderberger Straße. Police arrested her, and the state security unit has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.422Z"
+  "extractedAt": "2026-11-13T18:31:46.258Z"
 }

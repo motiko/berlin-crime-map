@@ -6,16 +6,16 @@
   "location": "Reinickendorf",
   "extraction": {
     "category": "traffic",
-    "incidentDate": "2026-03-30",
-    "street": "Zobeltitzstraße",
-    "houseNumberOrCrossing": "Antonienstraße",
-    "placeName": null,
-    "district": "Reinickendorf",
-    "summaryEn": "A van collided with a car at a crossing in Reinickendorf and then hit a pedestrian, who was pinned against a parked vehicle and seriously injured. Three people were injured in total, two treated as outpatients.",
-    "injured": 3,
     "dead": 0,
+    "district": "Reinickendorf",
+    "houseNumberOrCrossing": "Antonienstraße/Zobeltitzstraße",
+    "incidentDate": "2026-03-30",
+    "injured": 3,
+    "placeName": null,
+    "street": "Zobeltitzstraße",
+    "summaryEn": "A van and a car collided at a junction in Reinickendorf, and the van then hit a pedestrian and pinned him against a parked car. The pedestrian was seriously injured, and the two drivers were treated for minor injuries.",
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.993Z"
+  "extractedAt": "2026-11-13T18:31:46.223Z"
 }

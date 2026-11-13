@@ -7,15 +7,15 @@
   "extraction": {
     "category": "traffic",
     "incidentDate": "2026-03-16",
-    "street": "Rübelandstraße",
-    "houseNumberOrCrossing": "Emser Straße/Ilsestraße",
+    "street": "Emser Straße",
+    "houseNumberOrCrossing": "Ilsestraße",
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "A 29-year-old woman fled from a police traffic check at high speed, damaging her car and crashing into an oncoming van. She was arrested on foot; the car was uncleared and reported with stolen plates, and she admitted driving under the influence of drugs.",
+    "summaryEn": "A 29-year-old woman fled a police traffic stop at high speed in a car with stolen plates and no valid registration or driving licence. She crashed after driving over a traffic island and was arrested on foot.",
     "injured": 0,
     "dead": 0,
-    "weaponType": "vehicle"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.375Z"
+  "extractedAt": "2026-11-13T18:31:46.321Z"
 }

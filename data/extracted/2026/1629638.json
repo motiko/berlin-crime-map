@@ -8,14 +8,14 @@
     "category": "traffic",
     "incidentDate": "2026-01-01",
     "street": "Markstraße",
-    "houseNumberOrCrossing": "Reginhardstraße",
+    "houseNumberOrCrossing": "Ungarnstraße",
     "placeName": "Wedding",
     "district": "Mitte",
-    "summaryEn": "A 72-year-old pedestrian was struck by a car while crossing Markstraße in Wedding on New Year's morning and suffered life-threatening injuries. Police are seeking witnesses and the driver of a ride-hailing car that was reportedly at the scene.",
+    "summaryEn": "On New Year's morning a car struck a 72-year-old pedestrian crossing Markstraße in Wedding, who was seriously injured. Police are asking witnesses to come forward.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.471Z"
+  "extractedAt": "2026-11-13T18:31:46.277Z"
 }

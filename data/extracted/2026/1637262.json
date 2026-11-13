@@ -9,13 +9,13 @@
     "incidentDate": "2026-01-24",
     "street": "Wupperstraße",
     "houseNumberOrCrossing": "Dahlemer Weg",
-    "placeName": null,
+    "placeName": "Zehlendorf",
     "district": "Steglitz-Zehlendorf",
-    "summaryEn": "A 66-year-old driver lost control of his car and crashed head-on into an oncoming vehicle driven by a 51-year-old woman in Zehlendorf. Three people were injured, one of them seriously enough to be taken to hospital.",
+    "summaryEn": "A driver lost control of his car around 1 p.m. and crashed into oncoming traffic on Wupperstraße. Three people were injured, one of them seriously enough to be taken to hospital.",
     "injured": 3,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.466Z"
+  "extractedAt": "2026-11-13T18:31:46.329Z"
 }

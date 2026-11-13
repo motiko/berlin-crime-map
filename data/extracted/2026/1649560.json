@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Schnellerstraße",
     "placeName": "Niederschöneweide",
     "district": "Treptow-Köpenick",
-    "summaryEn": "A 29-year-old driver fled from police in a rental car at high speed in Niederschöneweide and was stopped after a chase. Officers found suspected narcotics and a knife in the car, and the driver was later released.",
+    "summaryEn": "A 29-year-old driver fled a police traffic check at high speed in Niederschöneweide overnight and was stopped in Fließstraße. Police seized suspected narcotics and a knife from the rental car, and an investigation for illegal racing and drug offences was opened.",
     "injured": 0,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.445Z"
+  "extractedAt": "2026-11-13T18:31:46.249Z"
 }

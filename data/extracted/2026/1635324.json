@@ -10,12 +10,12 @@
     "street": "Pablo-Picasso-Straße",
     "houseNumberOrCrossing": "50",
     "placeName": "„Star“-Tankstelle",
-    "district": null,
-    "summaryEn": "Series of eight armed robberies at petrol stations and shops in Berlin between November 2025 and January 2026, committed by the same suspect who threatened staff with firearms or knives. Police are asking the public for information.",
+    "district": "Lichtenberg",
+    "summaryEn": "A man is wanted over eight robberies of petrol stations and shops in Berlin between November 2025 and January 2026. In each case he allegedly threatened staff with a firearm or knife and demanded the cash register contents.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm or knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.410Z"
+  "extractedAt": "2026-11-13T18:31:46.246Z"
 }

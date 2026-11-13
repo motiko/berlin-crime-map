@@ -5,17 +5,17 @@
   "title": "Abi-Mottowochen lösen Polizeieinsätze aus",
   "location": "bezirksübergreifend",
   "extraction": {
-    "category": "other",
+    "category": "assault",
     "incidentDate": "2026-03-20",
     "street": "Prenzlauer Allee",
     "houseNumberOrCrossing": "Diesterwegstraße",
     "placeName": "Grünfläche an der Prenzlauer Allee",
     "district": "Pankow",
-    "summaryEn": "Up to 1,000 young people gathered at parks in Pankow and Schöneberg for graduation-week events, leading to police clearance operations. Bottles and fireworks were thrown or lit at officers, police vehicles were damaged, and five people were arrested.",
+    "summaryEn": "Police cleared a park where up to 1,000 young people gathered after bottles were thrown at officers and vehicles and fireworks were set off. Five people were arrested and 15 criminal investigations were opened.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.389Z"
+  "extractedAt": "2026-11-13T18:31:46.269Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Police searched eight properties, including two pharmacies, over suspected illegal trade in prescription-only medicines. About 300 packs of medication and 249,910 euros in cash were seized.",
+    "summaryEn": "Police searched eight properties, including two pharmacies in Charlottenburg and Steglitz, over suspected illegal trade in prescription medicines. About 300 packs of medication and 249,910 euros in cash were seized.",
     "injured": 0,
-    "dead": 0,
+    "dead": null,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.428Z"
+  "extractedAt": "2026-11-13T18:31:46.235Z"
 }

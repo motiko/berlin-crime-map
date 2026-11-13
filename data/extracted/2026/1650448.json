@@ -7,15 +7,15 @@
   "extraction": {
     "category": "political",
     "incidentDate": "2026-03-06",
-    "street": null,
+    "street": "Helene-Weigel-Platz",
     "houseNumberOrCrossing": null,
     "placeName": "Helene-Weigel-Platz",
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "An off-duty police officer was pushed and sprayed with white paint in the face by a man after she identified herself to a group where one member made a Hitler salute. The officer suffered eye irritation; the state security unit is investigating.",
+    "summaryEn": "An off-duty police officer who confronted a man making a Hitler salute in Marzahn was pushed away and then sprayed with white paint in the face. The officer suffered eye irritation, and the State Security unit is investigating.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.429Z"
+  "extractedAt": "2026-11-13T18:31:46.293Z"
 }

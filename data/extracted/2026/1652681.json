@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Grunewaldstraße",
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A motorcyclist hit an 85-year-old woman crossing Akazienstraße in Schöneberg; both fell. The woman suffered life-threatening injuries and remains in critical condition, while the motorcyclist was slightly hurt.",
+    "summaryEn": "A motorcyclist hit an 85-year-old pedestrian who stepped onto the road in Schöneberg. The woman has life-threatening injuries and the motorcyclist was slightly hurt.",
     "injured": 2,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.357Z"
+  "extractedAt": "2026-11-13T18:31:46.288Z"
 }

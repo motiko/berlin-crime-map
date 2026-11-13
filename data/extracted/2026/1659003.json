@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Imbiss an der Wassersportallee",
     "district": "Treptow-Köpenick",
-    "summaryEn": "After a dispute and threat at a snack bar in Grünau, police arrested a 20-year-old man who attacked officers and tried to grab an officer's service weapon, which was prevented. Two officers were injured and unable to continue duty, and the man suffered a cut to the head.",
+    "summaryEn": "After a dispute and threat at a snack bar in Grünau, police arrested a 20-year-old man who attacked officers and tried to grab a service weapon. Two officers were injured and the man was slightly hurt.",
     "injured": 3,
     "dead": 0,
-    "weaponType": "knife"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.785Z"
+  "extractedAt": "2026-11-13T18:31:46.334Z"
 }

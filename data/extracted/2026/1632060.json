@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Bar",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "During a premises inspection at a bar in Kreuzberg, police found several firearms with ammunition hidden in a pool table and arrested two men aged 27 and 29. The weapons, magazines and ammunition were seized.",
+    "summaryEn": "Police inspecting a bar in Kreuzberg found several firearms and ammunition hidden in a billiard table. Two men, aged 27 and 29, were arrested and the weapons seized.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.412Z"
+  "extractedAt": "2026-11-13T18:31:46.316Z"
 }

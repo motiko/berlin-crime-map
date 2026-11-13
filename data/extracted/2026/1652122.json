@@ -5,17 +5,17 @@
   "title": "Aktionswoche zum Schutz von zu Fuß gehenden Seniorinnen und Senioren",
   "location": "berlinweit",
   "extraction": {
-    "category": "traffic",
-    "incidentDate": "2026-03-16",
+    "category": "other",
+    "incidentDate": "2026-03-13",
     "street": null,
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": null,
-    "summaryEn": "Police Berlin announced a road safety awareness week from 16 to 20 March 2026 to protect elderly pedestrians, with information stands at weekly markets across the city. The events are held in cooperation with the pedestrian association FUSS e.V.",
-    "injured": null,
-    "dead": null,
+    "summaryEn": "Police Berlin announce a traffic accident prevention campaign week from 16 to 20 March 2026 to protect elderly pedestrians, with events at weekly markets across the city. No incident occurred.",
+    "injured": 0,
+    "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.417Z"
+  "extractedAt": "2026-11-13T18:31:46.270Z"
 }

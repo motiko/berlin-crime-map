@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "83",
     "placeName": "Fischladen",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Unknown attackers with hammers reportedly attacked the bar \"Fischladen\" and stole a banner before fleeing. The State Protection unit is investigating and seeks witnesses.",
-    "injured": 0,
-    "dead": 0,
+    "summaryEn": "Unknown suspects attacked the bar \"Fischladen\" with hammers between 9 and 13 hours and took a banner before fleeing. The State Security unit is seeking witnesses.",
+    "injured": null,
+    "dead": null,
     "weaponType": "hammer"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.436Z"
+  "extractedAt": "2026-11-13T18:31:46.322Z"
 }

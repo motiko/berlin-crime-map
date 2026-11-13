@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Friedrich-Franz-Straße",
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A 43-year-old man fled a police traffic check at high speed, running red lights and driving onto the sidewalk, before crashing into a traffic light pole and a police car. Two police officers were hurt, and the car was seized.",
+    "summaryEn": "A 43-year-old man fled a police check at high speed in a Ford, running red lights and driving onto the pavement, before crashing into a traffic light pole and a police car. Two police officers were hurt, and the driver faces charges including illegal street racing and driving without a licence.",
     "injured": 3,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.449Z"
+  "extractedAt": "2026-11-13T18:31:46.331Z"
 }

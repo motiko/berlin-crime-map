@@ -5,17 +5,17 @@
   "title": "DEIG-Einsatz gegen akut eigengefährdete Frau",
   "location": "Mitte",
   "extraction": {
-    "category": "knife",
+    "category": "other",
     "incidentDate": "2026-01-23",
     "street": "Hilda-Geiringer-Weg",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "Police in Moabit used a taser against a 30-year-old woman who was threatening self-harm with a knife after a witness called for help. She was injured with a cut wrist, received first aid and was taken to hospital.",
+    "summaryEn": "Police used a Taser against a 30-year-old woman who was threatening self-harm with a knife in Moabit. She was injured on her wrist and taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.460Z"
+  "extractedAt": "2026-11-13T18:31:46.217Z"
 }

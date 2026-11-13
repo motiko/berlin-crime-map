@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Görlitzer Park",
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 47-year-old man was found bound and seriously injured in Görlitzer Park and left in the cold; a homicide unit is investigating an attempted killing. He was taken to hospital for treatment.",
+    "summaryEn": "A 47-year-old man was found injured and bound in Görlitzer Park and taken to hospital. Investigators from the 5th Homicide Squad have taken over the case as an attempted killing.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.474Z"
+  "extractedAt": "2026-11-13T18:31:46.274Z"
 }

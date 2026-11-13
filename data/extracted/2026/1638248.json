@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Filiale der Berliner Volksbank",
     "district": null,
-    "summaryEn": "Police seek a suspected member of a gang that committed computer fraud: on 14 July 2025 an unknown woman presented a forged passport at a bank branch and obtained an activation code for a business online banking account. The group then made unauthorized transfers of six-figure sums from the victims' accounts.",
+    "summaryEn": "A suspect presented a forged passport at a bank branch to obtain online banking access to a business account, and a gang then made unauthorized transfers of six-figure sums. Police seek the female suspect.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.460Z"
+  "extractedAt": "2026-11-13T18:31:46.239Z"
 }

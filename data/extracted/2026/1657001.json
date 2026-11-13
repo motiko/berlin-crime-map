@@ -9,13 +9,13 @@
     "incidentDate": "2026-03-26",
     "street": "Greifswalder Straße",
     "houseNumberOrCrossing": "Berliner Allee",
-    "placeName": null,
+    "placeName": "Weißensee",
     "district": "Pankow",
-    "summaryEn": "A truck driver allegedly sideswiped and overtook a 17-year-old e-scooter rider in Weißensee, who fell and was seriously injured. The truck was stopped by police shortly afterwards in Berliner Allee.",
+    "summaryEn": "A truck driver allegedly sideswiped a 17-year-old e-scooter rider in Weißensee, causing her to fall. The driver did not notice at first, but police stopped him shortly afterwards in Berliner Allee.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.919Z"
+  "extractedAt": "2026-11-13T18:31:46.291Z"
 }

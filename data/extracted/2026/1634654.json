@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Lichtenfelder Ring",
     "placeName": "Marienfelde",
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "A car driver struck a 71-year-old pedestrian crossing the road in Marienfelde and then left the scene before later turning up at a police station. The pedestrian was taken to hospital with head and torso injuries.",
+    "summaryEn": "A car driver hit a 71-year-old pedestrian crossing the road in Marienfelde and then left the scene. The pedestrian was taken to hospital with head and torso injuries.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.469Z"
+  "extractedAt": "2026-11-13T18:31:46.269Z"
 }

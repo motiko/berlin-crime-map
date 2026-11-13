@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A 36-year-old man attacked a police patrol and bystanders after reporting an alleged theft of cash in Kreuzberg. He was arrested, sustained a facial injury, and is being investigated for incitement, assault and resisting officers.",
+    "summaryEn": "A 36-year-old man attacked a patrol crew after reporting a suspected theft, and then resisted arrest and pushed an officer. He was taken to hospital for a facial injury sustained during the arrest.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.458Z"
+  "extractedAt": "2026-11-13T18:31:46.284Z"
 }

@@ -9,13 +9,13 @@
     "incidentDate": "2026-01-24",
     "street": "Waldemarstraße",
     "houseNumberOrCrossing": null,
-    "placeName": null,
+    "placeName": "Spätkauf",
     "district": "Mitte",
-    "summaryEn": "A masked unknown man threatened a convenience store clerk with a firearm and took cash at around 20:45 in the evening. He then fled the shop.",
+    "summaryEn": "A masked man threatened a convenience store employee with a handgun and took cash in Waldemarstraße on the evening before publication. The suspect then left the shop.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.361Z"
+  "extractedAt": "2026-11-13T18:31:46.293Z"
 }

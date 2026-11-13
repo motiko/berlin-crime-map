@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Schlosspark Biesdorf",
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "Two men robbed a 22-year-old on his way home, hitting him on the head with a beer bottle and taking his belongings. Two suspects, aged 17 and 20, were arrested nearby and a machete and a starter pistol were seized.",
+    "summaryEn": "Two men attacked a 22-year-old from behind with a beer bottle and demanded valuables, which he handed over before fleeing. Two suspects, aged 17 and 20, were arrested nearby and the stolen items were recovered.",
     "injured": 1,
     "dead": 0,
     "weaponType": "beer bottle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.711Z"
+  "extractedAt": "2026-11-13T18:31:46.267Z"
 }

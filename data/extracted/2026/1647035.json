@@ -6,16 +6,16 @@
   "location": "Tempelhof-Schöneberg",
   "extraction": {
     "category": "traffic",
-    "dead": 0,
-    "district": "Tempelhof-Schöneberg",
-    "houseNumberOrCrossing": "Werner-Voß-Damm",
     "incidentDate": "2026-02-24",
-    "injured": 1,
-    "placeName": "Tempelhof",
     "street": "Hoeppnerstraße",
-    "summaryEn": "A car driver hit a four-year-old boy crossing Hoeppnerstraße with his father and drove on without stopping after running over him. The child was taken to hospital with injuries and is not in danger of his life.",
+    "houseNumberOrCrossing": "Werner-Voß-Damm",
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A car driver hit a four-year-old boy crossing the road with his father, ran over him and drove on without stopping. The child was seriously injured but not in mortal danger; a 92-year-old driver was later identified as the suspect.",
+    "injured": 1,
+    "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.448Z"
+  "extractedAt": "2026-11-13T18:31:46.324Z"
 }

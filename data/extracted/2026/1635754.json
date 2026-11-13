@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Nollendorfplatz",
     "placeName": null,
     "district": "Tempelhof-Schöneberg",
-    "summaryEn": "An unknown man is sought after allegedly attacking two men aged 37 and 38 at Maaßenstraße corner Nollendorfplatz, punching and kicking them and hitting one with a sign stand. Police are investigating for dangerous bodily injury.",
+    "summaryEn": "An unknown man attacked two men aged 37 and 38 at Maaßenstraße corner Nollendorfplatz after they spoke to his girlfriend. He punched and kicked them and hit one of them on the head with a sign board.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.422Z"
+  "extractedAt": "2026-11-13T18:31:46.241Z"
 }

@@ -5,17 +5,17 @@
   "title": "Beifahrer im Krankenhaus verstorben",
   "location": "Reinickendorf",
   "extraction": {
-    "category": "traffic",
-    "dead": 1,
-    "district": "Reinickendorf",
-    "houseNumberOrCrossing": "Lindauer Allee",
+    "category": "homicide",
     "incidentDate": "2026-01-23",
-    "injured": 0,
-    "placeName": null,
     "street": "Aroser Allee",
-    "summaryEn": "A car crashed into a parked truck on Aroser Allee in the early hours and the driver fled the scene. The 16-year-old passenger, who was critically injured, died in hospital the following day.",
+    "houseNumberOrCrossing": "Lindauer Allee",
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "A 16-year-old passenger seriously injured in a hit-and-run crash in the early hours of 23 January 2026 died in hospital. Investigations into the fleeing driver are ongoing.",
+    "injured": 0,
+    "dead": 1,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.367Z"
+  "extractedAt": "2026-11-13T18:31:46.278Z"
 }

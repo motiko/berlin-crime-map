@@ -9,13 +9,13 @@
     "incidentDate": "2026-01-27",
     "street": "Gärtnerstraße",
     "houseNumberOrCrossing": "Marzahner Straße",
-    "placeName": null,
+    "placeName": "Alt-Hohenschönhausen",
     "district": "Lichtenberg",
-    "summaryEn": "Two women and a male passenger were injured in a collision at an intersection in Alt-Hohenschönhausen after a traffic light outage. One driver had no valid driving licence and faces an investigation for driving without a licence.",
+    "summaryEn": "Two drivers and a passenger were injured in a collision at an intersection where the traffic lights were out of order. The driver of an unlicensed car is under investigation for driving without a licence.",
     "injured": 3,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.385Z"
+  "extractedAt": "2026-11-13T18:31:46.207Z"
 }

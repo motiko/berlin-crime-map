@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "After a dispute at a bar, a 27-year-old man was stabbed several times in the torso outside the bar in the early hours of the morning. He was taken to hospital with non-life-threatening injuries, and two other men were hurt in the same altercation.",
-    "injured": 3,
+    "summaryEn": "After a dispute outside a bar in Pücklerstraße around 3 a.m., a 27-year-old man was stabbed in the torso and taken to hospital. Two other men were punched in the face, and police are investigating.",
+    "injured": 4,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.463Z"
+  "extractedAt": "2026-11-13T18:31:46.351Z"
 }

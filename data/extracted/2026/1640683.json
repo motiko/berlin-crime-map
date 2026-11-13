@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": "Adlershof",
     "district": "Treptow-Köpenick",
-    "summaryEn": "Unknown offenders broke into an office of a research institute in Adlershof overnight and forced open a safe, stealing precious metals. They poured a liquid over the scene, possibly to destroy evidence, before fleeing.",
+    "summaryEn": "Unknown perpetrators broke into an office of a research institute in Adlershof overnight and forced open a safe, taking precious metals. They poured a liquid over the scene, possibly to destroy evidence, and fled.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.448Z"
+  "extractedAt": "2026-11-13T18:31:46.238Z"
 }

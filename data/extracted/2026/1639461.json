@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Kantstraße",
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A driver turning right hit a six-year-old boy crossing the road at a junction in Charlottenburg. The child was taken to hospital with a suspected leg fracture.",
+    "summaryEn": "A 40-year-old driver hit a six-year-old boy crossing Kaiser-Friedrich-Straße while turning right. The child was taken to hospital with a suspected leg fracture.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.452Z"
+  "extractedAt": "2026-11-13T18:31:46.321Z"
 }

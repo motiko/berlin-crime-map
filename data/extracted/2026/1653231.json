@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Mitte",
-    "summaryEn": "A 77-year-old woman with dementia who had been missing since 12 March 2026 has been found alive and is receiving medical care in hospital. She was found after a public appeal led hospital staff to recognise her.",
+    "summaryEn": "A 77-year-old woman reported missing since 12 March 2026 has been found and is receiving medical care in a hospital. She had left her accommodation in Mitte and was disoriented due to dementia.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.436Z"
+  "extractedAt": "2026-11-13T18:31:46.248Z"
 }

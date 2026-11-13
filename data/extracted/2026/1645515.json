@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Prenzlauer Promenade",
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "A 17-year-old was taken by ambulance crew to hospital when he attacked the two paramedics, hitting and biting them. The crew suffered wounds and had to end their shift; the suspect was police-restrained and later admitted to a psychiatric ward.",
+    "summaryEn": "A 17-year-old patient allegedly attacked and bit a two-person ambulance crew while being transported to hospital. Both firefighter-paramedics were injured and had to end their shift; the teen was also found to have about half a per mille blood alcohol.",
     "injured": 2,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.387Z"
+  "extractedAt": "2026-11-13T18:31:46.202Z"
 }

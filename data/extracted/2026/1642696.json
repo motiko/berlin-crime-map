@@ -6,16 +6,16 @@
   "location": "Neukölln",
   "extraction": {
     "category": "traffic",
-    "dead": 0,
-    "district": "Neukölln",
-    "houseNumberOrCrossing": null,
     "incidentDate": "2026-02-11",
-    "injured": 1,
-    "placeName": "Parkplatz eines Einkaufcenters",
     "street": "Karl-Marx-Straße",
-    "summaryEn": "A 35-year-old woman driving a Jeep hit a 60-year-old pedestrian while leaving a shopping centre car park onto Karl-Marx-Straße, and the car ran over him. The man suffered multiple fractures and internal injuries but is not in life-threatening danger.",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "A 35-year-old woman driving a Jeep hit a 60-year-old pedestrian while leaving a shopping center car park, and the car ran over him. The pedestrian suffered serious injuries but is not in danger of his life.",
+    "injured": 1,
+    "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.426Z"
+  "extractedAt": "2026-11-13T18:31:46.280Z"
 }

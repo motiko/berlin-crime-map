@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "A balcony caught fire in an apartment building in Kreuzberg on the afternoon of 8 March. Firefighters extinguished the blaze shortly after, and nobody was hurt.",
+    "summaryEn": "A balcony caught fire in an apartment building in Kreuzberg on the afternoon of the previous day. Residents and emergency services were alerted, the fire was put out shortly afterwards, and nobody was hurt.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.415Z"
+  "extractedAt": "2026-11-13T18:31:46.287Z"
 }

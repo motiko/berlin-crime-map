@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Gieselerstraße",
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A 23-year-old man with gunshot wounds and a 22-year-old man with facial injuries were found on Brandenburgische Straße in Wilmersdorf. The homicide unit is investigating and seeking witnesses.",
+    "summaryEn": "A 23-year-old man with gunshot wounds was found in Brandenburgische Straße early on 21 March 2026, and a 22-year-old man with facial injuries was also found there. The homicide unit is investigating and appealing for witnesses.",
     "injured": 2,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.404Z"
+  "extractedAt": "2026-11-13T18:31:46.309Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Michelangelostraße",
     "placeName": "Prenzlauer Berg",
     "district": "Pankow",
-    "summaryEn": "A car and a cyclist collided at a junction in Prenzlauer Berg around 10:40. The 37-year-old cyclist suffered head injuries and was taken to hospital.",
+    "summaryEn": "A car and a cyclist collided at a junction in Prenzlauer Berg on the morning of the previous day. The 37-year-old cyclist suffered head injuries and was taken to hospital.",
     "injured": 1,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.406Z"
+  "extractedAt": "2026-11-13T18:31:46.328Z"
 }

@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Friedrichshain-Kreuzberg",
-    "summaryEn": "Plainclothes officers arrested a 24-year-old man who allegedly drew and loaded a firearm during an confrontation between two cars in Kreuzberg. The loaded gun was found under a vehicle, and knives, pepper spray and suspected narcotics were also seized.",
+    "summaryEn": "Plainclothes officers observed a 24-year-old man draw and charge a firearm during a confrontation between two groups of men, and arrested him. The weapon was found under a car, and knives and pepper spray were also seized.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.712Z"
+  "extractedAt": "2026-11-13T18:31:46.312Z"
 }

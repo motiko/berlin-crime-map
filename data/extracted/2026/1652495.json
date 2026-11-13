@@ -8,14 +8,14 @@
     "category": "burglary",
     "incidentDate": "2026-03-14",
     "street": "Reinickes Hof",
-    "houseNumberOrCrossing": null,
+    "houseNumberOrCrossing": "Ollenhauerstraße",
     "placeName": null,
     "district": "Reinickendorf",
-    "summaryEn": "A suspected burglar was arrested in Reinickendorf after a resident reported suspicious noises and a man fleeing with a backpack from an apartment building. Stolen goods from two break-ins were recovered, and a judge issued an arrest warrant.",
+    "summaryEn": "A 31-year-old man was arrested after two apartment break-ins in Reinickendorf, with stolen goods found in his backpack. A judge issued an arrest warrant.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.411Z"
+  "extractedAt": "2026-11-13T18:31:46.330Z"
 }

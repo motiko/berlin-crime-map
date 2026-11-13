@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Soldiner Straße",
     "placeName": "Gesundbrunnen",
     "district": "Mitte",
-    "summaryEn": "Police with about 160 officers raided a venue on Wollankstraße and nearby locations in Gesundbrunnen, seizing five firearms. Three people were arrested and handed over to the BAO Ferrum task force.",
+    "summaryEn": "Police with about 160 officers searched a bar and other premises and vehicles in Gesundbrunnen against illegal firearms. Five firearms were seized and three people were arrested.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.366Z"
+  "extractedAt": "2026-11-13T18:31:46.341Z"
 }

@@ -5,17 +5,17 @@
   "title": "Verdacht des Arzneimittelhandels - Wohnungsdurchsuchung",
   "location": "Spandau",
   "extraction": {
-    "category": "drugs",
+    "category": "raid",
     "incidentDate": "2026-02-05",
     "street": "Parkstraße",
     "houseNumberOrCrossing": "Neuendorfer Straße",
     "placeName": "Hakenfelde",
     "district": "Spandau",
-    "summaryEn": "Police searched a flat in Hakenfelde on suspicion of illegal medicine trafficking after plainclothes officers found prescription drugs and a pepper spray and telescopic baton in a driver's car. A loaded service pistol that had been stolen from police 15 years earlier was found during the search.",
+    "summaryEn": "Plainclothes officers searched a flat in Hakenfelde on suspicion of drug trafficking after a car check. The search found medicines, a loaded handgun later identified as a police service weapon stolen 15 years ago, and the suspect was released after identification procedures.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.351Z"
+  "extractedAt": "2026-11-13T18:31:46.331Z"
 }

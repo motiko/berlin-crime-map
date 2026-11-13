@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Marzahn-Hellersdorf",
-    "summaryEn": "A 21-year-old man was found dead with stab wounds in an apartment in Mahlsdorf, and the homicide unit has taken over the investigation. A 30-year-old suspect was arrested near the scene.",
+    "summaryEn": "A 21-year-old man was found dead with stab wounds in an apartment in Mahlsdorf. A 30-year-old suspect was arrested near the scene, and a homicide unit is investigating.",
     "injured": 0,
     "dead": 1,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.475Z"
+  "extractedAt": "2026-11-13T18:31:46.209Z"
 }

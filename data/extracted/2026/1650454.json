@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Neukölln",
-    "summaryEn": "During an argument in Neukölln, an unknown suspect allegedly stabbed a 29-year-old man several times in the leg with a knife. The victim was taken to hospital for inpatient treatment.",
+    "summaryEn": "A 29-year-old man was stabbed several times in the leg during a dispute with an unknown suspect. He was taken to hospital for inpatient treatment.",
     "injured": 1,
     "dead": 0,
     "weaponType": "knife"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.461Z"
+  "extractedAt": "2026-11-13T18:31:46.344Z"
 }

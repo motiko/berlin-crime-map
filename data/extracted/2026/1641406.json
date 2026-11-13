@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Wichertstraße",
     "placeName": null,
     "district": "Pankow",
-    "summaryEn": "A cyclist crossing against a red light collided with a tram on Schönhauser Allee in Prenzlauer Berg. A 65-year-old woman in the tram was slightly injured after the emergency braking and was taken to hospital for outpatient treatment.",
+    "summaryEn": "A 26-year-old cyclist crossed on red and collided with a tram in Prenzlauer Berg. A 65-year-old woman in the tram was injured when the tram braked hard.",
     "injured": 1,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.420Z"
+  "extractedAt": "2026-11-13T18:31:46.335Z"
 }

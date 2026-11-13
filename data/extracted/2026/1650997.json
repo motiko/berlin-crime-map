@@ -7,15 +7,15 @@
   "extraction": {
     "category": "traffic",
     "incidentDate": "2026-03-09",
-    "street": "Diesterwegstraße",
-    "houseNumberOrCrossing": "Danziger Straße",
+    "street": "Danziger Straße",
+    "houseNumberOrCrossing": "Diesterwegstraße",
     "placeName": "Prenzlauer Berg",
     "district": "Pankow",
-    "summaryEn": "A car driver turning left collided with a tram on the M10 line in Prenzlauer Berg after failing to yield, despite emergency braking by the tram driver. The car driver, 45, was injured in the chest area and taken to hospital.",
+    "summaryEn": "A car driver turning left failed to yield to a tram on the M10 line in Prenzlauer Berg and collided with it despite emergency braking. The 45-year-old driver was injured and taken to hospital.",
     "injured": 1,
     "dead": 0,
-    "weaponType": "vehicle"
+    "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.337Z"
+  "extractedAt": "2026-11-13T18:31:46.321Z"
 }

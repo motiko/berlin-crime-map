@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Netzestraße",
     "placeName": "Gedenkstätte",
     "district": "Neukölln",
-    "summaryEn": "An antisemitic inscription was found sprayed on the outer wall of a memorial site in Neukölln. Police State Protection (Staatsschutz) has taken over the investigation.",
+    "summaryEn": "An antisemitic inscription was sprayed on the outer wall of a memorial site in Neukölln and reported via the online police station. The state security unit has taken over the investigation.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.359Z"
+  "extractedAt": "2026-11-13T18:31:46.285Z"
 }

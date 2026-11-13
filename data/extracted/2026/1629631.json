@@ -5,17 +5,17 @@
   "title": "Geldausgabeautomaten aufgebrochen",
   "location": "Treptow-Köpenick",
   "extraction": {
-    "category": "burglary",
+    "category": "explosion",
     "incidentDate": "2026-01-01",
     "street": "Friedrichshagener Straße",
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Treptow-Köpenick",
-    "summaryEn": "Unknown offenders broke into a supermarket in Köpenick overnight and heavily damaged a cash machine inside before fleeing with the loot. The Landeskriminalamt is investigating.",
+    "summaryEn": "Unknown suspects broke into a supermarket overnight and heavily damaged a cash machine inside, then fled with the loot. The Landeskriminalamt is investigating.",
     "injured": 0,
     "dead": 0,
     "weaponType": null
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.464Z"
+  "extractedAt": "2026-11-13T18:31:46.339Z"
 }

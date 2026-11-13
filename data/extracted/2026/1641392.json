@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": "Straße des 17. Juni",
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "A car fleeing a police check crashed into an oncoming-priority vehicle on Salzufer and then damaged three parked cars. The two occupants fled on foot and the car was seized.",
+    "summaryEn": "After fleeing a police traffic check, a car driver caused a collision on Salzufer and damaged several parked cars. The two occupants fled on foot and the vehicle was seized.",
     "injured": 0,
     "dead": 0,
     "weaponType": "vehicle"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:51:16.395Z"
+  "extractedAt": "2026-11-13T18:31:46.324Z"
 }

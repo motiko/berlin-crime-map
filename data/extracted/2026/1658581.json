@@ -11,11 +11,11 @@
     "houseNumberOrCrossing": null,
     "placeName": null,
     "district": "Charlottenburg-Wilmersdorf",
-    "summaryEn": "Plainclothes officers arrested a 28-year-old man driving around Charlottenburg with a firearm and a large amount of cash after noticing his car on Kurfürstendamm. The car, the man's home-area addresses and further property were searched and seized.",
+    "summaryEn": "Police arrested a man driving through Charlottenburg with a firearm and a large amount of cash, and seized his car and searched two addresses. He was released after identification measures and faces charges including weapons law violations and money laundering.",
     "injured": 0,
     "dead": 0,
     "weaponType": "firearm"
   },
   "model": "anthropic/claude-haiku-5.5",
-  "extractedAt": "2026-11-13T14:52:17.748Z"
+  "extractedAt": "2026-11-13T18:31:46.325Z"
 }
