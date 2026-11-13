@@ -51,7 +51,7 @@ const META: Record<Category, CategoryMeta> = {
       'Stabbing, cutting or an attack with a knife or other blade (Messerangriff), or a blade drawn against a person.' },
   homicide: { label: 'Homicide / death', family: 'people', description: 'Killing, attempted killing or a death under investigation',
     definition:
-      'Someone was killed (Mord, Totschlag) or died in a death investigated by a homicide unit (Mordkommission). An attempted killing where nobody died goes under the weapon used (shooting, knife) or assault.' },
+      'Someone was killed by another person (Mord, Totschlag, Körperverletzung mit Todesfolge), or a death is investigated by a homicide unit (Mordkommission). Accidental deaths keep their own category: a fatal traffic accident is traffic, a death in a fire is fire. An attempted killing where nobody died goes under the weapon used (shooting, knife) or assault.' },
   explosion: { label: 'Explosion', family: 'property', description: 'Cash machine or vending machine blasts, explosive devices',
     definition:
       'Blasts and explosive devices: cash machines or vending machines blown up, pyrotechnics or bombs used as a weapon.' },
@@ -78,10 +78,10 @@ const META: Record<Category, CategoryMeta> = {
       'Missing person appeals and reports that a missing person was found.' },
   raid: { label: 'Raid / searches', family: 'police', description: 'Large police operations, searches and arrests',
     definition:
-      'Searches (Durchsuchungen), arrest operations and seizures (e.g. a gun found in a check) that are not the follow-up of one specific incident. Not official notices: an Allgemeinverfügung, road closures, event orders, prevention campaigns and appeals are other.' },
+      'Searches (Durchsuchungen), arrest operations and seizures whose subject is weapons (e.g. a gun found in a check), organised crime or several kinds of offence, and that are not the follow-up of one specific incident. If the operation is about one kind of crime, use that category instead (drug dealing is drugs, document forgery is fraud). Not official notices: an Allgemeinverfügung, road closures, event orders, prevention campaigns and appeals are other.' },
   drugs: { label: 'Drugs', family: 'police', description: 'Drug offences and seizures',
     definition:
-      'Drug offences and seizures.' },
+      'Drug offences: dealing, possession, seizures, and searches or arrests over drug trafficking.' },
   fraud: { label: 'Fraud', family: 'property', description: 'Fraud, scam calls, forgery',
     definition:
       'Deception for money: Betrug, scam calls (Enkeltrick, falsche Polizeibeamte, Schockanrufe), Trickbetrug (the victim is tricked into handing over money or valuables, e.g. to fake police officers), forgery, investment and online fraud.' },

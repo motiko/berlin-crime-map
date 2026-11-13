@@ -105,6 +105,31 @@
       "id": "1655065",
       "expected": "shooting",
       "why": "Verdict after shots in Ebersstraße: a follow-up keeps the incident's category"
+    },
+    {
+      "id": "1713418",
+      "expected": "traffic",
+      "why": "Pedestrian died after a traffic accident: an accidental death keeps its category"
+    },
+    {
+      "id": "1642723",
+      "expected": "fire",
+      "why": "Mother and child died in a flat fire: an accidental death keeps its category"
+    },
+    {
+      "id": "1670997",
+      "expected": "drugs",
+      "why": "Searches and arrest warrants over gang drug dealing: drugs, not raid"
+    },
+    {
+      "id": "1673166",
+      "expected": "drugs",
+      "why": "Searches and arrests over drug dealing: drugs, not raid"
+    },
+    {
+      "id": "1710543",
+      "expected": "raid",
+      "why": "A loaded gun seized in Spandau: a weapons seizure, not drugs"
     }
   ]
 }
