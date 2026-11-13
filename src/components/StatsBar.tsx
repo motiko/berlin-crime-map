@@ -1,4 +1,4 @@
-import { CATEGORIES, CATEGORY_META, type Category } from '../../shared/categories.ts';
+import { CATEGORIES, CATEGORY_META, FAMILIES, FAMILY_META, type Category, categoriesOf } from '../../shared/categories.ts';
 import { CategoryIcon } from './CategoryIcon.tsx';
 
 interface Props {
@@ -9,8 +9,9 @@ interface Props {
 }
 
 /**
- * Category legend that doubles as the filter. With all categories shown, a click shows only
- * that category; further clicks add or remove categories; "Show all" resets.
+ * Category legend that doubles as the filter, grouped by family (the family sets the colour,
+ * the icon the category). With all categories shown, a click shows only that category;
+ * further clicks add or remove categories; "Show all" resets.
  */
 export function StatsBar({ counts, selected, onSelect, onAll }: Props) {
   const allOn = selected.size === CATEGORIES.length;
@@ -25,28 +26,35 @@ export function StatsBar({ counts, selected, onSelect, onAll }: Props) {
           </button>
         )}
       </div>
-      <ul aria-labelledby="categories-label">
-        {CATEGORIES.map((c) => {
-          const meta = CATEGORY_META[c];
-          const on = selected.has(c);
-          return (
-            <li key={c}>
-              <button
-                type="button"
-                className="stat"
-                aria-pressed={!allOn && on}
-                data-dimmed={!on}
-                title={meta.description}
-                onClick={() => onSelect(c)}
-              >
-                <CategoryIcon category={c} size={20} />
-                <span className="stat-label">{meta.label}</span>
-                <span className="stat-count">{counts.get(c) ?? 0}</span>
-              </button>
-            </li>
-          );
-        })}
-      </ul>
+      {FAMILIES.map((family) => (
+        <section key={family} className="family" aria-labelledby={`family-${family}`}>
+          <h3 id={`family-${family}`} className="family-label">
+            {FAMILY_META[family].label}
+          </h3>
+          <ul>
+            {categoriesOf(family).map((c) => {
+              const meta = CATEGORY_META[c];
+              const on = selected.has(c);
+              return (
+                <li key={c}>
+                  <button
+                    type="button"
+                    className="stat"
+                    aria-pressed={!allOn && on}
+                    data-dimmed={!on}
+                    title={meta.description}
+                    onClick={() => onSelect(c)}
+                  >
+                    <CategoryIcon category={c} size={20} />
+                    <span className="stat-label">{meta.label}</span>
+                    <span className="stat-count">{counts.get(c) ?? 0}</span>
+                  </button>
+                </li>
+              );
+            })}
+          </ul>
+        </section>
+      ))}
     </div>
   );
 }

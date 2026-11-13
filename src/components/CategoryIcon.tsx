@@ -63,40 +63,19 @@ const GLYPHS: Record<Category, Glyph> = {
   other: IconDotsCircleHorizontal,
 };
 
-/** Relative luminance (WCAG) of a #rrggbb colour. */
-function luminance(hex: string): number {
-  const [r, g, b] = [1, 3, 5].map((i) => {
-    const c = parseInt(hex.slice(i, i + 2), 16) / 255;
-    return c <= 0.03928 ? c / 12.92 : ((c + 0.055) / 1.055) ** 2.4;
-  });
-  return 0.2126 * r + 0.7152 * g + 0.0722 * b;
-}
-
-/** White or ink, whichever contrasts more with the category colour. */
-export function inkOn(hex: string): string {
-  const l = luminance(hex);
-  return (1.05 / (l + 0.05) >= (l + 0.05) / (0.0092 + 0.05) ? '#ffffff' : '#15181d');
-}
-
 interface Props {
   category: Category;
   /** Diameter of the coloured disc in px. */
   size?: number;
 }
 
-/** The category's icon on a disc of its colour. Decorative: the label always sits next to it. */
+/** The category's icon on a disc of its family's colour. Decorative: the label always sits next to it. */
 export function CategoryIcon({ category, size = 22 }: Props) {
   const Glyph = GLYPHS[category];
-  const color = CATEGORY_META[category].color;
+  const { family, color } = CATEGORY_META[category];
   return (
-    <span className="cat-icon" style={{ width: size, height: size, background: color }} aria-hidden>
+    <span className="cat-icon" style={{ width: size, height: size, background: `var(--family-${family}, ${color})` }} aria-hidden>
       <Glyph size={Math.round(size * 0.64)} stroke={2} />
     </span>
   );
-}
-
-/** Just the glyph in the current text colour, for use inside a coloured badge. */
-export function CategoryGlyph({ category, size = 14 }: Props) {
-  const Glyph = GLYPHS[category];
-  return <Glyph size={size} stroke={2.25} aria-hidden />;
 }

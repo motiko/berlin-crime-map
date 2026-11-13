@@ -17,6 +17,12 @@
   --focus: #1d4ed8;
   --skeleton: #dcdfd9;
 
+  /* Category families (validated with the dataviz palette checker; see shared/categories.ts). */
+  --family-people: #e34948;
+  --family-property: #2a78d6;
+  --family-police: #199e70;
+  --family-other: #898781;
+
   --sans: Barlow, 'DIN Alternate', 'Arial Nova', system-ui, sans-serif;
   --condensed: 'Barlow Condensed', 'DIN Condensed', 'Arial Narrow', sans-serif;
 
@@ -39,6 +45,8 @@
     --signal-soft: rgb(255 212 0 / 0.16);
     --focus: #93b4ff;
     --skeleton: #262b32;
+    --family-people: #e66767;
+    --family-property: #3987e5;
     color-scheme: dark;
   }
 }
@@ -233,6 +241,17 @@ select:hover {
   font-size: 0.8rem;
 }
 
+.family + .family {
+  margin-top: 8px;
+}
+
+.family-label {
+  margin: 0 0 2px 6px;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--muted);
+}
+
 .stats ul {
   list-style: none;
   margin: 0;
@@ -314,11 +333,9 @@ select:hover {
 .badge {
   display: inline-flex;
   align-items: center;
-  gap: 5px;
-  font-size: 0.78rem;
+  gap: 8px;
+  font-size: 0.95rem;
   font-weight: 600;
-  padding: 2px 8px 2px 6px;
-  border-radius: 3px;
 }
 
 .close {

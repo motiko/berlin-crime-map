@@ -1,7 +1,7 @@
 import { CATEGORY_META } from '../../shared/categories.ts';
 import type { Incident } from '../../shared/types.ts';
 import { formatDate, placeLabel } from '../lib/filter.ts';
-import { CategoryGlyph, inkOn } from './CategoryIcon.tsx';
+import { CategoryIcon } from './CategoryIcon.tsx';
 
 interface Props {
   incident: Incident;
@@ -24,8 +24,8 @@ export function IncidentCard({ incident, onClose }: Props) {
   return (
     <article className="card" aria-labelledby={`card-${incident.id}`}>
       <header>
-        <span className="badge" style={{ background: meta.color, color: inkOn(meta.color) }}>
-          <CategoryGlyph category={incident.category} />
+        <span className="badge">
+          <CategoryIcon category={incident.category} size={24} />
           {meta.label}
         </span>
         <button type="button" className="close" onClick={onClose} aria-label="Close details">
