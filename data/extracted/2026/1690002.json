@@ -1,0 +1,21 @@
+{
+  "id": "1690002",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690002.php",
+  "publishedAt": "2026-07-06T13:48",
+  "title": "Autofahrer fährt mit Fahrzeug mehrfach gegen Tunnelwand und flüchtet",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-05",
+    "street": "BAB 111",
+    "houseNumberOrCrossing": "Waidmannsluster Damm",
+    "placeName": "Tunnel Forstamt Tegel",
+    "district": "Reinickendorf",
+    "summaryEn": "A driver speeding on the A111 motorway in Tegel crashed several times into a tunnel wall and fled on foot; the occupants were found nearby, and one person with an open arrest warrant was taken into custody. No one was reported injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.003Z"
+}

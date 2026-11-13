@@ -1,0 +1,21 @@
+{
+  "id": "1726170",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726170.php",
+  "publishedAt": "2026-10-15T11:31",
+  "title": "Verkehrsunfall – beim Fahrstreifenwechsel Motorradfahrer übersehen",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-14",
+    "street": "Heerstraße",
+    "houseNumberOrCrossing": "Scholzplatz",
+    "placeName": "Westend",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A car driver changing lanes on Heerstraße in Westend overlooked a motorcyclist, who was thrown from his bike and taken to hospital. The 65-year-old motorcyclist suffered bruises and leg injuries.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.881Z"
+}

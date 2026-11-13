@@ -1,0 +1,21 @@
+{
+  "id": "1694278",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694278.php",
+  "publishedAt": "2026-07-16T08:56",
+  "title": "Mann nach räuberischem Diebstahl im Juweliergeschäft gesucht – Polizei bittet um Mithilfe",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2025-03-07",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Eastgate",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A man opened a display case in a jewelry shop in the Eastgate shopping centre and took jewelry. When a saleswoman confronted him, he fled and physically struggled with her, leaving her with minor injuries.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.993Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1661474",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661474.php",
+  "publishedAt": "2026-04-16T09:50",
+  "title": "Geraubte Wertgegenstände zum Kauf angeboten - Festnahme",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-04-15",
+    "street": "Strausberger Platz",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Two men rang a resident's door on 9 April, threatened him with a knife and stole a laptop and phones. On 15 April one suspect returned offering to sell the items back and was arrested.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.052Z"
+}

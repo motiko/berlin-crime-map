@@ -1,0 +1,21 @@
+{
+  "id": "1657370",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1657370.php",
+  "publishedAt": "2026-03-29T16:22",
+  "title": "Kiosk überfallen",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-03-28",
+    "street": "Mehrower Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "Three men robbed a kiosk in Mehrower Allee, attacking the 44-year-old employee with blunt objects and a pointed object before stealing tobacco products. The employee was injured and treated on site by paramedics.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "blunt objects and a pointed object"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.797Z"
+}

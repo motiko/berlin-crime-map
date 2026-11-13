@@ -1,0 +1,21 @@
+{
+  "id": "1678324",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678324.php",
+  "publishedAt": "2026-06-05T14:50",
+  "title": "Verkehrsunfall nach medizinischem Notfall",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-06-04",
+    "street": "Mariendorfer Damm",
+    "houseNumberOrCrossing": "Friedenstraße",
+    "placeName": "Mariendorf",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 67-year-old driver suffered a medical emergency and crashed into two vehicles on Mariendorfer Damm in Mariendorf. He was found unconscious and died at the scene despite resuscitation attempts.",
+    "injured": 2,
+    "dead": 1,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.716Z"
+}

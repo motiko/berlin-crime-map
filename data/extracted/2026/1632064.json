@@ -1,0 +1,21 @@
+{
+  "id": "1632064",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1632064.php",
+  "publishedAt": "2026-01-09T16:58",
+  "title": "Festnahme nach Drogenhandel",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-01-08",
+    "street": "Wilmersdorfer Straße",
+    "houseNumberOrCrossing": "Giesebrechtstraße",
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Plainclothes officers arrested a woman and two men on suspicion of drug trafficking after a car was stopped at a crossing in Charlottenburg. Cocaine, a knife, other drugs and packaging material were seized, and two officers were hurt during resistance.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.462Z"
+}

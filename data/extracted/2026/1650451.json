@@ -1,0 +1,21 @@
+{
+  "id": "1650451",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1650451.php",
+  "publishedAt": "2026-03-07T16:43",
+  "title": "Mehrere Festnahmen nach mutmaßlichem Drogenhandel",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-03-06",
+    "street": "Weichselstraße",
+    "houseNumberOrCrossing": "Boddinstraße",
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "Police arrested five men in Kreuzberg and searched two flats in Neukölln linked to suspected commercial drug dealing. Cocaine, ketamine, LSD, a machete and cash were seized.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "machete"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.338Z"
+}

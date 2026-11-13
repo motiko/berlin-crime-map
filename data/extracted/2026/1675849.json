@@ -1,0 +1,21 @@
+{
+  "id": "1675849",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675849.php",
+  "publishedAt": "2026-05-30T16:28",
+  "title": "Radfahrerinnen zusammengestoßen",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-05-29",
+    "street": "Tempelhofer Feld",
+    "houseNumberOrCrossing": null,
+    "placeName": "Tempelhofer Feld",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Two cyclists collided head-on on the Tempelhofer Feld runway in the evening and fell. One woman, 61, suffered serious head injuries and was taken to hospital; the other, 35, suffered a leg abrasion.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.907Z"
+}

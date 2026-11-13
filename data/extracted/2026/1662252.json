@@ -1,0 +1,21 @@
+{
+  "id": "1662252",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662252.php",
+  "publishedAt": "2026-04-19T14:33",
+  "title": "Anwohner beraubt",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-04-18",
+    "street": "Zur alten Börse",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "Two men posing as police officers searched two men near a garden allotment in Marzahn. One of them pointed a handgun at the 21-year-old and took his wallet containing cash before fleeing.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "handgun"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.834Z"
+}

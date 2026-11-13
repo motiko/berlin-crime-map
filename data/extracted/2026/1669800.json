@@ -1,0 +1,21 @@
+{
+  "id": "1669800",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669800.php",
+  "publishedAt": "2026-05-10T12:11",
+  "title": "Randalierer leistet Widerstand und bespuckt Polizisten",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-05-09",
+    "street": "Frankfurter Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A 27-year-old man who was causing a disturbance in Friedrichshain resisted arrest, kicked officers and spat in an officer's face. One police officer was injured and went off duty.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.831Z"
+}

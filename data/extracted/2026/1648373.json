@@ -1,0 +1,21 @@
+{
+  "id": "1648373",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1648373.php",
+  "publishedAt": "2026-03-02T14:40",
+  "title": "Versuchter Einbruch in Sicherheitsfirma",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-03-01",
+    "street": "Frankfurter Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Lichtenberg",
+    "summaryEn": "Several men attempted to break into a security company's building in Lichtenberg overnight, damaging a fence and a fire door. They failed to get past a further security system and fled toward Buchberger Straße.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.382Z"
+}

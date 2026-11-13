@@ -1,0 +1,21 @@
+{
+  "id": "1645552",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1645552.php",
+  "publishedAt": "2026-02-22T15:14",
+  "title": "Auto nach Verkehrsunfall überschlagen – Fahrerin im Krankenhaus",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-02-21",
+    "street": "Indira-Gandhi-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Alt-Hohenschönhausen",
+    "district": "Lichtenberg",
+    "summaryEn": "A car driver lost control after a collision with a minibus at a driveway exit in Alt-Hohenschönhausen and the car rolled over into the tram track. The 40-year-old driver was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.449Z"
+}

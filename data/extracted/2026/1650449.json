@@ -1,0 +1,21 @@
+{
+  "id": "1650449",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1650449.php",
+  "publishedAt": "2026-03-07T14:12",
+  "title": "Mann nach Streitigkeiten niedergestochen",
+  "location": "Mitte",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-03-07",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "S-Bahnhof Alexanderplatz",
+    "district": "Mitte",
+    "summaryEn": "After an argument at Alexanderplatz S-Bahn station in the early hours, an unknown man stabbed a 25-year-old in the abdomen with a pointed object and fled. The victim needed emergency surgery but was never in life-threatening danger.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.434Z"
+}

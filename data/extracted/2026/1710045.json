@@ -1,0 +1,21 @@
+{
+  "id": "1710045",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710045.php",
+  "publishedAt": "2026-09-03T10:40",
+  "title": "Diebstahlserie aus Handwerkerfahrzeugen – Polizei bittet um Mithilfe",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-06-11",
+    "street": "Hanns-Eisler-Straße",
+    "houseNumberOrCrossing": "Prenzlauer Allee",
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "Police arrested two suspects after three men broke into a parked tradesman's van in Prenzlauer Berg and stole tools; a third suspect fled on foot. Police are seeking other victims of a series of tool thefts from vehicles in Lichtenberg and Pankow.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.055Z"
+}

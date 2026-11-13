@@ -1,0 +1,21 @@
+{
+  "id": "1667020",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667020.php",
+  "publishedAt": "2026-05-03T11:57",
+  "title": "Verkehrsunfall mit Tram – Fußgängerin verletzt",
+  "location": "Pankow",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-05-02",
+    "street": "Buschallee",
+    "houseNumberOrCrossing": "Berliner Allee",
+    "placeName": "Tram-Haltestelle Buschallee",
+    "district": "Pankow",
+    "summaryEn": "A 55-year-old pedestrian ran onto the tram tracks at the Buschallee stop in Weißensee and was hit by a tram on line M4. She was taken to hospital with non-life-threatening injuries; the tram driver was treated for shock.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.810Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1671790",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671790.php",
+  "publishedAt": "2026-05-18T12:22",
+  "title": "Wohnung nach mutmaßlichem Betäubungsmittelhandel durchsucht",
+  "location": "Spandau",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-05-17",
+    "street": "Wröhmännerstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Spandau",
+    "summaryEn": "Police observed a 46-year-old man carrying suspected methamphetamine in Wröhmännerstraße, then searched the apartment of a 54-year-old suspect and seized suspected narcotics, packaging material, cash and a blank-firing pistol. Four children aged five to nine were in the apartment and the youth welfare office was informed.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.784Z"
+}

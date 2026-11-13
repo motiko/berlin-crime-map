@@ -1,0 +1,21 @@
+{
+  "id": "1647035",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1647035.php",
+  "publishedAt": "2026-02-25T16:56",
+  "title": "Kind von Autofahrer angefahren",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "traffic",
+    "dead": 0,
+    "district": "Tempelhof-Schöneberg",
+    "houseNumberOrCrossing": "Werner-Voß-Damm",
+    "incidentDate": "2026-02-24",
+    "injured": 1,
+    "placeName": "Tempelhof",
+    "street": "Hoeppnerstraße",
+    "summaryEn": "A car driver hit a four-year-old boy crossing Hoeppnerstraße with his father and drove on without stopping after running over him. The child was taken to hospital with injuries and is not in danger of his life.",
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.448Z"
+}

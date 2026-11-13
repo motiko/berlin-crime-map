@@ -1,0 +1,21 @@
+{
+  "id": "1691705",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691705.php",
+  "publishedAt": "2026-07-09T14:18",
+  "title": "Jugendliche E-Scooter-Fahrer verletzt",
+  "location": "Spandau",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-08",
+    "street": "Eichelmatenweg",
+    "houseNumberOrCrossing": "Porthanweg",
+    "placeName": "Kladow",
+    "district": "Spandau",
+    "summaryEn": "Two teenagers on an e-scooter (aged 14 and 13) were injured in a collision with a car at a junction in Kladow. The 48-year-old driver was not hurt.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.053Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1697199",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697199.php",
+  "publishedAt": "2026-07-24T10:03",
+  "title": "Transfrau ins Gesicht gespuckt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-07-23",
+    "street": "Triftstraße",
+    "houseNumberOrCrossing": "Tegeler Straße",
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A man on a bicycle allegedly spat at and insulted a 33-year-old trans woman on the street in Wedding. The State Protection unit (Staatsschutz) has taken over the investigation for assault and insult.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.861Z"
+}

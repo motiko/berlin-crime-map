@@ -1,0 +1,21 @@
+{
+  "id": "1676281",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1676281.php",
+  "publishedAt": "2026-06-01T16:31",
+  "title": "Frau getreten und rassistisch beleidigt",
+  "location": "Pankow",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-06-01",
+    "street": "Storkower Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "S-Bahnhof Landsberger Allee",
+    "district": "Pankow",
+    "summaryEn": "A 32-year-old woman was kicked by a 41-year-old man and racially insulted by another man during an altercation early in the morning. The woman was injured and taken to hospital for outpatient treatment.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.765Z"
+}

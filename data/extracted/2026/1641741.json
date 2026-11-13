@@ -1,0 +1,21 @@
+{
+  "id": "1641741",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1641741.php",
+  "publishedAt": "2026-02-09T15:34",
+  "title": "Verdacht auf ein Tötungsdelikt in Grünanlage",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-02-09",
+    "street": "Altenhofer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Grünanlage",
+    "district": "Lichtenberg",
+    "summaryEn": "A 40-year-old woman was found dead in a green area in Alt-Hohenschönhausen, and a 46-year-old suspect was arrested at the scene. The 1st Homicide Commission is investigating.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.473Z"
+}

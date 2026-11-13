@@ -1,0 +1,21 @@
+{
+  "id": "1714078",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714078.php",
+  "publishedAt": "2026-09-16T10:00",
+  "title": "Angriff auf Geldtransporter – Polizei bittet um Mithilfe - Belohnung ausgelobt",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-08-20",
+    "street": "Kaiser-Wilhelm-Straße",
+    "houseNumberOrCrossing": "127",
+    "placeName": "Discounter-Parkplatz in Lankwitz",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "Unknown perpetrators attacked a cash transport vehicle in a discount store car park in Lankwitz and stole cash and valuables. The vehicle was later found abandoned near an S-Bahn underpass on Edenkobener Weg.",
+    "injured": null,
+    "dead": null,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.041Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1695215",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695215.php",
+  "publishedAt": "2026-07-18T15:03",
+  "title": "Mann mit Messer angegriffen",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-07-17",
+    "street": "Goethestraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Barbershop",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A 29-year-old man allegedly stabbed a 26-year-old man near a barbershop in the evening, after an earlier argument. The injured man was taken to hospital and is not in danger of his life.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.742Z"
+}

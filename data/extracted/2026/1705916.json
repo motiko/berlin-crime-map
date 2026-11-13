@@ -1,0 +1,21 @@
+{
+  "id": "1705916",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705916.php",
+  "publishedAt": "2026-08-21T16:13",
+  "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-08-20",
+    "street": "Potsdamer Straße",
+    "houseNumberOrCrossing": "Großgörschen Straße",
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Multiple election posters were damaged overnight across Berlin, including several in Lichtenberg, Pankow and Schöneberg; the State Protection unit is investigating. In Schöneberg, a 35-year-old man was found to have set a poster on fire and was taken to a hospital for psychiatric care.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.866Z"
+}

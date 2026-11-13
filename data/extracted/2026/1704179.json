@@ -1,0 +1,21 @@
+{
+  "id": "1704179",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704179.php",
+  "publishedAt": "2026-08-18T11:34",
+  "title": "Autofahrerin bei Unfall verletzt",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-08-17",
+    "street": "Dahlwitzer Landstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Friedrichshagen",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A 21-year-old woman lost control of her car in Friedrichshagen, hit a tree and overturned. She was injured and taken to hospital for inpatient treatment.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.003Z"
+}

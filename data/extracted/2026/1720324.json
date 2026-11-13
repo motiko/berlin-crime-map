@@ -1,0 +1,21 @@
+{
+  "id": "1720324",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720324.php",
+  "publishedAt": "2026-10-01T11:00",
+  "title": "Senior nach Verkehrsunfall im Krankenhaus verstorben – Zeuginnen und Zeugen gesucht",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-09-29",
+    "street": "Kronprinzessinnenweg",
+    "houseNumberOrCrossing": "Königstraße",
+    "placeName": "Nikolassee",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A 78-year-old cyclist collided with a parked car in Nikolassee and fell, suffering serious head and upper-body injuries. He later died in hospital, and police are seeking witnesses.",
+    "injured": 1,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.666Z"
+}

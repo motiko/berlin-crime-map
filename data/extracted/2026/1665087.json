@@ -1,0 +1,21 @@
+{
+  "id": "1665087",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665087.php",
+  "publishedAt": "2026-04-27T14:45",
+  "title": "Handyortung überführt mutmaßlichen Räuber",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-04-25",
+    "street": "Vincent-van-Gogh-Straße",
+    "houseNumberOrCrossing": "Randowstraße",
+    "placeName": null,
+    "district": "Lichtenberg",
+    "summaryEn": "Two men allegedly robbed a 42-year-old man at knifepoint-style threat with a weapon and took his smartphone. One 26-year-old suspect was arrested after the phone was located, and a replica gas-type pistol was seized.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "blank-firing gun"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.922Z"
+}

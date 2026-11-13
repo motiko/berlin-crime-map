@@ -1,0 +1,21 @@
+{
+  "id": "1659181",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659181.php",
+  "publishedAt": "2026-04-07T12:18",
+  "title": "Versuchter Geldautomateneinbruch",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-04-07",
+    "street": "Gutschmidtstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "Unknown suspects broke into a food store in Britz at about 1:40 a.m. to attack an ATM inside. They fled without loot after an alarm was triggered.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.045Z"
+}

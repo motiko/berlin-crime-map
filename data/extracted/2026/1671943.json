@@ -1,0 +1,21 @@
+{
+  "id": "1671943",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671943.php",
+  "publishedAt": "2026-05-21T11:12",
+  "title": "Frau nach schwerem Raub gesucht - Öffentlichkeitsfahndung erledigt",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2025-11-26",
+    "street": "Aronsstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "A man was lured into a residential building in Aronsstraße, where he was robbed by several men and left unconscious. The public search for a female suspect has been closed, and the investigation continues.",
+    "injured": null,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.026Z"
+}

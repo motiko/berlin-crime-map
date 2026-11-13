@@ -1,0 +1,21 @@
+{
+  "id": "1629630",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1629630.php",
+  "publishedAt": "2026-01-01T14:34",
+  "title": "Bilanz der polizeilichen Maßnahmen zum Jahreswechsel 2025/2026",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-01-01",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "Police report on New Year's Eve operations citywide: 35 officers injured, about 800 investigations opened, roughly 430 arrests, and 47 vehicles set on fire between 18:00 and 06:00. Many attacks on emergency crews with pyrotechnics were recorded.",
+    "injured": 35,
+    "dead": 0,
+    "weaponType": "pyrotechnics"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.458Z"
+}

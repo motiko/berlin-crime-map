@@ -1,0 +1,21 @@
+{
+  "id": "1639464",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1639464.php",
+  "publishedAt": "2026-01-31T15:24",
+  "title": "Mann nach Schussabgaben tödlich verletzt – Polizei bittet um Mithilfe",
+  "location": "Pankow",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-01-31",
+    "street": "Gustav-Adolf-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "A 44-year-old man was fatally shot in his vehicle in Weißensee after shots were fired at a parked van from a passing car. The perpetrators fled, and the homicide unit is seeking witnesses.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.435Z"
+}

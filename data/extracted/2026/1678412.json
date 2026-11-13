@@ -1,0 +1,21 @@
+{
+  "id": "1678412",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678412.php",
+  "publishedAt": "2026-06-07T12:49",
+  "title": "Mehrere Einsatzkräfte angegriffen und verletzt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-06-07",
+    "street": "Kreutziger Straße",
+    "houseNumberOrCrossing": "Frankfurter Allee",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "After a police vehicle braked hard on Frankfurter Allee, a 34-year-old man was arrested in Kreutziger Straße. Several people then attacked officers, leaving five police officers injured.",
+    "injured": 5,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.980Z"
+}

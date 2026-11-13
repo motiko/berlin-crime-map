@@ -1,0 +1,21 @@
+{
+  "id": "1650450",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1650450.php",
+  "publishedAt": "2026-03-07T15:21",
+  "title": "Obdachlosen in Wohnung gelockt und ausgeraubt",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-03-06",
+    "street": "Allee der Kosmonauten",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A homeless man was lured into a residential building in Marzahn and robbed of his bank card by a 19-year-old, who showed a firearm and demanded his PIN. The victim reported the robbery to police.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.341Z"
+}

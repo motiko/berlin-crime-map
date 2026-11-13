@@ -1,0 +1,21 @@
+{
+  "id": "1728358",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1728358.php",
+  "publishedAt": "2026-10-20T15:05",
+  "title": "Flucht mit E-Scootern endet mit Festnahmen",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-10-19",
+    "street": "Cecilienstraße",
+    "houseNumberOrCrossing": "Oberfeldstraße",
+    "placeName": "Biesdorf",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "Two 15-year-old boys fleeing police on E-scooters at high speed were arrested after near-collisions with pursuing patrol cars. A 45-year-old father was pepper-sprayed during the arrest after allegedly attacking officers.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "pepper spray"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.927Z"
+}

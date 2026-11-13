@@ -1,0 +1,21 @@
+{
+  "id": "1711161",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711161.php",
+  "publishedAt": "2026-09-07T15:41",
+  "title": "Schüsse auf Einfamilienhaus",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-09-07",
+    "street": "Fritz-Erler-Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "Shots were fired at a single-family house in Buckow in the early morning, with bullet holes found in a garden gate and damage to the glass facade and a shutter. Several people were inside the building, but no one was injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.776Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1662584",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662584.php",
+  "publishedAt": "2026-04-20T13:52",
+  "title": "Fußballspiel nach mutmaßlich antisemitischer Volksverhetzung abgebrochen",
+  "location": "Spandau",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-04-19",
+    "street": "Hakenfelder Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Sportstadion Hakenfelde",
+    "district": "Spandau",
+    "summaryEn": "During a football match in Hakenfelde, a spectator allegedly made antisemitic remarks to a team captain, and the match was abandoned. The State Protection unit is investigating for suspected antisemitic incitement and insult.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.963Z"
+}

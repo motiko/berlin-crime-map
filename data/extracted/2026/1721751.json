@@ -1,0 +1,21 @@
+{
+  "id": "1721751",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721751.php",
+  "publishedAt": "2026-10-06T09:29",
+  "title": "Senior vermisst – Polizei bittet um Mithilfe",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2026-10-01",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Vitanas Senioren Centrum, Frohnau",
+    "district": "Reinickendorf",
+    "summaryEn": "An 89-year-old man with dementia has been missing since 1 October 2026 after leaving a senior care centre in Frohnau on a walk. Police are asking the public for information on his whereabouts.",
+    "injured": 0,
+    "dead": null,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.891Z"
+}

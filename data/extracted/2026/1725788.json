@@ -1,0 +1,21 @@
+{
+  "id": "1725788",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1725788.php",
+  "publishedAt": "2026-10-14T15:31",
+  "title": "Brandstiftung auf Fahrbahn",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-10-13",
+    "street": "Rigaer Straße",
+    "houseNumberOrCrossing": "Liebigstraße",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Unknown masked people set fire to e-scooters and debris in the middle of the Rigaer Straße/Liebigstraße crossing shortly before midnight, damaging the road and a street lamp. The police state security unit (Staatsschutz) is investigating.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.808Z"
+}

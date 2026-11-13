@@ -1,0 +1,21 @@
+{
+  "id": "1719167",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719167.php",
+  "publishedAt": "2026-09-28T16:35",
+  "title": "Messerangriff verletzte Polizisten und Schussabgabe",
+  "location": "Mitte",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-09-27",
+    "street": "Perleberger Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "After a knife attack in Wedding that injured two police officers, three suspects released from custody were shot at from a passing vehicle on Perleberger Straße. One man was hit in the leg and taken to hospital.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.029Z"
+}

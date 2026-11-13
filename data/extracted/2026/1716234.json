@@ -1,0 +1,21 @@
+{
+  "id": "1716234",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716234.php",
+  "publishedAt": "2026-09-18T16:01",
+  "title": "Drogenerkennung im Straßenverkehr – Bilanz zu Schwerpunktkontrollen im Rahmen der 7. Berliner DiS-Tage",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-09-15",
+    "street": "Straße des 17. Juni",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Police ran traffic checks on drug detection over three days (15–17 September 2026) at three Berlin locations during the 7th DiS days. A total of 1,330 vehicles and 1,366 people were checked, with 68 blood tests ordered.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.757Z"
+}

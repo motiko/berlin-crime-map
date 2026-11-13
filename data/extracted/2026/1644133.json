@@ -1,0 +1,21 @@
+{
+  "id": "1644133",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1644133.php",
+  "publishedAt": "2026-02-17T12:55",
+  "title": "Angriff auf ein Lokal – Zeuginnen und Zeugen gesucht",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2025-05-29",
+    "street": "Rigaer Straße",
+    "houseNumberOrCrossing": "83",
+    "placeName": "Fischladen",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Unknown attackers with hammers reportedly attacked the bar \"Fischladen\" and stole a banner before fleeing. The State Protection unit is investigating and seeks witnesses.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "hammer"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.436Z"
+}

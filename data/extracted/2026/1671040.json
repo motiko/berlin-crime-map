@@ -1,0 +1,21 @@
+{
+  "id": "1671040",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671040.php",
+  "publishedAt": "2026-08-31T12:47",
+  "title": "Ermittlungen der BAO Ferrum: Vollstreckung eines Haftbefehls in Nordrhein-Westfalen und Sicherstellung von Vermögenswerten",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-07-31",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Hamm",
+    "district": null,
+    "summaryEn": "A 42-year-old suspect linked to a Berlin group accused of shootings and extortion was arrested in Hamm, North Rhine-Westphalia, on a warrant issued by the Berlin investigation team. Assets worth roughly several hundred thousand euros have been provisionally seized from members of the group.",
+    "injured": null,
+    "dead": null,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.981Z"
+}

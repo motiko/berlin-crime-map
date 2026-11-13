@@ -1,0 +1,21 @@
+{
+  "id": "1676153",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1676153.php",
+  "publishedAt": "2026-06-01T14:12",
+  "title": "Verkehrsunfall zwischen Radfahrern – Beteiligter entfernt sich vom Unfallort",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-05-31",
+    "street": "Flughafenstraße",
+    "houseNumberOrCrossing": "33",
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "A cyclist was seriously injured after colliding with another cyclist who then left the scene in Neukölln. The injured 43-year-old was taken to hospital for emergency surgery.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.995Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1678406",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678406.php",
+  "publishedAt": "2026-06-06T17:08",
+  "title": "Besonders schwerer Landfriedensbruch",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-06-05",
+    "street": "Reichenberger Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A fight between a 26-year-old and a 30-year-old escalated into a brawl involving about 30 people, with bottles and stones thrown. Police used pepper spray during arrests, slightly injuring two bystanders.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.049Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1703303",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703303.php",
+  "publishedAt": "2026-08-14T14:18",
+  "title": "Schüsse treffen Lokalscheibe",
+  "location": "Pankow",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-08-13",
+    "street": "Pradelstraße",
+    "houseNumberOrCrossing": "Wollankstraße",
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "Several shots struck the window of a venue in Pankow in the early hours of Thursday. Police found cartridge casings and damage to the window at Wollankstraße.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.038Z"
+}

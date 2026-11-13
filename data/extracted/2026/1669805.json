@@ -1,0 +1,21 @@
+{
+  "id": "1669805",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669805.php",
+  "publishedAt": "2026-05-10T14:46",
+  "title": "Busfahrer bedroht – Reizgas eingesetzt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-05-09",
+    "street": "Memhardstraße",
+    "houseNumberOrCrossing": "Alexanderstraße",
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A man struck the windows of a BVG bus and threatened the 43-year-old driver, who then used pepper spray against him. The suspect fled toward Hackescher Markt station and the spray device was seized.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "pepper spray"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.769Z"
+}

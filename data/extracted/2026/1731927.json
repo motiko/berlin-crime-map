@@ -1,0 +1,21 @@
+{
+  "id": "1731927",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1731927.php",
+  "publishedAt": "2026-10-28T10:47",
+  "title": "Autofahrer prallt gegen Baum und Lichtmast",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "traffic",
+    "dead": 0,
+    "district": "Lichtenberg",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-10-28",
+    "injured": 1,
+    "placeName": "Fennpfuhl",
+    "street": "Vulkanstraße",
+    "summaryEn": "A 50-year-old driver left the road on Vulkanstraße in Fennpfuhl shortly after midnight and crashed into a tree and a light pole. The driver was seriously injured and taken to hospital, and the car was written off.",
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.059Z"
+}

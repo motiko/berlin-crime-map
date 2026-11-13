@@ -1,0 +1,21 @@
+{
+  "id": "1691363",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691363.php",
+  "publishedAt": "2026-07-08T16:01",
+  "title": "Unter dem Einfluss von berauschenden Mitteln zwei Verkehrsunfälle verursacht",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-07",
+    "street": "Wolframstraße",
+    "houseNumberOrCrossing": "Kunigundenstraße",
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 36-year-old driver under the influence of alcohol and drugs crashed into a parked car and rolled his vehicle onto its roof in Tempelhof. He had earlier hit two other parked cars and fled the scene.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.902Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1673848",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673848.php",
+  "publishedAt": "2026-05-25T12:25",
+  "title": "DEIG-Einsatz nach gefährlicher Körperverletzung",
+  "location": "Spandau",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-05-24",
+    "street": "Unnaer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Falkenhagener Feld",
+    "district": "Spandau",
+    "summaryEn": "A 24-year-old man allegedly attacked his 27-year-old brother with a steak knife during a dispute at a house in Falkenhagener Feld, causing knee cuts. When police arrived, the suspect resisted and was subdued with a Taser (DEIG) before being arrested.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.719Z"
+}

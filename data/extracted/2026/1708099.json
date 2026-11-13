@@ -1,0 +1,21 @@
+{
+  "id": "1708099",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708099.php",
+  "publishedAt": "2026-08-28T12:38",
+  "title": "Trickdiebstahl in Wohnungen - Festnahmen und Durchsuchungen",
+  "location": "Pankow",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-08-25",
+    "street": "Prenzlauer Berg",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "Three men were arrested after allegedly posing as plumbers to gain entry to an 83-year-old woman's flat in a distraction-theft attempt; no loot was taken. Searches followed and the investigation into a wider Berlin-wide gang continues.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.890Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1698292",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1698292.php",
+  "publishedAt": "2026-07-29T11:34",
+  "title": "Sachbeschädigung durch Brand auf Schulgelände",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-07-28",
+    "street": "Teltower Damm",
+    "houseNumberOrCrossing": null,
+    "placeName": "Schulgelände Zehlendorf",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "Overnight, unknown suspects entered a school sports ground in Zehlendorf, forced open a equipment shed, and set sports equipment alight in a long jump pit. Police are investigating criminal damage and arson.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.731Z"
+}

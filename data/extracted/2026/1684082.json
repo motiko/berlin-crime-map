@@ -1,0 +1,21 @@
+{
+  "id": "1684082",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684082.php",
+  "publishedAt": "2026-06-20T11:10",
+  "title": "Bei schwerem Raub verletzt",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-06-19",
+    "street": "Lindauer Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "An 18-year-old man was attacked by four men in Lindauer Allee and robbed of cash and his mobile phone, with one attacker carrying pepper spray. The victim was injured badly enough to need hospital treatment.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "pepper spray"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.822Z"
+}

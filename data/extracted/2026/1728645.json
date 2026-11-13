@@ -1,0 +1,21 @@
+{
+  "id": "1728645",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1728645.php",
+  "publishedAt": "2026-10-21T10:36",
+  "title": "Gefährliche Körperverletzung im Straßenverkehr",
+  "location": "Mitte",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-10-20",
+    "street": "Alexanderstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "After a dispute over a lane change, two occupants of a van got out and attacked a 22-year-old cyclist, who was struck with a metal rod. The cyclist was hurt in the arm and hand and declined immediate medical treatment.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "metal rod"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.786Z"
+}

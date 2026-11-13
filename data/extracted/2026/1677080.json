@@ -1,0 +1,21 @@
+{
+  "id": "1677080",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677080.php",
+  "publishedAt": "2026-06-03T12:37",
+  "title": "Verdächtige Männer festgenommen",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-06-02",
+    "street": "Mehrower Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "Police arrested two masked men aged 18 and 19 near a bank branch in Marzahn after a resident reported them. One carried a blank-firing pistol and the other a kitchen knife; investigations into attempted aggravated robbery continue.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "blank-firing gun"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.984Z"
+}

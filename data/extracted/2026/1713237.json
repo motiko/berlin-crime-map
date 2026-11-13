@@ -1,0 +1,21 @@
+{
+  "id": "1713237",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713237.php",
+  "publishedAt": "2026-09-13T11:32",
+  "title": "Autos in Flammen",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-09-13",
+    "street": "Nossener Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Parkplatz an der Nossener Straße",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "Overnight, three vehicles burned out completely and two others were damaged in a car park in Hellersdorf after residents reported bangs and flames around 2:30 a.m. Nobody was hurt, and the LKA arson unit has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.852Z"
+}

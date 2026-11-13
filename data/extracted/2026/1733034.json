@@ -1,0 +1,21 @@
+{
+  "id": "1733034",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733034.php",
+  "publishedAt": "2026-10-30T09:58",
+  "title": "Pyrotechnische Gegenstände und sogenannte Selbstlaborate beschlagnahmt",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "raid",
+    "incidentDate": "2026-10-28",
+    "street": "Peter-Anders-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "Police searched a flat in Neukölln under the Explosives Act and arrested a 24-year-old suspect, seizing about six kilograms of net explosive mass, self-made explosive preparations, a knuckle-duster and a knife. The investigation continues.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.965Z"
+}

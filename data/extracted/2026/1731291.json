@@ -1,0 +1,21 @@
+{
+  "id": "1731291",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1731291.php",
+  "publishedAt": "2026-10-27T09:43",
+  "title": "Schuss durch Wohnungstür",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-10-27",
+    "street": "Wedellstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Lankwitz",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "Overnight, a closed apartment door in a residential building in Lankwitz was apparently shot at. The resident found a bullet hole, and police secured a projectile and a cartridge case; nobody was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.055Z"
+}

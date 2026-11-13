@@ -1,0 +1,21 @@
+{
+  "id": "1650030",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1650030.php",
+  "publishedAt": "2026-03-05T17:20",
+  "title": "Einbruch in Feuerwehrwache",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-03-05",
+    "street": "Senheimer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Feuerwache Frohnau",
+    "district": "Reinickendorf",
+    "summaryEn": "Unknown perpetrators broke into a fire station in Frohnau overnight and stole equipment and protective gear worth five-figure sum. The break-in was discovered by a caretaker on the morning of 5 March.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.414Z"
+}

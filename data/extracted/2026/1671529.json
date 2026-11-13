@@ -1,0 +1,21 @@
+{
+  "id": "1671529",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671529.php",
+  "publishedAt": "2026-05-17T12:22",
+  "title": "Verkehrsunfall mit Fahrerflucht",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-05-16",
+    "street": "Sonnenallee",
+    "houseNumberOrCrossing": "Pannierstraße",
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "A 15-year-old pedestrian was hit by a car on Sonnenallee and taken to hospital with injuries to arm, leg and head. The unidentified driver fled the scene in a dark estate car.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.794Z"
+}

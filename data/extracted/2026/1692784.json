@@ -1,0 +1,21 @@
+{
+  "id": "1692784",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692784.php",
+  "publishedAt": "2026-07-13T15:26",
+  "title": "Autofahrer bei Verkehrsunfall verletzt",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "traffic",
+    "dead": 0,
+    "district": "Reinickendorf",
+    "houseNumberOrCrossing": "Thyssenstraße",
+    "incidentDate": "2026-07-12",
+    "injured": 1,
+    "placeName": null,
+    "street": "Roedernallee",
+    "summaryEn": "A 40-year-old van driver allegedly turned left at high speed and caused a collision in which a 59-year-old driver was seriously injured and two cars were damaged. The van driver, who had no valid licence and reportedly about 2.9 per mille alcohol, was held by an off-duty officer and a blank-firing pistol was seized.",
+    "weaponType": "blank-firing gun"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.061Z"
+}

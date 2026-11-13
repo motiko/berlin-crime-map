@@ -1,0 +1,21 @@
+{
+  "id": "1709758",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709758.php",
+  "publishedAt": "2026-09-07T14:28",
+  "title": "Vermisste 52-Jährige tot aufgefunden",
+  "location": "Mitte",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2026-08-30",
+    "street": "Lichtenberger Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A 52-year-old woman reported missing since 30 August 2026 has been found dead. Police state there is no indication of third-party involvement.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.982Z"
+}

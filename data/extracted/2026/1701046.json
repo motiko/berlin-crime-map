@@ -1,0 +1,21 @@
+{
+  "id": "1701046",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701046.php",
+  "publishedAt": "2026-08-09T10:55",
+  "title": "Feuer in der Küche – Bewohnerin verstorben",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-08-08",
+    "street": "Heinitzweg",
+    "houseNumberOrCrossing": "Buckower Chaussee",
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A kitchen fire broke out in a semi-detached house in Lichtenrade overnight. A 56-year-old woman was found unresponsive and died despite resuscitation attempts.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.799Z"
+}

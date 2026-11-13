@@ -1,0 +1,21 @@
+{
+  "id": "1703514",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703514.php",
+  "publishedAt": "2026-08-16T13:15",
+  "title": "Streitigkeiten mit Messer und Flaschenhieb ausgetragen",
+  "location": "Mitte",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-08-15",
+    "street": "Rathausbrücke",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "After a group of teenagers argued near the Rathausbrücke, one 17-year-old was stabbed in the shoulder with a utility knife and another was hit with a glass bottle. Two 17-year-olds were taken to hospital for outpatient treatment.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.710Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1652492",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1652492.php",
+  "publishedAt": "2026-03-15T13:39",
+  "title": "Mann mit Glasflasche verletzt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-03-14",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahnhof Osloer Straße",
+    "district": "Mitte",
+    "summaryEn": "A 37-year-old man was stabbed in the neck with a broken glass bottle during an argument with a 50-year-old man on a green area at Osloer Straße U-Bahn station. The suspect fled but was arrested in a nearby apartment; the victim is not in danger of dying.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "broken glass bottle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.403Z"
+}

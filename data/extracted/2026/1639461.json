@@ -1,0 +1,21 @@
+{
+  "id": "1639461",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1639461.php",
+  "publishedAt": "2026-01-31T11:47",
+  "title": "Autofahrer fährt Kind an",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-01-30",
+    "street": "Kaiser-Friedrich-Straße",
+    "houseNumberOrCrossing": "Kantstraße",
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A driver turning right hit a six-year-old boy crossing the road at a junction in Charlottenburg. The child was taken to hospital with a suspected leg fracture.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.452Z"
+}

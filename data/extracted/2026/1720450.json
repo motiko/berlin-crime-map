@@ -1,0 +1,21 @@
+{
+  "id": "1720450",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720450.php",
+  "publishedAt": "2026-10-01T12:56",
+  "title": "Glasflasche auf den Kopf geschlagen",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-10-01",
+    "street": "Lichtenrader Damm",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Shortly after midnight, several unknown young men attacked three men aged 62 to 69 on the terrace of a snack bar. One man was hit on the head with a beer bottle and all were sprayed with pepper gas.",
+    "injured": 4,
+    "dead": 0,
+    "weaponType": "beer bottle; pepper spray"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.782Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1643169",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1643169.php",
+  "publishedAt": "2026-02-13T12:46",
+  "title": "Lebensbedrohliche Verletzungen nach Schüssen auf Mann im Fahrzeug",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-02-12",
+    "street": "Buddestraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "A 37-year-old man was shot several times from the pavement while sitting in a vehicle in Tegel and was seriously injured. He is now out of danger, and police are searching for the unidentified gunman, with a homicide unit investigating an attempted killing.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.456Z"
+}

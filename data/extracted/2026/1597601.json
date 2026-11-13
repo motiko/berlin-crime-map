@@ -1,0 +1,21 @@
+{
+  "id": "1597601",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1597601.php",
+  "publishedAt": "2026-05-21T16:06",
+  "title": "Tötungsdelikt am Humboldt Forum – letzter Tatverdächtiger festgenommen",
+  "location": "Mitte",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2025-09-12",
+    "street": "Schlossplatz",
+    "houseNumberOrCrossing": null,
+    "placeName": "Humboldt Forum",
+    "district": "Mitte",
+    "summaryEn": "A 20-year-old man died after a brawl between two groups at the Humboldt Forum on 12 September 2025; two other men were slightly injured. The last suspect, a 16-year-old, was arrested at Gesundbrunnen station and remanded.",
+    "injured": 2,
+    "dead": 1,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.862Z"
+}

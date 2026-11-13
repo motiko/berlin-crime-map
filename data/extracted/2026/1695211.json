@@ -1,0 +1,21 @@
+{
+  "id": "1695211",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695211.php",
+  "publishedAt": "2026-07-18T11:16",
+  "title": "Rassistisch beleidigt und geschlagen",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-07-17",
+    "street": "Wilhelmstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A 22-year-old woman was struck in the face and racially insulted by a 76-year-old man on a sidewalk in Kreuzberg. No injuries were found by the ambulance crew, and the case was handed to the State Protection unit.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.931Z"
+}

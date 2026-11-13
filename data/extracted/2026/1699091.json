@@ -1,0 +1,21 @@
+{
+  "id": "1699091",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699091.php",
+  "publishedAt": "2026-07-31T12:12",
+  "title": "Schüsse auf Imbiss",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-07-31",
+    "street": "Mariendorfer Damm",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Shots were fired at a snack bar in Mariendorf from a moving vehicle around 2:20 a.m. Two people were inside, and nobody was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.885Z"
+}

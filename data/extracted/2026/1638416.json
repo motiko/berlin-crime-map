@@ -1,0 +1,21 @@
+{
+  "id": "1638416",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1638416.php",
+  "publishedAt": "2026-01-28T12:35",
+  "title": "Schüsse auf Restaurant",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-01-27",
+    "street": "Oranienstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Unknown persons fired shots at a restaurant on Oranienstraße overnight from Monday to Tuesday. Bullet holes were found in the front window on Tuesday morning and nobody was injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.466Z"
+}

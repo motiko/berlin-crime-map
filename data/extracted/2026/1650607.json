@@ -1,0 +1,21 @@
+{
+  "id": "1650607",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1650607.php",
+  "publishedAt": "2026-03-09T11:58",
+  "title": "Balkonbrand in Mehrfamilienhaus",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-03-08",
+    "street": "Waldemarstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A balcony caught fire in an apartment building in Kreuzberg on the afternoon of 8 March. Firefighters extinguished the blaze shortly after, and nobody was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.415Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1657339",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1657339.php",
+  "publishedAt": "2026-03-28T13:18",
+  "title": "Senior bei Verkehrsunfall verletzt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-03-27",
+    "street": "Oranienstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A car struck a pedestrian aged 76 on Oranienstraße around noon. The pedestrian was taken to hospital with injuries to the arm, leg and head, and the driver was unhurt.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.751Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1650457",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1650457.php",
+  "publishedAt": "2026-03-08T14:28",
+  "title": "Bedrohung mit einer Schreckschusswaffe – SEK-Einsatz",
+  "location": "Pankow",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-03-08",
+    "street": "Schönhauser Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "A 21-year-old man threatened a 25-year-old doorman at a nightclub entrance with a blank-firing pistol and fled. He was later arrested by a SWAT team after barricading himself in his apartment, and the pistol was seized.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "blank-firing gun"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.357Z"
+}

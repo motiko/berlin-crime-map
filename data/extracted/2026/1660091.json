@@ -1,0 +1,21 @@
+{
+  "id": "1660091",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660091.php",
+  "publishedAt": "2026-04-10T13:28",
+  "title": "Schüsse im Mehrfamilienhaus",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-04-09",
+    "street": "Rheinstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A witness reported several gunshots from an apartment in a multi-family building in Friedenau. Police found several firearms, replica weapons and drugs in the suspect's apartment; he was later released after identity checks.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.057Z"
+}

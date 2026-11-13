@@ -1,0 +1,21 @@
+{
+  "id": "1637281",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1637281.php",
+  "publishedAt": "2026-01-26T16:49",
+  "title": "Zeuge hat sich gemeldet",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2025-08-24",
+    "street": "Baruther Straße",
+    "houseNumberOrCrossing": "Mehringdamm",
+    "placeName": "Friedhöfe am Halleschen Tor",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Two unknown men allegedly threatened a 28-year-old with a knife, assaulted him and robbed him of a bag, cash, jewellery and his phone. A witness sought in the case has since reported to a police station.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.423Z"
+}

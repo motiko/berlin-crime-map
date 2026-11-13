@@ -1,0 +1,21 @@
+{
+  "id": "1666989",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666989.php",
+  "publishedAt": "2026-05-01T11:56",
+  "title": "Fahrradfahrer nach Verkehrsunfall verstorben",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-04-30",
+    "street": "Neuköllner Straße",
+    "houseNumberOrCrossing": "Alt-Rudow",
+    "placeName": "Rudow",
+    "district": "Neukölln",
+    "summaryEn": "A 41-year-old cyclist was killed at about 8:40 a.m. after a truck turning right ran him over at Rudow. Police traffic investigators took over the case.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.916Z"
+}

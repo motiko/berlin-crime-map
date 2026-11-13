@@ -1,0 +1,21 @@
+{
+  "id": "1703436",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703436.php",
+  "publishedAt": "2026-08-15T13:21",
+  "title": "Mann auf dem Müggelsee durch Schiffsschraube schwer verletzt",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-08-14",
+    "street": "Müggelspree",
+    "houseNumberOrCrossing": "Josef-Nawrocki-Straße",
+    "placeName": "Müggelsee",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A 32-year-old man fell into the water from a rented raft on the Müggelsee and was caught in a still-rotating propeller. He was seriously injured and taken to hospital by ambulance.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.034Z"
+}

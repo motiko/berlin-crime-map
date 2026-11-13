@@ -1,0 +1,21 @@
+{
+  "id": "1720334",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720334.php",
+  "publishedAt": "2026-10-01T11:15",
+  "title": "Rettungskräfte angegriffen und bespuckt",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-10-01",
+    "street": "Bruno-Baum-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "An unknown man pushed and spat at an emergency doctor and hit the windscreen and door of the ambulance vehicle while paramedics were treating a 44-year-old man. The treated man was not in critical condition and was taken to hospital.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.848Z"
+}

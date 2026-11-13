@@ -1,0 +1,21 @@
+{
+  "id": "1680585",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680585.php",
+  "publishedAt": "2026-06-11T11:00",
+  "title": "Mehrere Verletzte nach Verkehrsunfall",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-06-10",
+    "street": "Südwestkorso",
+    "houseNumberOrCrossing": "Laubacher Straße",
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A 45-year-old driver rear-ended a stopped car at a red light on Südwestkorso in Wilmersdorf, injuring four people. The driver was found to have alcohol and suspected narcotics in his car and had a blood sample taken.",
+    "injured": 4,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.051Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1691414",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691414.php",
+  "publishedAt": "2026-07-08T17:16",
+  "title": "Festnahme nach versuchtem Geschäftseinbruch – Haftbefehl vollstreckt",
+  "location": "Spandau",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-07-07",
+    "street": "Semmelländerweg",
+    "houseNumberOrCrossing": null,
+    "placeName": "Bäckerei",
+    "district": "Spandau",
+    "summaryEn": "A 20-year-old man was arrested after attempting to break into a bakery at night; an off-duty police officer caught him and police seized his tools. No loot was taken, and a judge later ordered his detention.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.788Z"
+}

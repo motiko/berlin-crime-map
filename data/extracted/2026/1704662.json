@@ -1,0 +1,21 @@
+{
+  "id": "1704662",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704662.php",
+  "publishedAt": "2026-08-19T10:35",
+  "title": "Touristin bei Verkehrsunfall verletzt",
+  "location": "Pankow",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-08-18",
+    "street": "Schönhauser Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "A 72-year-old tourist stepped onto a bike lane in Schönhauser Allee and collided with an e-scooter rider, both falling. The tourist suffered a foot injury and was taken to hospital; the rider was unhurt.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.690Z"
+}

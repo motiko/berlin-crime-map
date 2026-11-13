@@ -1,0 +1,21 @@
+{
+  "id": "1696358",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696358.php",
+  "publishedAt": "2026-07-22T11:20",
+  "title": "Mann mit Hammer angegriffen und ausgeraubt",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-07-21",
+    "street": "Nikolsburger Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Two men aged 18 and 20 allegedly attacked a 49-year-old man with an emergency hammer and robbed him of his wallet and phone. Both suspects were arrested near Heidelberger Platz and released after identification measures.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "hammer"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.740Z"
+}

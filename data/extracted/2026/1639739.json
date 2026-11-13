@@ -1,0 +1,21 @@
+{
+  "id": "1639739",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1639739.php",
+  "publishedAt": "2026-02-02T12:39",
+  "title": "Passant stellt mutmaßlichen Räuber - Festnahme",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-02-01",
+    "street": "Otto-Suhr-Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": "Blumenladen",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A suspect shoved a 54-year-old shop owner during a meeting about a watch offered online and fled with the watch. A passer-by detained him in Zillestraße until police arrested him; a pocket knife was found on him.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.467Z"
+}

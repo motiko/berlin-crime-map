@@ -1,0 +1,21 @@
+{
+  "id": "1721417",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721417.php",
+  "publishedAt": "2026-10-05T11:32",
+  "title": "Kollision mit geparktem Pkw – E-Scooter-Fahrer verletzt",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "traffic",
+    "dead": 0,
+    "district": "Lichtenberg",
+    "houseNumberOrCrossing": "Normannenstraße",
+    "incidentDate": "2026-10-04",
+    "injured": 1,
+    "placeName": null,
+    "street": "Ruschestraße",
+    "summaryEn": "An 18-year-old e-scooter rider collided with a parked car in Ruschestraße and was found injured on the ground. He was taken to hospital with suspected head injury.",
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.838Z"
+}

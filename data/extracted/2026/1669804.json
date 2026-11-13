@@ -1,0 +1,21 @@
+{
+  "id": "1669804",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669804.php",
+  "publishedAt": "2026-05-10T13:31",
+  "title": "Wahlplakate beschädigt",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-05-10",
+    "street": "Neue Krugallee",
+    "houseNumberOrCrossing": null,
+    "placeName": "Baumschulenweg",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "Overnight, 42 election posters of a party were damaged with an unknown substance in Baumschulenweg. The state security unit of the LKA is investigating.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.676Z"
+}

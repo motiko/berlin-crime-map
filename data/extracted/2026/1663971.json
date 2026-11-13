@@ -1,0 +1,21 @@
+{
+  "id": "1663971",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1663971.php",
+  "publishedAt": "2026-04-23T12:17",
+  "title": "Mutter und Kind bei Verkehrsunfall verletzt",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "traffic",
+    "dead": 0,
+    "district": "Steglitz-Zehlendorf",
+    "houseNumberOrCrossing": "Clayallee",
+    "incidentDate": "2026-04-22",
+    "injured": 2,
+    "placeName": "Zehlendorf",
+    "street": "Berliner Straße",
+    "summaryEn": "A car driver allegedly ran a red light and hit a 28-year-old woman crossing on a pedestrian crossing with her three-year-old daughter in her arms. Both were injured and taken to hospital, where the child was admitted.",
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.746Z"
+}

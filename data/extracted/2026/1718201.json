@@ -1,0 +1,21 @@
+{
+  "id": "1718201",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718201.php",
+  "publishedAt": "2026-09-25T09:59",
+  "title": "Jugendlicher mit Schussverletzungen im Krankenhaus",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-09-24",
+    "street": "Düppelstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "Police are investigating an attempted killing in Steglitz after a 17-year-old was found with gunshot wounds on Düppelstraße shortly after 10 p.m. The teenager underwent emergency surgery and is no longer in danger of his life.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.031Z"
+}

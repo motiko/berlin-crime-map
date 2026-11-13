@@ -1,0 +1,21 @@
+{
+  "id": "1660239",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660239.php",
+  "publishedAt": "2026-04-12T15:54",
+  "title": "E-Scooter-Fahrer nach Zusammenstoß verletzt",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-04-11",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Tempelhofer Feld",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "During a cycling race on the Tempelhofer Feld, a 13-year-old e-scooter rider allegedly entered the racecourse and collided with a 31-year-old cyclist, and both fell. The cyclist suffered abrasions and was treated on scene, while the teenager was hospitalized.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.800Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1648034",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1648034.php",
+  "publishedAt": "2026-02-27T17:29",
+  "title": "Durchsuchungsbeschlüsse vollstreckt – mehrere Festnahmen",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-02-26",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Märkisches Viertel",
+    "district": "Reinickendorf",
+    "summaryEn": "Police and prosecutors executed nine search warrants in the Märkisches Viertel linked to a drug trafficking and robbery investigation, arresting six people. Several hundred grams of cocaine, about 2.5 kg of marijuana and cash were seized, and arrest warrants were issued for four suspects.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.432Z"
+}

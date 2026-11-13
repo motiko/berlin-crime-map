@@ -1,0 +1,21 @@
+{
+  "id": "1684087",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684087.php",
+  "publishedAt": "2026-06-23T12:39",
+  "title": "Fußgängerin nach Verkehrsunfall verstorben",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "traffic",
+    "dead": 1,
+    "district": "Lichtenberg",
+    "houseNumberOrCrossing": "Alt Friedrichsfelde/Am Tierpark/Rhinstraße",
+    "incidentDate": "2026-06-20",
+    "injured": 2,
+    "placeName": "Friedrichsfelde",
+    "street": "Alt-Friedrichsfelde",
+    "summaryEn": "A motorcycle collided with two pedestrians on Alt-Friedrichsfelde in Friedrichsfelde; one pedestrian died at the scene and an 85-year-old pedestrian later died in hospital. The 19-year-old motorcyclist was also seriously injured.",
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.901Z"
+}

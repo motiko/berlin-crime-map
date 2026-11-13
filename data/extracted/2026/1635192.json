@@ -1,0 +1,21 @@
+{
+  "id": "1635192",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1635192.php",
+  "publishedAt": "2026-01-19T15:39",
+  "title": "Raub auf Spielcasino",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-01-19",
+    "street": "Roedernallee",
+    "houseNumberOrCrossing": null,
+    "placeName": "Spielcasino",
+    "district": "Reinickendorf",
+    "summaryEn": "Two masked attackers used a pepper spray and an axe during a robbery at a casino in Reinickendorf overnight. A 53-year-old employee was injured and taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "axe"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.461Z"
+}

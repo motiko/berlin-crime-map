@@ -1,0 +1,21 @@
+{
+  "id": "1652491",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1652491.php",
+  "publishedAt": "2026-03-15T12:09",
+  "title": "Mutmaßlich mit Messer in Schulter gestochen",
+  "location": "Pankow",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-03-14",
+    "street": "Am Sandhaus",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "A 32-year-old man was stabbed in the shoulder by an unknown attacker on a pavement in Buch. The attacker fled and the victim was taken to hospital with serious injuries.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.465Z"
+}

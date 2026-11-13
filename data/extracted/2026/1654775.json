@@ -1,0 +1,21 @@
+{
+  "id": "1654775",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1654775.php",
+  "publishedAt": "2026-03-22T11:26",
+  "title": "Von mehreren Männern angegriffen und niedergestochen worden",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-03-21",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "S-Bahnhof Grünau",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A 28-year-old man was attacked by several men at Grünau S-Bahn station and stabbed in the back with a knife. He suffered a stab wound, is in hospital, and is not in danger of his life.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.470Z"
+}

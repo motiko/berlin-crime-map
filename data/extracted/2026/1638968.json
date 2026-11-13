@@ -1,0 +1,21 @@
+{
+  "id": "1638968",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1638968.php",
+  "publishedAt": "2026-01-29T15:58",
+  "title": "Geschlagen und beschossen",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-01-28",
+    "street": "Sommerstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "A man was punched in the face and then hit by a blank-firing pistol shot to the face in Reinickendorf after urinating against a residential building. He was taken to hospital for treatment.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "blank-firing gun"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.451Z"
+}

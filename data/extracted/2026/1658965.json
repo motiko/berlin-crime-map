@@ -1,0 +1,21 @@
+{
+  "id": "1658965",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1658965.php",
+  "publishedAt": "2026-04-02T16:17",
+  "title": "Einbruch mit Auto",
+  "location": "Mitte",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-04-02",
+    "street": "Münzstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "An unknown man drove a car into the entrance door of a shop on Münzstraße at about 5 a.m., destroying it. He took goods and fled with the car.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.938Z"
+}

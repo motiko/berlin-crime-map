@@ -1,0 +1,21 @@
+{
+  "id": "1663882",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1663882.php",
+  "publishedAt": "2026-04-23T10:41",
+  "title": "Durchsuchungsbeschlüsse wegen Raubtaten vollstreckt",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-04-22",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "Police searched properties of six suspects, aged 16 to 18, believed to have lured people into open-air meetings via fake profiles and robbed them. Weapons including a knuckleduster, a knife and an electric stun device were seized.",
+    "injured": null,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.933Z"
+}

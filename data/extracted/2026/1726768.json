@@ -1,0 +1,21 @@
+{
+  "id": "1726768",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726768.php",
+  "publishedAt": "2026-10-16T12:39",
+  "title": "Mann mit Stichverletzungen im Krankenhaus",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-10-15",
+    "street": "Belziger Ring",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A 24-year-old man was attacked by three unknown men near a bus stop and suffered stab wounds to his back and leg. He was taken to hospital, and police say his life was not in danger.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.879Z"
+}

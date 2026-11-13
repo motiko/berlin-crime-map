@@ -1,0 +1,21 @@
+{
+  "id": "1653464",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1653464.php",
+  "publishedAt": "2026-03-17T16:56",
+  "title": "Flucht vor der Polizei endet in Festnahme",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-03-16",
+    "street": "Rübelandstraße",
+    "houseNumberOrCrossing": "Emser Straße/Ilsestraße",
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "A 29-year-old woman fled from a police traffic check at high speed, damaging her car and crashing into an oncoming van. She was arrested on foot; the car was uncleared and reported with stolen plates, and she admitted driving under the influence of drugs.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.375Z"
+}

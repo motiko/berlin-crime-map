@@ -1,0 +1,21 @@
+{
+  "id": "1658581",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1658581.php",
+  "publishedAt": "2026-04-01T14:40",
+  "title": "Mann festgenommen - Schusswaffe und Bargeld beschlagnahmt",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "raid",
+    "incidentDate": "2026-03-31",
+    "street": "Kurfürstendamm",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Plainclothes officers arrested a 28-year-old man driving around Charlottenburg with a firearm and a large amount of cash after noticing his car on Kurfürstendamm. The car, the man's home-area addresses and further property were searched and seized.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.748Z"
+}

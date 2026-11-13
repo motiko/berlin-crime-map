@@ -1,0 +1,21 @@
+{
+  "id": "1704379",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704379.php",
+  "publishedAt": "2026-08-18T15:14",
+  "title": "Festnahmen nach Trickdiebstahl in Wohnung",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-08-17",
+    "street": "Frankfurter Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Lichtenberg",
+    "summaryEn": "Two suspects posing as telecom employees allegedly stole jewelry and cash from a 92-year-old woman's apartment in a distraction theft. Two 26-year-old suspects were arrested the same evening in Charlottenburg, and the stolen goods were recovered.",
+    "injured": 0,
+    "dead": null,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.006Z"
+}

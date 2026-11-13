@@ -1,0 +1,21 @@
+{
+  "id": "1707966",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707966.php",
+  "publishedAt": "2026-08-28T10:38",
+  "title": "Wohnwagen und Pkw in Flammen",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-08-28",
+    "street": "Kiefholzstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Alt-Treptow",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "In the early hours a caravan caught fire on Kiefholzstraße and spread to two cars, which burned out along with several other vehicles damaged. Nobody was injured; the LKA arson unit is investigating.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.959Z"
+}

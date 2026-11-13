@@ -1,0 +1,21 @@
+{
+  "id": "1654779",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1654779.php",
+  "publishedAt": "2026-03-22T15:11",
+  "title": "Schläfer krankenhausreif getreten",
+  "location": "Mitte",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-03-21",
+    "street": "Alexanderufer",
+    "houseNumberOrCrossing": null,
+    "placeName": "unter der Brücke am Alexanderufer",
+    "district": "Mitte",
+    "summaryEn": "A 28-year-old man allegedly kicked two sleeping homeless men in the head and upper body overnight. One victim, 65, suffered severe facial injuries and needs inpatient treatment; the suspect was arrested and taken into custody.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.416Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1653420",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1653420.php",
+  "publishedAt": "2026-03-17T16:00",
+  "title": "Mann nach Sturz mit Fahrrad im Krankenhaus",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-03-16",
+    "street": "Kaiser-Wilhelm-Straße",
+    "houseNumberOrCrossing": "Ruthstraße",
+    "placeName": "Lankwitz",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A 61-year-old man fell from his bicycle in Lankwitz in the evening and suffered serious head and torso injuries. He remains in intensive care, and a traffic unit is investigating the cause of the fall.",
+    "injured": 1,
+    "dead": null,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.410Z"
+}

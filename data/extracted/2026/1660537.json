@@ -1,0 +1,21 @@
+{
+  "id": "1660537",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660537.php",
+  "publishedAt": "2026-04-13T14:35",
+  "title": "Mann überfallen und verschleppt",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-04-12",
+    "street": "Konrad-Wolf-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Alt-Hohenschönhausen",
+    "district": "Lichtenberg",
+    "summaryEn": "Two masked men attacked a 52-year-old man on the street, forced him into a van and bound him, then stole cash, a phone and documents. He freed himself about two hours later and was taken to hospital with injuries.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.780Z"
+}

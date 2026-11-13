@@ -1,0 +1,21 @@
+{
+  "id": "1706019",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706019.php",
+  "publishedAt": "2026-08-23T11:05",
+  "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-08-22",
+    "street": "Wexstraße",
+    "houseNumberOrCrossing": "Innsbrucker Straße",
+    "placeName": "Innsbrucker Platz",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Berlin police report several cases of damage to election posters linked to the Berlin House of Representatives election, handled by the state security unit. In Schöneberg, a 54-year-old woman was seen tearing down a poster and was released after identity checks.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.847Z"
+}

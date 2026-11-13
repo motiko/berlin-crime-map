@@ -1,0 +1,21 @@
+{
+  "id": "1677275",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677275.php",
+  "publishedAt": "2026-06-03T15:46",
+  "title": "Fahrzeuge mit Steinen beworfen – Mann festgenommen",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-06-02",
+    "street": "Spanische Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": "Nikolassee",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A likely intoxicated 52-year-old man threw paving stones at passing cars in Nikolassee, hitting a Toyota driven by a 36-year-old woman. He was arrested after police checks.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.955Z"
+}

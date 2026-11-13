@@ -1,0 +1,21 @@
+{
+  "id": "1709849",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709849.php",
+  "publishedAt": "2026-09-02T16:25",
+  "title": "Mann von unbekannten Tätern mehrmals angeschossen und schwer verletzt",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-09-01",
+    "street": "Feurigstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 26-year-old man was shot several times by unknown perpetrators from a group on Feurigstraße in Schöneberg and seriously injured. The homicide unit is investigating an attempted killing.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.009Z"
+}

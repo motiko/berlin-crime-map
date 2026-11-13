@@ -1,0 +1,21 @@
+{
+  "id": "1708397",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708397.php",
+  "publishedAt": "2026-08-30T13:25",
+  "title": "DEIG-Einsatz nach Widerstand - Festnahme",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-08-29",
+    "street": "An der Rennbahn",
+    "houseNumberOrCrossing": null,
+    "placeName": "Gartenkolonie",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Police were called to a disorderly 40-year-old man at a garden colony event in Mariendorf, who resisted arrest and insulted officers. Officers used a taser (DEIG) to subdue him; he was unharmed and later taken to a prison after outstanding warrants.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "Distanzelektroimpulsgerät (taser)"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.704Z"
+}

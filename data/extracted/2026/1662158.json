@@ -1,0 +1,21 @@
+{
+  "id": "1662158",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662158.php",
+  "publishedAt": "2026-07-30T18:22",
+  "title": "Vermisster Senior ist wieder da",
+  "location": "Pankow",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2026-07-30",
+    "street": "Schulzestraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "A 66-year-old man reported missing from a care facility in Pankow has been found again and taken to hospital by rescue workers. The missing-person search was originally launched on 17 April 2026.",
+    "injured": null,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.924Z"
+}

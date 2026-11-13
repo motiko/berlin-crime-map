@@ -1,0 +1,21 @@
+{
+  "id": "1709027",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709027.php",
+  "publishedAt": "2026-09-01T09:03",
+  "title": "Politiker antisemitisch beleidigt und angegriffen",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "political",
+    "dead": 0,
+    "district": "Steglitz-Zehlendorf",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-08-31",
+    "injured": 0,
+    "placeName": null,
+    "street": "Liebenowzeile",
+    "summaryEn": "A 28-year-old election candidate campaigning in front of a supermarket was antisemitically insulted and an attempted punch was thrown at him. The suspect, a 68-year-old man, faces charges of assault, incitement and insult.",
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.913Z"
+}

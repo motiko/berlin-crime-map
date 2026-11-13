@@ -1,0 +1,21 @@
+{
+  "id": "1659502",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659502.php",
+  "publishedAt": "2026-04-08T11:52",
+  "title": "Bundeskanzleramt beschmiert",
+  "location": "Mitte",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-04-07",
+    "street": "Willy-Brandt-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Bundeskanzleramt",
+    "district": "Mitte",
+    "summaryEn": "A 76-year-old man sprayed red paint over about six square meters of the Federal Chancellery facade and held a political banner, while a 40-year-old companion filmed it. State security police took over the investigation for criminal damage.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.985Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1706141",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706141.php",
+  "publishedAt": "2026-08-24T10:11",
+  "title": "Schussabgaben auf Geschäft",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "shooting",
+    "dead": 0,
+    "district": "Steglitz-Zehlendorf",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-08-24",
+    "injured": 0,
+    "placeName": null,
+    "street": "Osdorfer Straße",
+    "summaryEn": "Shots were fired at a shop in Lichterfelde around 3:55 a.m., leaving bullet holes in the shop windows. A non-detonated explosive device was also found and seized by police.",
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.982Z"
+}

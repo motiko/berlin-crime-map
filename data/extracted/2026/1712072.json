@@ -1,0 +1,21 @@
+{
+  "id": "1712072",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712072.php",
+  "publishedAt": "2026-09-09T16:30",
+  "title": "Einsatzfahrt abgebrochen – Mann verletzt Mitarbeiter der Feuerwehr",
+  "location": "Mitte",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-09-08",
+    "street": "Seestraße",
+    "houseNumberOrCrossing": "Müllerstraße",
+    "placeName": "Wedding",
+    "district": "Mitte",
+    "summaryEn": "A car driver tailgated and obstructed an ambulance on an emergency run, then allegedly drove deliberately into a fire brigade employee who had blocked the car. The employee reported knee pain and was taken to hospital for outpatient treatment.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.019Z"
+}

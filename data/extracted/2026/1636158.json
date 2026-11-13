@@ -1,0 +1,21 @@
+{
+  "id": "1636158",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1636158.php",
+  "publishedAt": "2026-01-21T16:23",
+  "title": "Mitarbeiter eines Discounters überfallen",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-01-20",
+    "street": "Sonnenallee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "Three men robbed a 37-year-old discount store employee after he locked up at night, forcing him to reopen the shop and hand over the takings. One of the attackers hit him repeatedly on the head, and he was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.457Z"
+}

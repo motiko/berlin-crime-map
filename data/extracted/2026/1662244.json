@@ -1,0 +1,21 @@
+{
+  "id": "1662244",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662244.php",
+  "publishedAt": "2026-04-18T17:36",
+  "title": "Streit eskaliert – rassistische Beleidigung und wechselseitige Körperverletzungen",
+  "location": "Pankow",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-04-17",
+    "street": "Norwegerstraße",
+    "houseNumberOrCrossing": "Finnländische Straße",
+    "placeName": "Prenzlauer Berg",
+    "district": "Pankow",
+    "summaryEn": "A dispute between women in Prenzlauer Berg escalated into a racist insult and mutual assaults, with one woman fleeing and hitting a man who had blocked her car. Staatsschutz took over the investigation.",
+    "injured": 4,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.020Z"
+}

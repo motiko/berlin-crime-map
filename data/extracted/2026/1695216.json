@@ -1,0 +1,21 @@
+{
+  "id": "1695216",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695216.php",
+  "publishedAt": "2026-07-18T15:25",
+  "title": "Auf Fahrbahnen zugerannt und Widerstand geleistet – DEIG-Einsatz",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-07-17",
+    "street": "Blumberger Damm",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A 29-year-old man in a mental health crisis repeatedly ran toward vehicles on Blumberger Damm and then resisted officers during transport to a hospital. A police officer used a conducted electrical weapon (DEIG) on his arm after a warning; he was not injured and was admitted to psychiatric care.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "conducted electrical weapon (DEIG)"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.767Z"
+}

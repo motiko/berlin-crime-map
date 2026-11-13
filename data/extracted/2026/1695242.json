@@ -1,0 +1,21 @@
+{
+  "id": "1695242",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695242.php",
+  "publishedAt": "2026-07-19T12:55",
+  "title": "Auseinandersetzung im Bus mit Pfefferspray",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-07-18",
+    "street": "Lindauer Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": "BVG-Bus Linie 122, Haltestelle Paracelsusbad",
+    "district": "Reinickendorf",
+    "summaryEn": "Two unknown men fought on a BVG bus on line 122 and one sprayed the other with pepper spray. Three people, including the bus driver, suffered facial irritation and refused treatment.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": "pepper spray"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.771Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1731013",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1731013.php",
+  "publishedAt": "2026-10-26T12:33",
+  "title": "Geldautomat auf U-Bahnsteig gesprengt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "explosion",
+    "incidentDate": "2026-10-26",
+    "street": "Gneisenaustraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahnhof Gneisenaustraße",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Two men sprayed surveillance cameras with paint and blew up a freestanding cash machine at the Gneisenaustraße subway station around 2:30 a.m. The station was closed to passengers during the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "explosive"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.030Z"
+}

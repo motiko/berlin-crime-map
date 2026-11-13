@@ -1,0 +1,21 @@
+{
+  "id": "1656281",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1656281.php",
+  "publishedAt": "2026-03-25T15:49",
+  "title": "Verdacht der Brandstiftung – drei Fahrzeuge beschädigt",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "fire",
+    "dead": 0,
+    "district": "Charlottenburg-Wilmersdorf",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-03-25",
+    "injured": 0,
+    "placeName": "Tiefgarage",
+    "street": "Iburger Ufer",
+    "summaryEn": "A vehicle caught fire in an underground car park on Iburger Ufer early in the morning and the flames spread to two more cars and part of the building. Nobody was hurt; police are investigating suspected arson.",
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.994Z"
+}

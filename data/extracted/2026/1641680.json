@@ -1,0 +1,21 @@
+{
+  "id": "1641680",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1641680.php",
+  "publishedAt": "2026-02-09T14:55",
+  "title": "Mehrere Autos in Brand",
+  "location": "Spandau",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-02-09",
+    "street": "Flurende",
+    "houseNumberOrCrossing": null,
+    "placeName": "Falkenhagener Feld",
+    "district": "Spandau",
+    "summaryEn": "Several cars were set on fire in the Falkenhagener Feld area around 4 a.m. and burned out despite firefighting efforts. The flames also damaged five other vehicles parked nearby; the state criminal police fire unit is investigating.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.443Z"
+}

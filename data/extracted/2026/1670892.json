@@ -1,0 +1,21 @@
+{
+  "id": "1670892",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1670892.php",
+  "publishedAt": "2026-05-13T11:27",
+  "title": "Sachbeschädigung - Mahnmal beschmiert",
+  "location": "Mitte",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-05-12",
+    "street": "Putlitzbrücke",
+    "houseNumberOrCrossing": null,
+    "placeName": "Deportationsmahnmal",
+    "district": "Mitte",
+    "summaryEn": "Several graffiti were sprayed on the deportation memorial at Putlitzbrücke in Moabit, reported to police on the afternoon of the previous day. The Staatsschutz (political crime unit) has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.923Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1658414",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1658414.php",
+  "publishedAt": "2026-04-01T11:19",
+  "title": "Schüsse vor Lokal – zwei Verletzte",
+  "location": "Mitte",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-04-01",
+    "street": "Rathenower Straße",
+    "houseNumberOrCrossing": "Otto-Dix-Straße",
+    "placeName": "Bar in Moabit",
+    "district": "Mitte",
+    "summaryEn": "Shots were fired after an argument spilled out of a bar in Moabit, leaving two men with gunshot wounds. Both were taken to hospital and temporarily arrested.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.879Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1715125",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715125.php",
+  "publishedAt": "2026-09-17T10:01",
+  "title": "Farbschmierereien an Wahlkreisbüro",
+  "location": "Pankow",
+  "extraction": {
+    "category": "political",
+    "dead": 0,
+    "district": "Pankow",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-09-16",
+    "injured": 0,
+    "placeName": null,
+    "street": "Wisbyer Straße",
+    "summaryEn": "Unknown suspects smeared unconstitutional slogans and symbols on the windows of a party office. The police state security unit is investigating.",
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.753Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1703512",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703512.php",
+  "publishedAt": "2026-08-16T12:37",
+  "title": "Rassistische Beleidigung",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-08-15",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Volkspark Hasenheide",
+    "district": "Neukölln",
+    "summaryEn": "A 37-year-old man allegedly racially insulted three women aged 23, 24 and 27 in Volkspark Hasenheide. He was detained after a search near the Sommerbad Neukölln and the Staatsschutz is investigating.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.885Z"
+}

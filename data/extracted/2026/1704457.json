@@ -1,0 +1,21 @@
+{
+  "id": "1704457",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704457.php",
+  "publishedAt": "2026-08-19T11:28",
+  "title": "Vermisster Demenzkranker wohlbehalten im Krankenhaus",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2026-08-18",
+    "street": "Hohenzollerndamm",
+    "houseNumberOrCrossing": "11",
+    "placeName": "Dream Apartments hotel",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A 65-year-old man with dementia who had been missing since 16 August was found safe in a hospital. Hospital staff alerted police after recognizing him among patients brought in by the fire service.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.031Z"
+}

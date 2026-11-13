@@ -1,0 +1,21 @@
+{
+  "id": "1664743",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664743.php",
+  "publishedAt": "2026-04-26T13:25",
+  "title": "Zaunelement am Görlitzer Park beschädigt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-04-26",
+    "street": "Görlitzer Straße",
+    "houseNumberOrCrossing": "Oppelner Straße",
+    "placeName": "Görlitzer Park",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Unknown persons damaged a fence section around Görlitzer Park overnight, about 2.5 by 3.5 metres, discovered by a security guard at around 2:15 a.m. The report concerns criminal damage to property.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.744Z"
+}

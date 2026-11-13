@@ -1,0 +1,21 @@
+{
+  "id": "1689936",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689936.php",
+  "publishedAt": "2026-07-06T13:09",
+  "title": "Tötungsdelikt in Krankenhaus – Mordkommission ermittelt",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-07-05",
+    "street": "Rudower Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Krankenhaus",
+    "district": "Neukölln",
+    "summaryEn": "A 26-year-old man fatally injured a 65-year-old man with an unknown object in a hospital after an argument on the previous evening. The suspect was arrested at the scene and a homicide unit has taken over the investigation.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": "unknown object"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.758Z"
+}

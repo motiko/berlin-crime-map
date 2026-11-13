@@ -1,0 +1,21 @@
+{
+  "id": "1711512",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711512.php",
+  "publishedAt": "2026-09-08T13:41",
+  "title": "Senior wieder da",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2026-09-08",
+    "street": "Hindenburgdamm",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A 79-year-old man with dementia who had been missing since 4 September 2026 was found at a construction site on Hindenburgdamm and taken to a nearby emergency room. Police thanked the public for their help in the search.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.749Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1667027",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667027.php",
+  "publishedAt": "2026-05-03T16:34",
+  "title": "Unbekannte attackieren Mann und verletzen ihn",
+  "location": "Pankow",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-05-02",
+    "street": "Greifswalder Straße",
+    "houseNumberOrCrossing": "Danziger Straße",
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "Several unknown attackers punched and kicked a 37-year-old man in Prenzlauer Berg and took his jersey. The victim briefly lost consciousness and was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.934Z"
+}

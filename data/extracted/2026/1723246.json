@@ -1,0 +1,21 @@
+{
+  "id": "1723246",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723246.php",
+  "publishedAt": "2026-10-08T16:01",
+  "title": "Bilanz zur Versammlungslage mit Bezug zum Nahostkonflikt vom 7. Oktober 2026",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-10-07",
+    "street": "Oranienplatz",
+    "houseNumberOrCrossing": null,
+    "placeName": "Oranienplatz",
+    "district": null,
+    "summaryEn": "Police summarized the Berlin demonstrations on the third anniversary of the Hamas attack on Israel; eight pro-Israeli and two pro-Palestinian assemblies were policed. A pro-Palestinian march was dissolved early after antisemitic chants, assaults on officers and other offences; 46 criminal proceedings were opened and four officers were injured.",
+    "injured": 4,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.793Z"
+}

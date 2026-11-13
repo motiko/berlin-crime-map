@@ -1,0 +1,21 @@
+{
+  "id": "1631332",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1631332.php",
+  "publishedAt": "2026-01-07T17:04",
+  "title": "Mann verschanzte sich in Unterkunft - Festnahme",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-01-06",
+    "street": "Heerstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Unterkunft Westend",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A 51-year-old man barricaded himself in a room at a shelter in Westend; a SEK unit with a police dog arrested him after finding Molotov cocktails and preparation materials. He was bitten on an arm and taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.340Z"
+}

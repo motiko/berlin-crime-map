@@ -1,0 +1,21 @@
+{
+  "id": "1671419",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671419.php",
+  "publishedAt": "2026-05-15T14:12",
+  "title": "Schwere Körperverletzung und versuchte räuberische Erpressung – Tatverdächtiger festgenommen",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-05-14",
+    "street": "Sonnenallee",
+    "houseNumberOrCrossing": "Sonnenallee",
+    "placeName": "Bushaltestelle",
+    "district": "Neukölln",
+    "summaryEn": "A 33-year-old man was stabbed in the neck at a bus stop in Neukölln early in the morning, and is in critical condition. Hours later, the 36-year-old suspect allegedly threatened a 32-year-old woman with a knife on a bus in Friedrichshain-Kreuzberg and was arrested.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.967Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1695713",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695713.php",
+  "publishedAt": "2026-07-20T15:20",
+  "title": "Streit im Straßenverkehr eskaliert",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-07-19",
+    "street": "Landsberger Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": "Gemeinschaftsunterkunft Landsberger Allee",
+    "district": "Lichtenberg",
+    "summaryEn": "After a verbal dispute over a driver's speed, a 28-year-old man was struck by a BMW driver who then fled the scene. The 28-year-old was injured and the suspected driver was later found to be over the alcohol limit.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.868Z"
+}

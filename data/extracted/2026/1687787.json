@@ -1,0 +1,21 @@
+{
+  "id": "1687787",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687787.php",
+  "publishedAt": "2026-06-30T13:03",
+  "title": "Gemeinsame Präventionsaktion im ÖPNV im Juli 2026",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "other",
+    "dead": null,
+    "district": null,
+    "houseNumberOrCrossing": null,
+    "incidentDate": null,
+    "injured": null,
+    "placeName": null,
+    "street": null,
+    "summaryEn": "Joint Berlin police and federal police announcement of a crime-prevention campaign in public transport, with advice sessions at several S-Bahn and train stations on 2 to 7 July 2026. The sessions cover civic courage and protection against pickpockets.",
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.777Z"
+}

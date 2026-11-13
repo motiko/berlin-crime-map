@@ -1,0 +1,21 @@
+{
+  "id": "1675852",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675852.php",
+  "publishedAt": "2026-05-30T16:45",
+  "title": "Festnahmen nach Schüssen in die Luft",
+  "location": "Mitte",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-05-30",
+    "street": "Reinickendorfer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A man fired a firearm several times into the air in Wedding during the night. Police later searched a nearby venue on Luxemburger Straße, found a loaded handgun and arrested three male suspects aged 30, 32 and 34.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.901Z"
+}

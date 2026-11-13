@@ -1,0 +1,21 @@
+{
+  "id": "1644882",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1644882.php",
+  "publishedAt": "2026-02-19T13:01",
+  "title": "Unfall beim Abbiegen",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-02-18",
+    "street": "Johannisthaler Chaussee",
+    "houseNumberOrCrossing": "Rudower Straße",
+    "placeName": "Buckow",
+    "district": "Neukölln",
+    "summaryEn": "A car turning left collided with an oncoming car at a junction in Buckow in the evening. Both drivers, a 31-year-old woman and a 26-year-old man, were injured and taken to hospital.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.345Z"
+}

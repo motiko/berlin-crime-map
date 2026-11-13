@@ -1,0 +1,21 @@
+{
+  "id": "1701054",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701054.php",
+  "publishedAt": "2026-08-09T13:47",
+  "title": "Wahlplakate beschädigt – Tatverdächtige festgenommen",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-08-08",
+    "street": "Kolonnenstraße",
+    "houseNumberOrCrossing": "Wilhelm-Kabus-Straße",
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Two suspects, aged 27 and 29, were seen tearing down and defacing election posters in Schöneberg overnight and were arrested in a nearby convenience store. The State Security unit of the LKA is investigating.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.878Z"
+}

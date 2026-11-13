@@ -1,0 +1,21 @@
+{
+  "id": "1705349",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705349.php",
+  "publishedAt": "2026-08-20T12:54",
+  "title": "Kind von Erwachsenen geschlagen",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-08-19",
+    "street": "Marzahner Chaussee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A 13-year-old boy was attacked by adults after a dispute with a 10-year-old, leaving him with arm injuries. He was treated on scene by paramedics and police are investigating the grievous bodily harm.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.763Z"
+}

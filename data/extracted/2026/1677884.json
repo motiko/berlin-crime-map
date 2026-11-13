@@ -1,0 +1,21 @@
+{
+  "id": "1677884",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677884.php",
+  "publishedAt": "2026-06-04T17:34",
+  "title": "Polizeibeamtin angegriffen und verletzt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-06-03",
+    "street": "Am Tempelhofer Berg",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A 16-year-old driver of a rental car was stopped by police, fled and punched a female officer in the face during his arrest. The officer and the suspect were taken to hospital with injuries.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.985Z"
+}

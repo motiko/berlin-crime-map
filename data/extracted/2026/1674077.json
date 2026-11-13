@@ -1,0 +1,21 @@
+{
+  "id": "1674077",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674077.php",
+  "publishedAt": "2026-06-05T11:20",
+  "title": "Schussabgaben auf Personen – Zeuginnen und Zeugen gesucht",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-05-25",
+    "street": "Urbanstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Spielplatz Urbanstraße",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Multiple live rounds were fired at a playground in Kreuzberg on the evening of 25 May 2026; a man present was unharmed. Shots were also reportedly fired on Graefestraße from a Mercedes, and the suspects fled.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.860Z"
+}

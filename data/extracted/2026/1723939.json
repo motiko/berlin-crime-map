@@ -1,0 +1,21 @@
+{
+  "id": "1723939",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723939.php",
+  "publishedAt": "2026-10-11T12:00",
+  "title": "Mann niedergeschlagen – lebensgefährlich verletzt",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-10-10",
+    "street": "Lange Brücke",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Treptow-Köpenick",
+    "summaryEn": "After a brief collision on the street, an 18-year-old allegedly punched a 49-year-old man unconscious, causing him to hit his head on the pavement. The victim suffered a life-threatening head injury and underwent emergency surgery; the suspect was held by witnesses until police arrived.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.950Z"
+}

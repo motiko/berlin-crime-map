@@ -1,0 +1,21 @@
+{
+  "id": "1721183",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721183.php",
+  "publishedAt": "2026-10-03T14:14",
+  "title": "Einbruch in Einfamilienhaus – Ein Tatverdächtiger festgenommen",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-10-02",
+    "street": "Oberhofer Weg",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "Three men were surprised at a single-family home in Lichterfelde in the evening; they fled by car, crashed into three parked cars, and one suspect was arrested. Jewelry was reportedly stolen during the burglary.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.799Z"
+}

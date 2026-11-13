@@ -1,0 +1,21 @@
+{
+  "id": "1717600",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717600.php",
+  "publishedAt": "2026-09-23T14:19",
+  "title": "Distanzelektroimpulsgerät eingesetzt",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-09-22",
+    "street": "Herzbergstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Lichtenberg",
+    "summaryEn": "Police used a taser (DEIG) on a 20-year-old man in a hospital after he became aggressive during admission for a psychiatric crisis. He suffered minor facial injuries and was then admitted to the psychiatric ward.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "Distanzelektroimpulsgerät (taser)"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.957Z"
+}

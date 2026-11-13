@@ -1,0 +1,21 @@
+{
+  "id": "1726395",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726395.php",
+  "publishedAt": "2026-10-15T15:42",
+  "title": "Fußgänger bei Verkehrsunfall verletzt",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-14",
+    "street": "Falkenberger Chaussee",
+    "houseNumberOrCrossing": "Hansastraße",
+    "placeName": "S-Bahnhof Hohenschönhausen",
+    "district": "Lichtenberg",
+    "summaryEn": "A car driver hit a pedestrian crossing the Falkenberger Chaussee in Neu-Hohenschönhausen on the evening before publication. The pedestrian, 47, was taken to hospital with a suspected head injury and a head wound; he had about 1.8 per mille alcohol.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.907Z"
+}

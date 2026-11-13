@@ -1,0 +1,21 @@
+{
+  "id": "1710576",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710576.php",
+  "publishedAt": "2026-09-04T12:49",
+  "title": "Eierwürfe auf Informationsstand einer Partei",
+  "location": "Pankow",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-09-03",
+    "street": "Romain-Rolland-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Heinersdorf",
+    "district": "Pankow",
+    "summaryEn": "Eggs were thrown at a party information stand in Heinersdorf around 17:20. A 74-year-old man standing nearby was hit on the leg and was not physically injured; the State Security unit is investigating.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.684Z"
+}

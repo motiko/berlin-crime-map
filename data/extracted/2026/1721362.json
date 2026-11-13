@@ -1,0 +1,21 @@
+{
+  "id": "1721362",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721362.php",
+  "publishedAt": "2026-10-05T10:30",
+  "title": "Motorradfahrer bei Verkehrsunfall erheblich verletzt",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-04",
+    "street": "Landsberger Allee",
+    "houseNumberOrCrossing": "Arendsweg",
+    "placeName": "Parkplatz eines Baumarktes",
+    "district": "Lichtenberg",
+    "summaryEn": "A 24-year-old motorcyclist was seriously injured after crashing into a curb on the car park of a DIY store on Landsberger Allee. The motorcycle overturned several times and was no longer roadworthy.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.890Z"
+}

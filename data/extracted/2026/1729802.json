@@ -1,0 +1,21 @@
+{
+  "id": "1729802",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1729802.php",
+  "publishedAt": "2026-10-22T14:57",
+  "title": "Mann bei Auseinandersetzung im Straßenverkehr verletzt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-10-21",
+    "street": "Urbanstraße",
+    "houseNumberOrCrossing": "Jahnstraße",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "After a verbal dispute between drivers at a red light, two 20-year-old men allegedly punched a 25-year-old driver and sprayed irritant gas at him. Both suspects were arrested at the scene, and the victim suffered facial bruises and eye and airway irritation.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "irritant spray"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.909Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1673832",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673832.php",
+  "publishedAt": "2026-05-23T13:29",
+  "title": "Homophob beleidigt und Reizstoff ins Gesicht gesprüht",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-05-22",
+    "street": "Karl-Marx-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "Three people aged 23, 24 and 29 were insulted with homophobic remarks and sprayed in the face with irritant spray by two unknown suspects. The state security unit is investigating.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "irritant spray"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.939Z"
+}

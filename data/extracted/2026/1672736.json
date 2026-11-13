@@ -1,0 +1,21 @@
+{
+  "id": "1672736",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672736.php",
+  "publishedAt": "2026-05-20T13:31",
+  "title": "Tatverdächtiger nach Messerangriff festgenommen",
+  "location": "Spandau",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-05-19",
+    "street": "Freiheit",
+    "houseNumberOrCrossing": null,
+    "placeName": "Gemeinschaftsunterkunft",
+    "district": "Spandau",
+    "summaryEn": "A 32-year-old suspect was arrested in a shared accommodation in Spandau over a knife attack on a 15-year-old resident during the night of 18 to 19 May. The teenager suffered a stab wound to the back and was operated on; he was not in mortal danger.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.677Z"
+}

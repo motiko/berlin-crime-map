@@ -1,0 +1,21 @@
+{
+  "id": "1660370",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660370.php",
+  "publishedAt": "2026-04-13T12:13",
+  "title": "Angriff auf Fan-Bus",
+  "location": "Mitte",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-04-12",
+    "street": "Mühlenstraße",
+    "houseNumberOrCrossing": "Am Oberbaum",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A masked group of 20 to 30 people attacked a bus carrying ice hockey fans, stole fan goods and entered the bus. One passenger was injured by a thrown bottle.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "bottle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.996Z"
+}

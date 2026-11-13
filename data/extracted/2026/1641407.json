@@ -1,0 +1,21 @@
+{
+  "id": "1641407",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1641407.php",
+  "publishedAt": "2026-02-08T16:11",
+  "title": "Bilanz zu gestrigen Versammlungen im Stadtgebiet",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-02-07",
+    "street": "Eichhorster Weg",
+    "houseNumberOrCrossing": "Lübarser Straße",
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "Police used direct force to clear protesters from a road during a demonstration against a party event in Reinickendorf, with 30 arrests across several demonstrations in the city on the same day. One officer was hurt and one cyclist reported leg pain after a reported car collision.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.455Z"
+}

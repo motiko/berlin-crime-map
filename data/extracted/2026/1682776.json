@@ -1,0 +1,21 @@
+{
+  "id": "1682776",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682776.php",
+  "publishedAt": "2026-07-02T17:18",
+  "title": "Vermisste 18-Jährige tot aufgefunden",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2026-07-01",
+    "street": "Blissestraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "An 18-year-old woman reported missing since 16 June 2026 was found dead two days before publication; police found no sign of a crime.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.040Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1652487",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1652487.php",
+  "publishedAt": "2026-03-14T15:17",
+  "title": "Kind erleidet Stichverletzung",
+  "location": "Spandau",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-03-13",
+    "street": "Lutoner Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Jonny-K.-Aktivpark",
+    "district": "Spandau",
+    "summaryEn": "A 13-year-old was stabbed in the buttock with a knife during a confrontation between children and a group of about 20 youths in a park. The injured boy was taken to hospital; police say his life was not in danger.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.455Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1643615",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1643615.php",
+  "publishedAt": "2026-02-16T12:45",
+  "title": "Kind nach Unfall im Krankenhaus",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-02-15",
+    "street": "Landsberger Allee",
+    "houseNumberOrCrossing": "Blumberger Damm",
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "An 82-year-old driver allegedly ran a red light on Landsberger Allee and struck a 37-year-old pedestrian and a four-year-old child crossing the road. The child was seriously hurt and taken to hospital, while the pedestrian was treated as an outpatient.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.347Z"
+}

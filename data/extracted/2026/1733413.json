@@ -1,0 +1,21 @@
+{
+  "id": "1733413",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733413.php",
+  "publishedAt": "2026-10-31T11:16",
+  "title": "Schwerer Raub auf Tankstelle",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-10-30",
+    "street": "Friedrichshagener Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Tankstelle",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "Two unknown suspects threatened a 53-year-old gas station employee with a firearm and forced her to open the cash register. They took the cash and fled.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.893Z"
+}

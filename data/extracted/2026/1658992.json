@@ -1,0 +1,21 @@
+{
+  "id": "1658992",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1658992.php",
+  "publishedAt": "2026-04-04T11:19",
+  "title": "Krankenhaus-Patientin nach Brand verstorben",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-04-03",
+    "street": "Walterhöferstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Klinikum in Zehlendorf",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A fire broke out in a hospital bed at a clinic in Zehlendorf around 23:15. The 64-year-old patient was later taken to intensive care with life-threatening burns and died; the cause is under investigation.",
+    "injured": 1,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.958Z"
+}

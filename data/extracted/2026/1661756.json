@@ -1,0 +1,21 @@
+{
+  "id": "1661756",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661756.php",
+  "publishedAt": "2026-04-16T15:42",
+  "title": "Mehrere Brandstiftungen in einer Schule",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-04-15",
+    "street": "Olbersstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Schule",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Several arson fires were set in a school building on Olbersstraße, including a fire in the first floor and fires in two toilets. Earlier fires had been set on 14 April, and no one was injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.833Z"
+}

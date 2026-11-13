@@ -1,0 +1,21 @@
+{
+  "id": "1715729",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715729.php",
+  "publishedAt": "2026-09-18T09:20",
+  "title": "Körperverletzung und versuchter Raub – wer erkennt die Tatverdächtigen?",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-01-01",
+    "street": "Kottbusser Tor",
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahnhof Kottbusser Tor",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Three unknown people demanded money from a 30-year-old man on a staircase at Kottbusser Tor U-Bahn station, then beat him, one using a glass bottle. He was treated as an outpatient and the trio fled without loot.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "glass bottle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.789Z"
+}

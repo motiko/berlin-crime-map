@@ -1,0 +1,21 @@
+{
+  "id": "1645959",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1645959.php",
+  "publishedAt": "2026-02-23T15:47",
+  "title": "Politisch motivierte Sachbeschädigungen an einem Bürokomplex",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-02-23",
+    "street": "Merlitzstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Adlershof",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "Overnight, unknown persons smashed windows, sprayed red paint on signs and stole two flags at an office building of an insurance company in Adlershof. The police state-protection unit (Staatsschutz) has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.459Z"
+}

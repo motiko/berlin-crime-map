@@ -1,0 +1,21 @@
+{
+  "id": "1689603",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689603.php",
+  "publishedAt": "2026-07-05T11:08",
+  "title": "Auseinandersetzung zweier Personengruppen",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-07-04",
+    "street": "Wurzener Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "Two opposing politically motivated groups clashed at a building in Hellersdorf over use of rooms, with fire extinguishers emptied and objects thrown. Later, people on the roof were seen attacking each other with baseball bats; 29 people were detained and no one was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "baseball bat"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.040Z"
+}

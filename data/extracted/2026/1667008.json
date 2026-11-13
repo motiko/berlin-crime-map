@@ -1,0 +1,21 @@
+{
+  "id": "1667008",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667008.php",
+  "publishedAt": "2026-05-02T14:49",
+  "title": "Polizeibeamter von Personengruppe angegriffen und verletzt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-05-01",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Volkspark Friedrichshain",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A group of about ten people grilling illegally in Volkspark Friedrichshain attacked two police officers who had asked them to extinguish the grill, injuring one officer. Three suspects were arrested and the officer could not continue his duty.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "cane"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.764Z"
+}

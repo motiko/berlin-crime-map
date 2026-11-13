@@ -1,0 +1,21 @@
+{
+  "id": "1699865",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699865.php",
+  "publishedAt": "2026-08-04T15:01",
+  "title": "Festnahme nach mutmaßlichem Drogenhandel",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-08-03",
+    "street": "Gothaer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "Police observed suspected drug sales in front of a residential building and later arrested a 49-year-old suspect in his apartment. Officers seized amphetamine in kilogram quantities, cannabis, air rifles and blank-firing replica weapons, and cash.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.785Z"
+}

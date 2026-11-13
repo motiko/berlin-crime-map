@@ -1,0 +1,21 @@
+{
+  "id": "1648270",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1648270.php",
+  "publishedAt": "2026-03-02T12:37",
+  "title": "Festnahme nach versuchtem Autoeinbruch",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-03-01",
+    "street": "Steinmetzstraße",
+    "houseNumberOrCrossing": "Bülowstraße",
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A police officer on patrol arrested a 24-year-old suspected of attempting to break into a parked car with a tool. The suspect dropped the tool when the officer approached.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.372Z"
+}

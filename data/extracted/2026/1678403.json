@@ -1,0 +1,21 @@
+{
+  "id": "1678403",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678403.php",
+  "publishedAt": "2026-06-06T16:03",
+  "title": "Mann geschlagen und getreten - Festnahme",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-06-06",
+    "street": "Müggelheimer Straße",
+    "houseNumberOrCrossing": "Wendenschloßstraße",
+    "placeName": null,
+    "district": "Treptow-Köpenick",
+    "summaryEn": "After a verbal dispute, a 28-year-old man punched a 38-year-old man in the head and kicked him, causing a broken jaw and other injuries. The suspect was arrested nearby, released after identification measures, and investigations continue.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.805Z"
+}

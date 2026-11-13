@@ -1,0 +1,21 @@
+{
+  "id": "1658996",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1658996.php",
+  "publishedAt": "2026-04-04T16:48",
+  "title": "Politiker an Informationsstand angegriffen",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-04-04",
+    "street": "Wilmersdorfer Straße",
+    "houseNumberOrCrossing": "Pestalozzistraße",
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A man attacked a 39-year-old member of the Berlin House of Representatives at a party information stand, striking him in the face after tipping a drink over the stand. The case was taken over by the State Protection unit (Staatsschutz).",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.726Z"
+}

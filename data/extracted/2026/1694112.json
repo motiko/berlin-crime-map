@@ -1,0 +1,21 @@
+{
+  "id": "1694112",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694112.php",
+  "publishedAt": "2026-07-15T15:14",
+  "title": "Mann durch Schussabgaben verletzt",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-07-14",
+    "street": "Gamsbartweg",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "A 33-year-old man was shot in the legs in an altercation with three unknown men in Reinickendorf. He underwent surgery and is hospitalized; police say his life is not in danger.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.016Z"
+}

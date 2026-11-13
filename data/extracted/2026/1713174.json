@@ -1,0 +1,21 @@
+{
+  "id": "1713174",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713174.php",
+  "publishedAt": "2026-09-12T11:54",
+  "title": "Tödlicher Verkehrsunfall",
+  "location": "Pankow",
+  "extraction": {
+    "category": "traffic",
+    "dead": 1,
+    "district": "Pankow",
+    "houseNumberOrCrossing": "Parkstraße",
+    "incidentDate": "2026-09-11",
+    "injured": 2,
+    "placeName": "Weißensee",
+    "street": "Rennbahnstraße",
+    "summaryEn": "A 26-year-old driver turning left collided with an oncoming motorcyclist on Rennbahnstraße in Weißensee. The 61-year-old motorcyclist died later in hospital; the driver and his passenger were treated as outpatients.",
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.964Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1678101",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678101.php",
+  "publishedAt": "2026-06-05T10:46",
+  "title": "Schwangere Beifahrerin nach Verkehrsunfall im Krankenhaus",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-06-04",
+    "street": "Osdorfer Straße",
+    "houseNumberOrCrossing": "Jenbacher Weg",
+    "placeName": "Lichterfelde",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A Peugeot driver veered into oncoming traffic on Osdorfer Straße in Lichterfelde and collided with an electric car. Three people were hurt, including a pregnant passenger who was taken to hospital.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.750Z"
+}

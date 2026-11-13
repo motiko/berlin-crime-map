@@ -1,0 +1,21 @@
+{
+  "id": "1684086",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684086.php",
+  "publishedAt": "2026-06-20T13:41",
+  "title": "Mann bei Raub verletzt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-06-20",
+    "street": "Kinzigstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A 37-year-old man was robbed of his shoulder bag by two unknown men at about 4:50 a.m. on Kinzigstraße. He was knocked down, kicked in the head and hospitalized with head injuries.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.015Z"
+}

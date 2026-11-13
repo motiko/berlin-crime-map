@@ -1,0 +1,21 @@
+{
+  "id": "1660112",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660112.php",
+  "publishedAt": "2026-04-10T13:51",
+  "title": "Durchsuchungen wegen illegaler Autovermietungen – Vermögenswerte sichergestellt",
+  "location": "Berlin/Brandenburg",
+  "extraction": {
+    "category": "fraud",
+    "incidentDate": "2026-04-09",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "Police and tax investigators searched 16 properties in Berlin and Brandenburg over alleged insurance premium fraud linked to illegal car rentals. Six suspects are under investigation, with an estimated damage of at least 111,400 euros, and luxury jewelry and four high-end vehicles were seized.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.954Z"
+}

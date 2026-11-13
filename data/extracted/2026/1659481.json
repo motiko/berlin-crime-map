@@ -1,0 +1,21 @@
+{
+  "id": "1659481",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659481.php",
+  "publishedAt": "2026-04-08T11:15",
+  "title": "Verdacht der Körperverletzung und Bedrohung - Polizeilicher Staatsschutz ermittelt",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-04-07",
+    "street": "Schloßstraße",
+    "houseNumberOrCrossing": "Ahornstraße",
+    "placeName": null,
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A 61-year-old man allegedly threatened a politician running an information stand and threatened violence; he was arrested and released after identity checks. The State Security unit has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.774Z"
+}

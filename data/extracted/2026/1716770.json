@@ -1,0 +1,21 @@
+{
+  "id": "1716770",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716770.php",
+  "publishedAt": "2026-09-21T13:45",
+  "title": "Mehrere Straftaten festgestellt – Polizeilicher Staatsschutz ermittelt",
+  "location": "Pankow",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-09-20",
+    "street": "Schäferstege",
+    "houseNumberOrCrossing": null,
+    "placeName": "Blankenburg",
+    "district": "Pankow",
+    "summaryEn": "Police found multiple graffiti, including a swastika, on a footpath and removed stickers with unconstitutional symbols from a car. A 23-year-old companion then allegedly threatened and insulted two kiosk workers in a xenophobic manner; the State Protection unit has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.987Z"
+}

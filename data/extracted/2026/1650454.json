@@ -1,0 +1,21 @@
+{
+  "id": "1650454",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1650454.php",
+  "publishedAt": "2026-03-08T12:37",
+  "title": "Mann bei Streit mit Messer verletzt",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-03-07",
+    "street": "Karl-Marx-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "During an argument in Neukölln, an unknown suspect allegedly stabbed a 29-year-old man several times in the leg with a knife. The victim was taken to hospital for inpatient treatment.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.461Z"
+}

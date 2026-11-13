@@ -1,0 +1,21 @@
+{
+  "id": "1665505",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665505.php",
+  "publishedAt": "2026-04-28T10:39",
+  "title": "Schüsse auf Autoteilehandel",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-04-27",
+    "street": "Lahnstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "Several bullet holes were found in the entrance door of an auto parts dealer in Neukölln on the morning of 27 April. Employees discovered the damage around 6 a.m. and alerted police, who secured several cartridge casings.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.855Z"
+}

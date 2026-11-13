@@ -1,0 +1,21 @@
+{
+  "id": "1658249",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1658249.php",
+  "publishedAt": "2026-03-31T17:12",
+  "title": "Mehrere Schüsse auf Lokal",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-03-31",
+    "street": "Buschkrugallee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "Several bullet holes were found in a restaurant or bar on Buschkrugallee in Neukölln when an employee opened it around 15:10. Police secured several cartridge casings; no one was reported injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.750Z"
+}

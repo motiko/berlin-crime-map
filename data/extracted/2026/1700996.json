@@ -1,0 +1,21 @@
+{
+  "id": "1700996",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700996.php",
+  "publishedAt": "2026-08-08T11:40",
+  "title": "E-Scooter-Fahrer nach Sturz in Lebensgefahr",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-08-07",
+    "street": "Allee der Kosmonauten",
+    "houseNumberOrCrossing": "Rhinstraße",
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "An e-scooter rider, 52, was seriously injured after falling alone on Allee der Kosmonauten in Marzahn. He was put into an artificially induced coma in hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.033Z"
+}

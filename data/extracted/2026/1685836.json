@@ -1,0 +1,21 @@
+{
+  "id": "1685836",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1685836.php",
+  "publishedAt": "2026-06-25T11:35",
+  "title": "Geparktes Fahrzeug in Brand geraten – zwei weitere beschädigt",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-06-24",
+    "street": "Glashütter Weg",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "A parked Audi caught fire overnight in Rudow and two other nearby parked cars were damaged. Nobody was hurt, and the fire cause is being investigated by a arson unit of the LKA.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.968Z"
+}

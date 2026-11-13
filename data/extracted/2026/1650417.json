@@ -1,0 +1,21 @@
+{
+  "id": "1650417",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1650417.php",
+  "publishedAt": "2026-03-17T09:35",
+  "title": "Vermisster Mann tot geborgen",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2026-03-16",
+    "street": "Landwehrkanal",
+    "houseNumberOrCrossing": "Lohmühlenbrücke",
+    "placeName": "Landwehrkanal",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A 31-year-old man missing since February 2026 was found dead in the Landwehrkanal, east of the Lohmühlenbrücke. No signs of a criminal offence have been found so far and an autopsy has been suggested.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.408Z"
+}

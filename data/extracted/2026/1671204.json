@@ -1,0 +1,21 @@
+{
+  "id": "1671204",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671204.php",
+  "publishedAt": "2026-05-14T15:55",
+  "title": "Festnahme nach mehreren Straftaten und Angriff auf Polizeibeamten",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-05-13",
+    "street": "Groß-Ziethener Chaussee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "After being dismissed from his job, a 20-year-old man threatened a woman, stole a canister of liquid soap and caused disturbances in Rudow, then kicked a police officer during his arrest. The officer was injured and the man was taken into preventive custody.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.701Z"
+}

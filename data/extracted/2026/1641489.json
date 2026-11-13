@@ -1,0 +1,21 @@
+{
+  "id": "1641489",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1641489.php",
+  "publishedAt": "2026-02-09T11:12",
+  "title": "Schüsse auf Bürogebäude",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-02-08",
+    "street": "Boschweg",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "Unknown person fired several shots at an office in Neukölln on the evening before publication. Bullet holes were found in an office door of a workshop; nobody was injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.344Z"
+}

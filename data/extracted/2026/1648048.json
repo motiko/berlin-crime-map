@@ -1,0 +1,21 @@
+{
+  "id": "1648048",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1648048.php",
+  "publishedAt": "2026-03-01T13:01",
+  "title": "Bei Verkehrsunfall tödlich verletzt",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-03-01",
+    "street": "Aroser Allee",
+    "houseNumberOrCrossing": "Zermatter Straße",
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "A 29-year-old driver crashed a car into a tree on Aroser Allee in the early hours and died at the scene. Two passengers aged 29 and 30 were hospitalized with injuries.",
+    "injured": 2,
+    "dead": 1,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.370Z"
+}

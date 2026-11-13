@@ -1,0 +1,21 @@
+{
+  "id": "1672238",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672238.php",
+  "publishedAt": "2026-05-19T14:20",
+  "title": "Mutmaßliche Kabeldiebe gefasst",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-05-18",
+    "street": "Jungfernheideweg",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Police arrested three suspected cable thieves after they were seen carrying cables out of a wooded area. Copper cables, tools and a utility knife were seized from a car trunk.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.730Z"
+}

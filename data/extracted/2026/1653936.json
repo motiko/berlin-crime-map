@@ -1,0 +1,21 @@
+{
+  "id": "1653936",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1653936.php",
+  "publishedAt": "2026-03-18T17:58",
+  "title": "Verkehrsunfall – Radfahrerin und Radfahrer verletzt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-03-18",
+    "street": "Schöneberger Straße",
+    "houseNumberOrCrossing": "Hafenplatz",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Two cyclists collided on the bike lane of Schöneberger Straße while one attempted to overtake on the right as the other turned into a driveway. The female cyclist was seriously injured and taken to hospital, and the male cyclist sustained minor injuries.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.437Z"
+}

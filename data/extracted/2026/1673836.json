@@ -1,0 +1,21 @@
+{
+  "id": "1673836",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673836.php",
+  "publishedAt": "2026-05-24T16:25",
+  "title": "Verbotenes Kraftfahrzeugrennen – Fahrzeuge beschlagnahmt",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-05-23",
+    "street": "BAB 113",
+    "houseNumberOrCrossing": "Anschlussstelle Adlershof",
+    "placeName": "Johannisthal",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "Police stopped two motorcyclists suspected of speeding and an illegal race on the BAB 113 in Johannisthal. Both vehicles and driving licences were seized, and two traffic offence reports were filed.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.981Z"
+}

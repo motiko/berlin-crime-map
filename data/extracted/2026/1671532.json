@@ -1,0 +1,21 @@
+{
+  "id": "1671532",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671532.php",
+  "publishedAt": "2026-05-17T13:21",
+  "title": "Blitzeinbruch in Modegeschäft",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-05-16",
+    "street": "Kurfürstendamm",
+    "houseNumberOrCrossing": "Olivaer Platz",
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Overnight, an unknown offender drove a silver car backwards through the locked entrance of a fashion store on Kurfürstendamm and stole several high-value handbags. The car then fled toward Zoologischer Garten and the trail was lost.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.930Z"
+}

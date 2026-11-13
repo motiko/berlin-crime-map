@@ -1,0 +1,21 @@
+{
+  "id": "1695515",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695515.php",
+  "publishedAt": "2026-07-20T12:04",
+  "title": "Festnahmen nach Wohnungseinbruch",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "burglary",
+    "dead": 0,
+    "district": "Friedrichshain-Kreuzberg",
+    "houseNumberOrCrossing": "Mehringdamm",
+    "incidentDate": "2026-07-19",
+    "injured": 0,
+    "placeName": null,
+    "street": "Mehringdamm",
+    "summaryEn": "Police arrested three suspected burglars after a break-in at a ground-floor flat in a rear building, where a window was smashed and items were stolen. The men were found in a car with suspected stolen goods from the flat and possibly another burglary.",
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.939Z"
+}

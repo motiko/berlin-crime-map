@@ -1,0 +1,21 @@
+{
+  "id": "1687996",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687996.php",
+  "publishedAt": "2026-06-30T16:00",
+  "title": "Kind nach Unfall in Krankenhaus",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-06-30",
+    "street": "Straße 48",
+    "houseNumberOrCrossing": "Pilgramer Straße",
+    "placeName": "Mahlsdorf",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A car turning into Pilgramer Straase in Mahlsdorf hit a five-year-old cyclist on the morning of 30 June 2026. The child was pulled out from under the car by rescuers and taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.057Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1680295",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680295.php",
+  "publishedAt": "2026-06-10T15:04",
+  "title": "Widerstand geleistet – Distanz-Elektroimpulsgerät (DEIG) eingesetzt",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "assault",
+    "dead": 0,
+    "district": "Neukölln",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-06-09",
+    "injured": 6,
+    "placeName": null,
+    "street": "Karl-Marx-Straße",
+    "summaryEn": "Police were called to a restaurant on Karl-Marx-Straße over alleged bill evasion, trespassing and threats by a five-person group. Three men were detained after resisting handcuffing, and a stun device was used on two of them.",
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.035Z"
+}

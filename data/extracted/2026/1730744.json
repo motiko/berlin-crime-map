@@ -1,0 +1,21 @@
+{
+  "id": "1730744",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1730744.php",
+  "publishedAt": "2026-10-24T12:17",
+  "title": "Schussabgabe auf Bar",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-10-24",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Bar in Wilmersdorf",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Several shots were fired at the front windows of a bar in Wilmersdorf around 6:30 a.m., damaging the windows. People inside were not injured, and police secured cartridge casings.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.770Z"
+}

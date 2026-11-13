@@ -1,0 +1,21 @@
+{
+  "id": "1679642",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679642.php",
+  "publishedAt": "2026-06-09T15:42",
+  "title": "Verstorbene Person nach Wohnungsbrand",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-06-09",
+    "street": "Hermsdorfer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "A fire broke out in a ground-floor apartment of an apartment building in Wittenau in the night. A man was found dead in the flat, several people were injured and the building is currently uninhabitable.",
+    "injured": 2,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.991Z"
+}

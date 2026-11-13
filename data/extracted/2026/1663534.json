@@ -1,0 +1,21 @@
+{
+  "id": "1663534",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1663534.php",
+  "publishedAt": "2026-04-22T14:44",
+  "title": "Geschwindigkeitskontrollen im Rahmen der ROADPOL-Aktionswoche „Speedweek“ – Polizei Berlin zieht Bilanz",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-04-13",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "Berlin police reported results of the ROADPOL \"Speedweek\" speed enforcement campaign from 13 to 19 April 2026, including a Blitzermarathon control day on 15 April. At 203 control sites, 6,732 speeding violations were recorded, 58 of them exceeding the limit by more than 31 km/h.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.816Z"
+}

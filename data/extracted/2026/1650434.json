@@ -1,0 +1,21 @@
+{
+  "id": "1650434",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1650434.php",
+  "publishedAt": "2026-03-07T11:27",
+  "title": "Radfahrer stürzt und verstirbt später im Krankenhaus",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-03-06",
+    "street": "Murtzaner Ring",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A 67-year-old cyclist fell on a pavement without outside involvement and died later in hospital after resuscitation attempts. Police investigators are looking into the cause of death.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.416Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1639703",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1639703.php",
+  "publishedAt": "2026-02-02T12:00",
+  "title": "Stein- und Flaschenwürfe bei Versammlung – Polizist verletzt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-02-01",
+    "street": "Schulstraße",
+    "houseNumberOrCrossing": "Müllerstraße",
+    "placeName": "Wedding",
+    "district": "Mitte",
+    "summaryEn": "During a demonstration in Wedding, participants threw stones, bottles and wooden slats toward a residential building, and a bottle hit a police officer on the head. Five people were temporarily detained and the State Protection unit took over investigations into riot charges.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "bottle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.468Z"
+}

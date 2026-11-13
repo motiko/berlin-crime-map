@@ -1,0 +1,21 @@
+{
+  "id": "1631154",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1631154.php",
+  "publishedAt": "2026-01-07T12:26",
+  "title": "Versuchtes Tötungsdelikt – 5. Mordkommission ermittelt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-01-06",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Görlitzer Park",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A 47-year-old man was found bound and seriously injured in Görlitzer Park and left in the cold; a homicide unit is investigating an attempted killing. He was taken to hospital for treatment.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.474Z"
+}

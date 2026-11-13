@@ -1,0 +1,21 @@
+{
+  "id": "1694737",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694737.php",
+  "publishedAt": "2026-07-16T14:47",
+  "title": "Flucht vor der Polizei – Fahrer nach Verkehrsunfall festgenommen",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-16",
+    "street": "Torgauer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A 19-year-old driver fled a police traffic check at high speed and crashed into a parked van in Hellersdorf. He was arrested; his passenger escaped, and the rental car was seized.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.856Z"
+}

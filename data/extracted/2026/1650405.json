@@ -1,0 +1,21 @@
+{
+  "id": "1650405",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1650405.php",
+  "publishedAt": "2026-03-06T15:08",
+  "title": "Durchsuchungen wegen gewerbsmäßiger Hehlerei von Mehrwegpfandkisten",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "raid",
+    "incidentDate": "2026-03-04",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "Police executed four search warrants over suspected commercial handling of stolen reusable deposit crates, with two brothers aged 51 and 56 suspected. About 8,000 crates and around 950,000 euros in cash were seized.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.342Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1727138",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727138.php",
+  "publishedAt": "2026-10-17T11:20",
+  "title": "82-Jähriger nach Verkehrsunfall im Krankenhaus verstorben",
+  "location": "Spandau",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-16",
+    "street": "Prisdorfer Straße",
+    "houseNumberOrCrossing": "Brunsbütteler Damm",
+    "placeName": null,
+    "district": "Spandau",
+    "summaryEn": "An 82-year-old driver collided with a car at the Prisdorfer Straße/Brunsbütteler Damm crossing in Spandau and later died in hospital. His 84-year-old wife and the 28-year-old other driver were also involved; the wife was seriously injured and the other driver was unhurt.",
+    "injured": 2,
+    "dead": 1,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.897Z"
+}

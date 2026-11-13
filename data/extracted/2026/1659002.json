@@ -1,0 +1,21 @@
+{
+  "id": "1659002",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659002.php",
+  "publishedAt": "2026-04-06T11:38",
+  "title": "Nach DEIG-Einsatz festgenommen",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-04-05",
+    "street": "Lichtenrader Damm",
+    "houseNumberOrCrossing": null,
+    "placeName": "Tankstelle",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 27-year-old man allegedly stole two bottles of brandy from a petrol station shortly before midnight and resisted arrest, requiring the use of the DEIG (police special unit) to subdue him. He was taken into custody while intoxicated.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.806Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1726853",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726853.php",
+  "publishedAt": "2026-10-16T13:33",
+  "title": "Polizeibeamter bei Verkehrskontrolle angegriffen",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-10-15",
+    "street": "Heerstraße",
+    "houseNumberOrCrossing": "Sensburger Allee",
+    "placeName": "Westend",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "During a traffic check in Westend, a 20-year-old driver fled and sprayed irritant spray at a police officer, who fell and was hurt. The suspect was later arrested and two irritant spray devices were seized.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "irritant spray"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.880Z"
+}

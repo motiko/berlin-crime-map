@@ -1,0 +1,21 @@
+{
+  "id": "1708325",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708325.php",
+  "publishedAt": "2026-08-29T11:07",
+  "title": "Unfallflucht nach Zusammenstoß mit zweijährigem Jungen",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "traffic",
+    "dead": 0,
+    "district": "Marzahn-Hellersdorf",
+    "houseNumberOrCrossing": "Geraer Ring",
+    "incidentDate": "2026-08-28",
+    "injured": 1,
+    "placeName": null,
+    "street": "Köthener Straße",
+    "summaryEn": "A hit-and-run driver allegedly struck a two-year-old boy at Köthener Straße in Marzahn, then collided with a waiting truck while reversing and fled. The boy was taken to hospital with injuries.",
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.983Z"
+}

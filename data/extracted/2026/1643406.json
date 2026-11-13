@@ -1,0 +1,21 @@
+{
+  "id": "1643406",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1643406.php",
+  "publishedAt": "2026-02-15T15:25",
+  "title": "Toilette besprüht und Jugendlichen geschlagen",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-02-14",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Rheinsteinpark",
+    "district": "Lichtenberg",
+    "summaryEn": "A 19-year-old man sprayed paint inside a public toilet and in the face of a 17-year-old in Karlshorst, then struck him twice in the face. The suspect was arrested and later released after identity checks.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.398Z"
+}

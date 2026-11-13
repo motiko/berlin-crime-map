@@ -1,0 +1,21 @@
+{
+  "id": "1660237",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660237.php",
+  "publishedAt": "2026-04-12T15:30",
+  "title": "E-Scooter-Fahrer nach Verkehrsunfall verletzt",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-04-12",
+    "street": "Puschkinallee",
+    "houseNumberOrCrossing": "Bouchéstraße",
+    "placeName": "Alt-Treptow",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "An e-scooter rider crashed head-on into a car on Puschkinallee early in the morning and was taken to hospital with injuries. A breath test showed about 1.6 per mille alcohol, and a blood sample was taken.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.743Z"
+}

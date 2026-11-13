@@ -1,0 +1,21 @@
+{
+  "id": "1705968",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705968.php",
+  "publishedAt": "2026-08-22T12:43",
+  "title": "Schutzscheibe in Linienbus eingeschlagen",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-08-22",
+    "district": "Treptow-Köpenick",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "S-Plänterwald",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null,
+    "summaryEn": "A man boarded a BVG bus at S-Plänterwald after being asked to leave, then smashed the protective screen to the driver's area with a tool and fled on foot. The driver was not hurt."
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.951Z"
+}

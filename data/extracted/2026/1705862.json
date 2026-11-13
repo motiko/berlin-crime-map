@@ -1,0 +1,21 @@
+{
+  "id": "1705862",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705862.php",
+  "publishedAt": "2026-08-21T14:08",
+  "title": "Mann von mehreren Personen beraubt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-08-21",
+    "street": "Skalitzer Straße",
+    "houseNumberOrCrossing": "Adalbertstraße",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A 40-year-old man was robbed by four unknown men at a street crossing in Kreuzberg in the night. He was punched in the face and ribs, and his wallet and phone were taken with a sharp object.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "sharp object"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.695Z"
+}

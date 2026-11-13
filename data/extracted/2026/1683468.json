@@ -1,0 +1,21 @@
+{
+  "id": "1683468",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683468.php",
+  "publishedAt": "2026-06-18T15:15",
+  "title": "Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum stellen bei Durchsuchungen fünf scharfe Schusswaffen sicher",
+  "location": "Berlin/Brandenburg",
+  "extraction": {
+    "category": "raid",
+    "incidentDate": "2026-06-17",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "Police and prosecutors executed eleven search warrants against 13 suspects over illegal arms trafficking and extortion, seizing five firearms, drugs, cash and knives. Three suspects were arrested and were to be brought before a judge.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.714Z"
+}

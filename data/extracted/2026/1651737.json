@@ -1,0 +1,21 @@
+{
+  "id": "1651737",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1651737.php",
+  "publishedAt": "2026-04-08T15:11",
+  "title": "Kind im Bus angegriffen und beleidigt – Öffentlichkeitsfahndung erfolgreich",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2025-05-28",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Bus der Linie M 21",
+    "district": "Reinickendorf",
+    "summaryEn": "A man insulted and punched a 13-year-old boy during a verbal dispute on a M 21 bus. Police publicly appealed for information, and the suspect has since been identified.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.853Z"
+}

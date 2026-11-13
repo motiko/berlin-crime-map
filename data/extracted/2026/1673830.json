@@ -1,0 +1,21 @@
+{
+  "id": "1673830",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673830.php",
+  "publishedAt": "2026-05-23T11:15",
+  "title": "Hauswand beschmiert – Festnahme",
+  "location": "Mitte",
+  "extraction": {
+    "category": "political",
+    "dead": 0,
+    "district": "Mitte",
+    "houseNumberOrCrossing": "Ostender Straße",
+    "incidentDate": "2026-05-23",
+    "injured": 0,
+    "placeName": null,
+    "street": "Genter Straße",
+    "summaryEn": "A 34-year-old man was caught spray-painting a building facade at night and temporarily arrested after trying to flee. The State Protection unit (Staatsschutz) took over the investigation.",
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.707Z"
+}

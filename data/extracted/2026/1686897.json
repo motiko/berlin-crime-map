@@ -1,0 +1,21 @@
+{
+  "id": "1686897",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686897.php",
+  "publishedAt": "2026-06-28T15:27",
+  "title": "Aus Hochzeitskorso heraus mit Waffe bedroht",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-06-28",
+    "street": "Gülzower Straße",
+    "houseNumberOrCrossing": "Frankfurter Allee",
+    "placeName": "Kaulsdorf",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "During a wedding convoy in Kaulsdorf, a 20-year-old driver was arrested after a witness reported a gun in his car. Police seized an unloaded blank-firing pistol and ammunition; the driver had earlier pointed the weapon at a passing car's occupants.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "blank-firing gun"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.910Z"
+}

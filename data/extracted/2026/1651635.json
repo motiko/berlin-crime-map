@@ -1,0 +1,21 @@
+{
+  "id": "1651635",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1651635.php",
+  "publishedAt": "2026-03-11T16:21",
+  "title": "Jugendliche flüchten vor der Polizei und verursachen Verkehrsunfall",
+  "location": "Spandau",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-03-10",
+    "street": "Heerstraße",
+    "houseNumberOrCrossing": "Bocksfeldplatz",
+    "placeName": "Bocksfeldplatz",
+    "district": "Spandau",
+    "summaryEn": "Four teenagers fled from police in a car without a number plate, driving through several red lights and onto the wrong side of the road before crashing into bushes at Bocksfeldplatz. Three were arrested and one slightly injured.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.425Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1653115",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1653115.php",
+  "publishedAt": "2026-03-17T11:19",
+  "title": "Festnahmen nach räuberischem Diebstahl",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-03-16",
+    "street": "Kottbusser Tor",
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahnhof Kottbusser Tor",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Two men were arrested after a suspected snatch theft on a subway platform, during which a 41-year-old woman and her 38-year-old companion were assaulted. An axe was used in the ensuing fight, and the 38-year-old was injured.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "axe"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.405Z"
+}

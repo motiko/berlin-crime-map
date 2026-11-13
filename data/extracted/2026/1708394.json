@@ -1,0 +1,21 @@
+{
+  "id": "1708394",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708394.php",
+  "publishedAt": "2026-08-30T12:58",
+  "title": "Fußgänger bei Unfall verletzt",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-08-29",
+    "street": "Johannisthaler Chaussee",
+    "houseNumberOrCrossing": "Kirschnerweg",
+    "placeName": "Gropiusstadt",
+    "district": "Neukölln",
+    "summaryEn": "A car driver hit a 20-year-old pedestrian crossing Johannisthaler Chaussee in Gropiusstadt late at night. The pedestrian suffered head injuries and was taken to hospital; life is not believed to be in danger.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.806Z"
+}

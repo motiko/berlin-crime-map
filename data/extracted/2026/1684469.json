@@ -1,0 +1,21 @@
+{
+  "id": "1684469",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684469.php",
+  "publishedAt": "2026-06-22T14:56",
+  "title": "Verkehrsunfall mit Fahrzeug der Berliner Feuerwehr - Zeuginnen und Zeugen gesucht",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-06-20",
+    "street": "Hohenzollerndamm",
+    "houseNumberOrCrossing": "Fehrbelliner Platz",
+    "placeName": "Fehrbelliner Platz",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A car collided with a Berlin fire brigade fire engine responding to an emergency with lights on at the Fehrbelliner Platz junction. Police are seeking witnesses and video footage; the traffic light phase is under investigation.",
+    "injured": 6,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.949Z"
+}

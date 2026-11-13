@@ -1,0 +1,21 @@
+{
+  "id": "1642565",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1642565.php",
+  "publishedAt": "2026-02-11T16:59",
+  "title": "Versuchter schwerer Diebstahl aus Pkw",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-02-10",
+    "street": "Hermannstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "Two men aged 31 and 32 were arrested after attempting to steal from a parked car in Neukölln. Police also seized a signal jammer from one of them.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.405Z"
+}

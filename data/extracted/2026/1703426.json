@@ -1,0 +1,21 @@
+{
+  "id": "1703426",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703426.php",
+  "publishedAt": "2026-08-15T10:57",
+  "title": "Zwei Männer durch Messerstiche verletzt",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-08-14",
+    "street": "Neue Krugallee",
+    "houseNumberOrCrossing": null,
+    "placeName": "Grünfläche an der Neuen Krugallee",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "After a misunderstanding in a group gathering, a man stabbed a 48-year-old repeatedly and also attacked a 45-year-old friend who came to help; the 48-year-old was in life-threatening condition. The suspect fled and was arrested later in Niederschöneweide.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.768Z"
+}

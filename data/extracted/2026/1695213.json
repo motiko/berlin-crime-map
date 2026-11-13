@@ -1,0 +1,21 @@
+{
+  "id": "1695213",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695213.php",
+  "publishedAt": "2026-07-18T12:16",
+  "title": "Mit Messer und Baseballschläger lebensbedrohlich verletzt",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-07-17",
+    "street": "Großbeerenstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Tankstelle Mariendorf",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Four unknown men attacked a car with a baseball bat and stabbed an 18-year-old occupant, who was seriously injured. Two companions aged 16 and 20 were hurt by shattered windows.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": "knife, baseball bat"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.026Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1669806",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669806.php",
+  "publishedAt": "2026-05-10T15:15",
+  "title": "Stein- und Flaschenwürfe auf Einsatzkräfte",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-05-09",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Kottbusser Tor",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Around ten people attacked police officers with stones and bottles at Kottbusser Tor after a man was arrested for hitting an officer in the face. One officer was injured in the leg and another in the head, hand and knee area.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.838Z"
+}

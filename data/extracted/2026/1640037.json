@@ -1,0 +1,21 @@
+{
+  "id": "1640037",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1640037.php",
+  "publishedAt": "2026-02-03T11:41",
+  "title": "Frau und Mann bei Raubüberfall verletzt",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-02-02",
+    "street": "Alt-Rudow",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "Three masked men robbed a jewelry and watch shop in Rudow in the morning, dousing and beating the owner and a 57-year-old employee with an unknown liquid. Both victims were injured and treated as outpatients.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.401Z"
+}

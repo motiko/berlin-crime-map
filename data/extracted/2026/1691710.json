@@ -1,0 +1,21 @@
+{
+  "id": "1691710",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691710.php",
+  "publishedAt": "2026-07-09T14:24",
+  "title": "Moscheemauer mit Farbschmierereien beschädigt – Tatverdächtiger festgenommen",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-07-08",
+    "street": "Columbiadamm",
+    "houseNumberOrCrossing": null,
+    "placeName": "Moschee",
+    "district": "Neukölln",
+    "summaryEn": "Around 0:45 a mosque's outer wall on Columbiadamm was sprayed with large black graffiti over about 150 meters. A 30-year-old suspect was arrested at the scene and later released after police measures.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.938Z"
+}

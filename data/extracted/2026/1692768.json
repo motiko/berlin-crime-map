@@ -1,0 +1,21 @@
+{
+  "id": "1692768",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692768.php",
+  "publishedAt": "2026-07-13T15:00",
+  "title": "Ausschreitungen in der Rigaer Straße – Strafermittlungsverfahren eingeleitet",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-07-11",
+    "street": "Rigaer Straße",
+    "houseNumberOrCrossing": "Liebigstraße",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Over the weekend of 11 July 2026, groups in Friedrichshain set fires on the street, burned bins and a construction barrier, and attacked police with pyrotechnics and a glass bottle during a rally-related disturbance. No one was injured; four criminal proceedings were opened.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.912Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1689620",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689620.php",
+  "publishedAt": "2026-07-05T15:18",
+  "title": "Bewaffneter Überfall auf Schnellrestaurant",
+  "location": "Pankow",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-07-05",
+    "street": "Prenzlauer Promenade",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "A masked person threatened a fast-food restaurant employee with a pistol at about 3:10 a.m. demanding the cash register be opened. The employee sprayed the attacker with pepper spray and the attacker fled without loot.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "pistol"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.689Z"
+}

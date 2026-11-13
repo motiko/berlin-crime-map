@@ -1,0 +1,21 @@
+{
+  "id": "1684224",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684224.php",
+  "publishedAt": "2026-06-22T10:40",
+  "title": "Sechs Verletzte nach Verkehrsunfall – Säugling in Lebensgefahr",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-06-21",
+    "street": "Roedernallee",
+    "houseNumberOrCrossing": "Thyssentraße",
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "A rental car turning on Roedernallee collided with another car, injuring six people, including a one-month-old baby in life-threatening condition. The road was closed for about five hours during the investigation.",
+    "injured": 6,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.999Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1733416",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733416.php",
+  "publishedAt": "2026-10-31T11:28",
+  "title": "Verhaltensauffällige Frau sticht einem Polizisten bei Widerstandshandlungen in den Arm",
+  "location": "Pankow",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-10-31",
+    "street": "Landsberger Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "During an emergency psychiatric transport in Prenzlauer Berg, a woman stabbed at police officers during her arrest. A police officer was injured in the arm and was treated at a hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.889Z"
+}

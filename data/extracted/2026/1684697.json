@@ -1,0 +1,21 @@
+{
+  "id": "1684697",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684697.php",
+  "publishedAt": "2026-06-23T08:32",
+  "title": "Kind bei Verkehrsunfall verletzt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-06-22",
+    "street": "Alt-Moabit",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A six-year-old girl stepped out between parked cars in Alt-Moabit and was hit by a passing car. She was injured in the pelvis and head area and taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.802Z"
+}

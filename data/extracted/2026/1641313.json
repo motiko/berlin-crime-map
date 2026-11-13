@@ -1,0 +1,21 @@
+{
+  "id": "1641313",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1641313.php",
+  "publishedAt": "2026-02-06T14:53",
+  "title": "Verkehrsunfall mit mehreren beschädigten Fahrzeugen",
+  "location": "Spandau",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-02-05",
+    "street": "Brunsbütteler Damm",
+    "houseNumberOrCrossing": "Päwesiner Weg",
+    "placeName": "Staaken",
+    "district": "Spandau",
+    "summaryEn": "A driver lost control of his rented car on Brunsbütteler Damm in Staaken and crashed into parked vehicles, pushing one into a residential building. The driver and his passenger were injured, and police are investigating suspected drunk driving and an illegal street race.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.394Z"
+}

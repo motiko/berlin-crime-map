@@ -1,0 +1,21 @@
+{
+  "id": "1721177",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721177.php",
+  "publishedAt": "2026-10-03T12:43",
+  "title": "DEIG-Einsatz – Festnahme nach Hausfriedensbruch, Sachbeschädigung und Widerstand gegen Vollstreckungsbeamte",
+  "location": "Mitte",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-10-02",
+    "street": "Zionskirchstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "Police were called to a person behaving erratically on a roof, who then entered a flat under renovation and barricaded himself in a bathroom. He was subdued with a stun device, arrested and taken to hospital; charges include trespassing, property damage and resisting officers.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.043Z"
+}

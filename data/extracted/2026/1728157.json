@@ -1,0 +1,21 @@
+{
+  "id": "1728157",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1728157.php",
+  "publishedAt": "2026-10-20T12:03",
+  "title": "In Wohnung gewürgt – Täter flüchtet",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-10-19",
+    "street": "Witzlebenstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A 61-year-old man was attacked and strangled in his apartment by a previously unknown acquaintance, who fled after the man reached for a kitchen knife. The victim suffered head and shoulder injuries and was hospitalized.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.968Z"
+}

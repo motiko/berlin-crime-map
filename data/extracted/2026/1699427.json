@@ -1,0 +1,21 @@
+{
+  "id": "1699427",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699427.php",
+  "publishedAt": "2026-08-03T10:48",
+  "title": "Motorradfahrer bei Unfall verletzt",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-08-02",
+    "street": "Grottkauer Straße",
+    "houseNumberOrCrossing": "Baltenring",
+    "placeName": "Kaulsdorf",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A 45-year-old motorcyclist lost control while overtaking on Grottkauer Straße in Kaulsdorf, hitting a bollard and a tree. He was injured and taken to hospital; he did not hold a valid driving licence.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.814Z"
+}

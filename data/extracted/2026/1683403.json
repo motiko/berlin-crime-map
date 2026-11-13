@@ -1,0 +1,21 @@
+{
+  "id": "1683403",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683403.php",
+  "publishedAt": "2026-06-18T14:18",
+  "title": "Reizstoff in Linienbus versprüht – Mehrere Fahrgäste verletzt",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-06-17",
+    "street": "Johannisthaler Chaussee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "During a dispute on a BVG bus in Gropiusstadt, pepper spray was released, injuring nine passengers, two of them children. The suspect was detained for identification and released.",
+    "injured": 9,
+    "dead": 0,
+    "weaponType": "pepper spray"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.964Z"
+}

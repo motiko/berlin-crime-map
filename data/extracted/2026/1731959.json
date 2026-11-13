@@ -1,0 +1,21 @@
+{
+  "id": "1731959",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1731959.php",
+  "publishedAt": "2026-10-28T11:42",
+  "title": "Autofahrer flüchtet vor Verkehrskontrolle – Polizeibeamter verletzt",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-27",
+    "street": "Steinhellenweg",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 19-year-old driver fled a traffic check in Mariendorf, driving into bushes and a parked car and accelerating while an officer stood on the bonnet. The officer was injured in a fall and the driver was later found at a hospital; he had no valid driving licence.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.840Z"
+}

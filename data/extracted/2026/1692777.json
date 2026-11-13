@@ -1,0 +1,21 @@
+{
+  "id": "1692777",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692777.php",
+  "publishedAt": "2026-07-13T15:20",
+  "title": "Überprüfung im Straßenverkehr führt zu Schusswaffenfund",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "raid",
+    "incidentDate": "2026-07-12",
+    "street": "Lindauer Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "Police stopped a car for suspected drunk driving in Reinickendorf and found a loaded pistol, nitrous oxide canisters, cannabis, medication blisters and cash inside. Both occupants were arrested on suspicion of illegal drug dealing and later released.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.994Z"
+}

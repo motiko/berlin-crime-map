@@ -1,0 +1,21 @@
+{
+  "id": "1625253",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1625253.php",
+  "publishedAt": "2026-01-22T14:55",
+  "title": "Durchsuchungen und Festnahmen nach Angriff und Schussabgaben auf 31-Jährigen",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2025-12-11",
+    "street": "Gartenfelder Straße",
+    "houseNumberOrCrossing": "Simonring",
+    "placeName": "Spätkauf",
+    "district": "Spandau",
+    "summaryEn": "Multiple shots were fired at a 31-year-old man outside a convenience store in Spandau, and he was seriously injured. Police later searched 14 addresses citywide and arrested suspects on suspicion of attempted manslaughter.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.409Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1708224",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708224.php",
+  "publishedAt": "2026-08-28T14:47",
+  "title": "BAO Ferrum und EG Telum: Durchsuchungsmaßnahmen zur Bekämpfung der Schusswaffenkriminalität",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "raid",
+    "incidentDate": "2026-08-26",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "Police searched four properties in Kreuzberg and Neukölln in connection with a weapons law violation, seizing a concealed pistol, ammunition and a blank-firing/signal weapon. Four suspects aged 19 to 35 are under investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.030Z"
+}

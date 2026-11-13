@@ -1,0 +1,21 @@
+{
+  "id": "1639965",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1639965.php",
+  "publishedAt": "2026-02-03T10:22",
+  "title": "Brand in Wohnungslosenlager",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-02-02",
+    "street": "Yorckstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A fire broke out at a homeless encampment on Yorckstraße in Kreuzberg, spreading to a church door. Police suspect arson, and nobody was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.375Z"
+}

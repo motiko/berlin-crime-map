@@ -1,0 +1,21 @@
+{
+  "id": "1662248",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662248.php",
+  "publishedAt": "2026-04-19T13:56",
+  "title": "Verdacht der versuchten gefährlichen Körperverletzung vor einem Parteibüro",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-04-18",
+    "street": "Behaimstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Parteibüro",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A 19-year-old woman reported that a stone was allegedly thrown at her near a party office, narrowly missing her. No one was hurt, and the political police unit is investigating.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.014Z"
+}

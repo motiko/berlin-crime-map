@@ -1,0 +1,21 @@
+{
+  "id": "1674407",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674407.php",
+  "publishedAt": "2026-07-30T16:11",
+  "title": "Öffentlichkeitsfahndung erfolgreich - Tatverdächtiger ermittelt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2025-10-10",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahnhof Alexanderplatz",
+    "district": "Mitte",
+    "summaryEn": "A 17-year-old was attacked on the U8 platform at Alexanderplatz subway station with punches and kicks, suffering facial injuries. A suspect has now been identified after a public appeal, and investigations continue.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.916Z"
+}

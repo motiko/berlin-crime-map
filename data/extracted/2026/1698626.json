@@ -1,0 +1,21 @@
+{
+  "id": "1698626",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698626.php",
+  "publishedAt": "2026-07-30T11:25",
+  "title": "Kind bei Unfall verletzt",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-29",
+    "street": "Werneuchener Straße",
+    "houseNumberOrCrossing": "Genslerstraße",
+    "placeName": "Alt-Hohenschönhausen",
+    "district": "Lichtenberg",
+    "summaryEn": "A 42-year-old driver hit a seven-year-old boy crossing Werneuchener Straße in Alt-Hohenschönhausen on the evening before the report. The boy suffered head and leg injuries and was taken to hospital for inpatient treatment.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.837Z"
+}

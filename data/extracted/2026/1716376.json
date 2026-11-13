@@ -1,0 +1,21 @@
+{
+  "id": "1716376",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716376.php",
+  "publishedAt": "2026-09-20T11:38",
+  "title": "Bedrohung mit Schusswaffe am U-Bahnhof Schönleinstraße",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-09-19",
+    "street": "Schönleinstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahnhof Schönleinstraße",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Around 23:00 a man allegedly threatened a passenger with a firearm on a U8 train, pressing it to the passenger's head. No one was hurt, and the suspect fled before police arrived at Schönleinstraße station.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.767Z"
+}

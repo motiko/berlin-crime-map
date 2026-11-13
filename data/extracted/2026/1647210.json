@@ -1,0 +1,21 @@
+{
+  "id": "1647210",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1647210.php",
+  "publishedAt": "2026-02-26T11:30",
+  "title": "Frau nach Angriff verletzt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-02-25",
+    "street": "Müllerstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A man punched a 41-year-old woman in the face outside a shop in Müllerstraße, then fled. He was arrested at Wedding subway station, and the woman was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.355Z"
+}

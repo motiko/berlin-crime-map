@@ -1,0 +1,21 @@
+{
+  "id": "1671427",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671427.php",
+  "publishedAt": "2026-05-18T08:26",
+  "title": "Vermisster 53-Jähriger wieder da",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2026-05-12",
+    "street": "Fuggerstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 53-year-old man missing since 12 May 2026 has been found safe and returned to his residential facility in Schöneberg. He had left the facility on foot in an unknown direction.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.850Z"
+}

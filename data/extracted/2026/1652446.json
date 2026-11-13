@@ -1,0 +1,21 @@
+{
+  "id": "1652446",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1652446.php",
+  "publishedAt": "2026-03-13T15:20",
+  "title": "Bekämpfung der Arzneimittelkriminalität",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-03-12",
+    "street": "Kurfürstendamm",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Police searched eight properties, including two pharmacies, over suspected illegal trade in prescription-only medicines. About 300 packs of medication and 249,910 euros in cash were seized.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.428Z"
+}

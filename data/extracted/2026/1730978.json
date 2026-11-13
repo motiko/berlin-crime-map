@@ -1,0 +1,21 @@
+{
+  "id": "1730978",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1730978.php",
+  "publishedAt": "2026-10-26T11:43",
+  "title": "Mann mit Messer verletzt – Festnahme",
+  "location": "Pankow",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-10-25",
+    "street": "Oderberger Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "A 47-year-old man allegedly stabbed a 42-year-old man in the upper body on Oderberger Straße in the evening. The suspect was arrested in a nearby bar and the knife was seized.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.941Z"
+}

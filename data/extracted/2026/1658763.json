@@ -1,0 +1,21 @@
+{
+  "id": "1658763",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1658763.php",
+  "publishedAt": "2026-04-02T10:32",
+  "title": "Auf Lokal geschossen",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "shooting",
+    "dead": 0,
+    "district": "Neukölln",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-04-02",
+    "injured": 0,
+    "placeName": null,
+    "street": "Hermannstraße",
+    "summaryEn": "Two masked men fired several shots at the front window of a bar in Neukölln early in the morning while up to six people were inside. No injuries have been reported so far.",
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.776Z"
+}

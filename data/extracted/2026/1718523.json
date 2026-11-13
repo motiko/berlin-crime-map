@@ -1,0 +1,21 @@
+{
+  "id": "1718523",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718523.php",
+  "publishedAt": "2026-09-26T14:03",
+  "title": "Mann bei Raub mit Messer verletzt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-09-26",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Görlitzer Park",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "An unknown woman stabbed a 60-year-old man in Görlitzer Park around 00:30 and took cash from him before fleeing. The man suffered a facial cut and was taken to hospital for outpatient treatment.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.046Z"
+}

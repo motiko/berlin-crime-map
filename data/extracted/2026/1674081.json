@@ -1,0 +1,21 @@
+{
+  "id": "1674081",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674081.php",
+  "publishedAt": "2026-05-26T12:49",
+  "title": "Antisemitischer Angriff – Zeuginnen und Zeugen gesucht",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-01-25",
+    "street": "Schlesische Straße",
+    "houseNumberOrCrossing": "5",
+    "placeName": "Schlesisches Tor",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Five young men allegedly attacked a 40-year-old man and his 45-year-old companion shortly after midnight, insulting the man antisemitically, and a bag was snatched from the woman. Police are seeking witnesses and are investigating the case with the State Protection unit.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.020Z"
+}

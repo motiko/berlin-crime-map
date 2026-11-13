@@ -1,0 +1,21 @@
+{
+  "id": "1657347",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1657347.php",
+  "publishedAt": "2026-03-28T16:26",
+  "title": "Fahrer nach illegalem Kraftfahrzeugrennen geflüchtet",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-03-27",
+    "street": "Königin-Elisabeth-Straße",
+    "houseNumberOrCrossing": "Knobelsdorffstraße",
+    "placeName": "BAB 100",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A driver fled from a police traffic check in Westend, colliding with a police car during an illegal street race and driving on a sidewalk. Both officers in the police car were injured and ended their shifts.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.698Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1682286",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682286.php",
+  "publishedAt": "2026-06-16T12:45",
+  "title": "Flasche auf Einsatzwagen geworfen",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-06-15",
+    "street": "Skalitzer Straße",
+    "houseNumberOrCrossing": "Schlesisches Tor",
+    "placeName": "U-Bahnhof Görlitzer Park",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A glass bottle thrown from an elevated station platform struck a police vehicle on Skalitzer Straße, causing scratches but no injuries. A 19-year-old suspect was found nearby, with 1.8 per mille alcohol, and later released.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.787Z"
+}

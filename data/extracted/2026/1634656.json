@@ -1,0 +1,21 @@
+{
+  "id": "1634656",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1634656.php",
+  "publishedAt": "2026-01-18T13:25",
+  "title": "Mehrere Autos in Brand gesetzt",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-01-18",
+    "street": "Am Rötepfuhl",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "Unknown perpetrators allegedly set three cars on fire on a residents' parking area on Am Rötepfuhl in the early morning. Two vehicles burned out completely and three further parked cars were damaged by heat; no one was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.425Z"
+}

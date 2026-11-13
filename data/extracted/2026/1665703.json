@@ -1,0 +1,21 @@
+{
+  "id": "1665703",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665703.php",
+  "publishedAt": "2026-04-28T13:27",
+  "title": "Verkehrsunfall zwischen Fußgänger und Straßenbahn",
+  "location": "Pankow",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-04-27",
+    "street": "Schönhauser Allee",
+    "houseNumberOrCrossing": "Milastraße",
+    "placeName": "U-Bahn-Viadukt Schönhauser Allee",
+    "district": "Pankow",
+    "summaryEn": "A 37-year-old pedestrian was hit by a tram line M1 after climbing over a pedestrian barrier under the U-Bahn viaduct on Schönhauser Allee. He was injured and taken to hospital, and the street was closed until about 14:10.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.994Z"
+}

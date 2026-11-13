@@ -1,0 +1,21 @@
+{
+  "id": "1708152",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708152.php",
+  "publishedAt": "2026-08-28T13:27",
+  "title": "Allgemeinverfügung erlassen – Einschränkungen im Bezirk Mitte",
+  "location": "Mitte",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-09-01",
+    "street": "Heinrich-von-Gagern-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Gedenkort für Polen 1939 – 1945, Platz der Republik",
+    "district": "Mitte",
+    "summaryEn": "Police issued a general order with security measures and road closures around the Government District and Tiergarten for a commemoration of the German invasion of Poland on 1 September 2026, from 6 to 20 hours. Parking and public assemblies are prohibited in the restricted areas during that time.",
+    "injured": null,
+    "dead": null,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.940Z"
+}

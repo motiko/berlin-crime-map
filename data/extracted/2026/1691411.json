@@ -1,0 +1,21 @@
+{
+  "id": "1691411",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691411.php",
+  "publishedAt": "2026-07-08T17:04",
+  "title": "Verkehrsunfall auf Einsatzfahrt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-07",
+    "street": "Otto-Braun-Straße",
+    "houseNumberOrCrossing": "Alexanderstraße",
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A police patrol car responding to an emergency call collided with a car at the Otto-Braun-Straße/Alexanderstraße intersection in the evening. Both vehicles were no longer roadworthy, and one officer was injured.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.888Z"
+}

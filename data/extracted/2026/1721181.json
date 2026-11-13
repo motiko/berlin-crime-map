@@ -1,0 +1,21 @@
+{
+  "id": "1721181",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721181.php",
+  "publishedAt": "2026-10-03T14:08",
+  "title": "Zwei fremdenfeindliche Angriffe",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-10-02",
+    "street": "Salvador-Allende-Straße",
+    "houseNumberOrCrossing": "Wendenschloßstraße",
+    "placeName": "Mittelinsel",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A woman wearing a headscarf was insulted with xenophobic remarks and struck on the shoulder by an unknown woman, who also shouted a Nazi-motivated phrase. A witness intervened, and the State Security unit took over the investigation.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.908Z"
+}

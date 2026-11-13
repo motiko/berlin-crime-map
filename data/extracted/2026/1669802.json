@@ -1,0 +1,21 @@
+{
+  "id": "1669802",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669802.php",
+  "publishedAt": "2026-05-10T12:39",
+  "title": "Fußgängerin beim Rangieren angefahren und verletzt",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-05-09",
+    "street": "Lieselotte-Berger-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "A 59-year-old driver hit an 86-year-old pedestrian while reversing at a property driveway in Rudow. The pedestrian suffered a suspected leg fracture and was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.822Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1692490",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692490.php",
+  "publishedAt": "2026-07-13T11:02",
+  "title": "Geldausgabeautomat aus Spätkauf entwendet",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-07-13",
+    "street": "Herrfurthstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Spätkauf",
+    "district": "Neukölln",
+    "summaryEn": "Unknown masked offenders forced entry into a convenience store and stole a cash machine, loading it into a waiting car. They fled in an unknown direction shortly before 2 a.m.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.814Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1635938",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1635938.php",
+  "publishedAt": "2026-01-21T11:45",
+  "title": "Senior vermisst – Polizei bittet um Mithilfe",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "missing",
+    "dead": null,
+    "district": "Reinickendorf",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-01-11",
+    "injured": null,
+    "placeName": null,
+    "street": null,
+    "summaryEn": "A 73-year-old man with dementia has been missing since 11 January 2026. Police are asking the public for information on his whereabouts.",
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.397Z"
+}

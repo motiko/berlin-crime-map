@@ -1,0 +1,21 @@
+{
+  "id": "1634655",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1634655.php",
+  "publishedAt": "2026-01-18T12:51",
+  "title": "Sachbeschädigung mit homophoben Hintergrund",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "political",
+    "dead": 0,
+    "district": "Tempelhof-Schöneberg",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-01-17",
+    "injured": 0,
+    "placeName": null,
+    "street": "Sachsendamm",
+    "summaryEn": "An unknown person threw a paving stone through the glass door of an LGBTQ+ bar on Sachsendamm around 23:30. No one was hurt, and the State Security unit is investigating a suspected anti-gay hate crime.",
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.424Z"
+}

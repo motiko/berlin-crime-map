@@ -1,0 +1,21 @@
+{
+  "id": "1692319",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692319.php",
+  "publishedAt": "2026-07-11T14:52",
+  "title": "E-Scooter-Fahrer und unerlaubt mitfahrende Sozia bei Verkehrsunfall verletzt",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-10",
+    "street": "Britzer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Mariendorf",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 16-year-old e-scooter rider and an unauthorized 15-year-old passenger were injured after a collision with a car on Britzer Straße in Mariendorf. The car driver, 21, could not stop in time.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.706Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1700263",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700263.php",
+  "publishedAt": "2026-08-06T11:19",
+  "title": "Mann durch Messerstiche verletzt",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-08-05",
+    "street": "Hildegard-Knef-Platz",
+    "houseNumberOrCrossing": null,
+    "placeName": "S-Bahnhof Südkreuz",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 19-year-old man allegedly stabbed a 22-year-old man during an argument in front of Südkreuz S-Bahn station overnight. The suspect was arrested at the scene; the injured man underwent emergency surgery and is not in danger of his life.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.792Z"
+}

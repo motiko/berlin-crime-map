@@ -1,0 +1,21 @@
+{
+  "id": "1645550",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1645550.php",
+  "publishedAt": "2026-02-22T12:40",
+  "title": "Spätkauf überfallen – Räuber mit Schusswaffe bewaffnet",
+  "location": "Mitte",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-02-21",
+    "street": "Pankstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "An unknown man threatened an employee of a late-night shop with a firearm shortly before midnight and demanded money and tobacco products. He fled after the employee activated the shutters, and the employee was unharmed.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.342Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1703287",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703287.php",
+  "publishedAt": "2026-08-14T13:46",
+  "title": "Auseinandersetzung beim Anbringen von Wahlplakaten",
+  "location": "Mitte",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-08-13",
+    "street": "Alt-Moabit",
+    "houseNumberOrCrossing": "Beusselstraße",
+    "placeName": "Moabit",
+    "district": "Mitte",
+    "summaryEn": "During an altercation while putting up election posters in Moabit, several men insulted each other and one man was punched in the face by an unknown person. The police Staatsschutz (political crime unit) is investigating.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.747Z"
+}

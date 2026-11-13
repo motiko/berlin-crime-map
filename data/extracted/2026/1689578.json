@@ -1,0 +1,21 @@
+{
+  "id": "1689578",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689578.php",
+  "publishedAt": "2026-07-03T17:13",
+  "title": "Mutmaßlich mit Messer verletzt",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-07-02",
+    "street": "Alt-Mariendorf",
+    "houseNumberOrCrossing": "Am Heidefriedhof",
+    "placeName": "Volkspark Mariendorf",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Two 17-year-old males were injured with cuts after a confrontation between two groups of youths in Volkspark Mariendorf. An unknown person allegedly drew a machete and attacked them.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "machete"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.977Z"
+}

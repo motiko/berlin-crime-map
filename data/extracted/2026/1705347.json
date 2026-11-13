@@ -1,0 +1,21 @@
+{
+  "id": "1705347",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705347.php",
+  "publishedAt": "2026-08-20T12:52",
+  "title": "Senior bei Verkehrsunfall verletzt",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-08-19",
+    "street": "Gutschmidtstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "An 82-year-old scooter rider was seriously injured after colliding with a car while changing lanes on Gutschmidtstraße in Britz. The car driver was unhurt.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.919Z"
+}

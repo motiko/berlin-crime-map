@@ -1,0 +1,21 @@
+{
+  "id": "1700351",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700351.php",
+  "publishedAt": "2026-08-06T12:53",
+  "title": "Raubüberfall auf Lebensmitteldiscounter",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-08-05",
+    "street": "Hauptstraße",
+    "houseNumberOrCrossing": "Rheinstraße",
+    "placeName": "Friedenau",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Two masked men robbed a discount food store in Friedenau in the evening and took cash from the register while armed with a firearm. They fled toward Rheinstraße; a search with a police helicopter was unsuccessful and nobody was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.792Z"
+}

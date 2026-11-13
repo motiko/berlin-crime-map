@@ -1,0 +1,21 @@
+{
+  "id": "1728638",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1728638.php",
+  "publishedAt": "2026-10-21T10:26",
+  "title": "Fußgänger bei Unfall verletzt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-20",
+    "street": "Stralauer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A car hit a 43-year-old pedestrian who stepped into the road on Stralauer Straße in the evening, after emergency braking. A following car then collided with the first vehicle; the pedestrian was taken to hospital with a broken leg and head wound, and two occupants of the second car were treated at the scene.",
+    "injured": 4,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.051Z"
+}

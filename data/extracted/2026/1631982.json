@@ -1,0 +1,21 @@
+{
+  "id": "1631982",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1631982.php",
+  "publishedAt": "2026-01-09T14:09",
+  "title": "Mehrere Verletzte bei Auffahrunfall",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-01-08",
+    "street": "Rummelsburger Straße",
+    "houseNumberOrCrossing": "An der Wuhlheide",
+    "placeName": "Oberschöneweide",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "An 80-year-old driver rear-ended a car waiting at a red light in Oberschöneweide, pushing it into a third vehicle. Three people were injured and taken to hospital, one person was unhurt.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.353Z"
+}

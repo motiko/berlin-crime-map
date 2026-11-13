@@ -1,0 +1,21 @@
+{
+  "id": "1639489",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1639489.php",
+  "publishedAt": "2026-02-01T14:16",
+  "title": "Mit Schreckschusswaffe geschossen",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-02-01",
+    "street": "Warschauer Brücke",
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahnhof Warschauer Straße",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "After an argument at the Warschauer Straße station forecourt, a 42-year-old man allegedly fired a blank-firing gun toward a 27-year-old's head. The 27-year-old was injured in the face and head and treated by paramedics; the suspect was detained.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "blank-firing gun"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.377Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1728134",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1728134.php",
+  "publishedAt": "2026-10-20T11:47",
+  "title": "Verkehrsunfall mit Flucht – Motorrad überschlägt sich",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-19",
+    "street": "Märkische Allee",
+    "houseNumberOrCrossing": "Wittenberger Straße",
+    "placeName": "Marzahn",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A 17-year-old motorcyclist collided with a car at a junction in Marzahn and crashed after the bike overturned. The car driver fled the scene without stopping.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.859Z"
+}

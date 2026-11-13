@@ -1,0 +1,21 @@
+{
+  "id": "1697361",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697361.php",
+  "publishedAt": "2026-07-24T14:49",
+  "title": "Flucht vor der Polizei endet in Sackgasse",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-24",
+    "street": "Blumberger Damm",
+    "houseNumberOrCrossing": "Hohensaatener Straße",
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A 19-year-old driver fled from plainclothes police at high speed in a BMW, including on sidewalks and through a red light, before ending in a dead-end street. He and his 20-year-old passenger were arrested, and the car was seized.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.800Z"
+}

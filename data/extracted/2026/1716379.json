@@ -1,0 +1,21 @@
+{
+  "id": "1716379",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716379.php",
+  "publishedAt": "2026-09-20T12:04",
+  "title": "Jugendliche nach mehreren mutmaßlichen Raubtaten im Mauerpark festgenommen",
+  "location": "Pankow",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-09-19",
+    "street": "Mauerpark",
+    "houseNumberOrCrossing": null,
+    "placeName": "Mauerpark",
+    "district": "Pankow",
+    "summaryEn": "Three youths threatened several teenagers with a knuckleduster and a baton at Mauerpark and robbed them of cash, a wallet and a bank card. Two suspects aged 16 and 17 were arrested at the scene, and a third suspect is still being sought.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knuckleduster and baton"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.932Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1703096",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703096.php",
+  "publishedAt": "2026-08-14T09:57",
+  "title": "Lieferfahrer im Park überfallen",
+  "location": "Spandau",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-08-13",
+    "street": "Georg-Ramin-Grünzug",
+    "houseNumberOrCrossing": null,
+    "placeName": "Georg-Ramin-Grünzug",
+    "district": "Spandau",
+    "summaryEn": "Two unknown men attacked a 25-year-old delivery rider on an e-bike, pepper-sprayed him and punched him before stealing cash and fleeing. The victim was taken to hospital with severe eye irritation.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "pepper spray"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.910Z"
+}

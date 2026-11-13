@@ -1,0 +1,21 @@
+{
+  "id": "1648055",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1648055.php",
+  "publishedAt": "2026-03-01T13:55",
+  "title": "Mann mit Stichverletzungen im Krankenhaus",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-03-01",
+    "street": "Pücklerstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "After a dispute at a bar, a 27-year-old man was stabbed several times in the torso outside the bar in the early hours of the morning. He was taken to hospital with non-life-threatening injuries, and two other men were hurt in the same altercation.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.463Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1637678",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1637678.php",
+  "publishedAt": "2026-01-26T16:26",
+  "title": "Verkehrsunfälle mit Fahrradfahrerin und BVG-Bus",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-01-25",
+    "street": "Holzhauser Straße",
+    "houseNumberOrCrossing": "Conradstraße",
+    "placeName": "Borsigwalde",
+    "district": "Reinickendorf",
+    "summaryEn": "A 63-year-old driver hit a cyclist at a crossing and then collided with a waiting BVG bus while leaving the scene. The cyclist and the driver were injured and taken to hospital; bus occupants were unhurt.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.439Z"
+}

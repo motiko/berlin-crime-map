@@ -1,0 +1,21 @@
+{
+  "id": "1726589",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726589.php",
+  "publishedAt": "2026-10-19T09:35",
+  "title": "Öffentlichkeitsfahndung nach gefährlicher Körperverletzung erfolgreich",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2025-08-30",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahnhof Alt-Mariendorf",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "On a U6 platform at Alt-Mariendorf station, two men allegedly insulted a 30-year-old man in a homophobic manner and assaulted him, also injuring a witness and a bystander. Two 18-year-old suspects have since surrendered to police.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.773Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1642409",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1642409.php",
+  "publishedAt": "2026-02-11T13:04",
+  "title": "Drei Festnahmen nach Verdacht des Betäubungsmittelhandels",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-02-10",
+    "street": "Adalbertstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Police arrested three men on suspicion of illegal drug trading after checks and searches in Friedrichshain-Kreuzberg, seizing cannabis, cocaine, MDMA, amphetamine and ecstasy. During the pursuit of one suspect, a police officer was injured after he tried to resist arrest.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.425Z"
+}

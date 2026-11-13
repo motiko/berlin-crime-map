@@ -1,0 +1,21 @@
+{
+  "id": "1650171",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1650171.php",
+  "publishedAt": "2026-03-06T10:21",
+  "title": "Während der Flucht auf Einsatzkräfte geschossen",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-03-05",
+    "street": "Fontanestraße",
+    "houseNumberOrCrossing": "Hagenstraße",
+    "placeName": "Grunewald",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "After a chase that began with reports of men with a gun, a passenger fired a handgun repeatedly at pursuing police officers, who were unhurt. Two men were arrested after hiding in a residential building's basement; one officer was injured during the arrest.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.463Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1697207",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697207.php",
+  "publishedAt": "2026-07-24T10:18",
+  "title": "Senior nach Verkehrsunfall verstorben – Polizei sucht Ersthelfer und weitere Zeugen",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-21",
+    "street": "Waidmannsluster Damm",
+    "houseNumberOrCrossing": null,
+    "placeName": "Tegel",
+    "district": "Reinickendorf",
+    "summaryEn": "A 78-year-old man crashed his small motorcycle into a construction barrier on Waidmannsluster Damm in Tegel and died two days later. Police are seeking witnesses, especially a cyclist who helped him after the fall.",
+    "injured": 1,
+    "dead": 1,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.933Z"
+}

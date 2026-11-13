@@ -1,0 +1,21 @@
+{
+  "id": "1645431",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1645431.php",
+  "publishedAt": "2026-02-20T13:49",
+  "title": "Autofahrer fährt Fußgänger an",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-02-19",
+    "street": "Pablo-Neruda-Straße",
+    "houseNumberOrCrossing": "Salvador-Allende-Straße",
+    "placeName": null,
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A 35-year-old driver turning left hit a 75-year-old pedestrian at the junction of Pablo-Neruda-Straße and Salvador-Allende-Straße in Köpenick. The pedestrian fell, suffered head injuries and is being treated in hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.443Z"
+}

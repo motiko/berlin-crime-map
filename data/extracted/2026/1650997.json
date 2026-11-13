@@ -1,0 +1,21 @@
+{
+  "id": "1650997",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1650997.php",
+  "publishedAt": "2026-03-10T12:04",
+  "title": "Verkehrsunfall zwischen Tramfahrer und Autofahrer",
+  "location": "Pankow",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-03-09",
+    "street": "Diesterwegstraße",
+    "houseNumberOrCrossing": "Danziger Straße",
+    "placeName": "Prenzlauer Berg",
+    "district": "Pankow",
+    "summaryEn": "A car driver turning left collided with a tram on the M10 line in Prenzlauer Berg after failing to yield, despite emergency braking by the tram driver. The car driver, 45, was injured in the chest area and taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.337Z"
+}

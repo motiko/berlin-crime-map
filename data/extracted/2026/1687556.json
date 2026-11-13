@@ -1,0 +1,21 @@
+{
+  "id": "1687556",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687556.php",
+  "publishedAt": "2026-07-08T15:42",
+  "title": "Vermisstes Mädchen wieder im Kreise der Familie",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2026-06-29",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Anna-Seghers-Schule",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A nine-year-old girl reported missing since 29 June 2026 after failing to arrive at school has been found safe and unharmed. She was returned to her mother.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.978Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1682628",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682628.php",
+  "publishedAt": "2026-06-17T11:19",
+  "title": "Seniorin bei Bremsmanöver in Linienbus verletzt",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-06-16",
+    "street": "Wittelsbacherstraße",
+    "houseNumberOrCrossing": "Kronacher Straße",
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A bus driver braked for traffic on Wittelsbacherstraße in Lichtenrade, and an 85-year-old passenger fell from her seat and suffered serious head injuries. She was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.002Z"
+}

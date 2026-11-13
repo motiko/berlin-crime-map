@@ -1,0 +1,21 @@
+{
+  "id": "1723873",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723873.php",
+  "publishedAt": "2026-10-10T12:44",
+  "title": "Einsatzwagen der Polizei geriet ins Schlingern",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-09",
+    "street": "BAB 111",
+    "houseNumberOrCrossing": null,
+    "placeName": "Tunnel Flughafen Tegel",
+    "district": "Reinickendorf",
+    "summaryEn": "A police patrol car with emergency signals lost control in the Flughafen Tegel tunnel on the A111 and hit the tunnel wall. The crew was not injured, but the vehicle is no longer roadworthy and the motorway was closed until about 21:30.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.984Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1732674",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1732674.php",
+  "publishedAt": "2026-10-29T13:22",
+  "title": "Polizist bei Verkehrsunfall von Regelungstonne geschleudert",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-28",
+    "street": "Fritz-Erler-Allee",
+    "houseNumberOrCrossing": "Johannisthaler Chaussee",
+    "placeName": "Gropiusstadt",
+    "district": "Neukölln",
+    "summaryEn": "At a crossing with a failed traffic light that police were manually directing, two cars collided and a police officer was thrown from a pedestal onto the road. The officer was taken to hospital and admitted.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.766Z"
+}

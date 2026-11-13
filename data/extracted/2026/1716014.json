@@ -1,0 +1,21 @@
+{
+  "id": "1716014",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716014.php",
+  "publishedAt": "2026-09-28T15:56",
+  "title": "64-Jähriger wieder da",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2026-09-10",
+    "street": "Buddeplatz",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "A 64-year-old man reported missing since 10 September 2026 has been found safe at a petrol station in Brandenburg. The public search has been called off.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.954Z"
+}

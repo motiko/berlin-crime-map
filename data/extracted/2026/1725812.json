@@ -1,0 +1,21 @@
+{
+  "id": "1725812",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1725812.php",
+  "publishedAt": "2026-10-14T16:39",
+  "title": "Verkehrsunfall mit Fahrerflucht – Polizei bittet um Mithilfe",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "traffic",
+    "dead": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "houseNumberOrCrossing": "Großbeerenstraße",
+    "incidentDate": "2026-10-07",
+    "injured": 1,
+    "placeName": null,
+    "street": "Kreuzbergstraße",
+    "summaryEn": "A car ran a red light at the Kreuzbergstraße/Großbeerenstraße junction at about 5:35 a.m. and crashed head-on into a waiting Hyundai; the driver was injured and the two occupants of the first car fled on foot. Police are asking witnesses to come forward.",
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.898Z"
+}

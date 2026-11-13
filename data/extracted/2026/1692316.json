@@ -1,0 +1,21 @@
+{
+  "id": "1692316",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692316.php",
+  "publishedAt": "2026-07-11T14:10",
+  "title": "Senior in Kleingartenanlage überfallen",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-07-11",
+    "street": "Ilsenburger Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Kleingartenanlage",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Several unknown attackers tried to rob a 77-year-old man in a allotment garden area in Charlottenburg after he refused to hand over his valuables. He was beaten, bitten and injured with a pointed object, and taken to hospital for outpatient treatment.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.931Z"
+}

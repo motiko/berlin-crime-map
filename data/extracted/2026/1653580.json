@@ -1,0 +1,21 @@
+{
+  "id": "1653580",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1653580.php",
+  "publishedAt": "2026-03-18T10:21",
+  "title": "Verkehrsunfall mit Beteiligung eines Einsatzwagens der Polizei",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-03-17",
+    "street": "Kaiser-Wilhelm-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A police patrol car responding with lights and siren collided with a VW turning left in Lankwitz while using the oncoming lane. The police passenger was injured in the arm and two parked cars were damaged.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.415Z"
+}

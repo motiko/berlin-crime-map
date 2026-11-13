@@ -1,0 +1,21 @@
+{
+  "id": "1636156",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1636156.php",
+  "publishedAt": "2026-01-21T16:22",
+  "title": "Mutmaßlicher Drogenhändler festgenommen",
+  "location": "Mitte",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-01-20",
+    "street": "Ella-Trebe-Straße",
+    "houseNumberOrCrossing": "Europaplatz",
+    "placeName": "Moabit",
+    "district": "Mitte",
+    "summaryEn": "Plainclothes officers arrested a 30-year-old suspected drug dealer in Moabit after he accelerated toward an officer during a traffic stop and resisted arrest. Cocaine-containing packages, cash and the car were seized.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.439Z"
+}

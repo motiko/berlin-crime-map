@@ -1,0 +1,21 @@
+{
+  "id": "1655003",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1655003.php",
+  "publishedAt": "2026-03-23T11:45",
+  "title": "Kind bei Verkehrsunfall verletzt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "traffic",
+    "dead": 0,
+    "district": "Mitte",
+    "houseNumberOrCrossing": "Elberfelder Straße",
+    "incidentDate": "2026-03-22",
+    "injured": 1,
+    "placeName": "Moabit",
+    "street": "Alt-Moabit",
+    "summaryEn": "An 11-year-old cyclist was struck by a car on Alt-Moabit while crossing the road. The child suffered head injuries and was treated as an outpatient at a hospital.",
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.465Z"
+}

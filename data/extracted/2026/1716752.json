@@ -1,0 +1,21 @@
+{
+  "id": "1716752",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716752.php",
+  "publishedAt": "2026-09-21T13:33",
+  "title": "Festnahme nach Handel mit Arzneimitteln",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-09-20",
+    "street": "Kurfürstenstraße",
+    "houseNumberOrCrossing": "Kurfürstendamm",
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Police arrested a 22-year-old driver after observing a bag handover and seizing prescription medicines, a loaded firearm without a full magazine, and about 60 rounds of ammunition. A 29-year-old woman was also investigated and cash was seized from her apartment.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.856Z"
+}

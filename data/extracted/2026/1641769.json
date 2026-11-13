@@ -1,0 +1,21 @@
+{
+  "id": "1641769",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1641769.php",
+  "publishedAt": "2026-02-09T16:28",
+  "title": "Auf BVG-Bus geschossen",
+  "location": "Spandau",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-02-09",
+    "street": "Seeburger Straße",
+    "houseNumberOrCrossing": "Seeburger Weg",
+    "placeName": "Wilhelmstadt",
+    "district": "Spandau",
+    "summaryEn": "Shots were fired at a BVG bus in Wilhelmstadt overnight, leaving a bullet hole in a side window. A passenger sitting behind the window was unhurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.468Z"
+}

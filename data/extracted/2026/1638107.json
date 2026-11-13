@@ -1,0 +1,21 @@
+{
+  "id": "1638107",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1638107.php",
+  "publishedAt": "2026-01-27T15:31",
+  "title": "Mann leistet Widerstand – DEIG eingesetzt",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-01-26",
+    "street": "Czeminskistraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Frauenwohnheim",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 37-year-old man who was asked to leave a women's residence after 10 p.m. resisted arrest, and police used a stun device to subdue him. An officer was injured during the arrest and ended his shift.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "Distanzelektroimpulsgerät (DEIG)"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.364Z"
+}

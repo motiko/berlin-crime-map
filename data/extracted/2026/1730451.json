@@ -1,0 +1,21 @@
+{
+  "id": "1730451",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1730451.php",
+  "publishedAt": "2026-10-23T12:56",
+  "title": "Zwei Festnahmen nach Graffiti-Schmiererei",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-10-23",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Police arrested two suspected graffiti sprayers after six people were seen spraying paint on subway cars on a rail siding between two U-Bahn stations overnight. Four others fled, and evidence including spray cans was seized.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.016Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1699318",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699318.php",
+  "publishedAt": "2026-08-01T11:44",
+  "title": "Schüsse auf Wohnhaus",
+  "location": "Spandau",
+  "extraction": {
+    "category": "shooting",
+    "dead": 0,
+    "district": "Spandau",
+    "houseNumberOrCrossing": "Borkzeile",
+    "incidentDate": "2026-07-31",
+    "injured": 0,
+    "placeName": null,
+    "street": "An der Kappe",
+    "summaryEn": "Shots were fired at a residential building in Spandau on the evening of 31 July, around 20:15. Two suspects fled, and bullet holes were found in an apartment door; nobody was hurt.",
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.687Z"
+}

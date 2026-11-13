@@ -1,0 +1,21 @@
+{
+  "id": "1733252",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733252.php",
+  "publishedAt": "2026-10-30T14:25",
+  "title": "Unfall zwischen Fahrrad und E-Scooter – Polizei bittet um Mithilfe",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-29",
+    "street": "Großbeerenstraße",
+    "houseNumberOrCrossing": "Heusingstraße",
+    "placeName": "Mariendorf",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A cyclist was hit head-on on the bike lane of Großbeerenstraße by an e-scooter that had ridden onto it from the pavement; the two e-scooter riders fled the scene. The 54-year-old cyclist suffered several fractures and was hospitalized.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.783Z"
+}

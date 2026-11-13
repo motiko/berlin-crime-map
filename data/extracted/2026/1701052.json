@@ -1,0 +1,21 @@
+{
+  "id": "1701052",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701052.php",
+  "publishedAt": "2026-08-09T12:59",
+  "title": "Streit zwischen mehreren Personen eskaliert",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-08-08",
+    "street": "Kirschweg",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A dispute in Altglienicke escalated late at night; two men were beaten and a 47-year-old man allegedly struck one with a hammer and then drove a car at them. The 29-year-old was seriously injured and three suspects aged 39 to 47 were identified, all under the influence of alcohol.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "hammer, vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.779Z"
+}

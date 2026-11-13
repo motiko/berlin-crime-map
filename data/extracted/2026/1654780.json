@@ -1,0 +1,21 @@
+{
+  "id": "1654780",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1654780.php",
+  "publishedAt": "2026-03-22T15:51",
+  "title": "Auto überrollt Frau",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-03-21",
+    "street": "Laubacher Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "An unsecured car rolled over a woman, aged 61, who was lying on the ground after a collision with another car. She suffered fractures and was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.445Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1667026",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667026.php",
+  "publishedAt": "2026-05-03T14:05",
+  "title": "Radfahrerin bei Verkehrsunfall verletzt",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-05-02",
+    "street": "Nalepastraße",
+    "houseNumberOrCrossing": "Fritz-König-Weg",
+    "placeName": "Oberschöneweide",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A car turning left collided with an oncoming cyclist on Nalepastraße in Oberschöneweide on the evening before publication. The 63-year-old cyclist was injured and taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.999Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1727423",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727423.php",
+  "publishedAt": "2026-10-19T13:02",
+  "title": "Polizeiliche Maßnahmen wegen des Verdachts der Arzneimittelkriminalität",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "raid",
+    "incidentDate": "2026-10-18",
+    "street": "Naunynstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Police executed a search warrant at a property in Naunynstraße over suspected illegal trade in prescription medicines, finding medicines, narcotics, data carriers and cash. About 140 people gathered in a protest, with verbal protests and an attempt to open a screen; one person was given a police exclusion order and nobody was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.883Z"
+}

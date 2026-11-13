@@ -1,0 +1,21 @@
+{
+  "id": "1641392",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1641392.php",
+  "publishedAt": "2026-02-07T15:38",
+  "title": "Verkehrsunfall nach Flucht vor Polizeikontrolle",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-02-06",
+    "street": "Salzufer",
+    "houseNumberOrCrossing": "Straße des 17. Juni",
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A car fleeing a police check crashed into an oncoming-priority vehicle on Salzufer and then damaged three parked cars. The two occupants fled on foot and the car was seized.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.395Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1658980",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1658980.php",
+  "publishedAt": "2026-04-03T13:16",
+  "title": "Schwerer Verkehrsunfall",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-04-02",
+    "street": "Potsdamer Chaussee",
+    "houseNumberOrCrossing": "Lindenthaler Allee",
+    "placeName": "Schlachtensee",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A 75-year-old woman drove her car off the Potsdamer Chaussee near a petrol station and hit two parked vehicles, and the car overturned onto its roof. She suffered head injuries and was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.933Z"
+}

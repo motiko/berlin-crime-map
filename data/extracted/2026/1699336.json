@@ -1,0 +1,21 @@
+{
+  "id": "1699336",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699336.php",
+  "publishedAt": "2026-08-02T17:59",
+  "title": "Störung beim Anbringen von Wahlplakaten",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-08-02",
+    "street": "Gürtelstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Members of a political party putting up election posters on Gürtelstraße were verbally confronted and a ladder was shaken; one man sprayed animal repellent. Three people were treated in hospital for irritation and breathing difficulties.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": "animal repellent spray"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.673Z"
+}

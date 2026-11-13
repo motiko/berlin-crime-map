@@ -1,0 +1,21 @@
+{
+  "id": "1708384",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708384.php",
+  "publishedAt": "2026-08-30T10:56",
+  "title": "Verstoß gegen das Sprengstoffgesetz - Festnahme",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "explosion",
+    "incidentDate": "2026-08-30",
+    "street": "Glienicker Straße",
+    "houseNumberOrCrossing": "Rudower Straße",
+    "placeName": null,
+    "district": "Treptow-Köpenick",
+    "summaryEn": "Police arrested a 37-year-old man at a street crossing in Köpenick after finding an improvised explosive and incendiary device in his backpack. The device was secured and neutralised, and the man was released after identity checks; the Staatsschutz took over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "explosive"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.043Z"
+}

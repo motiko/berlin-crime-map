@@ -1,0 +1,21 @@
+{
+  "id": "1584373",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1584373.php",
+  "publishedAt": "2026-04-27T16:21",
+  "title": "Vormals Gesuchter gilt nicht mehr als vermisst",
+  "location": "bundeslandübergreifend",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2026-04-27",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "A 45-year-old man previously reported missing is no longer considered missing; police found no indication of distress or a crime. The original missing-person search began on 25 July 2025.",
+    "injured": 0,
+    "dead": null,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.007Z"
+}

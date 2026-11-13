@@ -1,0 +1,21 @@
+{
+  "id": "1691542",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691542.php",
+  "publishedAt": "2026-07-09T10:47",
+  "title": "Toter Säugling aufgefunden – Tatverdächtige ermittelt",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-07-08",
+    "street": "Réaumurstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A dead infant was found on a lawn in a residential complex in Lichterfelde, and a juvenile female suspect has been identified by the homicide unit. The investigation continues.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.011Z"
+}

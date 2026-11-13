@@ -1,0 +1,21 @@
+{
+  "id": "1645411",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1645411.php",
+  "publishedAt": "2026-02-20T12:30",
+  "title": "Autofahrer flüchtete vor Überprüfung - Festnahme",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-02-19",
+    "street": "Salzbrunner Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Schmargendorf",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A driver fled a plainclothes police check at around 21:30, endangering other road users and dragging an officer along the car before being stopped and arrested. Cocaine and cannabis were found in the vehicle, and the driver had no valid licence.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.365Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1646810",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1646810.php",
+  "publishedAt": "2026-02-25T11:34",
+  "title": "Frau fremdenfeindlich beleidigt und angegriffen",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-02-24",
+    "street": "Schloßstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Bus der Linie M48",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A young woman was xenophobically insulted and hit on a bus in Steglitz; the attacker also insulted her at the Schloßstraße stop. The Staatsschutz has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.467Z"
+}

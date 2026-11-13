@@ -1,0 +1,21 @@
+{
+  "id": "1710743",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710743.php",
+  "publishedAt": "2026-09-05T11:26",
+  "title": "Mann mit Schreckschusswaffe beschossen",
+  "location": "Pankow",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-09-05",
+    "street": "Grabbeallee",
+    "houseNumberOrCrossing": "Tschaikowskistraße",
+    "placeName": "Niederschönhausen",
+    "district": "Pankow",
+    "summaryEn": "Two men in a car allegedly fired a blank-firing gun at a man at the roadside in Niederschönhausen around 1 a.m. The apparently injured man left the scene before police arrived.",
+    "injured": null,
+    "dead": 0,
+    "weaponType": "blank-firing gun"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.748Z"
+}

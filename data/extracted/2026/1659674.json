@@ -1,0 +1,21 @@
+{
+  "id": "1659674",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659674.php",
+  "publishedAt": "2026-04-09T09:11",
+  "title": "Verkehrsunfallflucht – Radfahrerin verletzt im Krankenhaus",
+  "location": "Spandau",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-04-08",
+    "street": "Kladower Damm",
+    "houseNumberOrCrossing": "Ritterfelddamm",
+    "placeName": "Kladow",
+    "district": "Spandau",
+    "summaryEn": "A hit-and-run driver pulled out of a parking area and struck a 65-year-old cyclist on Kladower Damm, causing her to fall and be hurt. The driver fled toward Gatow and the cyclist was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.012Z"
+}

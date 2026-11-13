@@ -1,0 +1,21 @@
+{
+  "id": "1655561",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1655561.php",
+  "publishedAt": "2026-03-24T11:34",
+  "title": "Durchsuchungen nach Brandanschlag im September 2025 auf Berliner Stromnetz",
+  "location": "bundeslandübergreifend",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-03-24",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "Police searched about 500 officers' worth of premises in Berlin, Hamburg, North Rhine-Westphalia and Brandenburg in connection with a September 2025 arson attack on two power pylons that caused a large blackout in Berlin. Four suspects aged 28 to 36 are investigated for suspected anti-constitutional sabotage.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.356Z"
+}

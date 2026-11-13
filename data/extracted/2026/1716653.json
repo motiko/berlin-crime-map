@@ -1,0 +1,21 @@
+{
+  "id": "1716653",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716653.php",
+  "publishedAt": "2026-09-21T11:59",
+  "title": "Beraubt und durch Stiche verletzt",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-09-20",
+    "street": "Nogatstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "A 19-year-old man was found with several stab wounds in Nogatstraße and told police he had also been robbed of his phone and cap. He was taken to hospital and is not in danger of his life.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.056Z"
+}

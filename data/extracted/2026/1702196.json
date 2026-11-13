@@ -1,0 +1,21 @@
+{
+  "id": "1702196",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702196.php",
+  "publishedAt": "2026-08-12T13:39",
+  "title": "E-Scooter-Fahrerin fährt Fußgänger an",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-08-11",
+    "street": "Schwarnweberstraße",
+    "houseNumberOrCrossing": "Hechelstraße",
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "An e-scooter rider with an unauthorised passenger struck a pedestrian on a cycle path at about 14:15. The 65-year-old pedestrian was seriously hurt and taken to hospital; the two teenage riders were unhurt.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.926Z"
+}

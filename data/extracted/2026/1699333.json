@@ -1,0 +1,21 @@
+{
+  "id": "1699333",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699333.php",
+  "publishedAt": "2026-08-02T13:29",
+  "title": "Verkehrsunfall mit mehreren Verletzten",
+  "location": "Pankow",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-08-01",
+    "street": "Prenzlauer Promenade",
+    "houseNumberOrCrossing": "Rothenbachstraße",
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "Two cars collided at a junction in Pankow in the evening, when one car was thrown into a traffic light. Two men and two women were injured, the two older ones requiring hospital treatment.",
+    "injured": 4,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.037Z"
+}

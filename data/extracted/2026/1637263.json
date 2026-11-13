@@ -1,0 +1,21 @@
+{
+  "id": "1637263",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1637263.php",
+  "publishedAt": "2026-01-25T15:14",
+  "title": "Spätkauf mit Schusswaffe überfallen",
+  "location": "Mitte",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-01-24",
+    "street": "Waldemarstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A masked unknown man threatened a convenience store clerk with a firearm and took cash at around 20:45 in the evening. He then fled the shop.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.361Z"
+}

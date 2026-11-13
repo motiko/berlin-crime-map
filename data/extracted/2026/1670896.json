@@ -1,0 +1,21 @@
+{
+  "id": "1670896",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1670896.php",
+  "publishedAt": "2026-05-13T11:34",
+  "title": "Festnahme nach mutmaßlichem Diebstahl aus Fahrzeug",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-05-12",
+    "street": "Teterower Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "A man damaged several parked cars and broke into a vehicle in Britz, going through its contents, before being arrested at the Blaschkoallee U-Bahn station. Stolen items were seized from him.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.720Z"
+}

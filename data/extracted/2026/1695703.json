@@ -1,0 +1,21 @@
+{
+  "id": "1695703",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695703.php",
+  "publishedAt": "2026-07-20T15:05",
+  "title": "Verfolgung auf der Müggelspree – Festnahme nach Bootsdiebstahl",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-07-19",
+    "street": "Azaleenstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Müggelspree",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A 19-year-old man allegedly stole a motorboat from a mooring in Köpenick and fled across the Müggelspree before being arrested near Friedrichshagen. He later resisted and insulted police officers at the station.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.802Z"
+}

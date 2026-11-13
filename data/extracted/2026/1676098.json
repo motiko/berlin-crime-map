@@ -1,0 +1,21 @@
+{
+  "id": "1676098",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1676098.php",
+  "publishedAt": "2026-06-01T12:39",
+  "title": "Motorradfahrer und Sozia bei Verkehrsunfall verletzt",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-05-31",
+    "street": "Schramberger Straße",
+    "houseNumberOrCrossing": "Heidenheimer Straße",
+    "placeName": "Hermsdorf",
+    "district": "Reinickendorf",
+    "summaryEn": "A car and a motorcycle collided at a junction in Hermsdorf, causing the motorcyclist and his pillion passenger to fall. Both were injured; the passenger was kept in hospital, and police say there is no danger to life.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.919Z"
+}

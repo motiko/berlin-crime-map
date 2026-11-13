@@ -1,0 +1,21 @@
+{
+  "id": "1693106",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1693106.php",
+  "publishedAt": "2026-07-14T12:06",
+  "title": "Alkoholisierter Kleintransporterfahrer ohne Fahrerlaubnis fährt gegen Motorrad",
+  "location": "Mitte",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-13",
+    "street": "Brunnenstraße",
+    "houseNumberOrCrossing": "Bernauer Straße",
+    "placeName": "Gesundbrunnen",
+    "district": "Mitte",
+    "summaryEn": "A van driver allegedly under the influence of alcohol and without a valid driving licence turned into a motorcyclist at the Brunnenstraße/Bernauer Straße junction. The 18-year-old motorcyclist was injured and taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.762Z"
+}

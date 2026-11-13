@@ -1,0 +1,21 @@
+{
+  "id": "1709651",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709651.php",
+  "publishedAt": "2026-09-02T11:58",
+  "title": "Seniorin bei Verkehrsunfall erheblich verletzt",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-09-01",
+    "street": "Mariendorfer Damm",
+    "houseNumberOrCrossing": "Hundsteinweg",
+    "placeName": "Mariendorf",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "An 80-year-old pedestrian was seriously injured after being hit by a car while crossing Mariendorfer Damm from the median strip. She suffered multiple fractures and was briefly in life-threatening condition.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.842Z"
+}

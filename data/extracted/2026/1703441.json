@@ -1,0 +1,21 @@
+{
+  "id": "1703441",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703441.php",
+  "publishedAt": "2026-08-15T14:50",
+  "title": "Mitarbeiter eines Spätkaufs mit Schusswaffe bedroht und Geld geraubt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-08-14",
+    "street": "Zossener Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "An unknown man threatened a 30-year-old convenience store employee with a firearm and took cash and cigarettes. He fled by car and the employee was unhurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.989Z"
+}

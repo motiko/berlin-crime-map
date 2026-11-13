@@ -1,0 +1,21 @@
+{
+  "id": "1660540",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660540.php",
+  "publishedAt": "2026-04-13T16:46",
+  "title": "Flucht endete mit Unfall",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-04-12",
+    "street": "Bulgarische Straße",
+    "houseNumberOrCrossing": "Alt-Treptow",
+    "placeName": "Plänterwald",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A 22-year-old driver without a valid licence fled a traffic check in Plänterwald and crashed into a tree after mounting the pavement and hitting a pedestrian's area. A pedestrian suffered only grazes and the 19-year-old passenger was hospitalised.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.766Z"
+}

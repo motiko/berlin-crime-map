@@ -1,0 +1,21 @@
+{
+  "id": "1713789",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713789.php",
+  "publishedAt": "2026-09-14T17:38",
+  "title": "Großes Interesse am 45. Tag der offenen Tür der Polizei Berlin",
+  "location": "Spandau",
+  "extraction": {
+    "category": "other",
+    "dead": 0,
+    "district": "Spandau",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-09-13",
+    "injured": 2,
+    "placeName": "Polizeiakademie, Charlottenburger Chaussee",
+    "street": "Charlottenburger Chaussee",
+    "summaryEn": "Police open day at the police academy in Spandau drew about 20,000 visitors. Two children were hit by training ammunition fragments during a demonstration and taken to hospital as a precaution.",
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.047Z"
+}

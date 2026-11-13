@@ -1,0 +1,21 @@
+{
+  "id": "1717074",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717074.php",
+  "publishedAt": "2026-09-22T11:11",
+  "title": "Kind bei Unfall verletzt",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-09-21",
+    "street": "Reginhardstraße",
+    "houseNumberOrCrossing": "Letteallee",
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "A four-year-old boy ran into the road between stationary cars and was struck by a passing car driven by a 19-year-old. The child was injured and taken to hospital for inpatient treatment.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.056Z"
+}

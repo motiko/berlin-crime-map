@@ -1,0 +1,21 @@
+{
+  "id": "1673032",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673032.php",
+  "publishedAt": "2026-05-21T10:03",
+  "title": "Mahnmal beschmiert",
+  "location": "Spandau",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-05-20",
+    "street": "Lindenufer",
+    "houseNumberOrCrossing": null,
+    "placeName": "Mahnmal für die zerstörte Synagoge und die Spandauer Opfer der Shoah",
+    "district": "Spandau",
+    "summaryEn": "Unknown persons smeared a memorial for the destroyed synagogue and the Jewish victims of the Shoah in Spandau with wax crayon over recent days. The State Protection unit (Staatsschutz) has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.050Z"
+}

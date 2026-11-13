@@ -1,0 +1,21 @@
+{
+  "id": "1733414",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733414.php",
+  "publishedAt": "2026-10-31T11:20",
+  "title": "DEIG-Einsatz gegen Randalierer",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-10-30",
+    "street": "Bernstorffstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "A 35-year-old man repeatedly struck parked cars with a wooden batten in Tegel and threatened passers-by and officers with a glass bottle. Police used a taser, which had no effect, and then overpowered him and took him to hospital.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "glass bottle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.950Z"
+}

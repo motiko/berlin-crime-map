@@ -1,0 +1,21 @@
+{
+  "id": "1715289",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715289.php",
+  "publishedAt": "2026-09-17T12:37",
+  "title": "Homophober Angriff",
+  "location": "Pankow",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-09-16",
+    "street": "Landsberger Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": "S-Bahnhof Landsberger Allee",
+    "district": "Pankow",
+    "summaryEn": "A 26-year-old man was attacked by several people at the entrance to Landsberger Allee S-Bahn station late at night, punched in the face, and robbed. The police Staatsschutz unit has taken over the investigation as a suspected anti-gay hate crime.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.047Z"
+}

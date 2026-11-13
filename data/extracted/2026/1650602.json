@@ -1,0 +1,21 @@
+{
+  "id": "1650602",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1650602.php",
+  "publishedAt": "2026-03-09T11:53",
+  "title": "Hauswand mit politischem Inhalt beschmiert",
+  "location": "Pankow",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-03-08",
+    "street": "Thulestraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "A house wall in Thulestraße was smeared with paint, including a politically themed slogan and symbols. A resident alerted police around 9 a.m.; the case is being investigated by a state criminal police specialist unit.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.442Z"
+}

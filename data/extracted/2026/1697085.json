@@ -1,0 +1,21 @@
+{
+  "id": "1697085",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697085.php",
+  "publishedAt": "2026-07-23T17:21",
+  "title": "Sachbeschädigung durch Farbschmiererei an Moschee",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-07-23",
+    "street": "Reuterstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Moschee",
+    "district": "Neukölln",
+    "summaryEn": "Unknown perpetrators sprayed a two-line paint inscription about 1.5 metres long on the outer facade of a mosque. The community arranged for removal, and the State Security unit is investigating.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.024Z"
+}

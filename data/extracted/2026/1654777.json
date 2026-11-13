@@ -1,0 +1,21 @@
+{
+  "id": "1654777",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1654777.php",
+  "publishedAt": "2026-03-22T13:35",
+  "title": "Hochwertige Armbanduhr brutal geraubt",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-03-21",
+    "street": "Alte Hellersdorfer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "Two unknown men attacked a 69-year-old man in the ground floor of an apartment building, tore off his wristwatch and tried to steal his wallet. The victim was treated on scene for injuries to his hand and torso.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.450Z"
+}

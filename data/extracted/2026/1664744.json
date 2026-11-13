@@ -1,0 +1,21 @@
+{
+  "id": "1664744",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664744.php",
+  "publishedAt": "2026-04-26T13:42",
+  "title": "Unbekannte Person fährt mit Auto Fußgänger an und flüchtet",
+  "location": "Mitte",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-04-26",
+    "district": "Mitte",
+    "street": "Lehrter Straße",
+    "houseNumberOrCrossing": "Invalidenstraße",
+    "placeName": "Moabit",
+    "summaryEn": "An unknown driver hit an 83-year-old pedestrian with a car in Lehrter Straße around 1 a.m. and fled the scene. The injured man was taken to hospital by rescue services.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.967Z"
+}

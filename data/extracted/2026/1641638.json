@@ -1,0 +1,21 @@
+{
+  "id": "1641638",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1641638.php",
+  "publishedAt": "2026-02-08T16:29",
+  "title": "Mutmaßlich politisches Tatmotiv - Personengruppe greift zwei Männer an",
+  "location": "Mitte",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-02-07",
+    "street": "Schwartzkopffstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahnhof Schwartzkopffstraße",
+    "district": "Mitte",
+    "summaryEn": "Around 17:00 a group of about six masked people allegedly chased and attacked two men, aged 20 and 22, at a subway station after they passed a Middle East-related demonstration. One attacker allegedly used a knuckle duster; the State Protection unit is investigating a politically motivated assault.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "knuckle duster"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.371Z"
+}

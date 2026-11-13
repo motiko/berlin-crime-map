@@ -1,0 +1,21 @@
+{
+  "id": "1645530",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1645530.php",
+  "publishedAt": "2026-02-21T12:54",
+  "title": "Transmann angespuckt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-02-20",
+    "street": "Rosenthaler Platz",
+    "houseNumberOrCrossing": null,
+    "placeName": "Rosenthaler Platz",
+    "district": "Mitte",
+    "summaryEn": "A 32-year-old trans man was stopped and spat at by an unknown man at Rosenthaler Platz around 11:50. The police state Security Division (Staatsschutz) has taken over the investigation as a transphobic attack.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.376Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1661787",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661787.php",
+  "publishedAt": "2026-04-16T16:53",
+  "title": "Nach EC-Karten-Betrug - Festnahme",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "fraud",
+    "dead": 0,
+    "district": "Friedrichshain-Kreuzberg",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-04-16",
+    "injured": 0,
+    "placeName": null,
+    "street": "Liegnitzer Straße",
+    "summaryEn": "Police were alerted around 0:30 that a credit card was being used without authorisation on Liegnitzer Straße. A 30-year-old suspect was arrested temporarily in a convenience store and cards were seized.",
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.810Z"
+}

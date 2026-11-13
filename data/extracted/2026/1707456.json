@@ -1,0 +1,21 @@
+{
+  "id": "1707456",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707456.php",
+  "publishedAt": "2026-08-27T10:27",
+  "title": "Parteibüro mit Fäkalien beschmiert",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-08-26",
+    "street": "Winckelmannstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Treptow-Köpenick",
+    "summaryEn": "Feces were smeared on the lock and door handle of a party office in Johannisthal, discovered around 3 p.m. The State Security unit has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.764Z"
+}

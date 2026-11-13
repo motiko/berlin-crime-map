@@ -1,0 +1,21 @@
+{
+  "id": "1671531",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671531.php",
+  "publishedAt": "2026-05-17T13:03",
+  "title": "Versuchtes Tötungsdelikt – Mordkommission und Staatsanwaltschaft ermitteln",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-05-16",
+    "street": "Goerzallee",
+    "houseNumberOrCrossing": null,
+    "placeName": "Gemeinschaftsunterkunft",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A 61-year-old man was stabbed in the upper body at a shared accommodation in Lichterfelde and underwent emergency surgery. A 69-year-old suspect was arrested, and a homicide unit is investigating an attempted killing.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.009Z"
+}

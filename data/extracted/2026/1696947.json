@@ -1,0 +1,21 @@
+{
+  "id": "1696947",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696947.php",
+  "publishedAt": "2026-07-23T13:40",
+  "title": "Mann rast durch die Stadt – vorläufige Festnahme",
+  "location": "Mitte",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-22",
+    "street": "Badstraße",
+    "houseNumberOrCrossing": "Brunnenstraße/Gustav-Meyer-Allee",
+    "placeName": "Gesundbrunnen",
+    "district": "Mitte",
+    "summaryEn": "A man was arrested after speeding and driving erratically through Gesundbrunnen in a BMW, endangering several road users. During the identity check he resisted and attacked police officers, and three officers were slightly injured.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.774Z"
+}

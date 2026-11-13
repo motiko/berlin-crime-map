@@ -1,0 +1,21 @@
+{
+  "id": "1664738",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664738.php",
+  "publishedAt": "2026-04-25T15:05",
+  "title": "Kind von Autofahrer angefahren",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "traffic",
+    "dead": 0,
+    "district": "Steglitz-Zehlendorf",
+    "houseNumberOrCrossing": "Viktoriaplatz",
+    "incidentDate": "2026-04-24",
+    "injured": 1,
+    "placeName": null,
+    "street": "Gardeschützenweg",
+    "summaryEn": "A 63-year-old driver hit a 13-year-old girl who ran into the Gardeschützenweg in Lichterfelde. She suffered head injuries and abrasions and was taken to hospital; her life is not in danger.",
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.917Z"
+}

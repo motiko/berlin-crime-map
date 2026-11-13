@@ -1,0 +1,21 @@
+{
+  "id": "1669799",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669799.php",
+  "publishedAt": "2026-05-09T14:53",
+  "title": "Festnahme nach mutmaßlichem Diebstahl von Autorädern",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-05-09",
+    "street": "Marzahner Promenade",
+    "houseNumberOrCrossing": null,
+    "placeName": "Parkplatz Marzahner Promenade",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "Two men aged 24 and 29 were arrested in a car park after allegedly tampering with the wheels of an Audi in the early hours. Burglary tools were seized from them.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.801Z"
+}

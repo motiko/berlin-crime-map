@@ -1,0 +1,21 @@
+{
+  "id": "1552535",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1552535.php",
+  "publishedAt": "2026-06-19T12:04",
+  "title": "Mann in hilflosem Zustand noch nicht identifiziert - Polizei bittet erneut um Mithilfe",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2025-03-15",
+    "street": "Kuhligkshofstraße",
+    "houseNumberOrCrossing": "Albrechtstraße",
+    "placeName": null,
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "An unidentified man, estimated at 50 to 65 years old, was found in a helpless condition in mid-March 2025 and remains unidentified. Police have released a new photo and are asking for public help.",
+    "injured": null,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.956Z"
+}

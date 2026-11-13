@@ -1,0 +1,21 @@
+{
+  "id": "1690695",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690695.php",
+  "publishedAt": "2026-07-07T13:49",
+  "title": "Mann bei Streit mit Messer verletzt – Tatverdächtige festgenommen",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-07-06",
+    "street": "Boxhagener Platz",
+    "houseNumberOrCrossing": null,
+    "placeName": "Boxhagener Platz",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "During a dispute at Boxhagener Platz, a 43-year-old woman allegedly stabbed a 31-year-old man in the neck with a kitchen knife. She was arrested at the scene and the man was taken to hospital with injuries that were not life-threatening.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.011Z"
+}

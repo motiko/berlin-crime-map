@@ -1,0 +1,21 @@
+{
+  "id": "1646315",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1646315.php",
+  "publishedAt": "2026-02-24T12:13",
+  "title": "Sicherheitsdienstmitarbeiter angegriffen und verletzt",
+  "location": "Pankow",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-02-23",
+    "street": "Lindenberger Weg",
+    "houseNumberOrCrossing": null,
+    "placeName": "Unterkunft für Geflüchtete in Buch",
+    "district": "Pankow",
+    "summaryEn": "A 26-year-old resident allegedly stabbed a security guard at a refugee accommodation in Buch after being refused a cigarette. The guard was taken to hospital with non-life-threatening injuries.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.394Z"
+}

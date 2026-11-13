@@ -1,0 +1,21 @@
+{
+  "id": "1678690",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678690.php",
+  "publishedAt": "2026-06-08T11:46",
+  "title": "Feuer in Sporthalle",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-06-06",
+    "street": "Senftenberger Ring",
+    "houseNumberOrCrossing": "Wesendorfer Straße",
+    "placeName": "Sporthalle einer Schule im Märkischen Viertel",
+    "district": "Reinickendorf",
+    "summaryEn": "A fire broke out in a school sports hall in the Märkisches Viertel on Saturday evening, after a bang was heard. Firefighters extinguished the blaze; nobody was injured, but the hall was heavily damaged.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.824Z"
+}

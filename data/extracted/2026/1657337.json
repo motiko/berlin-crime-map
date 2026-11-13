@@ -1,0 +1,21 @@
+{
+  "id": "1657337",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1657337.php",
+  "publishedAt": "2026-03-28T12:31",
+  "title": "Seniorin bei Verkehrsunfall verletzt",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "traffic",
+    "dead": 0,
+    "district": "Treptow-Köpenick",
+    "houseNumberOrCrossing": "Kasperstraße",
+    "incidentDate": "2026-03-27",
+    "injured": 1,
+    "placeName": "Altglienicke",
+    "street": "Schönefelder Chaussee",
+    "summaryEn": "A 66-year-old pedestrian was hit by a car on Schönefelder Chaussee in Altglienicke and was taken to hospital for emergency surgery. The 39-year-old driver was unhurt, and the road was closed until the evening for the accident investigation.",
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.756Z"
+}

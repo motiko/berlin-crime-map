@@ -1,0 +1,21 @@
+{
+  "id": "1633511",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1633511.php",
+  "publishedAt": "2026-01-14T14:09",
+  "title": "Sicherheitsvorfall an der iranischen Botschaft",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-01-13",
+    "street": "Podbielskiallee",
+    "houseNumberOrCrossing": "Peter-Lenné-Straße",
+    "placeName": "Iranische Botschaft",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "Six people repeatedly gathered outside the Iranian embassy in Dahlem and two of them climbed the fence, removed the Iranian flag and tried to hoist historical flags. Security staff used pepper spray; one man was slightly injured and the six suspects face charges including trespassing and property damage; the State Security unit is investigating.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "pepper spray"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.381Z"
+}

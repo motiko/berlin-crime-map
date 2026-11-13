@@ -1,0 +1,21 @@
+{
+  "id": "1660233",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660233.php",
+  "publishedAt": "2026-04-12T14:23",
+  "title": "Mann mit Glasflasche angegriffen",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-04-12",
+    "street": "Columbiadamm",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Around 5 a.m. a 30-year-old man was injured with a glass bottle during a dispute at a refugee shelter on Columbiadamm. A 31-year-old man is suspected of striking him; the injured man was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "glass bottle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.831Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1670997",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1670997.php",
+  "publishedAt": "2026-05-13T13:32",
+  "title": "Durchsuchungen und Haftbefehle wegen bandenmäßigen Drogenhandels",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-05-12",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Münsinger Park",
+    "district": null,
+    "summaryEn": "Police and prosecutors raided 17 addresses in Spandau and Neukölln over alleged gang-based drug dealing, mainly around Münsinger Park. Two suspects were remanded in custody, and one police officer was lightly injured.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.762Z"
+}

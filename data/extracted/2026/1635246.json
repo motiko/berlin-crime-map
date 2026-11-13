@@ -1,0 +1,21 @@
+{
+  "id": "1635246",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1635246.php",
+  "publishedAt": "2026-01-19T17:21",
+  "title": "Mit Schreckschusswaffe verletzt und angefahren worden",
+  "location": "Mitte",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-01-18",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A 28-year-old man was hit in the arm after a starter-pistol shot was fired during an argument with two men in a car in Wedding. The man was then struck by an unrelated vehicle whose driver fled.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "blank-firing gun"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.382Z"
+}

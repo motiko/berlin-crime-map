@@ -1,0 +1,21 @@
+{
+  "id": "1716378",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716378.php",
+  "publishedAt": "2026-09-20T11:54",
+  "title": "Mann nach schwerer Körperverletzung festgenommen",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-09-20",
+    "street": "Lyonel-Feininger-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A 48-year-old man was seriously injured in a fight in Hellersdorf after being punched and kicked in the head. A 29-year-old suspect was arrested near the scene.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.880Z"
+}

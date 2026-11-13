@@ -1,0 +1,21 @@
+{
+  "id": "1669301",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669301.php",
+  "publishedAt": "2026-05-11T16:55",
+  "title": "56-Jähriger konnte identifiziert werden",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-03-15",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Park-Klinik Weißensee",
+    "district": "Pankow",
+    "summaryEn": "Police report that a man, aged 56, previously unidentified after dying in a Weißensee clinic in March 2026, has been identified following public tips. His sister confirmed his identity.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.819Z"
+}

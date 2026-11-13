@@ -1,0 +1,21 @@
+{
+  "id": "1655688",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1655688.php",
+  "publishedAt": "2026-03-27T11:47",
+  "title": "Toter Mann in Laube – kein Verdacht einer Straftat",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-03-23",
+    "street": "Oderstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Kleingartenanlage Oderstraße",
+    "district": "Neukölln",
+    "summaryEn": "A 36-year-old man was found dead in a garden allotment hut in Oderstraße, initially investigated by a homicide unit. The autopsy found injuries consistent with a fall and no indication of third-party involvement.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.897Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1706805",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706805.php",
+  "publishedAt": "2026-08-25T14:58",
+  "title": "E-Scooter-Fahrerin fährt Fußgängerin an",
+  "location": "Mitte",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-08-24",
+    "street": "Alexanderplatz",
+    "houseNumberOrCrossing": null,
+    "placeName": "Alexanderplatz",
+    "district": "Mitte",
+    "summaryEn": "An e-scooter carrying two teenagers collided with a pedestrian on Alexanderplatz. Three people were slightly or moderately hurt, and police seized the scooter over suspected speed manipulation.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.849Z"
+}

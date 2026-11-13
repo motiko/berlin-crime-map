@@ -1,0 +1,21 @@
+{
+  "id": "1721860",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721860.php",
+  "publishedAt": "2026-10-06T11:34",
+  "title": "Mann durch Schuss ins Bein verletzt",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "shooting",
+    "dead": 0,
+    "district": "Neukölln",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-10-05",
+    "injured": 1,
+    "placeName": null,
+    "street": null,
+    "summaryEn": "A 40-year-old man was shot in the leg in a café in Neukölln, and the unknown gunman fled by car. The victim was taken to hospital with a gunshot wound.",
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.894Z"
+}

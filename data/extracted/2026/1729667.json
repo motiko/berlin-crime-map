@@ -1,0 +1,21 @@
+{
+  "id": "1729667",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1729667.php",
+  "publishedAt": "2026-10-22T12:24",
+  "title": "Prävention im Fokus: Polizei Berlin lädt zur Sonderberatung am Tag des Einbruchschutzes am 25. Oktober 2026 ein",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-10-25",
+    "street": "Platz der Luftbrücke",
+    "houseNumberOrCrossing": "6",
+    "placeName": "Polizeipräsidium",
+    "district": null,
+    "summaryEn": "Police and a carpentry guild invite the public to a free burglary-prevention consultation at police headquarters on 25 October 2026. A demonstration of a break-in attempt on a security window is planned for 13:00.",
+    "injured": null,
+    "dead": null,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.928Z"
+}

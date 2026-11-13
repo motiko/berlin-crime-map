@@ -1,0 +1,21 @@
+{
+  "id": "1686681",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686681.php",
+  "publishedAt": "2026-06-27T11:20",
+  "title": "Fußgängerin unter Straßenbahn eingeklemmt",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-06-26",
+    "street": "Rudower Chaussee",
+    "houseNumberOrCrossing": "Groß-Berliner Damm",
+    "placeName": "Adlershof",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A 16-year-old pedestrian was pinned under a tram after being hit at a pedestrian crossing in Adlershof. She suffered life-threatening injuries but is no longer in immediate danger.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.054Z"
+}

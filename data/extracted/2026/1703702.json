@@ -1,0 +1,21 @@
+{
+  "id": "1703702",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703702.php",
+  "publishedAt": "2026-08-17T11:49",
+  "title": "Sachbeschädigung durch Schussabgabe",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-08-16",
+    "street": "Johannisthaler Chaussee",
+    "houseNumberOrCrossing": null,
+    "placeName": "Rudow",
+    "district": "Neukölln",
+    "summaryEn": "Several gunshots were heard overnight on Johannisthaler Chaussee in Rudow on the night of Saturday to Sunday. A 39-year-old woman found a bullet hole in her parked car later that morning and alerted police.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.986Z"
+}

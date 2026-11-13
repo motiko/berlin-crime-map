@@ -1,0 +1,21 @@
+{
+  "id": "1660225",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660225.php",
+  "publishedAt": "2026-04-11T11:36",
+  "title": "Schusswaffe abgefeuert",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-04-10",
+    "street": "Mainzer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "An unknown man fired a gun at Mainzer Straße in Neukölln around 8 p.m. after stepping out of a car. No injuries were reported and the street was closed during the crime scene search.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.941Z"
+}

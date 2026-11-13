@@ -1,0 +1,21 @@
+{
+  "id": "1650447",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1650447.php",
+  "publishedAt": "2026-03-07T13:23",
+  "title": "Brandstiftung an einem Veranstaltungsgebäude",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-03-07",
+    "street": "Revaler Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Arson fire at the technical installation of an event building on Revaler Straße was extinguished early in the morning. Nazi symbols were sprayed on the building wall and ventilation system; the political police unit is investigating.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.401Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1703842",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703842.php",
+  "publishedAt": "2026-08-17T14:24",
+  "title": "Sachbeschädigungen an und Diebstahl von Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-08-16",
+    "street": "Elsflether Weg",
+    "houseNumberOrCrossing": "Borkumer Straße",
+    "placeName": null,
+    "district": "Spandau",
+    "summaryEn": "Election posters of two parties were torn from a light pole and damaged, and a sticker was placed on one of them. The State Protection unit is investigating.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.048Z"
+}

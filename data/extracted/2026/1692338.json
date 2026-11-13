@@ -1,0 +1,21 @@
+{
+  "id": "1692338",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692338.php",
+  "publishedAt": "2026-07-12T15:17",
+  "title": "Verletzter nach Schussabgabe",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-07-11",
+    "street": "An der Wuhlheide",
+    "houseNumberOrCrossing": null,
+    "placeName": "Oberschöneweide",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A 46-year-old man shot a 48-year-old man in the chest with an air rifle during a dispute on a site in Oberschöneweide. The injured man underwent surgery and is not in mortal danger; the suspect was not found during a search of his home.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "air rifle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.781Z"
+}

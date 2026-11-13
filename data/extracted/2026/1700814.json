@@ -1,0 +1,21 @@
+{
+  "id": "1700814",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700814.php",
+  "publishedAt": "2026-08-07T13:15",
+  "title": "Motorradfahrer bei Verkehrsunfall verletzt",
+  "location": "Spandau",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-08-06",
+    "street": "Streitstraße",
+    "houseNumberOrCrossing": "Goltzstraße",
+    "placeName": "Hakenfelde",
+    "district": "Spandau",
+    "summaryEn": "A motorcyclist rammed the rear of a car waiting at a red light on Streitstraße in Hakenfelde. The 53-year-old motorcyclist was seriously injured in the head and neck area and taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.805Z"
+}

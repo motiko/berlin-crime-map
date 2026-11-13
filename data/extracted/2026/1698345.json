@@ -1,0 +1,21 @@
+{
+  "id": "1698345",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1698345.php",
+  "publishedAt": "2026-07-29T13:10",
+  "title": "Autofahrer bei Zusammenstoß mit Straßenbahn erheblich verletzt",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-28",
+    "street": "Mehrower Allee",
+    "houseNumberOrCrossing": "Trusetaler Straße",
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A 90-year-old driver collided with a tram at the Mehrower Allee crossing in Marzahn and was trapped in the car, requiring fire brigade extrication. He was seriously injured but reportedly not in mortal danger, and the crossing was closed until 3 p.m.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.895Z"
+}

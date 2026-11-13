@@ -1,0 +1,21 @@
+{
+  "id": "1643119",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1643119.php",
+  "publishedAt": "2026-02-13T11:30",
+  "title": "Autofahrer fährt Kind an",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-02-12",
+    "street": "Buckower Chaussee",
+    "houseNumberOrCrossing": "Richard-Tauber-Damm",
+    "placeName": "Lichtenrade",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 79-year-old driver hit a six-year-old girl who was crossing Buckower Chaussee in Lichtenrade. The child was taken to hospital with leg injuries.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.446Z"
+}

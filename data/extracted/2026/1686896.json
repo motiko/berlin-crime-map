@@ -1,0 +1,21 @@
+{
+  "id": "1686896",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686896.php",
+  "publishedAt": "2026-06-28T15:02",
+  "title": "Versammlungsgeschehen zu einem angezeigten Aufzug anlässlich des 10. Muharram",
+  "location": "Mitte",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-06-27",
+    "street": "Unter den Linden",
+    "houseNumberOrCrossing": null,
+    "placeName": "Berliner Dom",
+    "district": "Mitte",
+    "summaryEn": "A registered Ashura march with about 600 participants at its peak went from Berliner Dom to Gendarmenmarkt in Mitte. A children's stage performance was stopped, several participants needed medical treatment for heat-related circulatory problems, and police reported no offences.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.804Z"
+}

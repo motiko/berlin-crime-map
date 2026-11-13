@@ -1,0 +1,21 @@
+{
+  "id": "1709414",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709414.php",
+  "publishedAt": "2026-09-01T17:20",
+  "title": "Versuchtes Tötungsdelikt in einer Anwaltskanzlei",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-09-01",
+    "street": "Teterower Ring",
+    "houseNumberOrCrossing": null,
+    "placeName": "Anwaltskanzlei",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A dispute between two women in a law office at Teterower Ring left one woman, 46, with life-threatening injuries. A 51-year-old suspect was arrested, and the 5th homicide unit is investigating an attempted killing.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.759Z"
+}

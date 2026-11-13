@@ -1,0 +1,21 @@
+{
+  "id": "1729649",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1729649.php",
+  "publishedAt": "2026-10-22T11:59",
+  "title": "Verkehrsunfall – Rollerfahrer verletzt",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-21",
+    "street": "Hauptstraße",
+    "houseNumberOrCrossing": "Rubensstraße",
+    "placeName": "Friedenau",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A car and a scooter collided at a junction in Friedenau while turning onto Hauptstraße. The 56-year-old scooter rider was injured and taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.723Z"
+}

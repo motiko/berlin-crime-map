@@ -1,0 +1,21 @@
+{
+  "id": "1637243",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1637243.php",
+  "publishedAt": "2026-01-24T16:18",
+  "title": "Verkehrsunfall mit verletzter Autofahrerin",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "traffic",
+    "dead": 0,
+    "district": "Steglitz-Zehlendorf",
+    "houseNumberOrCrossing": "Isoldestraße",
+    "incidentDate": "2026-01-23",
+    "injured": 1,
+    "placeName": "Nikolassee",
+    "street": "Potsdamer Chaussee",
+    "summaryEn": "A car pulling out of a parking space collided with a Smart on Potsdamer Chaussee in Nikolassee, and the Smart overturned. The female driver of the Smart was injured and taken to hospital.",
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.380Z"
+}

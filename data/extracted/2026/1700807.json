@@ -1,0 +1,21 @@
+{
+  "id": "1700807",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700807.php",
+  "publishedAt": "2026-08-07T13:09",
+  "title": "Spezialkräfte durchsuchen Wohnung nach Schüssen",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-08-06",
+    "street": "Finsterwalder Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Märkisches Viertel",
+    "district": "Reinickendorf",
+    "summaryEn": "A 37-year-old man allegedly fired blank-firing guns into the air from a window in the Märkisches Viertel, prompting a police operation. Special forces searched the flat, arrested him temporarily and seized several blank-firing guns and ammunition.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "blank-firing gun"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.898Z"
+}

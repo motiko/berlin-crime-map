@@ -1,0 +1,21 @@
+{
+  "id": "1659689",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659689.php",
+  "publishedAt": "2026-04-09T10:00",
+  "title": "Zwei Verletzte nach körperlicher Auseinandersetzung",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-04-09",
+    "street": "Buckower Damm",
+    "houseNumberOrCrossing": "Britzer Damm",
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "After a dispute at a venue in Britz escalated, two men aged 20 were found injured in the street, one with stab wounds to the thigh and one with head injuries from blunt force. Both were taken to hospital, and the suspects are still at large.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.794Z"
+}

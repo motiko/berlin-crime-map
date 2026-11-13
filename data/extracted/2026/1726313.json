@@ -1,0 +1,21 @@
+{
+  "id": "1726313",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726313.php",
+  "publishedAt": "2026-10-15T13:52",
+  "title": "Schlag gegen mutmaßliche kriminelle Vereinigung – Durchsuchungsbeschlüsse und Haftbefehle vollstreckt sowie Vermögenswerte in Millionenhöhe gesichert",
+  "location": "Berlin/Brandenburg",
+  "extraction": {
+    "category": "fraud",
+    "incidentDate": "2026-10-14",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "Police and prosecutors raided 16 properties in Berlin and Brandenburg against four suspects accused of money laundering through a network of front companies and bank accounts. Around 2 million euros were secured, and a firearm, gold, cash and a Lamborghini were seized.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.894Z"
+}

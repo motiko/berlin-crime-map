@@ -1,0 +1,21 @@
+{
+  "id": "1696980",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696980.php",
+  "publishedAt": "2026-07-23T14:24",
+  "title": "Zwei Festnahmen nach mutmaßlichem Raub",
+  "location": null,
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-07-22",
+    "street": "Drei-Zinnen-Weg",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "Two suspects, an 18-year-old woman and a 26-year-old man, were arrested after a 65-year-old woman was allegedly drugged and cash was stolen from her home. The victim's house door was found open the following morning.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.935Z"
+}

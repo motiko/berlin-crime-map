@@ -1,0 +1,21 @@
+{
+  "id": "1723944",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723944.php",
+  "publishedAt": "2026-10-11T12:56",
+  "title": "Stichverletzung im Oberkörper – lebensgefährlich verletzt",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-10-10",
+    "street": "Egon-Erwin-Kisch-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Neu-Hohenschönhausen",
+    "district": "Lichtenberg",
+    "summaryEn": "After a dispute, a 29-year-old man was repeatedly stabbed in the upper body by an unknown assailant in Neu-Hohenschönhausen and remains in life-threatening condition. A pepper spray attack injured a 14-year-old girl, and the group of suspects fled.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.897Z"
+}

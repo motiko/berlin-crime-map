@@ -1,0 +1,21 @@
+{
+  "id": "1629638",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1629638.php",
+  "publishedAt": "2026-01-20T10:47",
+  "title": "Fußgänger angefahren und verletzt - Polizei sucht Zeuginnen und Zeugen",
+  "location": "Mitte",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-01-01",
+    "street": "Markstraße",
+    "houseNumberOrCrossing": "Reginhardstraße",
+    "placeName": "Wedding",
+    "district": "Mitte",
+    "summaryEn": "A 72-year-old pedestrian was struck by a car while crossing Markstraße in Wedding on New Year's morning and suffered life-threatening injuries. Police are seeking witnesses and the driver of a ride-hailing car that was reportedly at the scene.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.471Z"
+}

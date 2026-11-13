@@ -1,0 +1,21 @@
+{
+  "id": "1681872",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681872.php",
+  "publishedAt": "2026-06-15T14:48",
+  "title": "Mann leistet nach Verkehrsunfallflucht Widerstand gegen Einsatzkräfte",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-06-14",
+    "street": "Fritz-Erler-Allee",
+    "houseNumberOrCrossing": "Gutschmidtstraße",
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "After a hit-and-run traffic accident in Britz, a man resisted police officers and swung at them without hitting anyone. He was brought to the ground and arrested, and one officer sustained a minor arm injury.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.803Z"
+}

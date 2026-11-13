@@ -1,0 +1,21 @@
+{
+  "id": "1680708",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680708.php",
+  "publishedAt": "2026-06-22T16:38",
+  "title": "Tötungsdelikt in Bäckerei – Tatverdächtiger festgenommen",
+  "location": "Mitte",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-06-10",
+    "street": "Gerichtstraße",
+    "houseNumberOrCrossing": "52",
+    "placeName": "Bäckerei",
+    "district": "Mitte",
+    "summaryEn": "A 61-year-old man was fatally stabbed at a bakery in Wedding on the evening of 10 June 2026. A 28-year-old suspect was arrested on 19 June and is in pre-trial detention on suspicion of manslaughter.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.850Z"
+}

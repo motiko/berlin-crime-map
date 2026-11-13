@@ -1,0 +1,21 @@
+{
+  "id": "1705410",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705410.php",
+  "publishedAt": "2026-08-20T13:45",
+  "title": "BAO Ferrum und EG Telum: Bekämpfung der Schusswaffenkriminalität – Festnahmen wegen versuchten Mordes, Erpressung und des Verstoßes gegen das Waffengesetz",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "shooting",
+    "dead": 0,
+    "district": "Neukölln",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-04-02",
+    "injured": 0,
+    "placeName": null,
+    "street": "Hermannstraße",
+    "summaryEn": "A 21-year-old suspect was arrested in Treptow-Köpenick over shots fired at a café window in Hermannstraße, Neukölln, in April 2026, linked to extortion for protection money. Police also searched seven addresses and seized two firearms, ammunition and suspected cocaine.",
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.714Z"
+}

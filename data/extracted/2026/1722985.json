@@ -1,0 +1,21 @@
+{
+  "id": "1722985",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1722985.php",
+  "publishedAt": "2026-10-08T13:01",
+  "title": "Einsatzkräfte mit Steinen und Pyrotechnik angegriffen",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-10-08",
+    "street": "Rigaer Straße",
+    "houseNumberOrCrossing": "Zellestraße",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Unknown persons attacked police officers in Rigaer Straße with stones and pyrotechnics after burning tyres and wood were set on the road. One officer suffered a blast injury and had to end their shift; the Staatsschutz is investigating.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "pyrotechnics"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.018Z"
+}

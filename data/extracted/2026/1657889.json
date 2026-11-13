@@ -1,0 +1,21 @@
+{
+  "id": "1657889",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1657889.php",
+  "publishedAt": "2026-03-30T17:02",
+  "title": "Sprayer auf frischer Tat festgenommen",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-03-30",
+    "street": "Rubensstraße",
+    "houseNumberOrCrossing": "Baumeisterstraße",
+    "placeName": "Unterführung",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Four men aged 22 to 30 were arrested after spraying walls in an underpass in Schöneberg during the night. Spray cans and mobile phones were seized, and the State Criminal Police Office took over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.948Z"
+}

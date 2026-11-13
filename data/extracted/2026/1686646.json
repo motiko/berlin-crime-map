@@ -1,0 +1,21 @@
+{
+  "id": "1686646",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686646.php",
+  "publishedAt": "2026-06-29T08:38",
+  "title": "Vermisste 16-Jährige wieder da",
+  "location": "Pankow",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2026-06-24",
+    "street": "Storkower Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Gemeinschaftsunterkunft Storkower Straße",
+    "district": "Pankow",
+    "summaryEn": "A 16-year-old girl reported missing after leaving a shared accommodation on 24 June 2026 has returned safely to her family. The police have closed the search.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.775Z"
+}

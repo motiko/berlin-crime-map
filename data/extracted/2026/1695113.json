@@ -1,0 +1,21 @@
+{
+  "id": "1695113",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695113.php",
+  "publishedAt": "2026-08-04T12:03",
+  "title": "Verbleib von gesuchter 16-Jähriger geklärt",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2026-04-01",
+    "street": "Mindener Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A 16-year-old girl reported missing since 1 April 2026 has been located and the public search has ended. She had left a youth welfare facility on Mindener Straße.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.909Z"
+}

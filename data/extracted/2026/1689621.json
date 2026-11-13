@@ -1,0 +1,21 @@
+{
+  "id": "1689621",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689621.php",
+  "publishedAt": "2026-07-05T15:21",
+  "title": "Zigarettenautomat gesprengt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "explosion",
+    "incidentDate": "2026-07-05",
+    "street": "Siegmunds Hof",
+    "houseNumberOrCrossing": null,
+    "placeName": "Hansaviertel",
+    "district": "Mitte",
+    "summaryEn": "Unknown perpetrators blew up a cigarette vending machine in the Hansaviertel overnight and fled by vehicle. No one was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "explosive"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.740Z"
+}

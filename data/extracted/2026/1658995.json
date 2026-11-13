@@ -1,0 +1,21 @@
+{
+  "id": "1658995",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1658995.php",
+  "publishedAt": "2026-04-04T16:15",
+  "title": "Wohnung ausgebrannt – 17 Menschen verletzt",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-04-04",
+    "street": "Pannierstraße",
+    "houseNumberOrCrossing": "Sonnenallee",
+    "placeName": "Volkspark Hasenheide",
+    "district": "Neukölln",
+    "summaryEn": "A ground-floor apartment in a residential building in Neukölln burned out early in the morning, and residents were rescued by fire crews using an aerial ladder and forced doors. Seventeen people were treated for smoke inhalation, one of whom was taken to hospital; arson investigators are investigating.",
+    "injured": 17,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.904Z"
+}

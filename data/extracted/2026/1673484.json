@@ -1,0 +1,21 @@
+{
+  "id": "1673484",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673484.php",
+  "publishedAt": "2026-05-25T10:15",
+  "title": "Zeugenaufruf zum Fall der seit 2000 vermissten Sandra Wißmann",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2000-11-28",
+    "street": "Böckhstraße",
+    "houseNumberOrCrossing": "40",
+    "placeName": "Kottbusser Damm",
+    "district": "Neukölln",
+    "summaryEn": "A 12-year-old girl disappeared on 28 November 2000 after leaving her home and being last seen near the Kottbusser Damm; the 5th Homicide Commission treats the case as a capital crime. Police and prosecutors issued a public appeal for witnesses on the 25th anniversary of the missing children day.",
+    "injured": 0,
+    "dead": null,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.953Z"
+}

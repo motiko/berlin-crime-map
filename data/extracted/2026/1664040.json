@@ -1,0 +1,21 @@
+{
+  "id": "1664040",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664040.php",
+  "publishedAt": "2026-04-23T13:04",
+  "title": "Autofahrer fährt gegen geparkten Pkw",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-04-22",
+    "street": "Mommsenstraße",
+    "houseNumberOrCrossing": "Drakestraße",
+    "placeName": "Lichterfelde",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "An 87-year-old driver pulled out of a property driveway and hit a parked car, injuring its 69-year-old user who was unloading items from the open rear door. The injured woman suffered a rib fracture and was admitted to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.738Z"
+}

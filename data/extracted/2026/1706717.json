@@ -1,0 +1,21 @@
+{
+  "id": "1706717",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706717.php",
+  "publishedAt": "2026-08-25T12:52",
+  "title": "Zwei Männer bei körperlichem Angriff verletzt",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-08-24",
+    "street": "Dominicusstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Two men aged 32 and 27 were attacked by an unknown group after a verbal dispute; one was sprayed with pepper spray and the 32-year-old suffered head injuries and lost several teeth. The group fled.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "pepper spray"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.733Z"
+}

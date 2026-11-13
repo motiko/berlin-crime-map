@@ -1,0 +1,21 @@
+{
+  "id": "1680286",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680286.php",
+  "publishedAt": "2026-06-10T14:52",
+  "title": "Not-OP nach Verkehrsunfall",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-06-09",
+    "street": "Goebenstraße",
+    "houseNumberOrCrossing": "Steinmetzstraße",
+    "placeName": "Schöneberg",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A scooter rider aged 39 was seriously injured after a collision with a car at a crossing in Schöneberg. He was taken to hospital for emergency surgery.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.026Z"
+}

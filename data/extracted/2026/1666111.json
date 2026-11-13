@@ -1,0 +1,21 @@
+{
+  "id": "1666111",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666111.php",
+  "publishedAt": "2026-04-29T11:52",
+  "title": "Gefährliche Körperverletzung mit Teppichmesser - Festnahme",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-04-29",
+    "street": "Otto-Suhr-Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A 33-year-old man allegedly drew a box cutter during a dispute in a bar and injured two guests before being overpowered and arrested. Two guests suffered cuts, one requiring hospital treatment.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.979Z"
+}

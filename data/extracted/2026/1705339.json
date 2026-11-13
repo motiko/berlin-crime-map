@@ -1,0 +1,21 @@
+{
+  "id": "1705339",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705339.php",
+  "publishedAt": "2026-08-20T12:49",
+  "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-08-19",
+    "street": "Mansteinstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Several election posters for the Berlin House of Representatives election were vandalised on 19 August 2026, including one set on fire at a lamp post in Schöneberg. The State Protection unit is investigating the damage to posters across several districts.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.048Z"
+}

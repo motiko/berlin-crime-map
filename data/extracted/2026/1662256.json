@@ -1,0 +1,21 @@
+{
+  "id": "1662256",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662256.php",
+  "publishedAt": "2026-04-19T16:33",
+  "title": "In den Rücken gestochen und ausgeraubt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-04-19",
+    "street": "Mehringbrücke",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A 39-year-old man was attacked overnight by several young men with pepper spray, a glass bottle and a knife, and robbed of several hundred euros. He suffered a stab wound to the back and a head laceration.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.861Z"
+}

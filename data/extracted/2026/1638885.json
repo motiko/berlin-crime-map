@@ -1,0 +1,21 @@
+{
+  "id": "1638885",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1638885.php",
+  "publishedAt": "2026-02-02T09:52",
+  "title": "Vermisste Frau wohlbehalten angetroffen",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2026-01-17",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 61-year-old woman who had left her residential care facility in January was reported missing. She has since been found safe and is back at her facility.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.456Z"
+}

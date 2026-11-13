@@ -1,0 +1,21 @@
+{
+  "id": "1683417",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683417.php",
+  "publishedAt": "2026-06-18T14:22",
+  "title": "Schüsse auf eine Gaststätte in Tempelhof",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-06-18",
+    "street": "Ringbahnstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Shots were fired at a restaurant in Tempelhof overnight, leaving bullet holes in its facade. No one was inside and no one was injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.708Z"
+}

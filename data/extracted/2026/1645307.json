@@ -1,0 +1,21 @@
+{
+  "id": "1645307",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1645307.php",
+  "publishedAt": "2026-02-20T11:33",
+  "title": "Raubüberfall – Zeuginnen und Zeugen gesucht",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-02-17",
+    "street": "Residenzstraße",
+    "houseNumberOrCrossing": "142",
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "An unknown suspect pushed a 64-year-old woman off her rollator on the pavement and stole her handbag on 17 February 2026. A witness chased the suspect and recovered the bag; police are seeking information.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.393Z"
+}

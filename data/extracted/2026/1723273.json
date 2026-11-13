@@ -1,0 +1,21 @@
+{
+  "id": "1723273",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723273.php",
+  "publishedAt": "2026-10-08T16:42",
+  "title": "Autofahrer verursacht mehrere Verkehrsunfälle mit hohem Sachschaden",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-07",
+    "street": "Suermondtstraße",
+    "houseNumberOrCrossing": "Degnerstraße",
+    "placeName": "Buschallee",
+    "district": "Lichtenberg",
+    "summaryEn": "An audi driver caused a hit-and-run collision in Alt-Hohenschönhausen and then a second crash on Buschallee in Weißensee, where a car burned out and ten parked vehicles were damaged. Two people, the driver and a 64-year-old woman, were injured.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.756Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1664736",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664736.php",
+  "publishedAt": "2026-04-25T13:21",
+  "title": "Gegen Baum gefahren",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-04-24",
+    "street": "Tempelhofer Damm",
+    "houseNumberOrCrossing": "Peter-Strasser-Weg",
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 27-year-old man crashed his car into a tree on Tempelhofer Damm and was seriously injured. Police took a blood sample on suspicion of drug or drug-related impairment and seized the vehicle.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.030Z"
+}

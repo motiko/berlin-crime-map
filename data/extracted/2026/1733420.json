@@ -1,0 +1,21 @@
+{
+  "id": "1733420",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733420.php",
+  "publishedAt": "2026-10-31T12:38",
+  "title": "Verkehrsunfall nach mutmaßlicher Trunkenheitsfahrt – zwei Frauen im Krankenhaus",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-31",
+    "street": "Alt-Friedrichsfelde",
+    "houseNumberOrCrossing": "Am Tierpark",
+    "placeName": "Friedrichsfelde",
+    "district": "Lichtenberg",
+    "summaryEn": "A 24-year-old driver allegedly under the influence and speeding collided with another car on Alt-Friedrichsfelde shortly after midnight. Two women were injured and taken to hospital; the driver had about 1.7 per mille.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.002Z"
+}

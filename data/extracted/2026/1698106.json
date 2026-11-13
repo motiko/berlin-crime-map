@@ -1,0 +1,21 @@
+{
+  "id": "1698106",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698106.php",
+  "publishedAt": "2026-07-28T15:20",
+  "title": "Denkmal mit Hakenkreuz beschmiert",
+  "location": "Pankow",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-07-28",
+    "street": "Berliner Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": "Park am Weißen See",
+    "district": "Pankow",
+    "summaryEn": "A swastika was painted on a memorial to antifascist resistance fighters in a park in Weißensee. Police removed the paint and the political police unit (Staatsschutz) took over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.990Z"
+}

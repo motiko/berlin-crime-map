@@ -1,0 +1,21 @@
+{
+  "id": "1660234",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660234.php",
+  "publishedAt": "2026-04-12T15:18",
+  "title": "Nach Widerstand – DEIG eingesetzt",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-04-11",
+    "street": "Heidelberger Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Treptow-Köpenick",
+    "summaryEn": "Police were called to a domestic violence report in Alt-Treptow. A 45-year-old man resisted officers, who used a taser after other measures failed, and five officers were hurt.",
+    "injured": 5,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.951Z"
+}

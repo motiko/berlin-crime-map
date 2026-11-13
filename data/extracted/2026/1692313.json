@@ -1,0 +1,21 @@
+{
+  "id": "1692313",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692313.php",
+  "publishedAt": "2026-07-11T13:52",
+  "title": "Unbekannte greifen Parkbesucher an",
+  "location": "Mitte",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-07-11",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "James-Simon-Park",
+    "district": "Mitte",
+    "summaryEn": "Several unknown attackers assaulted a 39-year-old man near the public toilets in James-Simon-Park, apparently because of his sexual identity. Shortly after, a 19-year-old was chased to the Spree embankment, knocked down, and attacked by a group that also sprayed pepper spray.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "pepper spray"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.764Z"
+}

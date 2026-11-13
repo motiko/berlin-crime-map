@@ -1,0 +1,21 @@
+{
+  "id": "1664734",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664734.php",
+  "publishedAt": "2026-04-25T11:05",
+  "title": "Mann mit Böller beworfen und verletzt",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-04-24",
+    "street": "Frankfurter Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Lichtenberg",
+    "summaryEn": "An unknown masked person threw a firework at a 21-year-old supermarket security guard in Lichtenberg, causing him to suffer a blast-related eardrum trauma and leg injuries. The suspect also verbally threatened him before fleeing.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "explosive"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.796Z"
+}

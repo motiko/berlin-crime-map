@@ -1,0 +1,21 @@
+{
+  "id": "1729733",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1729733.php",
+  "publishedAt": "2026-10-22T15:32",
+  "title": "Radfahrer verstorben",
+  "location": "Pankow",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-21",
+    "street": "Hansastraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Weißensee",
+    "district": "Pankow",
+    "summaryEn": "A 71-year-old cyclist fell in Weißensee and later died of his injuries in hospital. Police are still investigating how the fall happened.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.908Z"
+}

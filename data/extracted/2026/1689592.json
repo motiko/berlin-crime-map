@@ -1,0 +1,21 @@
+{
+  "id": "1689592",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689592.php",
+  "publishedAt": "2026-07-04T16:02",
+  "title": "Scharfe Schusswaffe aus dem Verkehr gezogen",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-07-03",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Anita-Berber-Park",
+    "district": "Neukölln",
+    "summaryEn": "Police observed a suspected drug handover in Anita-Berber-Park and seized a loaded firearm with ammunition under a tree trunk nearby, plus a small amount of suspected amphetamine. Two men were taken into custody for identification measures and later released.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.892Z"
+}

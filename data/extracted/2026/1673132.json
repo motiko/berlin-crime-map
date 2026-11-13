@@ -1,0 +1,21 @@
+{
+  "id": "1673132",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673132.php",
+  "publishedAt": "2026-05-21T11:24",
+  "title": "Angriff am Alexanderplatz mit transphobem Hintergrund",
+  "location": "Mitte",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-05-20",
+    "street": "Alexanderplatz",
+    "houseNumberOrCrossing": null,
+    "placeName": "Alexanderplatz",
+    "district": "Mitte",
+    "summaryEn": "Three suspects allegedly insulted and pursued two people over their gender at Alexanderplatz, then threw a bottle and beer bottles at them, injuring two. The state security unit is investigating.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "bottle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.005Z"
+}

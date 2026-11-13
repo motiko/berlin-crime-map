@@ -1,0 +1,21 @@
+{
+  "id": "1675296",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675296.php",
+  "publishedAt": "2026-06-09T08:45",
+  "title": "Vermisster Senior wieder da",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2026-05-21",
+    "street": "Rudower Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Vivantes Klinikum Neukölln",
+    "district": "Neukölln",
+    "summaryEn": "An 87-year-old man with dementia who went missing after leaving a hospital in Neukölln on 21 May 2026 has been found again. The police report was published on 9 June 2026.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.023Z"
+}

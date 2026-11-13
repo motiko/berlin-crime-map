@@ -1,0 +1,21 @@
+{
+  "id": "1702822",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702822.php",
+  "publishedAt": "2026-08-13T14:03",
+  "title": "Spätkauf ausgeraubt – Polizei bittet um Mithilfe",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2025-11-29",
+    "street": "Weserstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "An unknown man entered a convenience store posing as a customer and tried to take cash from the till. He struck the shop owner, pushed her to the ground and fled with part of the cash register.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.790Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1712623",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712623.php",
+  "publishedAt": "2026-09-10T16:52",
+  "title": "Mann schießt auf mehrere geparkte Autos – Mehrere nicht scharfe Schusswaffen beschlagnahmt",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-09-09",
+    "street": "Todtnauer Zeile",
+    "houseNumberOrCrossing": null,
+    "placeName": "Parkplatz Todtnauer Zeile, Waidmannslust",
+    "district": "Reinickendorf",
+    "summaryEn": "A man allegedly fired an air-pressure weapon at several parked cars, damaging windows of seven vehicles. Police later searched his nearby home and seized several blank-firing, gas and airsoft guns.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "air-pressure weapon"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.982Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1714166",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714166.php",
+  "publishedAt": "2026-09-15T15:24",
+  "title": "Gegen einen Baum geprallt",
+  "location": "Pankow",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-09-15",
+    "street": "Schönerlinder Straße",
+    "houseNumberOrCrossing": "Graben 134 Lindenhof",
+    "placeName": "Buch",
+    "district": "Pankow",
+    "summaryEn": "A van driver left the road at night in Buch and hit a tree. The 36-year-old driver was freed by rescue crews and taken to hospital with multiple fractures and internal injuries.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.864Z"
+}

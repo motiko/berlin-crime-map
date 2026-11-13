@@ -1,0 +1,21 @@
+{
+  "id": "1671522",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671522.php",
+  "publishedAt": "2026-05-16T16:16",
+  "title": "Mann rassistisch beleidigt und angegriffen",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-05-15",
+    "street": "Frankfurter Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A 39-year-old man was racially insulted and struck in the face with a glass bottle by an unknown woman on Frankfurter Allee. The suspect fled, and the man declined further treatment after being attended to by paramedics.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "glass bottle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.725Z"
+}

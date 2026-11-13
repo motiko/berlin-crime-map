@@ -1,36 +1,1078 @@
 {
+  "A 100, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.4692,
+    "lng": 13.3901
+  },
+  "Achillesstraße, Pankow, Berlin": {
+    "lat": 52.6173,
+    "lng": 13.48968
+  },
+  "Adalbertstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50143,
+    "lng": 13.41939
+  },
+  "Adlergestell, Treptow-Köpenick, Berlin": {
+    "lat": 52.42632,
+    "lng": 13.55464
+  },
+  "Agnes-Hacker-Straße, Treptow-Köpenick, Berlin": {
+    "lat": 52.4071,
+    "lng": 13.54077
+  },
+  "Ahornallee, Mitte, Berlin": {
+    "lat": 52.51592,
+    "lng": 13.36338
+  },
+  "Ahornallee, Treptow-Köpenick, Berlin": {
+    "lat": 52.44845,
+    "lng": 13.56424
+  },
+  "Ahornsteig, Mitte, Berlin": {
+    "lat": 52.51095,
+    "lng": 13.36445
+  },
+  "Akazienstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.48602,
+    "lng": 13.35606
+  },
+  "Albert-Kuntz-Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.53548,
+    "lng": 13.61811
+  },
+  "Alboinstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.46225,
+    "lng": 13.3699
+  },
+  "Albrechtstraße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.45372,
+    "lng": 13.32985
+  },
+  "Alexanderplatz, Mitte, Berlin": {
+    "lat": 52.52198,
+    "lng": 13.41364
+  },
+  "Alexanderstraße, Mitte, Berlin": {
+    "lat": 52.51914,
+    "lng": 13.41841
+  },
+  "Alexanderufer, Mitte, Berlin": {
+    "lat": 52.52413,
+    "lng": 13.37353
+  },
+  "Allee der Kosmonauten, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.53643,
+    "lng": 13.55923
+  },
+  "Alt Kleinziethen, Berlin": null,
   "Alt-Friedrichsfelde, Lichtenberg, Berlin": {
     "lat": 52.5105,
     "lng": 13.50683
   },
+  "Alt-Mariendorf, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.43968,
+    "lng": 13.38751
+  },
+  "Alt-Marzahn, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.54358,
+    "lng": 13.55987
+  },
+  "Alt-Moabit, Mitte, Berlin": {
+    "lat": 52.52447,
+    "lng": 13.34969
+  },
+  "Alt-Reinickendorf, Reinickendorf, Berlin": {
+    "lat": 52.57778,
+    "lng": 13.35124
+  },
+  "Alt-Rudow, Neukölln, Berlin": {
+    "lat": 52.42169,
+    "lng": 13.48873
+  },
+  "Alte Hellersdorfer Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.54333,
+    "lng": 13.59144
+  },
+  "Altenhofer Straße, Lichtenberg, Berlin": {
+    "lat": 52.53441,
+    "lng": 13.4828
+  },
   "Altglietzen (Bad Freienwalde), Berlin": null,
+  "Altstädter Ring, Spandau, Berlin": {
+    "lat": 52.53577,
+    "lng": 13.20014
+  },
+  "Am Bürgerpark, Pankow, Berlin": {
+    "lat": 52.56936,
+    "lng": 13.38864
+  },
+  "Am Eichenquast, Neukölln, Berlin": {
+    "lat": 52.41942,
+    "lng": 13.44891
+  },
+  "Am Rosenhag, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.52472,
+    "lng": 13.62195
+  },
+  "Am Rötepfuhl, Neukölln, Berlin": {
+    "lat": 52.41663,
+    "lng": 13.42117
+  },
+  "Am Sandhaus, Pankow, Berlin": {
+    "lat": 52.63778,
+    "lng": 13.4865
+  },
+  "Am Tempelhofer Berg, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.48873,
+    "lng": 13.38703
+  },
+  "Am Tierpark, Lichtenberg, Berlin": {
+    "lat": 52.50734,
+    "lng": 13.51851
+  },
+  "Am Treptower Park, Treptow-Köpenick, Berlin": {
+    "lat": 52.49303,
+    "lng": 13.45564
+  },
+  "Amsterdamer Straße, Mitte, Berlin": {
+    "lat": 52.54998,
+    "lng": 13.35489
+  },
+  "Amtsgericht Tiergarten, Berlin": {
+    "lat": 52.52549,
+    "lng": 13.35229
+  },
+  "An der Kappe, Spandau, Berlin": {
+    "lat": 52.53958,
+    "lng": 13.18671
+  },
+  "An der Putlitzbrücke, Mitte, Berlin": {
+    "lat": 52.53658,
+    "lng": 13.34376
+  },
+  "An der Rennbahn, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.43031,
+    "lng": 13.38505
+  },
+  "An der Wuhlheide, Treptow-Köpenick, Berlin": {
+    "lat": 52.45668,
+    "lng": 13.55019
+  },
+  "Andreasstraße 10, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.51452,
+    "lng": 13.42982
+  },
+  "Andreasstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.51383,
+    "lng": 13.43149
+  },
+  "Anita-Berber-Park, Neukölln, Berlin": {
+    "lat": 52.47191,
+    "lng": 13.42451
+  },
+  "Anna-Seghers-Schule, Treptow-Köpenick, Berlin": {
+    "lat": 52.43485,
+    "lng": 13.54928
+  },
+  "Arno-Philippsthal-Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.50691,
+    "lng": 13.55443
+  },
+  "Aronsstraße, Neukölln, Berlin": {
+    "lat": 52.4714,
+    "lng": 13.46683
+  },
+  "Aroser Allee, Reinickendorf, Berlin": {
+    "lat": 52.56459,
+    "lng": 13.35247
+  },
+  "Askanierring, Spandau, Berlin": {
+    "lat": 52.54652,
+    "lng": 13.19403
+  },
+  "Audre-Lorde-Straße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50445,
+    "lng": 13.43085
+  },
+  "Azaleenstraße, Treptow-Köpenick, Berlin": {
+    "lat": 52.44713,
+    "lng": 13.60004
+  },
+  "BAB 100 (Stadtautobahn), Tempelhof-Schöneberg, Berlin": null,
+  "BAB 100, Neukölln, Berlin": null,
   "BAB 100, Tempelhof-Schöneberg, Berlin": {
     "lat": 52.47432,
     "lng": 13.33742
+  },
+  "BAB 111, Reinickendorf, Berlin": null,
+  "BAB 113, Treptow-Köpenick, Berlin": null,
+  "BAB 114, Pankow, Berlin": {
+    "lat": 52.53449,
+    "lng": 13.42179
+  },
+  "BAB 115, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.46408,
+    "lng": 13.33106
+  },
+  "Babelsberger Straße 16, Berlin": {
+    "lat": 52.48425,
+    "lng": 13.33495
+  },
+  "Bachstraße, Mitte, Berlin": {
+    "lat": 52.51524,
+    "lng": 13.33674
+  },
+  "Backbergstraße, Neukölln, Berlin": {
+    "lat": 52.45089,
+    "lng": 13.44029
+  },
+  "Badstraße, Mitte, Berlin": {
+    "lat": 52.54926,
+    "lng": 13.38706
+  },
+  "Bahnstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.4222,
+    "lng": 13.37511
+  },
+  "Bar in Wilmersdorf, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.47722,
+    "lng": 13.32897
+  },
+  "Barnetstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.39412,
+    "lng": 13.40255
+  },
+  "Bartningallee, Mitte, Berlin": {
+    "lat": 52.51987,
+    "lng": 13.34702
+  },
+  "Baruther Straße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.4942,
+    "lng": 13.39007
+  },
+  "Baumschulenstraße, Treptow-Köpenick, Berlin": {
+    "lat": 52.46015,
+    "lng": 13.48047
+  },
+  "Behaimstraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.5166,
+    "lng": 13.30446
+  },
+  "Bellevueallee, Mitte, Berlin": {
+    "lat": 52.51612,
+    "lng": 13.35713
+  },
+  "Belziger Ring, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.56415,
+    "lng": 13.57509
+  },
+  "Bendastraße, Neukölln, Berlin": {
+    "lat": 52.46663,
+    "lng": 13.43648
+  },
+  "Berberitzenweg, Treptow-Köpenick, Berlin": {
+    "lat": 52.44856,
+    "lng": 13.48127
+  },
+  "Bergstraße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.45864,
+    "lng": 13.33928
+  },
+  "Berlichingenstraße, Mitte, Berlin": {
+    "lat": 52.53013,
+    "lng": 13.32484
+  },
+  "Berlin-Gatow, Spandau, Berlin": {
+    "lat": 52.47193,
+    "lng": 13.13868
+  },
+  "Berlin-Marathon route, Mitte, Berlin": null,
+  "Berliner Allee, Pankow, Berlin": {
+    "lat": 52.54847,
+    "lng": 13.45132
+  },
+  "Berliner Hauptbahnhof und Ostbahnhof, Mitte, Berlin": null,
+  "Berliner Straße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.48733,
+    "lng": 13.33101
+  },
+  "Berliner Straße, Pankow, Berlin": {
+    "lat": 52.56807,
+    "lng": 13.41212
+  },
+  "Berliner Straße, Reinickendorf, Berlin": {
+    "lat": 52.58291,
+    "lng": 13.28953
+  },
+  "Berliner Straße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.43678,
+    "lng": 13.26809
+  },
+  "Bernauer Straße, Reinickendorf, Berlin": {
+    "lat": 52.56745,
+    "lng": 13.25774
+  },
+  "Bernburger Straße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50502,
+    "lng": 13.37967
+  },
+  "Bernstorffstraße, Reinickendorf, Berlin": {
+    "lat": 52.58996,
+    "lng": 13.28327
+  },
+  "Bettina-von-Armin-Ufer, Mitte, Berlin": null,
+  "Beusselstraße, Mitte, Berlin": {
+    "lat": 52.53441,
+    "lng": 13.32939
+  },
+  "Bismarckstraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.51151,
+    "lng": 13.30524
+  },
+  "Blankenburger Straße, Pankow, Berlin": {
+    "lat": 52.58801,
+    "lng": 13.42831
+  },
+  "Blankenfelder Straße, Pankow, Berlin": {
+    "lat": 52.60701,
+    "lng": 13.41845
+  },
+  "Blasewitzer Ring, Spandau, Berlin": {
+    "lat": 52.51985,
+    "lng": 13.17285
+  },
+  "Bleibtreustraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.50401,
+    "lng": 13.31981
+  },
+  "Blissestraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.48649,
+    "lng": 13.32054
+  },
+  "Blücherstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.49218,
+    "lng": 13.40259
+  },
+  "Blumberger Damm, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.51232,
+    "lng": 13.56232
+  },
+  "Böckhstraße 40, Neukölln, Berlin": null,
+  "Böckhstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.49403,
+    "lng": 13.41766
+  },
+  "Böckhstraße, Neukölln, Berlin": null,
+  "Böhlener Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.53865,
+    "lng": 13.6338
+  },
+  "Borgsdorfer Straße, Reinickendorf, Berlin": {
+    "lat": 52.59407,
+    "lng": 13.3526
+  },
+  "Borussiastraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.46704,
+    "lng": 13.39125
+  },
+  "Boschweg, Neukölln, Berlin": {
+    "lat": 52.46296,
+    "lng": 13.46462
+  },
+  "Bösebrücke, Pankow, Berlin": {
+    "lat": 52.55471,
+    "lng": 13.39816
+  },
+  "Bottroper Weg, Reinickendorf, Berlin": {
+    "lat": 52.57668,
+    "lng": 13.28112
+  },
+  "Boxberger Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.55423,
+    "lng": 13.5383
+  },
+  "Boxhagener Platz, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.51081,
+    "lng": 13.4597
+  },
+  "Brandenburgische Straße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.49339,
+    "lng": 13.31019
+  },
+  "Breite Straße, Pankow, Berlin": {
+    "lat": 52.56925,
+    "lng": 13.40233
+  },
+  "Bremer Straße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.42814,
+    "lng": 13.30748
+  },
+  "Brigittenweg, Treptow-Köpenick, Berlin": {
+    "lat": 52.40093,
+    "lng": 13.52878
+  },
+  "Britzer Damm, Neukölln, Berlin": {
+    "lat": 52.4614,
+    "lng": 13.43489
+  },
+  "Britzer Straße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.44012,
+    "lng": 13.39535
+  },
+  "Britzer Tunnel, Neukölln, Berlin": null,
+  "Brunnenstraße 78, Mitte, Berlin": {
+    "lat": 52.54317,
+    "lng": 13.39261
+  },
+  "Brunnenstraße, Mitte, Berlin": {
+    "lat": 52.53575,
+    "lng": 13.39774
+  },
+  "Bruno-Baum-Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.54242,
+    "lng": 13.55026
+  },
+  "Brunsbütteler Damm, Spandau, Berlin": {
+    "lat": 52.53236,
+    "lng": 13.13914
+  },
+  "Buchholzer Straße, Charlottenburg-Wilmersdorf, Berlin": null,
+  "Buckower Chaussee, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.41054,
+    "lng": 13.38276
+  },
+  "Buckower Damm, Neukölln, Berlin": {
+    "lat": 52.44052,
+    "lng": 13.43468
+  },
+  "Budapester Straße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.50537,
+    "lng": 13.33412
+  },
+  "Buddeplatz, Reinickendorf, Berlin": {
+    "lat": 52.58836,
+    "lng": 13.2879
+  },
+  "Buddestraße, Reinickendorf, Berlin": {
+    "lat": 52.58904,
+    "lng": 13.28811
+  },
+  "Buggenhagenstraße, Lichtenberg, Berlin": {
+    "lat": 52.52845,
+    "lng": 13.46352
+  },
+  "Bulgarische Straße, Treptow-Köpenick, Berlin": {
+    "lat": 52.4815,
+    "lng": 13.47313
+  },
+  "Bülowstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.49758,
+    "lng": 13.36317
+  },
+  "Bundesautobahn 100, Charlottenburg-Wilmersdorf, Berlin": null,
+  "Bundesautobahn 103, Steglitz-Zehlendorf, Berlin": null,
+  "Bundeskanzleramt, Mitte, Berlin": {
+    "lat": 52.52019,
+    "lng": 13.36913
+  },
+  "Bundesplatz, Steglitz-Zehlendorf, Berlin": null,
+  "Bundesstraße 2 (Potsdamer Chaussee), Spandau, Berlin": null,
+  "Bus der Linie M 21, Reinickendorf, Berlin": null,
+  "Buschallee, Pankow, Berlin": {
+    "lat": 52.55253,
+    "lng": 13.48498
+  },
+  "Buschkrugallee, Neukölln, Berlin": {
+    "lat": 52.45416,
+    "lng": 13.45115
+  },
+  "Buschsperlingweg, Pankow, Berlin": {
+    "lat": 52.59085,
+    "lng": 13.43704
+  },
+  "Cecilienplatz, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.5214,
+    "lng": 13.59075
+  },
+  "Cecilienstraße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.52579,
+    "lng": 13.57115
+  },
+  "Charlottenburger Chaussee, Spandau, Berlin": {
+    "lat": 52.52697,
+    "lng": 13.21606
+  },
+  "Charlottenstraße, Pankow, Berlin": {
+    "lat": 52.58987,
+    "lng": 13.41098
+  },
+  "Christstraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.51667,
+    "lng": 13.29051
+  },
+  "Columbiadamm, Neukölln, Berlin": {
+    "lat": 52.48007,
+    "lng": 13.42
+  },
+  "Columbiadamm, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.48367,
+    "lng": 13.40055
+  },
+  "Conradstraße, Reinickendorf, Berlin": {
+    "lat": 52.58327,
+    "lng": 13.29983
+  },
+  "Cora-Berliner-Straße, Mitte, Berlin": {
+    "lat": 52.51418,
+    "lng": 13.37988
+  },
+  "Cottbusser Platz, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.53383,
+    "lng": 13.5964
+  },
+  "Czeminskistraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.48638,
+    "lng": 13.36181
+  },
+  "Dahlwitzer Landstraße, Treptow-Köpenick, Berlin": {
+    "lat": 52.46069,
+    "lng": 13.6264
+  },
+  "Dannenwalder Weg, Reinickendorf, Berlin": {
+    "lat": 52.59392,
+    "lng": 13.34147
+  },
+  "Danziger Straße, Pankow, Berlin": {
+    "lat": 52.53153,
+    "lng": 13.44194
+  },
+  "Daumstraße, Spandau, Berlin": {
+    "lat": 52.55479,
+    "lng": 13.22588
+  },
+  "David-Francke-Straße, Spandau, Berlin": {
+    "lat": 52.55775,
+    "lng": 13.21945
+  },
+  "Delbrückstraße, Neukölln, Berlin": {
+    "lat": 52.46482,
+    "lng": 13.43334
+  },
+  "Demminer Straße, Mitte, Berlin": {
+    "lat": 52.5418,
+    "lng": 13.39637
+  },
+  "Dieffenbachstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.49316,
+    "lng": 13.41441
+  },
+  "Diesterwegstraße, Pankow, Berlin": {
+    "lat": 52.53905,
+    "lng": 13.42703
+  },
+  "Dietzgenstraße, Pankow, Berlin": {
+    "lat": 52.58679,
+    "lng": 13.40191
+  },
+  "Dolgenseestraße, Lichtenberg, Berlin": {
+    "lat": 52.49327,
+    "lng": 13.50505
+  },
+  "Dominicusstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.48133,
+    "lng": 13.34964
+  },
+  "Don-Bosco-Steig, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.42508,
+    "lng": 13.1558
+  },
+  "Donaustraße, Neukölln, Berlin": {
+    "lat": 52.47946,
+    "lng": 13.4403
+  },
+  "Dorothea-Schlegel-Platz, Mitte, Berlin": {
+    "lat": 52.51995,
+    "lng": 13.38583
   },
   "Dörpfeldstraße, Treptow-Köpenick, Berlin": {
     "lat": 52.44185,
     "lng": 13.55919
   },
+  "Dream Apartments hotel, Neukölln, Berlin": null,
+  "Dreekamp 16, Berlin": null,
+  "Dreekamp, Berlin": null,
+  "Drei-Zinnen-Weg, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.41824,
+    "lng": 13.29442
+  },
+  "Drontheimer Straße, Mitte, Berlin": {
+    "lat": 52.56039,
+    "lng": 13.37694
+  },
+  "Dubliner Straße, Reinickendorf, Berlin": {
+    "lat": 52.56212,
+    "lng": 13.3489
+  },
+  "Dudenstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.48504,
+    "lng": 13.37596
+  },
+  "Dudenstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.48507,
+    "lng": 13.37169
+  },
   "Düppelstraße, Steglitz-Zehlendorf, Berlin": {
     "lat": 52.46093,
     "lng": 13.32815
+  },
+  "Eastgate, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.54389,
+    "lng": 13.54476
   },
   "Ebersstraße, Tempelhof-Schöneberg, Berlin": {
     "lat": 52.48025,
     "lng": 13.35232
   },
+  "Eberswalder Straße, Pankow, Berlin": {
+    "lat": 52.54152,
+    "lng": 13.41218
+  },
+  "Edenkobener Steg, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.44456,
+    "lng": 13.34626
+  },
+  "Edwin-Redslob-Straße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.46021,
+    "lng": 13.29511
+  },
+  "Egon-Erwin-Kisch-Straße, Lichtenberg, Berlin": {
+    "lat": 52.57314,
+    "lng": 13.50565
+  },
+  "Eichborndamm, Reinickendorf, Berlin": {
+    "lat": 52.57763,
+    "lng": 13.31662
+  },
+  "Eichelmatenweg, Spandau, Berlin": {
+    "lat": 52.45843,
+    "lng": 13.14373
+  },
+  "Eichhorster Weg, Reinickendorf, Berlin": {
+    "lat": 52.60193,
+    "lng": 13.33744
+  },
+  "Einbecker Straße, Lichtenberg, Berlin": {
+    "lat": 52.5096,
+    "lng": 13.50626
+  },
+  "Eisenacher Straße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.48955,
+    "lng": 13.35017
+  },
+  "Eisenhutweg 7, Treptow-Köpenick, Berlin": {
+    "lat": 52.43483,
+    "lng": 13.50197
+  },
+  "Elgersburger Straße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.48285,
+    "lng": 13.28742
+  },
+  "Elisabethstraße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.53407,
+    "lng": 13.55935
+  },
+  "Ella-Barowsky-Straße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.47733,
+    "lng": 13.3597
+  },
+  "Ella-Trebe-Straße, Mitte, Berlin": {
+    "lat": 52.52283,
+    "lng": 13.36825
+  },
+  "Elsastraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.47518,
+    "lng": 13.33058
+  },
   "Elsenstraße, Neukölln, Berlin": {
     "lat": 52.48589,
     "lng": 13.44996
+  },
+  "Elsflether Weg, Spandau, Berlin": {
+    "lat": 52.53293,
+    "lng": 13.19341
+  },
+  "Emmentaler Straße, Reinickendorf, Berlin": {
+    "lat": 52.57188,
+    "lng": 13.36453
+  },
+  "Eresburgstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.46701,
+    "lng": 13.3753
+  },
+  "Erna-Samuel-Straße, Mitte, Berlin": {
+    "lat": 52.53436,
+    "lng": 13.33563
+  },
+  "Ernst-Ruska-Ufer, Treptow-Köpenick, Berlin": {
+    "lat": 52.42566,
+    "lng": 13.54454
+  },
+  "Eschenbachstraße, Treptow-Köpenick, Berlin": {
+    "lat": 52.46887,
+    "lng": 13.48983
+  },
+  "Europaplatz, Mitte, Berlin": {
+    "lat": 52.52703,
+    "lng": 13.36908
+  },
+  "expert Fachmarkt, Aurich, Berlin": null,
+  "Fahremundstraße, Spandau, Berlin": {
+    "lat": 52.51627,
+    "lng": 13.17435
+  },
+  "Falckensteinstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50095,
+    "lng": 13.44466
+  },
+  "Falkenberger Chaussee, Lichtenberg, Berlin": {
+    "lat": 52.56284,
+    "lng": 13.50431
+  },
+  "Falkenhausenweg, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.42456,
+    "lng": 13.36391
+  },
+  "Falkenseer Chaussee, Spandau, Berlin": {
+    "lat": 52.55009,
+    "lng": 13.17138
+  },
+  "Falkenseer Damm, Spandau, Berlin": {
+    "lat": 52.54096,
+    "lng": 13.20229
+  },
+  "Fasanenstraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.5066,
+    "lng": 13.328
+  },
+  "Feurigstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.48125,
+    "lng": 13.34997
+  },
+  "Filehner Straße, Treptow-Köpenick, Berlin": {
+    "lat": 52.4657,
+    "lng": 13.57941
+  },
+  "Filiale der Berliner Volksbank, Berlin": null,
+  "Finsterwalder Straße, Reinickendorf, Berlin": {
+    "lat": 52.60718,
+    "lng": 13.34834
+  },
+  "Fischerinsel 12, Mitte, Berlin": {
+    "lat": 52.51297,
+    "lng": 13.40503
+  },
+  "Fischerstraße, Lichtenberg, Berlin": {
+    "lat": 52.50179,
+    "lng": 13.48695
+  },
+  "Florastraße, Pankow, Berlin": {
+    "lat": 52.61322,
+    "lng": 13.46824
+  },
+  "Flughafenstraße 33, Neukölln, Berlin": {
+    "lat": 52.48117,
+    "lng": 13.42872
+  },
+  "Flurende, Spandau, Berlin": {
+    "lat": 52.55076,
+    "lng": 13.14844
+  },
+  "Fontanestraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.48756,
+    "lng": 13.26389
+  },
+  "Forckenbeckstraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.47893,
+    "lng": 13.31008
+  },
+  "Forster Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.53503,
+    "lng": 13.62358
+  },
+  "Frankfurter Allee, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.51362,
+    "lng": 13.47544
+  },
+  "Frankfurter Allee, Lichtenberg, Berlin": {
+    "lat": 52.51362,
+    "lng": 13.47544
+  },
+  "Franklinstraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.52086,
+    "lng": 13.32771
+  },
+  "Französische Straße, Mitte, Berlin": {
+    "lat": 52.51447,
+    "lng": 13.38485
+  },
+  "Freiheit, Spandau, Berlin": {
+    "lat": 52.53257,
+    "lng": 13.20932
+  },
+  "Freybrücke, Spandau, Berlin": {
+    "lat": 52.51178,
+    "lng": 13.20314
+  },
+  "Friedensstraße, Pankow, Berlin": null,
+  "Friedenstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.52457,
+    "lng": 13.4311
+  },
+  "Friedlander Straße, Treptow-Köpenick, Berlin": {
+    "lat": 52.44563,
+    "lng": 13.55314
+  },
+  "Friedrich-Engels-Straße, Pankow, Berlin": {
+    "lat": 52.58928,
+    "lng": 13.3879
   },
   "Friedrichshagener Straße, Treptow-Köpenick, Berlin": {
     "lat": 52.45259,
     "lng": 13.57805
   },
+  "Friedrichstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50253,
+    "lng": 13.39118
+  },
+  "Friedrichstraße, Mitte, Berlin": {
+    "lat": 52.52444,
+    "lng": 13.38747
+  },
+  "Friesenstraße, Neukölln, Berlin": null,
+  "Friesickestraße, Pankow, Berlin": {
+    "lat": 52.55305,
+    "lng": 13.44019
+  },
+  "Fritz-Erler-Allee, Neukölln, Berlin": {
+    "lat": 52.43657,
+    "lng": 13.45155
+  },
+  "Fritz-Reuter-Straße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.48096,
+    "lng": 13.34974
+  },
+  "Frobenstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.50013,
+    "lng": 13.36011
+  },
+  "Fuggerstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.49892,
+    "lng": 13.34672
+  },
+  "Fulhamer Allee, Neukölln, Berlin": {
+    "lat": 52.44643,
+    "lng": 13.44327
+  },
+  "Fürstenwalder Allee, Treptow-Köpenick, Berlin": {
+    "lat": 52.43983,
+    "lng": 13.69136
+  },
+  "Fürstenwalder Damm, Treptow-Köpenick, Berlin": {
+    "lat": 52.45693,
+    "lng": 13.62646
+  },
+  "Galenstraße, Spandau, Berlin": {
+    "lat": 52.53943,
+    "lng": 13.19822
+  },
+  "Gamsbartweg, Reinickendorf, Berlin": {
+    "lat": 52.57227,
+    "lng": 13.36449
+  },
+  "Gardeschützenweg, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.44344,
+    "lng": 13.29888
+  },
+  "Gartenfelder Straße, Spandau, Berlin": {
+    "lat": 52.5424,
+    "lng": 13.23792
+  },
+  "Gartenstraße, Mitte, Berlin": {
+    "lat": 52.53317,
+    "lng": 13.39061
+  },
+  "Gärtnerstraße, Charlottenburg-Wilmersdorf, Berlin": null,
+  "Gatower Straße, Spandau, Berlin": {
+    "lat": 52.51542,
+    "lng": 13.18485
+  },
+  "Gebrüder-Hirth-Straße, Treptow-Köpenick, Berlin": {
+    "lat": 52.39121,
+    "lng": 13.53662
+  },
+  "Gehrenseestraße, Lichtenberg, Berlin": {
+    "lat": 52.5565,
+    "lng": 13.52476
+  },
+  "Geisbergstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.49754,
+    "lng": 13.33984
+  },
+  "Genter Straße, Mitte, Berlin": {
+    "lat": 52.5483,
+    "lng": 13.35232
+  },
+  "Georg-Ramin-Grünzug, Spandau, Berlin": null,
+  "Geraer Ring, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.56944,
+    "lng": 13.5609
+  },
+  "Gerichtstraße 52, Mitte, Berlin": {
+    "lat": 52.54466,
+    "lng": 13.36717
+  },
+  "Gerichtstraße, Mitte, Berlin": {
+    "lat": 52.54306,
+    "lng": 13.3765
+  },
+  "Gerlinger Straße, Neukölln, Berlin": {
+    "lat": 52.41742,
+    "lng": 13.43693
+  },
+  "Germersheimer Weg, Spandau, Berlin": {
+    "lat": 52.54683,
+    "lng": 13.18642
+  },
+  "Gitschiner Straße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.49837,
+    "lng": 13.40857
+  },
+  "Glashütter Weg, Neukölln, Berlin": {
+    "lat": 52.42052,
+    "lng": 13.51787
+  },
+  "Gleditschstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.48931,
+    "lng": 13.35501
+  },
+  "Glienicker Straße, Treptow-Köpenick, Berlin": {
+    "lat": 52.43919,
+    "lng": 13.56558
+  },
+  "Glockenblumenweg, Neukölln, Berlin": {
+    "lat": 52.42888,
+    "lng": 13.4884
+  },
+  "Glogauer Straße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.49495,
+    "lng": 13.43888
+  },
   "Gneisenaustraße, Friedrichshain-Kreuzberg, Berlin": {
     "lat": 52.49129,
     "lng": 13.39582
+  },
+  "Goebelstraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.53831,
+    "lng": 13.27608
+  },
+  "Goebenstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.49409,
+    "lng": 13.36207
+  },
+  "Goerzallee, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.41998,
+    "lng": 13.29488
+  },
+  "Goethestraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.50891,
+    "lng": 13.31619
+  },
+  "Goethestraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.40426,
+    "lng": 13.40564
+  },
+  "Goltzstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.49604,
+    "lng": 13.354
+  },
+  "Gorkistraße, Reinickendorf, Berlin": {
+    "lat": 52.5921,
+    "lng": 13.30676
+  },
+  "Görlitzer Park, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.49658,
+    "lng": 13.43761
+  },
+  "Görlitzer Straße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.4978,
+    "lng": 13.43664
+  },
+  "Gothaer Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.53939,
+    "lng": 13.58887
+  },
+  "Gotlindestraße, Lichtenberg, Berlin": {
+    "lat": 52.51913,
+    "lng": 13.49373
+  },
+  "Göttinger Straße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.45933,
+    "lng": 13.34505
+  },
+  "Gottlieb-Dunkel-Straße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.45381,
+    "lng": 13.40894
+  },
+  "Gotzkowskystraße, Mitte, Berlin": {
+    "lat": 52.52692,
+    "lng": 13.33048
+  },
+  "Grabbeallee, Pankow, Berlin": {
+    "lat": 52.57221,
+    "lng": 13.39874
+  },
+  "Graefestraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.48819,
+    "lng": 13.4141
+  },
+  "Grazer Damm, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.46438,
+    "lng": 13.34793
+  },
+  "Greifenhagener Straße, Pankow, Berlin": {
+    "lat": 52.55133,
+    "lng": 13.41848
+  },
+  "Greifswalder Straße, Pankow, Berlin": {
+    "lat": 52.54025,
+    "lng": 13.43899
+  },
+  "Grenadierstraße, Spandau, Berlin": {
+    "lat": 52.53134,
+    "lng": 13.20616
+  },
+  "Grimmstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.49251,
+    "lng": 13.41375
+  },
+  "Gropiusstadt, Neukölln, Berlin": {
+    "lat": 52.42495,
+    "lng": 13.46618
+  },
+  "Groß-Glienicker Weg, Spandau, Berlin": {
+    "lat": 52.47961,
+    "lng": 13.14258
+  },
+  "Groß-Ziethener Chaussee, Neukölln, Berlin": {
+    "lat": 52.41335,
+    "lng": 13.48899
+  },
+  "Großbeerenstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.4304,
+    "lng": 13.37619
+  },
+  "Große Hamburger Straße, Mitte, Berlin": {
+    "lat": 52.52559,
+    "lng": 13.39881
   },
   "Große-Leege-Straße, Lichtenberg, Berlin": {
     "lat": 52.53941,
@@ -40,23 +1082,313 @@
     "lat": 52.5163,
     "lng": 13.36182
   },
+  "Grottkauer Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.52727,
+    "lng": 13.60786
+  },
+  "Grünauer Straße, Treptow-Köpenick, Berlin": {
+    "lat": 52.41947,
+    "lng": 13.54131
+  },
+  "Grüner Weg, Neukölln, Berlin": {
+    "lat": 52.44456,
+    "lng": 13.45849
+  },
+  "Grunerstraße, Mitte, Berlin": {
+    "lat": 52.51898,
+    "lng": 13.41171
+  },
+  "Grunewald, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.48735,
+    "lng": 13.26375
+  },
+  "Grüntaler Straße, Mitte, Berlin": {
+    "lat": 52.5577,
+    "lng": 13.39605
+  },
+  "Gudrunstraße, Lichtenberg, Berlin": {
+    "lat": 52.51326,
+    "lng": 13.50237
+  },
+  "Gülzower Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.51546,
+    "lng": 13.58462
+  },
+  "Gürtelstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50816,
+    "lng": 13.47215
+  },
+  "Gürtelstraße, Lichtenberg, Berlin": {
+    "lat": 52.51292,
+    "lng": 13.4765
+  },
+  "Gustav-Adolf-Straße, Pankow, Berlin": {
+    "lat": 52.55513,
+    "lng": 13.43821
+  },
+  "Gustav-Kirchhoff-Straße, Treptow-Köpenick, Berlin": {
+    "lat": 52.4289,
+    "lng": 13.53434
+  },
+  "Gustav-Meyer-Allee, Mitte, Berlin": {
+    "lat": 52.5423,
+    "lng": 13.38301
+  },
+  "Gutschmidtstraße, Neukölln, Berlin": {
+    "lat": 52.43691,
+    "lng": 13.44531
+  },
+  "Hagenstraße, Lichtenberg, Berlin": {
+    "lat": 52.51656,
+    "lng": 13.50028
+  },
+  "Hakenfelder Straße, Spandau, Berlin": {
+    "lat": 52.56618,
+    "lng": 13.20077
+  },
+  "Hallesches Ufer, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50259,
+    "lng": 13.37592
+  },
+  "Hamm, Berlin": {
+    "lat": 52.49117,
+    "lng": 13.33915
+  },
+  "Hämmerlingstraße, Treptow-Köpenick, Berlin": {
+    "lat": 52.46062,
+    "lng": 13.57298
+  },
+  "Hanns-Eisler-Straße, Pankow, Berlin": {
+    "lat": 52.5443,
+    "lng": 13.44347
+  },
+  "Hansastraße, Lichtenberg, Berlin": {
+    "lat": 52.54712,
+    "lng": 13.47097
+  },
+  "Hansastraße, Pankow, Berlin": {
+    "lat": 52.54858,
+    "lng": 13.47332
+  },
+  "Hanseatenweg, Mitte, Berlin": {
+    "lat": 52.51881,
+    "lng": 13.34618
+  },
   "Hardenbergplatz, Charlottenburg-Wilmersdorf, Berlin": {
     "lat": 52.50844,
     "lng": 13.33455
+  },
+  "Hasenheide 119, Berlin": {
+    "lat": 52.48627,
+    "lng": 13.42378
+  },
+  "Hasenheide, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.4868,
+    "lng": 13.42298
+  },
+  "Hauptstraße, Lichtenberg, Berlin": {
+    "lat": 52.54836,
+    "lng": 13.50933
+  },
+  "Hauptstraße, Pankow, Berlin": {
+    "lat": 52.55163,
+    "lng": 13.48173
   },
   "Hauptstraße, Tempelhof-Schöneberg, Berlin": {
     "lat": 52.4893,
     "lng": 13.35938
   },
+  "Havel, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.43596,
+    "lng": 13.11875
+  },
+  "Heckerdamm, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.53952,
+    "lng": 13.3117
+  },
+  "Heerstraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.50757,
+    "lng": 13.24576
+  },
+  "Heerstraße, Spandau, Berlin": {
+    "lat": 52.51391,
+    "lng": 13.19264
+  },
+  "Heidelberger Straße, Treptow-Köpenick, Berlin": {
+    "lat": 52.48478,
+    "lng": 13.45524
+  },
+  "Heiligensee, Reinickendorf, Berlin": {
+    "lat": 52.61225,
+    "lng": 13.22958
+  },
+  "Heiligenseestraße, Reinickendorf, Berlin": {
+    "lat": 52.59717,
+    "lng": 13.27217
+  },
+  "Heilmannring, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.53515,
+    "lng": 13.28483
+  },
+  "Heinitzweg, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.41526,
+    "lng": 13.39839
+  },
+  "Heinrich-von-Gagern-Straße, Mitte, Berlin": {
+    "lat": 52.51859,
+    "lng": 13.37085
+  },
+  "Heinz-Galinski-Straße, Mitte, Berlin": {
+    "lat": 52.55397,
+    "lng": 13.37152
+  },
+  "Helene-Weigel-Platz, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.52875,
+    "lng": 13.53747
+  },
   "Hellersdorf, Marzahn-Hellersdorf, Berlin": {
     "lat": 52.5367,
     "lng": 13.60487
   },
+  "Hellersdorfer Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.53618,
+    "lng": 13.60273
+  },
+  "Helmut-Kohl-Allee, Mitte, Berlin": {
+    "lat": 52.50961,
+    "lng": 13.35147
+  },
+  "Helsingforser Platz, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50809,
+    "lng": 13.44866
+  },
+  "Herbertstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.48613,
+    "lng": 13.35855
+  },
+  "Hermannplatz, Neukölln, Berlin": {
+    "lat": 52.48629,
+    "lng": 13.42455
+  },
+  "Hermannstraße, Neukölln, Berlin": {
+    "lat": 52.46726,
+    "lng": 13.43147
+  },
+  "Hermsdorfer Straße, Reinickendorf, Berlin": {
+    "lat": 52.59425,
+    "lng": 13.32161
+  },
+  "Herrfurthstraße, Neukölln, Berlin": {
+    "lat": 52.47687,
+    "lng": 13.42008
+  },
+  "Herrmann-Ganswindt-Brücke, Tempelhof-Schöneberg, Berlin": null,
+  "Herrmannstraße, Neukölln, Berlin": null,
+  "Herthaplatz, Charlottenburg-Wilmersdorf, Berlin": null,
+  "Herzbergstraße, Lichtenberg, Berlin": {
+    "lat": 52.52681,
+    "lng": 13.4806
+  },
+  "Hilbertstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.3861,
+    "lng": 13.39568
+  },
+  "Hilda-Geiringer-Weg, Mitte, Berlin": {
+    "lat": 52.52713,
+    "lng": 13.3727
+  },
+  "Hildburghauser Straße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.41431,
+    "lng": 13.35046
+  },
+  "Hildegard-Knef-Platz, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.47592,
+    "lng": 13.36371
+  },
+  "Hindenburgdamm, Charlottenburg-Wilmersdorf, Berlin": null,
+  "Hindenburgdamm, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.43459,
+    "lng": 13.31276
+  },
+  "Hinter dem Gießhaus, Mitte, Berlin": {
+    "lat": 52.51884,
+    "lng": 13.39605
+  },
+  "Hobrechtstraße, Neukölln, Berlin": {
+    "lat": 52.48964,
+    "lng": 13.42649
+  },
+  "Hochstraße, Mitte, Berlin": {
+    "lat": 52.54482,
+    "lng": 13.37867
+  },
+  "Hoeppnerstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.47156,
+    "lng": 13.38565
+  },
+  "Hohensaatener Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.55095,
+    "lng": 13.57734
+  },
+  "Hohenzollerndamm 11, Neukölln, Berlin": null,
+  "Hohenzollerndamm, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.48863,
+    "lng": 13.30024
+  },
+  "Hohenzollerndamm, Neukölln, Berlin": null,
   "Hohenzollernplatz, Steglitz-Zehlendorf, Berlin": {
     "lat": 52.43085,
     "lng": 13.1945
   },
+  "Holländerstraße, Mitte, Berlin": {
+    "lat": 52.5618,
+    "lng": 13.3537
+  },
+  "Holländerstraße, Reinickendorf, Berlin": {
+    "lat": 52.56446,
+    "lng": 13.33771
+  },
+  "Holsteinische Straße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.4624,
+    "lng": 13.32784
+  },
+  "Holzhauser Straße, Reinickendorf, Berlin": {
+    "lat": 52.57569,
+    "lng": 13.29611
+  },
   "Hotelzimmer, Mitte, Berlin": null,
+  "Hultschiner Damm, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.48698,
+    "lng": 13.60477
+  },
+  "Hüttenweg, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.47058,
+    "lng": 13.22901
+  },
+  "Iburger Ufer, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.52013,
+    "lng": 13.30967
+  },
+  "Ilsenburger Straße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.52622,
+    "lng": 13.30989
+  },
+  "Im Lichtenhain, Lichtenberg, Berlin": {
+    "lat": 52.50003,
+    "lng": 13.49296
+  },
+  "Immanuelkirchstraße, Pankow, Berlin": {
+    "lat": 52.53254,
+    "lng": 13.42409
+  },
+  "Indira-Gandhi-Straße, Lichtenberg, Berlin": {
+    "lat": 52.5438,
+    "lng": 13.46898
+  },
+  "James-Simon-Park, Mitte, Berlin": {
+    "lat": 52.52182,
+    "lng": 13.3994
+  },
   "Jan-Petersen-Straße, Marzahn-Hellersdorf, Berlin": {
     "lat": 52.54939,
     "lng": 13.56236
@@ -65,80 +1397,1089 @@
     "lat": 52.50719,
     "lng": 13.33155
   },
+  "Jessnerstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.51054,
+    "lng": 13.47114
+  },
+  "Joachim-Friedrich-Straße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.50049,
+    "lng": 13.29655
+  },
+  "Johannisthal, Treptow-Köpenick, Berlin": {
+    "lat": 52.44591,
+    "lng": 13.50455
+  },
+  "Johannisthaler Chaussee, Neukölln, Berlin": {
+    "lat": 52.42932,
+    "lng": 13.45334
+  },
+  "Johannisthaler Chaussee, Treptow-Köpenick, Berlin": {
+    "lat": 52.4446,
+    "lng": 13.48073
+  },
   "Juliusstraße, Neukölln, Berlin": {
     "lat": 52.46329,
     "lng": 13.43509
   },
+  "Jungfernheideweg, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.54335,
+    "lng": 13.2732
+  },
+  "Kaiser-Friedrich-Straße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.51822,
+    "lng": 13.3002
+  },
+  "Kaiser-Wilhelm-Straße 127, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.44104,
+    "lng": 13.35319
+  },
+  "Kaiser-Wilhelm-Straße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.43668,
+    "lng": 13.34651
+  },
+  "Kaiserdammbrücke, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.51014,
+    "lng": 13.28516
+  },
+  "Kaiserin-Augusta-Straße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.45998,
+    "lng": 13.38463
+  },
+  "Kantstraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.50683,
+    "lng": 13.29991
+  },
+  "Kapaunenstraße, Neukölln, Berlin": {
+    "lat": 52.40808,
+    "lng": 13.4905
+  },
   "Kapweg, Mitte, Berlin": null,
+  "Karl-Liebknecht-Straße, Mitte, Berlin": {
+    "lat": 52.52283,
+    "lng": 13.41012
+  },
+  "Karl-Marx-Straße 127, Neukölln, Berlin": {
+    "lat": 52.47776,
+    "lng": 13.43866
+  },
+  "Karl-Marx-Straße, Neukölln, Berlin": {
+    "lat": 52.47627,
+    "lng": 13.43934
+  },
+  "Kaskelstraße, Lichtenberg, Berlin": {
+    "lat": 52.50528,
+    "lng": 13.4753
+  },
+  "Kastanienallee, Pankow, Berlin": {
+    "lat": 52.53658,
+    "lng": 13.40763
+  },
+  "Käthe-Dorsch-Ring, Neukölln, Berlin": {
+    "lat": 52.42411,
+    "lng": 13.47808
+  },
+  "Katzbachstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.49038,
+    "lng": 13.37675
+  },
+  "Kavalierstraße, Pankow, Berlin": {
+    "lat": 52.5721,
+    "lng": 13.41138
+  },
+  "Keplerstraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.52766,
+    "lng": 13.30464
+  },
+  "Kiefholzstraße, Treptow-Köpenick, Berlin": {
+    "lat": 52.46371,
+    "lng": 13.48972
+  },
   "Kilstetter Straße, Steglitz-Zehlendorf, Berlin": {
     "lat": 52.43526,
     "lng": 13.27324
   },
+  "Kinzigstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.51153,
+    "lng": 13.46443
+  },
+  "Kirchstraße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.43351,
+    "lng": 13.25807
+  },
+  "Kirschweg, Treptow-Köpenick, Berlin": {
+    "lat": 52.40004,
+    "lng": 13.53558
+  },
+  "Kladower Damm, Spandau, Berlin": {
+    "lat": 52.4575,
+    "lng": 13.14967
+  },
+  "Klara-Weyl-Straße, Lichtenberg, Berlin": {
+    "lat": 52.518,
+    "lng": 13.50665
+  },
+  "Kleiner Tiergarten, Mitte, Berlin": {
+    "lat": 52.52549,
+    "lng": 13.34604
+  },
+  "Kleinmachnower Weg 1, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.40861,
+    "lng": 13.26686
+  },
+  "Kleinziethen, Berlin": null,
   "Kleiststraße, Tempelhof-Schöneberg, Berlin": {
     "lat": 52.50096,
     "lng": 13.34657
   },
+  "Klinikum Benjamin-Franklin, Charlottenburg-Wilmersdorf, Berlin": null,
   "Knesebeckstraße, Charlottenburg-Wilmersdorf, Berlin": {
     "lat": 52.50413,
     "lng": 13.32217
+  },
+  "Köllnische Straße, Treptow-Köpenick, Berlin": {
+    "lat": 52.45294,
+    "lng": 13.52091
+  },
+  "Kolonnenstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.48519,
+    "lng": 13.36352
+  },
+  "Königin-Elisabeth-Straße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.51403,
+    "lng": 13.28136
+  },
+  "Königin-Luise-Straße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.45809,
+    "lng": 13.28884
+  },
+  "Königsallee, Charlottenburg-Wilmersdorf, Berlin": null,
+  "Königstraße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.43143,
+    "lng": 13.24596
+  },
+  "Königsweg, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.40975,
+    "lng": 13.1799
+  },
+  "Konrad-Wolf-Straße, Lichtenberg, Berlin": {
+    "lat": 52.54679,
+    "lng": 13.49817
+  },
+  "Konstanzer Straße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.49453,
+    "lng": 13.30907
+  },
+  "Köpenicker Chaussee, Lichtenberg, Berlin": {
+    "lat": 52.48277,
+    "lng": 13.50147
+  },
+  "Köpenicker Landstraße, Treptow-Köpenick, Berlin": {
+    "lat": 52.479,
+    "lng": 13.47681
+  },
+  "Köpenicker Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.49531,
+    "lng": 13.56281
+  },
+  "Köpenicker Straße, Mitte, Berlin": {
+    "lat": 52.50921,
+    "lng": 13.42327
+  },
+  "Koppelweg, Neukölln, Berlin": {
+    "lat": 52.44473,
+    "lng": 13.426
+  },
+  "Köthener Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.56808,
+    "lng": 13.55538
   },
   "Kottbusser Damm, Friedrichshain-Kreuzberg, Berlin": {
     "lat": 52.49101,
     "lng": 13.42337
   },
+  "Kottbusser Damm, Neukölln, Berlin": {
+    "lat": 52.48791,
+    "lng": 13.42537
+  },
+  "Kottbusser Tor, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.49899,
+    "lng": 13.41831
+  },
+  "Kottbusser Tor, Tempelhof-Schöneberg, Berlin": null,
   "Krautstraße, Friedrichshain-Kreuzberg, Berlin": {
     "lat": 52.51707,
     "lng": 13.42946
+  },
+  "Kreutziger Straße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.51257,
+    "lng": 13.4594
+  },
+  "Kreuzbergstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.48964,
+    "lng": 13.37976
+  },
+  "Kronprinzenbrücke, Mitte, Berlin": {
+    "lat": 52.52189,
+    "lng": 13.37588
+  },
+  "Kronprinzessinnenweg, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.42462,
+    "lng": 13.18536
+  },
+  "Krossener Straße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.51007,
+    "lng": 13.46152
   },
   "Krumme Straße, Charlottenburg-Wilmersdorf, Berlin": {
     "lat": 52.51098,
     "lng": 13.30946
   },
+  "Kuhligkshofstraße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.4559,
+    "lng": 13.32181
+  },
+  "Kurfürstendamm, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.5017,
+    "lng": 13.3206
+  },
+  "Kurfürstenstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.4479,
+    "lng": 13.37577
+  },
+  "Kurstraße, Spandau, Berlin": {
+    "lat": 52.54825,
+    "lng": 13.20822
+  },
+  "Kurt-Schumacher-Damm, Reinickendorf, Berlin": {
+    "lat": 52.56164,
+    "lng": 13.32604
+  },
+  "Lahnstraße, Neukölln, Berlin": {
+    "lat": 52.46794,
+    "lng": 13.44404
+  },
+  "Landjägerstraße, Treptow-Köpenick, Berlin": {
+    "lat": 52.44395,
+    "lng": 13.58122
+  },
+  "Landsberger Allee, Lichtenberg, Berlin": {
+    "lat": 52.53136,
+    "lng": 13.47281
+  },
   "Landsberger Allee, Marzahn-Hellersdorf, Berlin": {
     "lat": 52.53836,
     "lng": 13.53199
+  },
+  "Landsberger Allee, Pankow, Berlin": {
+    "lat": 52.52948,
+    "lng": 13.45478
+  },
+  "Landschaftspark Rudow-Altglienicke, Treptow-Köpenick, Berlin": {
+    "lat": 52.41222,
+    "lng": 13.52615
+  },
+  "Landwehrkanal, Treptow-Köpenick, Berlin": null,
+  "Lange Brücke, Treptow-Köpenick, Berlin": {
+    "lat": 52.44446,
+    "lng": 13.57184
   },
   "Lankwitzer Straße, Tempelhof-Schöneberg, Berlin": {
     "lat": 52.43623,
     "lng": 13.36934
   },
+  "Laubacher Straße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.46902,
+    "lng": 13.31997
+  },
+  "Lauenburger Straße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.4568,
+    "lng": 13.33752
+  },
+  "Lausitzer Platz, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50018,
+    "lng": 13.43079
+  },
+  "Lea-Grundig-Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.54932,
+    "lng": 13.56067
+  },
+  "Lechtaler Weg, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.41257,
+    "lng": 13.34256
+  },
+  "Lehrter Straße, Mitte, Berlin": {
+    "lat": 52.52649,
+    "lng": 13.36462
+  },
   "Leibnizstraße, Charlottenburg-Wilmersdorf, Berlin": {
     "lat": 52.50099,
     "lng": 13.31304
+  },
+  "Leipziger Platz 12, Mitte, Berlin": {
+    "lat": 52.51056,
+    "lng": 13.38096
+  },
+  "Leipziger Straße, Mitte, Berlin": {
+    "lat": 52.51077,
+    "lng": 13.39565
+  },
+  "Lewishamstraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.5033,
+    "lng": 13.30472
+  },
+  "Lichtenberger Campus der Hochschule für Wirtschaft und Recht, Treptow-Köpenick, Berlin": null,
+  "Lichtenberger Straße, Mitte, Berlin": {
+    "lat": 52.51476,
+    "lng": 13.42421
+  },
+  "Lichtenrader Damm, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.40571,
+    "lng": 13.40615
+  },
+  "Liebenowzeile, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.44729,
+    "lng": 13.34934
+  },
+  "Liebensteiner Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.5584,
+    "lng": 13.557
+  },
+  "Liegnitzer Straße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.49355,
+    "lng": 13.43468
+  },
+  "Lieselotte-Berger-Straße, Neukölln, Berlin": {
+    "lat": 52.40251,
+    "lng": 13.50511
+  },
+  "Lincolnstraße, Lichtenberg, Berlin": {
+    "lat": 52.50271,
+    "lng": 13.50225
+  },
+  "Lindauer Allee, Reinickendorf, Berlin": {
+    "lat": 52.57542,
+    "lng": 13.33843
+  },
+  "Lindenallee, Treptow-Köpenick, Berlin": {
+    "lat": 52.45527,
+    "lng": 13.61995
+  },
+  "Lindenberger Weg, Pankow, Berlin": {
+    "lat": 52.63193,
+    "lng": 13.50172
+  },
+  "Lindenufer, Spandau, Berlin": {
+    "lat": 52.53605,
+    "lng": 13.2065
+  },
+  "Lohmühlenstraße, Friedrichshain-Kreuzberg, Berlin": null,
+  "Louis-Lewin-Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.53898,
+    "lng": 13.61835
+  },
+  "Lübbener Straße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.499,
+    "lng": 13.43705
+  },
+  "Lucy-Lameck-Straße, Neukölln, Berlin": {
+    "lat": 52.48363,
+    "lng": 13.42316
+  },
+  "Ludwig-Erhard-Ufer, Mitte, Berlin": {
+    "lat": 52.52269,
+    "lng": 13.37239
+  },
+  "Luise-Zietz-Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.52479,
+    "lng": 13.54775
+  },
+  "Lutoner Straße, Spandau, Berlin": {
+    "lat": 52.52595,
+    "lng": 13.17519
+  },
+  "Lyonel-Feininger-Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.53858,
+    "lng": 13.60714
+  },
+  "Maaßenstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.49915,
+    "lng": 13.3539
+  },
+  "Magistratsweg, Spandau, Berlin": {
+    "lat": 52.53505,
+    "lng": 13.15712
+  },
+  "Mainzer Straße, Neukölln, Berlin": {
+    "lat": 52.48113,
+    "lng": 13.42776
+  },
+  "Malchiner Straße, Neukölln, Berlin": {
+    "lat": 52.44439,
+    "lng": 13.45257
+  },
+  "Malmöer Straße, Pankow, Berlin": {
+    "lat": 52.55412,
+    "lng": 13.40265
+  },
+  "Malplaquetstraße, Mitte, Berlin": {
+    "lat": 52.55026,
+    "lng": 13.36041
+  },
+  "Mansteinstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.49337,
+    "lng": 13.36714
+  },
+  "Maratstraße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.51807,
+    "lng": 13.54833
+  },
+  "Mariendorfer Damm, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.44691,
+    "lng": 13.38561
+  },
+  "Mariendorfer Weg, Neukölln, Berlin": {
+    "lat": 52.4641,
+    "lng": 13.4283
+  },
+  "Markgrafendamm, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50146,
+    "lng": 13.46657
+  },
+  "Markgrafenstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.504,
+    "lng": 13.39486
+  },
+  "Märkische Allee, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.55602,
+    "lng": 13.55452
+  },
+  "Märkisches Viertel, Reinickendorf, Berlin": {
+    "lat": 52.59931,
+    "lng": 13.35653
+  },
+  "Markstraße, Mitte, Berlin": {
+    "lat": 52.55821,
+    "lng": 13.36544
+  },
+  "Marktstraße, Lichtenberg, Berlin": {
+    "lat": 52.50303,
+    "lng": 13.47363
+  },
+  "Martin-Opitz-Straße, Mitte, Berlin": {
+    "lat": 52.55232,
+    "lng": 13.37056
+  },
+  "Martin-Wagner-Ring, Neukölln, Berlin": {
+    "lat": 52.44114,
+    "lng": 13.43804
+  },
+  "Marzahner Chaussee, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.53071,
+    "lng": 13.53331
+  },
+  "Marzahner Promenade, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.54328,
+    "lng": 13.54976
+  },
+  "Massantebrücke, Neukölln, Berlin": {
+    "lat": 52.4333,
+    "lng": 13.4976
+  },
+  "Masurenallee, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.50747,
+    "lng": 13.27691
+  },
+  "Mauerpark, Pankow, Berlin": {
+    "lat": 52.54372,
+    "lng": 13.40193
+  },
+  "Max-Herrmann-Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.5558,
+    "lng": 13.56705
+  },
+  "Mecklenburgische Straße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.4818,
+    "lng": 13.31587
+  },
+  "Mehringbrücke, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.49807,
+    "lng": 13.3888
+  },
+  "Mehringdamm, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.49413,
+    "lng": 13.38862
+  },
+  "Mehringplatz, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.49836,
+    "lng": 13.39238
+  },
+  "Mehrower Allee, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.55761,
+    "lng": 13.55355
   },
   "Meinekestraße, Charlottenburg-Wilmersdorf, Berlin": {
     "lat": 52.50316,
     "lng": 13.32923
   },
+  "Memhardstraße, Mitte, Berlin": {
+    "lat": 52.52401,
+    "lng": 13.41029
+  },
   "Mentzelpark, Treptow-Köpenick, Berlin": {
     "lat": 52.44866,
     "lng": 13.56894
   },
+  "Merlitzstraße, Treptow-Köpenick, Berlin": {
+    "lat": 52.43359,
+    "lng": 13.53511
+  },
+  "Messedamm, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.50175,
+    "lng": 13.27589
+  },
+  "Michael-Bohnen-Ring, Neukölln, Berlin": {
+    "lat": 52.46582,
+    "lng": 13.47396
+  },
+  "Michael-Brückner-Straße, Treptow-Köpenick, Berlin": {
+    "lat": 52.45466,
+    "lng": 13.51204
+  },
+  "Michaelkirchstraße, Mitte, Berlin": {
+    "lat": 52.51002,
+    "lng": 13.42135
+  },
+  "Mindener Straße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.52532,
+    "lng": 13.29843
+  },
+  "Mommsenstraße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.44236,
+    "lng": 13.29986
+  },
+  "Motzener Straße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.40876,
+    "lng": 13.37653
+  },
+  "Motzstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.49713,
+    "lng": 13.34633
+  },
+  "Müggelheimer Damm, Treptow-Köpenick, Berlin": {
+    "lat": 52.43298,
+    "lng": 13.60706
+  },
+  "Müggelheimer Straße, Treptow-Köpenick, Berlin": {
+    "lat": 52.4442,
+    "lng": 13.5765
+  },
+  "Müggelspree, Treptow-Köpenick, Berlin": {
+    "lat": 52.43508,
+    "lng": 13.68229
+  },
+  "Mühlendamm, Mitte, Berlin": {
+    "lat": 52.51556,
+    "lng": 13.40774
+  },
+  "Mühlenstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50726,
+    "lng": 13.43635
+  },
+  "Mühlenstraße, Mitte, Berlin": null,
   "Müllerstraße, Mitte, Berlin": {
     "lat": 52.54602,
     "lng": 13.35968
   },
+  "Münsinger Park, Berlin": null,
   "Münsinger Park, Spandau, Berlin": null,
+  "Münzstraße, Mitte, Berlin": {
+    "lat": 52.52418,
+    "lng": 13.40894
+  },
+  "Murtzaner Ring, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.53072,
+    "lng": 13.54294
+  },
+  "Nahariyastraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.39444,
+    "lng": 13.41958
+  },
+  "Nalepastraße, Treptow-Köpenick, Berlin": {
+    "lat": 52.46626,
+    "lng": 13.50637
+  },
+  "Namslaustraße, Reinickendorf, Berlin": {
+    "lat": 52.57834,
+    "lng": 13.27852
+  },
+  "Narkauer Weg, Neukölln, Berlin": {
+    "lat": 52.40773,
+    "lng": 13.50863
+  },
   "Naumburgerstraße, Neukölln, Berlin": {
     "lat": 52.46543,
     "lng": 13.44746
+  },
+  "Naunynstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50059,
+    "lng": 13.42598
+  },
+  "Nazarethkirchstraße, Mitte, Berlin": {
+    "lat": 52.54942,
+    "lng": 13.36186
+  },
+  "Nehringstraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.51448,
+    "lng": 13.29425
+  },
+  "Neue Krugallee, Treptow-Köpenick, Berlin": {
+    "lat": 52.48133,
+    "lng": 13.48235
+  },
+  "Neuendorfer Straße, Spandau, Berlin": {
+    "lat": 52.5463,
+    "lng": 13.20887
+  },
+  "Neufertstraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.51764,
+    "lng": 13.29533
+  },
+  "Neuköllner Straße, Neukölln, Berlin": {
+    "lat": 52.42338,
+    "lng": 13.48637
+  },
+  "Neumannstraße, Pankow, Berlin": {
+    "lat": 52.55784,
+    "lng": 13.42307
+  },
+  "Nibelungenpark, Lichtenberg, Berlin": {
+    "lat": 52.51733,
+    "lng": 13.50154
+  },
+  "Nieberstraße, Treptow-Köpenick, Berlin": {
+    "lat": 52.44887,
+    "lng": 13.51226
+  },
+  "Niederneuendorfer Allee, Spandau, Berlin": {
+    "lat": 52.56971,
+    "lng": 13.21205
+  },
+  "Niemegker Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.56516,
+    "lng": 13.56816
+  },
+  "Nikolsburger Straße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.49405,
+    "lng": 13.32788
+  },
+  "Nogatstraße, Neukölln, Berlin": {
+    "lat": 52.46941,
+    "lng": 13.43272
+  },
+  "Nollendorfplatz, Mitte, Berlin": null,
+  "Nollendorfplatz, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.4996,
+    "lng": 13.35373
+  },
+  "Nonnendammallee, Spandau, Berlin": {
+    "lat": 52.53666,
+    "lng": 13.27166
+  },
+  "Nordring, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.56226,
+    "lng": 13.54954
+  },
+  "Nordstraße, Mitte, Berlin": {
+    "lat": 52.54302,
+    "lng": 13.34357
+  },
+  "Norwegerstraße, Pankow, Berlin": {
+    "lat": 52.5531,
+    "lng": 13.39933
+  },
+  "Nossener Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.52941,
+    "lng": 13.60877
+  },
+  "Oberhofer Weg, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.4216,
+    "lng": 13.33022
+  },
+  "Obstallee, Spandau, Berlin": {
+    "lat": 52.52084,
+    "lng": 13.16816
+  },
+  "Oderberger Straße, Pankow, Berlin": {
+    "lat": 52.53819,
+    "lng": 13.41072
+  },
+  "Oderstraße, Neukölln, Berlin": {
+    "lat": 52.47024,
+    "lng": 13.4204
+  },
+  "Ohmstraße, Spandau, Berlin": {
+    "lat": 52.53562,
+    "lng": 13.27327
+  },
+  "Olbendorfer Weg, Reinickendorf, Berlin": {
+    "lat": 52.58232,
+    "lng": 13.31985
+  },
+  "Olbersstraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.52877,
+    "lng": 13.30571
+  },
+  "Oldenburger Straße, Mitte, Berlin": {
+    "lat": 52.52948,
+    "lng": 13.33599
+  },
+  "Olympiastadion, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.51458,
+    "lng": 13.23981
   },
   "Olympischer Platz, Charlottenburg-Wilmersdorf, Berlin": {
     "lat": 52.51458,
     "lng": 13.23981
   },
+  "Oranienburger Straße, Mitte, Berlin": {
+    "lat": 52.52522,
+    "lng": 13.39301
+  },
   "Oranienburger Straße, Reinickendorf, Berlin": {
     "lat": 52.60375,
     "lng": 13.32757
+  },
+  "Oranienplatz, Berlin": {
+    "lat": 52.50224,
+    "lng": 13.41571
+  },
+  "Oranienstraße 177, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50106,
+    "lng": 13.41945
+  },
+  "Oranienstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50048,
+    "lng": 13.42294
+  },
+  "Ortolfstraße, Treptow-Köpenick, Berlin": {
+    "lat": 52.4074,
+    "lng": 13.53333
+  },
+  "Oschatzer Ring, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.54156,
+    "lng": 13.61646
+  },
+  "Osdorfer Straße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.41887,
+    "lng": 13.31425
+  },
+  "Osloer Straße, Mitte, Berlin": {
+    "lat": 52.55716,
+    "lng": 13.37327
+  },
+  "Osloer Straße, Pankow, Berlin": null,
+  "Österreichpark, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.52167,
+    "lng": 13.3047
+  },
+  "Osteweg, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.42383,
+    "lng": 13.29207
+  },
+  "Ostpreußendamm, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.42488,
+    "lng": 13.31557
+  },
+  "Otto-Braun-Straße, Mitte, Berlin": {
+    "lat": 52.52528,
+    "lng": 13.4197
+  },
+  "Otto-Braun-Straße, Pankow, Berlin": {
+    "lat": 52.52631,
+    "lng": 13.42099
+  },
+  "Otto-Suhr-Allee, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.5141,
+    "lng": 13.31727
+  },
+  "Ottostraße, Mitte, Berlin": {
+    "lat": 52.52539,
+    "lng": 13.33512
+  },
+  "Pablo-Neruda-Straße, Treptow-Köpenick, Berlin": {
+    "lat": 52.44171,
+    "lng": 13.58853
+  },
+  "Pablo-Picasso-Straße 50, Berlin": {
+    "lat": 52.55717,
+    "lng": 13.52732
+  },
+  "Pallasstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.49441,
+    "lng": 13.35986
+  },
+  "Pankstraße, Mitte, Berlin": {
+    "lat": 52.55226,
+    "lng": 13.38146
+  },
+  "Pannierstraße, Neukölln, Berlin": {
+    "lat": 52.48551,
+    "lng": 13.42969
+  },
+  "Pappelallee, Pankow, Berlin": {
+    "lat": 52.54152,
+    "lng": 13.41282
+  },
+  "Paracelsusstraße, Pankow, Berlin": {
+    "lat": 52.57918,
+    "lng": 13.42401
+  },
+  "Parchimer Allee, Neukölln, Berlin": {
+    "lat": 52.44477,
+    "lng": 13.4496
+  },
+  "Park Hellwichstorp, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.53353,
+    "lng": 13.59731
+  },
+  "Park-Klinik Weißensee, Pankow, Berlin": {
+    "lat": 52.55604,
+    "lng": 13.45051
+  },
+  "Parkstraße, Spandau, Berlin": {
+    "lat": 52.5507,
+    "lng": 13.21328
+  },
+  "Parkviertelallee, Spandau, Berlin": {
+    "lat": 52.46244,
+    "lng": 13.15359
+  },
+  "Paul-Heyse-Straße, Pankow, Berlin": {
+    "lat": 52.53091,
+    "lng": 13.44817
+  },
+  "Paul-Lincke-Ufer, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.49137,
+    "lng": 13.43654
+  },
+  "Paula-Hirschfeld-Steig, Spandau, Berlin": {
+    "lat": 52.54552,
+    "lng": 13.20977
+  },
+  "Perleberger Straße, Mitte, Berlin": {
+    "lat": 52.53217,
+    "lng": 13.34993
+  },
+  "Peter-Anders-Straße, Neukölln, Berlin": {
+    "lat": 52.46356,
+    "lng": 13.47533
+  },
+  "Petersburger Straße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.52452,
+    "lng": 13.44914
+  },
+  "Petzoldtweg, Spandau, Berlin": {
+    "lat": 52.53918,
+    "lng": 13.188
+  },
+  "Pichelswerderstraße, Spandau, Berlin": {
+    "lat": 52.52866,
+    "lng": 13.21211
+  },
+  "Pillnitzer Weg, Spandau, Berlin": {
+    "lat": 52.52317,
+    "lng": 13.15751
+  },
+  "Pistoriusstraße, Pankow, Berlin": {
+    "lat": 52.55006,
+    "lng": 13.45893
+  },
+  "Planetenstraße, Neukölln, Berlin": {
+    "lat": 52.46751,
+    "lng": 13.46546
+  },
+  "Planufer, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.49515,
+    "lng": 13.41617
+  },
+  "Platz der Luftbrücke 6, Berlin": {
+    "lat": 52.48299,
+    "lng": 13.38691
   },
   "Platz der Republik, Mitte, Berlin": {
     "lat": 52.51868,
     "lng": 13.37312
   },
+  "Platz des 18. März, Mitte, Berlin": {
+    "lat": 52.51637,
+    "lng": 13.3773
+  },
+  "Plauener Straße, Lichtenberg, Berlin": {
+    "lat": 52.53871,
+    "lng": 13.50181
+  },
+  "Podbielskiallee, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.4641,
+    "lng": 13.29575
+  },
+  "Polizeipräsidium, Berlin": {
+    "lat": 52.49607,
+    "lng": 13.48618
+  },
+  "Potsdamer Chaussee, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.42766,
+    "lng": 13.21524
+  },
+  "Potsdamer Straße, Mitte, Berlin": {
+    "lat": 52.50551,
+    "lng": 13.36789
+  },
+  "Potsdamer Straße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.43544,
+    "lng": 13.30214
+  },
+  "Potsdamer Straße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.40544,
+    "lng": 13.41334
+  },
+  "Pradelstraße, Pankow, Berlin": {
+    "lat": 52.56487,
+    "lng": 13.39562
+  },
+  "Prenzlauer Allee, Pankow, Berlin": {
+    "lat": 52.53872,
+    "lng": 13.42409
+  },
+  "Prenzlauer Berg, Pankow, Berlin": {
+    "lat": 52.53985,
+    "lng": 13.42857
+  },
+  "Prenzlauer Promenade, Pankow, Berlin": {
+    "lat": 52.57038,
+    "lng": 13.42846
+  },
+  "Preußenallee, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.51333,
+    "lng": 13.25935
+  },
+  "Prinzenallee, Mitte, Berlin": {
+    "lat": 52.5596,
+    "lng": 13.38698
+  },
+  "Prinzregentenstraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.48062,
+    "lng": 13.3331
+  },
+  "Prisdorfer Straße, Spandau, Berlin": {
+    "lat": 52.53358,
+    "lng": 13.16507
+  },
+  "psychiatrische Ambulanz, Steglitz-Zehlendorf, Berlin": null,
+  "Pücklerstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50114,
+    "lng": 13.42962
+  },
+  "Puschkinallee, Treptow-Köpenick, Berlin": {
+    "lat": 52.49429,
+    "lng": 13.45536
+  },
+  "Putlitzbrücke, Mitte, Berlin": {
+    "lat": 52.53464,
+    "lng": 13.34351
+  },
+  "Quickborner Straße, Reinickendorf, Berlin": {
+    "lat": 52.60466,
+    "lng": 13.36578
+  },
+  "Räcknitzer Steig, Spandau, Berlin": {
+    "lat": 52.522,
+    "lng": 13.16997
+  },
+  "Raoul-Wallenberg-Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.55073,
+    "lng": 13.54756
+  },
+  "Rathaus Spandau, Spandau, Berlin": {
+    "lat": 52.53517,
+    "lng": 13.19977
+  },
+  "Rathausbrücke, Mitte, Berlin": {
+    "lat": 52.51708,
+    "lng": 13.40403
+  },
   "Rathausstraße, Friedrichshain-Kreuzberg, Berlin": null,
+  "Rathausstraße, Mitte, Berlin": {
+    "lat": 52.51874,
+    "lng": 13.40792
+  },
+  "Rathausvorplatz, Spandau, Berlin": null,
+  "Rathenower Straße, Mitte, Berlin": {
+    "lat": 52.52712,
+    "lng": 13.3551
+  },
+  "Rauchstraße, Spandau, Berlin": {
+    "lat": 52.5601,
+    "lng": 13.22077
+  },
+  "Réaumurstraße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.41101,
+    "lng": 13.31787
+  },
+  "Regattastraße, Treptow-Köpenick, Berlin": {
+    "lat": 52.41086,
+    "lng": 13.59071
+  },
+  "Reginhardstraße, Reinickendorf, Berlin": {
+    "lat": 52.56064,
+    "lng": 13.37127
+  },
+  "Reichenberger Straße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.49642,
+    "lng": 13.42735
+  },
+  "Reichnerweg, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.41293,
+    "lng": 13.40807
+  },
+  "Reinickendorfer Straße, Mitte, Berlin": {
+    "lat": 52.54004,
+    "lng": 13.37029
+  },
+  "Reinickes Hof, Reinickendorf, Berlin": {
+    "lat": 52.57652,
+    "lng": 13.3314
+  },
+  "Rennbahnstraße, Pankow, Berlin": {
+    "lat": 52.56199,
+    "lng": 13.45477
+  },
+  "Residenzstraße 142, Reinickendorf, Berlin": {
+    "lat": 52.57171,
+    "lng": 13.36063
+  },
   "Residenzstraße, Reinickendorf, Berlin": {
     "lat": 52.57119,
     "lng": 13.36047
+  },
+  "Reuterstraße, Neukölln, Berlin": {
+    "lat": 52.48821,
+    "lng": 13.42893
+  },
+  "Revaler Straße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50632,
+    "lng": 13.45951
+  },
+  "Rheinsteinpark, Lichtenberg, Berlin": {
+    "lat": 52.48301,
+    "lng": 13.53108
+  },
+  "Rheinstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.46573,
+    "lng": 13.32935
+  },
+  "Rhinstraße, Lichtenberg, Berlin": {
+    "lat": 52.54627,
+    "lng": 13.50935
   },
   "Rhinstraße, Marzahn-Hellersdorf, Berlin": {
     "lat": 52.53403,
@@ -148,62 +2489,929 @@
     "lat": 52.52088,
     "lng": 13.45898
   },
+  "Riemannstraße, Marzahn-Hellersdorf, Berlin": null,
   "Riesaer Straße, Marzahn-Hellersdorf, Berlin": {
     "lat": 52.53386,
     "lng": 13.60734
+  },
+  "Rigaer Straße 83, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.51705,
+    "lng": 13.462
+  },
+  "Rigaer Straße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.51651,
+    "lng": 13.46284
+  },
+  "Ringbahnstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.4663,
+    "lng": 13.39421
+  },
+  "Ritterstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50288,
+    "lng": 13.4054
+  },
+  "Ritterstraße, Neukölln, Berlin": null,
+  "Ritz Carlton, Schloss Bellevue, Bundeskanzleramt, Mitte, Berlin": null,
+  "Roedernallee, Reinickendorf, Berlin": {
+    "lat": 52.58006,
+    "lng": 13.34608
+  },
+  "Romain-Rolland-Straße, Pankow, Berlin": {
+    "lat": 52.57515,
+    "lng": 13.4368
+  },
+  "Roseggerstraße, Neukölln, Berlin": {
+    "lat": 52.48114,
+    "lng": 13.44783
+  },
+  "Rosenthaler Platz, Mitte, Berlin": {
+    "lat": 52.5299,
+    "lng": 13.40112
+  },
+  "Rotkopfweg, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.43735,
+    "lng": 13.40971
+  },
+  "Rübelandstraße, Neukölln, Berlin": {
+    "lat": 52.47267,
+    "lng": 13.43808
+  },
+  "Rubensstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.47269,
+    "lng": 13.34338
+  },
+  "Rüdersdorfer Straße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.51495,
+    "lng": 13.43741
+  },
+  "Rudower Chaussee, Treptow-Köpenick, Berlin": {
+    "lat": 52.43122,
+    "lng": 13.53336
+  },
+  "Rudower Straße, Neukölln, Berlin": {
+    "lat": 52.43127,
+    "lng": 13.47566
+  },
+  "Ruhlebener Straße, Spandau, Berlin": {
+    "lat": 52.52703,
+    "lng": 13.21352
+  },
+  "Rummelsburger Straße, Lichtenberg, Berlin": {
+    "lat": 52.50173,
+    "lng": 13.50114
+  },
+  "Rummelsburger Straße, Treptow-Köpenick, Berlin": {
+    "lat": 52.46929,
+    "lng": 13.51398
+  },
+  "Ruschestraße, Lichtenberg, Berlin": {
+    "lat": 52.51965,
+    "lng": 13.48595
+  },
+  "S- und U-Bahnhof Alexanderplatz, Mitte, Berlin": null,
+  "S-Bahnhof Alexanderplatz, Mitte, Berlin": null,
+  "S-Bahnhof Gesundbrunnen, Mitte, Berlin": {
+    "lat": 52.54917,
+    "lng": 13.39008
+  },
+  "S-Bahnhof Grünau, Treptow-Köpenick, Berlin": {
+    "lat": 52.41288,
+    "lng": 13.57364
+  },
+  "S-Bahnhof Karlshorst, Lichtenberg, Berlin": {
+    "lat": 52.48047,
+    "lng": 13.52728
+  },
+  "S-Bahnhof Karow, Pankow, Berlin": {
+    "lat": 52.61521,
+    "lng": 13.46946
+  },
+  "S-Bahnhof Tegel, Reinickendorf, Berlin": null,
+  "S-Bahnhof Tempelhof, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.47097,
+    "lng": 13.38445
+  },
+  "S-Plänterwald, Treptow-Köpenick, Berlin": {
+    "lat": 52.47944,
+    "lng": 13.47426
+  },
+  "Saalestraße, Neukölln, Berlin": {
+    "lat": 52.47117,
+    "lng": 13.45253
+  },
+  "Sachsendamm, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.47321,
+    "lng": 13.36549
+  },
+  "Saldernstraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.51135,
+    "lng": 13.28639
   },
   "Salvador-Allende-Straße, Treptow-Köpenick, Berlin": {
     "lat": 52.44811,
     "lng": 13.59367
   },
+  "Salzbrunner Straße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.48425,
+    "lng": 13.29378
+  },
+  "Salzufer, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.5194,
+    "lng": 13.32025
+  },
+  "Schäferstege, Pankow, Berlin": {
+    "lat": 52.59263,
+    "lng": 13.45042
+  },
+  "Scharnweberstraße, Reinickendorf, Berlin": {
+    "lat": 52.56682,
+    "lng": 13.31262
+  },
+  "Scheelestraße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.41206,
+    "lng": 13.32082
+  },
+  "Schererstraße, Mitte, Berlin": {
+    "lat": 52.54834,
+    "lng": 13.36772
+  },
+  "Schildhornstraße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.46519,
+    "lng": 13.314
+  },
+  "Schillerstraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.51061,
+    "lng": 13.31374
+  },
+  "Schlangenbader Straße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.47055,
+    "lng": 13.30798
+  },
+  "Schlesische Straße 5, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50033,
+    "lng": 13.4429
+  },
   "Schlesische Straße, Friedrichshain-Kreuzberg, Berlin": {
     "lat": 52.50023,
     "lng": 13.4436
+  },
+  "Schlitzer Straße, Reinickendorf, Berlin": {
+    "lat": 52.60241,
+    "lng": 13.34175
+  },
+  "Schlossplatz, Mitte, Berlin": {
+    "lat": 52.51607,
+    "lng": 13.40032
+  },
+  "Schloßstraße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.46148,
+    "lng": 13.32509
   },
   "Schnellerstraße, Treptow-Köpenick, Berlin": {
     "lat": 52.45536,
     "lng": 13.51363
   },
+  "Schönburger Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.53998,
+    "lng": 13.61699
+  },
+  "Schöneberger Straße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50256,
+    "lng": 13.37823
+  },
+  "Schöneberger Straße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.46445,
+    "lng": 13.32966
+  },
+  "Schönefelder Chaussee, Treptow-Köpenick, Berlin": {
+    "lat": 52.40892,
+    "lng": 13.52636
+  },
+  "Schönerlinder Straße, Pankow, Berlin": {
+    "lat": 52.64815,
+    "lng": 13.45108
+  },
+  "Schönhauser Allee, Pankow, Berlin": {
+    "lat": 52.54924,
+    "lng": 13.4156
+  },
+  "Schönholzer Straße, Mitte, Berlin": {
+    "lat": 52.53763,
+    "lng": 13.39667
+  },
+  "Schönleinstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.49306,
+    "lng": 13.42206
+  },
+  "Schönwalder Allee, Spandau, Berlin": {
+    "lat": 52.56648,
+    "lng": 13.19296
+  },
+  "Schramberger Straße, Reinickendorf, Berlin": {
+    "lat": 52.61524,
+    "lng": 13.30235
+  },
+  "Schule in Tiergarten, Mitte, Berlin": {
+    "lat": 52.50871,
+    "lng": 13.35423
+  },
+  "Schulstraße, Mitte, Berlin": {
+    "lat": 52.55273,
+    "lng": 13.36916
+  },
+  "Schulzestraße, Pankow, Berlin": {
+    "lat": 52.56686,
+    "lng": 13.39148
+  },
+  "Schustehruspark, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.51619,
+    "lng": 13.29892
+  },
+  "Schützenstraße, Mitte, Berlin": {
+    "lat": 52.50899,
+    "lng": 13.39704
+  },
+  "Schwarnweberstraße, Reinickendorf, Berlin": null,
+  "Schwartzkopffstraße, Mitte, Berlin": {
+    "lat": 52.53516,
+    "lng": 13.37732
+  },
+  "Schwedenstraße, Mitte, Berlin": {
+    "lat": 52.55487,
+    "lng": 13.37605
+  },
+  "Seeburger Straße, Spandau, Berlin": {
+    "lat": 52.52723,
+    "lng": 13.18588
+  },
   "Seegefelder Straße, Spandau, Berlin": {
     "lat": 52.535,
     "lng": 13.19687
+  },
+  "Seelenbinderstraße, Treptow-Köpenick, Berlin": {
+    "lat": 52.45509,
+    "lng": 13.59194
+  },
+  "Seesener Straße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.48985,
+    "lng": 13.30017
   },
   "Seestraße, Mitte, Berlin": {
     "lat": 52.5498,
     "lng": 13.35312
   },
+  "Segelfliegerdamm, Treptow-Köpenick, Berlin": {
+    "lat": 52.44597,
+    "lng": 13.51334
+  },
+  "Seidelstraße, Spandau, Berlin": null,
+  "Semmelländerweg, Spandau, Berlin": {
+    "lat": 52.51843,
+    "lng": 13.15792
+  },
+  "Senftenberger Ring, Reinickendorf, Berlin": {
+    "lat": 52.60153,
+    "lng": 13.35295
+  },
+  "Senheimer Straße, Reinickendorf, Berlin": {
+    "lat": 52.63583,
+    "lng": 13.29203
+  },
   "Sewanstraße, Lichtenberg, Berlin": {
     "lat": 52.49438,
     "lng": 13.51478
+  },
+  "Seydlitzstraße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.4306,
+    "lng": 13.33979
   },
   "Siegfriedstraße, Neukölln, Berlin": {
     "lat": 52.46746,
     "lng": 13.42808
   },
+  "Siegmunds Hof, Mitte, Berlin": {
+    "lat": 52.51465,
+    "lng": 13.3363
+  },
+  "Siemensdamm, Spandau, Berlin": {
+    "lat": 52.53675,
+    "lng": 13.27268
+  },
+  "Silbersteinstraße, Neukölln, Berlin": {
+    "lat": 52.46561,
+    "lng": 13.42493
+  },
+  "Simon-Bolivar-Straße, Lichtenberg, Berlin": {
+    "lat": 52.53671,
+    "lng": 13.48977
+  },
   "Simon-Dach-Straße, Mitte, Berlin": null,
+  "Simsonweg, Mitte, Berlin": {
+    "lat": 52.51716,
+    "lng": 13.37558
+  },
+  "Singerstraße, Mitte, Berlin": {
+    "lat": 52.51657,
+    "lng": 13.42393
+  },
+  "Skalitzer Straße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50055,
+    "lng": 13.44125
+  },
+  "Soldiner Straße, Mitte, Berlin": {
+    "lat": 52.55809,
+    "lng": 13.38843
+  },
+  "Sömmeringstraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.52134,
+    "lng": 13.30612
+  },
+  "Sommerstraße, Reinickendorf, Berlin": {
+    "lat": 52.57087,
+    "lng": 13.37755
+  },
+  "Sonnenallee, Neukölln, Berlin": {
+    "lat": 52.46661,
+    "lng": 13.47011
+  },
+  "Sophie-Charlotten-Straße, Mitte, Berlin": null,
+  "Sowjetische Ehrenmale (Treptower Park, Tiergarten, Schönholzer Heide), Berlin": null,
+  "Spandauer Damm, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.51866,
+    "lng": 13.28375
+  },
+  "Spanische Allee, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.43458,
+    "lng": 13.19854
+  },
+  "Spätkauf, Pankow, Berlin": {
+    "lat": 52.54141,
+    "lng": 13.4152
+  },
+  "Spichernstraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.49645,
+    "lng": 13.33101
+  },
+  "Spreestraße, Treptow-Köpenick, Berlin": {
+    "lat": 52.45901,
+    "lng": 13.51257
+  },
+  "Spremberger Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.53492,
+    "lng": 13.59374
+  },
+  "Stadtautobahn (BAB 100), Tempelhof-Schöneberg, Berlin": null,
+  "Stadtrandstraße, Spandau, Berlin": {
+    "lat": 52.56195,
+    "lng": 13.15822
+  },
+  "Stallschreiberstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50513,
+    "lng": 13.40948
+  },
+  "STATION Berlin, Berlin": {
+    "lat": 52.49868,
+    "lng": 13.37481
+  },
+  "Steinhellenweg, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.44745,
+    "lng": 13.39608
+  },
   "Steinmetzstraße, Tempelhof-Schöneberg, Berlin": {
     "lat": 52.38044,
     "lng": 13.4044
+  },
+  "Stendaler Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.54358,
+    "lng": 13.60319
+  },
+  "Stollberger Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.53164,
+    "lng": 13.60433
+  },
+  "Storkower Straße, Friedrichshain-Kreuzberg, Berlin": null,
+  "Storkower Straße, Pankow, Berlin": {
+    "lat": 52.52374,
+    "lng": 13.46489
+  },
+  "Stralauer Straße, Mitte, Berlin": {
+    "lat": 52.51615,
+    "lng": 13.41028
+  },
+  "Straße 48, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.49961,
+    "lng": 13.6205
+  },
+  "Straße der Pariser Kommune, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.51839,
+    "lng": 13.44072
+  },
+  "Straße des 17. Juni, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.51278,
+    "lng": 13.32347
+  },
+  "Straßenbahn, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.54699,
+    "lng": 13.57998
+  },
+  "Strausberger Platz, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.5181,
+    "lng": 13.43153
+  },
+  "Streitstraße, Spandau, Berlin": {
+    "lat": 52.56524,
+    "lng": 13.20916
+  },
+  "Stromstraße, Mitte, Berlin": {
+    "lat": 52.5257,
+    "lng": 13.34307
+  },
+  "Stuttgarter Platz, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.50521,
+    "lng": 13.30229
+  },
+  "Südostallee, Treptow-Köpenick, Berlin": {
+    "lat": 52.45376,
+    "lng": 13.50644
+  },
+  "Südwestkorso, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.47173,
+    "lng": 13.31987
+  },
+  "Suermondtstraße, Lichtenberg, Berlin": {
+    "lat": 52.55195,
+    "lng": 13.48838
+  },
+  "Sulzfelder Straße, Pankow, Berlin": {
+    "lat": 52.55277,
+    "lng": 13.47495
+  },
+  "Sybelstraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.50185,
+    "lng": 13.29653
+  },
+  "Tangermünder Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.54423,
+    "lng": 13.60423
   },
   "Tankstelle, Mitte, Berlin": {
     "lat": 52.53589,
     "lng": 13.35013
   },
+  "Tauentzienstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.50338,
+    "lng": 13.33865
+  },
+  "Tegeler See, Reinickendorf, Berlin": {
+    "lat": 52.57456,
+    "lng": 13.255
+  },
+  "Teltower Damm, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.43042,
+    "lng": 13.25947
+  },
+  "Teltowkanal, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.39968,
+    "lng": 13.12054
+  },
+  "Tempelhofer Damm, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.46055,
+    "lng": 13.38471
+  },
+  "Tempelhofer Feld, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.47442,
+    "lng": 13.4026
+  },
+  "Tempelhofer Weg, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.47833,
+    "lng": 13.35691
+  },
+  "Teterower Ring, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.5214,
+    "lng": 13.58599
+  },
+  "Teterower Straße, Neukölln, Berlin": {
+    "lat": 52.45195,
+    "lng": 13.45152
+  },
+  "Theodor-Heuss-Platz, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.50999,
+    "lng": 13.27222
+  },
+  "Thulestraße, Pankow, Berlin": {
+    "lat": 52.55525,
+    "lng": 13.42599
+  },
+  "Tiefwerderweg, Spandau, Berlin": {
+    "lat": 52.52688,
+    "lng": 13.20791
+  },
+  "Tirschenreuther Ring, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.41095,
+    "lng": 13.35248
+  },
+  "Todtnauer Zeile, Reinickendorf, Berlin": {
+    "lat": 52.60901,
+    "lng": 13.33286
+  },
+  "Torgauer Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.54194,
+    "lng": 13.62409
+  },
+  "Torstraße, Mitte, Berlin": {
+    "lat": 52.52723,
+    "lng": 13.41558
+  },
+  "Treskowallee, Lichtenberg, Berlin": {
+    "lat": 52.47955,
+    "lng": 13.52478
+  },
+  "Triftstraße 21, Reinickendorf, Berlin": {
+    "lat": 52.58901,
+    "lng": 13.31725
+  },
+  "Triftstraße, Mitte, Berlin": {
+    "lat": 52.54464,
+    "lng": 13.36116
+  },
+  "Trippsteinstraße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.42124,
+    "lng": 13.34433
+  },
+  "Tucholskystraße, Mitte, Berlin": {
+    "lat": 52.52696,
+    "lng": 13.39323
+  },
+  "Tunnel Flughafen Tegel, Reinickendorf, Berlin": {
+    "lat": 52.55989,
+    "lng": 13.31094
+  },
+  "Tunnel Forstamt Tegel, Reinickendorf, Berlin": {
+    "lat": 52.6044,
+    "lng": 13.27086
+  },
+  "Tunnel Friedenau, Steglitz-Zehlendorf, Berlin": null,
+  "Turiner Straße, Mitte, Berlin": {
+    "lat": 52.54935,
+    "lng": 13.35915
+  },
+  "Turmstraße, Mitte, Berlin": {
+    "lat": 52.52615,
+    "lng": 13.3413
+  },
+  "U-Bahn Linie U9, Charlottenburg-Wilmersdorf, Berlin": null,
+  "U-Bahn-Linie U3, Friedrichshain-Kreuzberg, Berlin": null,
+  "U-Bahnhof Alexanderplatz, Mitte, Berlin": {
+    "lat": 52.52158,
+    "lng": 13.41391
+  },
+  "U-Bahnhof Alt-Mariendorf, Tempelhof-Schöneberg, Berlin": null,
+  "U-Bahnhof Berliner Straße, Charlottenburg-Wilmersdorf, Berlin": null,
+  "U-Bahnhof Deutsche Oper, Charlottenburg-Wilmersdorf, Berlin": null,
+  "U-Bahnhof Frankfurter Tor, Friedrichshain-Kreuzberg, Berlin": null,
+  "U-Bahnhof Gleisdreieck, Friedrichshain-Kreuzberg, Berlin": null,
+  "U-Bahnhof Grenzallee, Neukölln, Berlin": null,
+  "U-Bahnhof Kaulsdorf, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.52862,
+    "lng": 13.59064
+  },
+  "U-Bahnhof Kottbusser Tor, Friedrichshain-Kreuzberg, Berlin": null,
+  "U-Bahnhof Osloer Straße, Mitte, Berlin": null,
+  "U-Bahnhof Rathaus Spandau, Spandau, Berlin": null,
+  "U-Bahnhof Rosa-Luxemburg-Platz, Mitte, Berlin": null,
+  "U-Bahnhof Schillingstraße, Mitte, Berlin": null,
+  "U-Bahnhof Schlesisches Tor, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50085,
+    "lng": 13.44153
+  },
+  "U-Bahnhof Wittenbergplatz, Tempelhof-Schöneberg, Berlin": null,
+  "Uber Platz, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50555,
+    "lng": 13.44348
+  },
+  "Ueckermünder Straße, Pankow, Berlin": {
+    "lat": 52.55281,
+    "lng": 13.4013
+  },
+  "Uferweg, Neukölln, Berlin": null,
   "Uhlandstraße, Charlottenburg-Wilmersdorf, Berlin": {
     "lat": 52.50281,
     "lng": 13.3267
+  },
+  "Ullsteinstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.45374,
+    "lng": 13.38447
+  },
+  "Unionstraße, Mitte, Berlin": {
+    "lat": 52.53307,
+    "lng": 13.3366
+  },
+  "Unnaer Straße, Spandau, Berlin": {
+    "lat": 52.54695,
+    "lng": 13.17009
+  },
+  "Unter den Linden, Mitte, Berlin": {
+    "lat": 52.5164,
+    "lng": 13.38176
+  },
+  "Urbanstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.48952,
+    "lng": 13.4211
+  },
+  "Viktoria-Luise-Platz, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.49618,
+    "lng": 13.34319
+  },
+  "Vincent-van-Gogh-Straße, Lichtenberg, Berlin": {
+    "lat": 52.56548,
+    "lng": 13.52416
+  },
+  "Vitanas Senioren Centrum, Frohnau, Reinickendorf, Berlin": null,
+  "Volkspark Friedrichshain, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.52716,
+    "lng": 13.43215
+  },
+  "Volkspark Hasenheide, Neukölln, Berlin": {
+    "lat": 52.4845,
+    "lng": 13.41673
+  },
+  "Volkspark Humboldthain, Mitte, Berlin": {
+    "lat": 52.54521,
+    "lng": 13.38657
+  },
+  "Vorarlberger Damm, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.47232,
+    "lng": 13.35587
+  },
+  "Vulkanstraße, Lichtenberg, Berlin": {
+    "lat": 52.53056,
+    "lng": 13.48421
+  },
+  "Waidmannsluster Damm, Reinickendorf, Berlin": {
+    "lat": 52.60159,
+    "lng": 13.30539
+  },
+  "Waldemarstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50421,
+    "lng": 13.41714
+  },
+  "Waldemarstraße, Mitte, Berlin": {
+    "lat": 52.50482,
+    "lng": 13.41491
+  },
+  "Waldschulallee, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.50041,
+    "lng": 13.26353
+  },
+  "Walldürner Weg, Spandau, Berlin": {
+    "lat": 52.56388,
+    "lng": 13.20406
+  },
+  "Walterhöferstraße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.41959,
+    "lng": 13.25203
+  },
+  "Waltersdorfer Chaussee, Neukölln, Berlin": {
+    "lat": 52.40803,
+    "lng": 13.50704
+  },
+  "Wanzlikpfad, Neukölln, Berlin": {
+    "lat": 52.47614,
+    "lng": 13.44532
+  },
+  "Warschauer Brücke, Alexanderplatz, Görlitzer Park/Wrangelkiez, Kottbusser Tor, Friedrichshain-Kreuzberg, Berlin": null,
+  "Warschauer Brücke, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50634,
+    "lng": 13.4494
+  },
+  "Warschauer Straße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50501,
+    "lng": 13.44901
+  },
+  "Wassersportallee, Treptow-Köpenick, Berlin": {
+    "lat": 52.41642,
+    "lng": 13.58013
+  },
+  "Wedellstraße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.43559,
+    "lng": 13.35822
+  },
+  "Wederstraße 89, Neukölln, Berlin": {
+    "lat": 52.46203,
+    "lng": 13.43556
+  },
+  "Weichselstraße, Neukölln, Berlin": {
+    "lat": 52.48383,
+    "lng": 13.43238
+  },
+  "Weinbergsweg, Mitte, Berlin": {
+    "lat": 52.53194,
+    "lng": 13.40316
+  },
+  "Weißenhöher Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.50742,
+    "lng": 13.55502
+  },
+  "Welserstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.4977,
+    "lng": 13.34192
+  },
+  "Wendenschloßstraße, Treptow-Köpenick, Berlin": {
+    "lat": 52.42039,
+    "lng": 13.58836
+  },
+  "Werneuchener Straße, Lichtenberg, Berlin": {
+    "lat": 52.54158,
+    "lng": 13.49287
+  },
+  "Weserstraße, Neukölln, Berlin": {
+    "lat": 52.48497,
+    "lng": 13.43768
+  },
+  "Westend, Tempelhof-Schöneberg, Berlin": null,
+  "Wexstraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.47871,
+    "lng": 13.33522
+  },
+  "Wexstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.47903,
+    "lng": 13.33949
+  },
+  "Wichmannstraße, Mitte, Berlin": {
+    "lat": 52.50558,
+    "lng": 13.34669
+  },
+  "Wiener Straße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.49423,
+    "lng": 13.44123
+  },
+  "Wiesenweg, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.44131,
+    "lng": 13.32804
+  },
+  "Wilhelm-Kabus-Straße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.48451,
+    "lng": 13.36867
+  },
+  "Wilhelminenhofstraße, Treptow-Köpenick, Berlin": {
+    "lat": 52.45617,
+    "lng": 13.52948
+  },
+  "Wilhelmsruher Damm, Reinickendorf, Berlin": {
+    "lat": 52.5967,
+    "lng": 13.35638
+  },
+  "Wilhelmstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50588,
+    "lng": 13.38634
+  },
+  "Willdenowstraße 2, Mitte, Berlin": {
+    "lat": 52.54232,
+    "lng": 13.36376
+  },
+  "Willy-Brandt-Straße, Mitte, Berlin": {
+    "lat": 52.52023,
+    "lng": 13.37049
   },
   "Wilmersdorfer Straße, Charlottenburg-Wilmersdorf, Berlin": {
     "lat": 52.50667,
     "lng": 13.30664
   },
+  "Winckelmannstraße, Treptow-Köpenick, Berlin": {
+    "lat": 52.44145,
+    "lng": 13.50612
+  },
+  "Winterfeldtstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.4961,
+    "lng": 13.35998
+  },
+  "Wippraer Weg, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.40554,
+    "lng": 13.35713
+  },
+  "Wisbyer Straße, Pankow, Berlin": {
+    "lat": 52.55286,
+    "lng": 13.42396
+  },
+  "Wittelsbacherstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.3834,
+    "lng": 13.41615
+  },
+  "Wittenbergplatz, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.5018,
+    "lng": 13.343
+  },
+  "Wittestraße, Reinickendorf, Berlin": {
+    "lat": 52.57885,
+    "lng": 13.30009
+  },
+  "Wittmannsdorfer Straße, Neukölln, Berlin": {
+    "lat": 52.47142,
+    "lng": 13.43937
+  },
+  "Witzlebenstraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.51012,
+    "lng": 13.29522
+  },
+  "Wolfacher Pfad 3, Reinickendorf, Berlin": {
+    "lat": 52.61221,
+    "lng": 13.32554
+  },
+  "Wolffring, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.4802,
+    "lng": 13.38285
+  },
+  "Wolframstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.45152,
+    "lng": 13.37223
+  },
+  "Wollankstraße, Mitte, Berlin": {
+    "lat": 52.56515,
+    "lng": 13.39236
+  },
+  "Wollankstraße, Pankow, Berlin": {
+    "lat": 52.5651,
+    "lng": 13.39444
+  },
+  "Wönnichstraße, Lichtenberg, Berlin": {
+    "lat": 52.50425,
+    "lng": 13.49692
+  },
+  "Wröhmännerstraße, Spandau, Berlin": {
+    "lat": 52.54452,
+    "lng": 13.20948
+  },
+  "Wuhletalstraße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.56408,
+    "lng": 13.55461
+  },
   "Wuhlewanderweg, Marzahn-Hellersdorf, Berlin": null,
+  "Wupperstraße, Steglitz-Zehlendorf, Berlin": {
+    "lat": 52.41198,
+    "lng": 13.27263
+  },
+  "Wurzener Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.54184,
+    "lng": 13.6174
+  },
+  "Wustrower Straße, Lichtenberg, Berlin": {
+    "lat": 52.56513,
+    "lng": 13.50486
+  },
   "Yorckstraße, Friedrichshain-Kreuzberg, Berlin": {
     "lat": 52.4932,
     "lng": 13.38549
   },
+  "Yorckstraße, Tempelhof-Schöneberg, Berlin": {
+    "lat": 52.49242,
+    "lng": 13.37214
+  },
+  "Zähringerstraße, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.49596,
+    "lng": 13.31224
+  },
+  "Zehdenicker Straße, Mitte, Berlin": {
+    "lat": 52.53099,
+    "lng": 13.40428
+  },
+  "Zeughofstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50022,
+    "lng": 13.43368
+  },
   "Ziekowstraße, Reinickendorf, Berlin": {
     "lat": 52.59192,
     "lng": 13.29186
+  },
+  "Zimmerstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.50702,
+    "lng": 13.38586
+  },
+  "Zingster Straße, Lichtenberg, Berlin": {
+    "lat": 52.56879,
+    "lng": 13.49909
+  },
+  "Zionskirchstraße, Mitte, Berlin": {
+    "lat": 52.53443,
+    "lng": 13.4032
+  },
+  "Zobeltitzstraße, Reinickendorf, Berlin": {
+    "lat": 52.56776,
+    "lng": 13.32567
+  },
+  "Zossener Straße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.49756,
+    "lng": 13.39549
+  },
+  "Zossener Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.54406,
+    "lng": 13.59672
+  },
+  "Zur alten Börse, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.51527,
+    "lng": 13.52543
+  },
+  "Zur Gartenstadt, Treptow-Köpenick, Berlin": {
+    "lat": 52.40394,
+    "lng": 13.56756
   }
 }

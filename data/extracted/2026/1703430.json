@@ -1,0 +1,21 @@
+{
+  "id": "1703430",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703430.php",
+  "publishedAt": "2026-08-15T11:32",
+  "title": "Mann in U-Bahn antisemitisch beleidigt und bedroht",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-08-15",
+    "street": "U-Bahn Linie U9",
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahnhof Berliner Straße",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A 30-year-old man was antisemitically insulted and threatened by a group of young men on the U9 subway line in Wilmersdorf overnight. He reported it to a police precinct, and the State Security unit has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.881Z"
+}

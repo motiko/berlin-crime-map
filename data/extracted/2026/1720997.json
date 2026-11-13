@@ -1,0 +1,21 @@
+{
+  "id": "1720997",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720997.php",
+  "publishedAt": "2026-10-02T12:55",
+  "title": "Duo nach Diebstahl festgenommen",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-10-01",
+    "street": "Bernburger Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Two men were arrested after a 20-year-old smashed a parked car's window and stole an item from it, while a 44-year-old accomplice acted as lookout. Police seized suspected tools, phones, a knife and scissors.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.731Z"
+}

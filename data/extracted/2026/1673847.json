@@ -1,0 +1,21 @@
+{
+  "id": "1673847",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673847.php",
+  "publishedAt": "2026-05-25T12:14",
+  "title": "Frau tot in Wohnung aufgefunden – Ehemann festgenommen",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "homicide",
+    "dead": 1,
+    "injured": 0,
+    "incidentDate": "2026-05-24",
+    "street": "Hilbertstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 69-year-old woman was found dead with a gunshot wound in her apartment in Lichtenrade. Her 84-year-old husband was arrested, and the homicide unit has taken over the investigation.",
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.991Z"
+}

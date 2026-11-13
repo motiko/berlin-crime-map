@@ -1,0 +1,21 @@
+{
+  "id": "1661627",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661627.php",
+  "publishedAt": "2026-04-16T13:06",
+  "title": "Nach Streit im Straßenverkehr – Radfahrer verletzt",
+  "location": "Pankow",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-04-15",
+    "street": "Schönhauser Allee",
+    "houseNumberOrCrossing": "Stargarder Straße",
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "After a traffic dispute, a car driver allegedly drew a knife and injured a 35-year-old cyclist's chin. The cyclist was taken to hospital for outpatient treatment.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.772Z"
+}

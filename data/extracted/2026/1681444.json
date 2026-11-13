@@ -1,0 +1,21 @@
+{
+  "id": "1681444",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681444.php",
+  "publishedAt": "2026-06-14T12:19",
+  "title": "Mann erlitt Stichverletzungen",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-06-13",
+    "street": "Ella-Barowsky-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 60-year-old used car dealer was attacked by an unknown man and suffered several stab wounds. The suspect fled toward Schöneberg S-Bahn station, and the victim was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.993Z"
+}

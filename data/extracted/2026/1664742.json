@@ -1,0 +1,21 @@
+{
+  "id": "1664742",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664742.php",
+  "publishedAt": "2026-04-26T13:08",
+  "title": "Mehrere Verletzte nach Auseinandersetzung mit Machete",
+  "location": "Mitte",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-04-25",
+    "street": "Schwedenstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Gesundbrunnen",
+    "district": "Mitte",
+    "summaryEn": "After a dispute in Gesundbrunnen involving pepper spray and a machete, three men were injured, one of them life-threateningly. A man was also stabbed after being approached by one of the disputants.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": "machete"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.886Z"
+}

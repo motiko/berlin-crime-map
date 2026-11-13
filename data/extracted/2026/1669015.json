@@ -1,0 +1,21 @@
+{
+  "id": "1669015",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669015.php",
+  "publishedAt": "2026-05-07T14:51",
+  "title": "Fußgängerin bei Verkehrsunfall verletzt",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-05-06",
+    "street": "Seesener Straße",
+    "houseNumberOrCrossing": "Hohenzollerndamm",
+    "placeName": "Wilmersdorf",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A car turning right from Seesener Straße onto Hohenzollerndamm hit a 70-year-old woman crossing the road around 1 p.m. The pedestrian suffered a leg fracture and was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.829Z"
+}

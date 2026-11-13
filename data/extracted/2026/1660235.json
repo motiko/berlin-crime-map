@@ -1,0 +1,21 @@
+{
+  "id": "1660235",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660235.php",
+  "publishedAt": "2026-04-12T15:20",
+  "title": "Schüsse im Mehrfamilienhaus",
+  "location": "Pankow",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-04-12",
+    "street": "Wollankstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "Shot sounds were heard from an apartment in a residential building on Wollankstraße early in the morning, prompting a police response. Officers found a starter pistol and blank cartridges during a voluntary search; no one was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "blank-firing gun"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.772Z"
+}

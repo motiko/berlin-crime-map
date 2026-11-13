@@ -1,0 +1,21 @@
+{
+  "id": "1675846",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675846.php",
+  "publishedAt": "2026-05-30T12:08",
+  "title": "Verkehrsunfall während einer Eilfahrt",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-05-29",
+    "street": "Oranienburger Straße",
+    "houseNumberOrCrossing": "Am Nordgraben",
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "A Berlin fire engine responding to an emergency ran a red light at a crossing in Wittenau and collided with a motorcyclist who had green light. The 30-year-old motorcyclist suffered rib and shoulder fractures.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.718Z"
+}

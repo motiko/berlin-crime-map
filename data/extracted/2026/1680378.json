@@ -1,0 +1,21 @@
+{
+  "id": "1680378",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680378.php",
+  "publishedAt": "2026-06-10T16:52",
+  "title": "Netzwerk aufgedeckt - Durchsuchungsbeschlüsse gegen den illegalen Handel mit Betäubungsmitteln vollstreckt",
+  "location": "bundesweit",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-06-09",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "Police and prosecutors executed 16 search warrants against a drug trafficking network in Berlin, Saxony and Brandenburg, seizing cocaine, cannabis, synthetic drugs and cash. Four people were arrested.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.061Z"
+}

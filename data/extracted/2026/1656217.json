@@ -1,0 +1,21 @@
+{
+  "id": "1656217",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1656217.php",
+  "publishedAt": "2026-03-25T14:33",
+  "title": "Tramunfall - Kind verletzt",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-03-24",
+    "street": "Falkenberger Chaussee",
+    "houseNumberOrCrossing": "Prendener Straße",
+    "placeName": "Neu-Hohenschönhausen",
+    "district": "Lichtenberg",
+    "summaryEn": "An eleven-year-old boy stumbled at a tram stop and was hit by a tram in Neu-Hohenschönhausen. The child was taken to hospital with foot injuries; the tram driver and a companion were treated as outpatients.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.920Z"
+}

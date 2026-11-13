@@ -1,0 +1,21 @@
+{
+  "id": "1674985",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674985.php",
+  "publishedAt": "2026-06-10T10:00",
+  "title": "Ein Tatverdächtiger nach räuberischem Diebstahl identifiziert",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2025-12-10",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahnhof Grenzallee",
+    "district": "Neukölln",
+    "summaryEn": "Two suspects robbed a 53-year-old man at Grenzallee subway station on 10 December 2025, and one of the two knocked him to the ground when he held one of them. Police have identified one suspect following a tip; the search for the second continues.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.777Z"
+}

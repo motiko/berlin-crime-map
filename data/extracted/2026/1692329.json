@@ -1,0 +1,21 @@
+{
+  "id": "1692329",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692329.php",
+  "publishedAt": "2026-07-12T12:15",
+  "title": "Fahrradfahrerin nach Verkehrsunfall erheblich verletzt",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-11",
+    "street": "Hellersdorfer Straße",
+    "houseNumberOrCrossing": "Cottbusser Platz",
+    "placeName": "U-Bahnhof Cottbusser Platz",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A car and a cyclist collided on Hellersdorfer Straße at about 9:25 p.m. after the cyclist crossed the road via the central reservation. The cyclist was seriously injured and taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.848Z"
+}

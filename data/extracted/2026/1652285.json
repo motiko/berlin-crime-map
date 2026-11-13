@@ -1,0 +1,21 @@
+{
+  "id": "1652285",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1652285.php",
+  "publishedAt": "2026-03-13T13:00",
+  "title": "Mit Messer verletzt",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-03-13",
+    "street": "Hellersdorfer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A group attack in Hellersdorf left two men injured after a dispute was to be settled; one was stabbed in the arm. The attackers reportedly carried knives, batons and pepper spray and fled.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.418Z"
+}

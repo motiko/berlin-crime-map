@@ -1,0 +1,21 @@
+{
+  "id": "1678411",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678411.php",
+  "publishedAt": "2026-06-07T12:26",
+  "title": "Motorradfahrer bei Verkehrsunfall verletzt",
+  "location": "Pankow",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-06-06",
+    "street": "Berliner Straße",
+    "houseNumberOrCrossing": "Breite Straße",
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "A 60-year-old motorcyclist was injured after overtaking via the bus lane and colliding with a waiting car while merging back. Both the motorcyclist and a 24-year-old car driver were hurt, and the road was closed for several hours.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.899Z"
+}

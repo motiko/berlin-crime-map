@@ -1,0 +1,21 @@
+{
+  "id": "1640461",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1640461.php",
+  "publishedAt": "2026-02-04T12:15",
+  "title": "Nicht angezeigte Versammlung im Zusammenhang mit einem Stammtisch einer Partei",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-02-03",
+    "street": "Eichborndamm",
+    "houseNumberOrCrossing": "Taldorfer Weg",
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "Police were called to a restaurant in Wittenau where people disrupted a political party's regulars' table and an unregistered assembly formed outside. Two people who sat down inside resisted when they were carried out, and the State Protection unit took over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.473Z"
+}

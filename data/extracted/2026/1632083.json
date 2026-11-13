@@ -1,0 +1,21 @@
+{
+  "id": "1632083",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1632083.php",
+  "publishedAt": "2026-01-10T12:46",
+  "title": "Festnahme nach Verdacht des Betäubungsmittelhandels",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-01-09",
+    "street": "Joachim-Friedrich-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Halensee",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Police arrested a 37-year-old driver suspected of drug trafficking after a traffic check in Halensee. Drugs and a knife were found on him and in the car, and two blank-firing pistols were later found during a search of his apartment.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.438Z"
+}

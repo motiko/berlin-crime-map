@@ -1,0 +1,21 @@
+{
+  "id": "1654500",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1654500.php",
+  "publishedAt": "2026-05-29T16:55",
+  "title": "Schüsse auf 23-Jährigen - Mordkommission ermittelt",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-03-19",
+    "street": "Graefestraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Four suspects aged 16 to 18 were identified and searched in connection with an attempted killing in which a 23-year-old man was shot on the street on 19 March 2026. Several blank-firing guns were seized during the searches.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.806Z"
+}

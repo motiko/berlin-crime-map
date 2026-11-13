@@ -1,0 +1,21 @@
+{
+  "id": "1713663",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713663.php",
+  "publishedAt": "2026-09-14T15:18",
+  "title": "Wahlplakat und E-Scooter angezündet",
+  "location": "Mitte",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-09-13",
+    "street": "Berlichingenstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "An e-scooter and an election poster on it were set on fire in Moabit in the evening. Fire services extinguished the blaze; nobody was hurt, and the police state security unit is investigating.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.703Z"
+}

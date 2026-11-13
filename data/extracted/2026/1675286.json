@@ -1,0 +1,21 @@
+{
+  "id": "1675286",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675286.php",
+  "publishedAt": "2026-05-28T15:16",
+  "title": "Festnahmen nach Körperverletzung und Widerstand",
+  "location": "Mitte",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-05-27",
+    "street": "Alexanderplatz",
+    "houseNumberOrCrossing": null,
+    "placeName": "Weltzeituhr",
+    "district": "Mitte",
+    "summaryEn": "A 44-year-old man was punched and injured at Alexanderplatz, and the suspect was arrested nearby. Several companions then resisted officers, and pepper spray was used; one officer was lightly injured.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.870Z"
+}

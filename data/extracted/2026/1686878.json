@@ -1,0 +1,21 @@
+{
+  "id": "1686878",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686878.php",
+  "publishedAt": "2026-06-28T11:50",
+  "title": "Streit eskaliert – Mann mit Stichverletzung im Krankenhaus",
+  "location": "Mitte",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-06-27",
+    "street": "Beusselstraße",
+    "houseNumberOrCrossing": "Sickingenstraße",
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "After an argument between a man and two unknown men, one attacker stabbed a 25-year-old in the groin and both fled. The victim was taken to hospital, where he underwent emergency surgery.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.893Z"
+}

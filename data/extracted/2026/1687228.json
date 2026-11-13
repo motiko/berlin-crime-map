@@ -1,0 +1,21 @@
+{
+  "id": "1687228",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687228.php",
+  "publishedAt": "2026-06-29T13:34",
+  "title": "Busfahrer verletzt und mit Reizstoff besprüht",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-06-28",
+    "street": "Nieberstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Treptow-Köpenick",
+    "summaryEn": "Three unknown people boarded a rail replacement bus in Johannisthal and refused to leave when the 67-year-old driver asked them to. One of them struck the driver in the head and sprayed irritant spray in his face; he was treated as an outpatient.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "irritant spray"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.971Z"
+}

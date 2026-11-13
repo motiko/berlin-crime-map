@@ -1,0 +1,21 @@
+{
+  "id": "1641953",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1641953.php",
+  "publishedAt": "2026-02-10T11:25",
+  "title": "Nach Verkehrsunfall reanimiert",
+  "location": "Spandau",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-02-09",
+    "street": "Altstädter Ring",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Spandau",
+    "summaryEn": "A car driver suffered a medical emergency while driving on Altstädter Ring and the car crashed into a bus stop pole, median and embankment. The driver was resuscitated and both occupants were taken to hospital.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.449Z"
+}

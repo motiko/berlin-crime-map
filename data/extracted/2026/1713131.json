@@ -1,0 +1,21 @@
+{
+  "id": "1713131",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713131.php",
+  "publishedAt": "2026-09-11T17:37",
+  "title": "Abgeordneter bedroht",
+  "location": "Mitte",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-09-11",
+    "street": "Bartningallee",
+    "houseNumberOrCrossing": null,
+    "placeName": "Marktplatz Hansaviertel",
+    "district": "Mitte",
+    "summaryEn": "A man threatened a 40-year-old politician at his information stall on a market square and then ran away. The police state security unit is investigating.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.056Z"
+}

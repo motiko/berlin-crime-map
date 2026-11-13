@@ -1,0 +1,21 @@
+{
+  "id": "1692732",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692732.php",
+  "publishedAt": "2026-07-13T14:31",
+  "title": "Zwei mutmaßliche Drogendealer festgenommen",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-07-12",
+    "street": "Yorckstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Police arrested two suspected drug dealers aged 25 in Kreuzberg and seized large quantities of drugs, including about 1.3 kg of amphetamine and 4.2 kg of ketamine, from a suspected bunker flat. Cash, scales, a knife and a blank-firing gun were also secured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.938Z"
+}

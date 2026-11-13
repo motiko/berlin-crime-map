@@ -1,0 +1,21 @@
+{
+  "id": "1641981",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1641981.php",
+  "publishedAt": "2026-02-10T12:03",
+  "title": "Geldausgabeautomat gesprengt",
+  "location": "Pankow",
+  "extraction": {
+    "category": "explosion",
+    "incidentDate": "2026-02-10",
+    "street": "Pistoriusstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "Unknown perpetrators blew up a cash machine inside a supermarket in Weißensee in the early hours and fled with the loot. The explosion heavily damaged the store's sales and entrance areas, and no one was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "explosive"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.402Z"
+}

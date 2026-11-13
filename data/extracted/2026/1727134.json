@@ -1,0 +1,21 @@
+{
+  "id": "1727134",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727134.php",
+  "publishedAt": "2026-10-19T14:30",
+  "title": "Versuchtes Tötungsdelikt – Zeuginnen und Zeugen gesucht",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-10-17",
+    "street": "Oranienstraße",
+    "houseNumberOrCrossing": "177",
+    "placeName": "Spätkauf",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "After a brawl outside a late-night shop, several people beat and kicked a man in the head, leaving him in life-threatening condition; the homicide unit is investigating an attempted killing. Police are seeking witnesses and information about a dark car used by the suspects.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.963Z"
+}

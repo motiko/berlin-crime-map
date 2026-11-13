@@ -1,0 +1,21 @@
+{
+  "id": "1629634",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1629634.php",
+  "publishedAt": "2026-01-01T15:32",
+  "title": "Gesprengter Geldausgabeautomat",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "explosion",
+    "incidentDate": "2026-01-01",
+    "street": "Alt-Reinickendorf",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "An unidentified explosive detonated at a freestanding cash machine on Alt-Reinickendorf, causing heavy damage in the early morning. Two suspects fled toward Roedernallee; it is unclear whether any money was taken.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "explosive"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.347Z"
+}

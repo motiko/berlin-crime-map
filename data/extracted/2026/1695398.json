@@ -1,0 +1,21 @@
+{
+  "id": "1695398",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695398.php",
+  "publishedAt": "2026-07-20T10:07",
+  "title": "Kind bei Verkehrsunfall verletzt",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-19",
+    "street": "Heiligenseestraße",
+    "houseNumberOrCrossing": "Reiherallee",
+    "placeName": "Heiligensee",
+    "district": "Reinickendorf",
+    "summaryEn": "A car struck a five-year-old child on a bicycle crossing a pedestrian crossing at Heiligenseestraße/Reiherallee. The child suffered a shoulder fracture and was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.050Z"
+}

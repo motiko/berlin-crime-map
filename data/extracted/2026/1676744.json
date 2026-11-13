@@ -1,0 +1,21 @@
+{
+  "id": "1676744",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1676744.php",
+  "publishedAt": "2026-06-02T16:52",
+  "title": "Mit Auto der Mutter vor Polizei geflüchtet",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-06-01",
+    "street": "Lindenallee",
+    "houseNumberOrCrossing": "Peter-Hille-Straße",
+    "placeName": "Friedrichshagen",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A 17-year-old driver fled police in a car belonging to his mother, running red lights and driving against traffic in Friedrichshagen. He was stopped later, and the case was handed to the traffic crime unit for illegal street racing and traffic offences.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.884Z"
+}

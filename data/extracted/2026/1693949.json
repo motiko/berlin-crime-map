@@ -1,0 +1,21 @@
+{
+  "id": "1693949",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1693949.php",
+  "publishedAt": "2026-07-15T12:34",
+  "title": "Vom Unfallort geflüchtet und weiteren Unfall verursacht",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-14",
+    "street": "Dubliner Straße",
+    "houseNumberOrCrossing": "Glasgower Straße",
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "A 23-year-old driver under the influence of drugs hit a traffic bollard and fled the scene, then crashed into two parked cars at another junction. He was slightly injured, and police seized two weapons and a folding knife from his car.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.033Z"
+}

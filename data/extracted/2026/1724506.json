@@ -1,0 +1,21 @@
+{
+  "id": "1724506",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724506.php",
+  "publishedAt": "2026-10-12T15:00",
+  "title": "Festnahmen und Haftbefehle wegen mutmaßlichen schweren Bandendiebstahls",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-10-06",
+    "street": "Britzer Damm",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "Four men aged 21 to 28 were arrested in Britz while loading allegedly stolen car rims from vehicles at a car workshop. Arrest warrants were issued after the suspects were brought before a judge on 7 October.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.757Z"
+}

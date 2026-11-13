@@ -1,0 +1,21 @@
+{
+  "id": "1639462",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1639462.php",
+  "publishedAt": "2026-01-31T14:18",
+  "title": "Verkehrskontrolle entzogen – Fahrzeug beschlagnahmt",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-01-30",
+    "street": "Kaiserin-Augusta-Straße",
+    "houseNumberOrCrossing": "Friedrich-Franz-Straße",
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 43-year-old man fled a police traffic check at high speed, running red lights and driving onto the sidewalk, before crashing into a traffic light pole and a police car. Two police officers were hurt, and the car was seized.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.449Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1703438",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703438.php",
+  "publishedAt": "2026-08-15T13:56",
+  "title": "Mehrere Einbrüche in einem Einkaufszentrum",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-08-15",
+    "street": "Marzahner Promenade",
+    "houseNumberOrCrossing": null,
+    "placeName": "Einkaufszentrum Marzahner Promenade",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "Two masked people broke into a shopping centre in the early morning and smashed the glass doors of 14 shops, taking cash drawers from some. The affected areas were closed until about 10 a.m. for evidence collection.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.847Z"
+}

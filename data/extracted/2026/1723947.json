@@ -1,0 +1,21 @@
+{
+  "id": "1723947",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723947.php",
+  "publishedAt": "2026-10-11T13:32",
+  "title": "Zwei gegen Einen",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-10-10",
+    "street": "Liebensteiner Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Parkplatz",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "Children aged 10 to 12 were involved in a fight at a car park in Marzahn; a 10-year-old was kicked in the head and taken to hospital. Two suspects were detained by witnesses until police arrived and later also assaulted the witnesses.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.961Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1716233",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716233.php",
+  "publishedAt": "2026-09-18T16:13",
+  "title": "Festnahmen nach Scheinankäufen",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-09-17",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "Police carried out controlled test purchases of illegal drugs in Köpenick, Friedrichsfelde and Alt-Hohenschönhausen, arresting three male sellers of a drug delivery service. Large quantities of cocaine, cannabis, ecstasy and amphetamine were seized, and one suspect was remanded in custody.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.727Z"
+}

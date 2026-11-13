@@ -1,0 +1,21 @@
+{
+  "id": "1652493",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1652493.php",
+  "publishedAt": "2026-03-15T14:10",
+  "title": "Personengruppe greift Mann an",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-03-15",
+    "street": "Michael-Bohnen-Ring",
+    "houseNumberOrCrossing": "Sonnenallee",
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "A 23-year-old man was attacked by a group of about ten people over unpaid money in Neukölln shortly after midnight. He suffered head injuries and two suspects, aged 24 and 27, were temporarily arrested.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.469Z"
+}

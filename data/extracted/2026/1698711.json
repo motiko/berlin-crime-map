@@ -1,0 +1,21 @@
+{
+  "id": "1698711",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698711.php",
+  "publishedAt": "2026-07-30T13:41",
+  "title": "Radfahrer von Lastwagen angefahren",
+  "location": "Mitte",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-29",
+    "street": "Turmstraße",
+    "houseNumberOrCrossing": "Stromstraße",
+    "placeName": "Moabit",
+    "district": "Mitte",
+    "summaryEn": "A truck turning right at the Turmstraße junction hit an 80-year-old cyclist, who fell and was pulled under the vehicle. The cyclist suffered hip injuries and polytrauma and was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.042Z"
+}

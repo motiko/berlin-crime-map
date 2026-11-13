@@ -1,0 +1,21 @@
+{
+  "id": "1723938",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723938.php",
+  "publishedAt": "2026-10-11T11:58",
+  "title": "Kind wird von Jugendgruppe bedroht und beraubt",
+  "location": "Spandau",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-10-10",
+    "street": "Rathausvorplatz",
+    "houseNumberOrCrossing": null,
+    "placeName": "Rathaus Spandau",
+    "district": "Spandau",
+    "summaryEn": "A group of four to six youths threatened a 13-year-old child and robbed them of a small amount of money and their jacket at Spandau town hall square. The child was not physically injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.685Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1684094",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684094.php",
+  "publishedAt": "2026-06-21T16:36",
+  "title": "Politiker an Informationsstand mit Eiern beworfen",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "political",
+    "dead": 0,
+    "district": "Friedrichshain-Kreuzberg",
+    "houseNumberOrCrossing": "Singerstraße",
+    "incidentDate": "2026-06-20",
+    "injured": 0,
+    "placeName": null,
+    "street": "Andreasstraße",
+    "summaryEn": "A woman on an e-scooter threw several eggs at a member of the Berlin House of Representatives standing at a party information stand. He was hit on the forearm, felt pain, and declined medical treatment; the State Security unit is investigating.",
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.751Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1697688",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697688.php",
+  "publishedAt": "2026-07-27T13:35",
+  "title": "Mutmaßlicher Brandstifter greift Polizeikräfte an – Schusswaffengebrauch",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-07-26",
+    "street": "Wendenschloßstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Treptow-Köpenick",
+    "summaryEn": "Police officers fired their service weapons at a 38-year-old suspected arsonist who allegedly attacked them with an axe after a fire in an apartment building. He was taken to hospital, and two residents were hospitalised for smoke inhalation.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.749Z"
+}

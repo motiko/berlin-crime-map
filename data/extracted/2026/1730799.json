@@ -1,0 +1,21 @@
+{
+  "id": "1730799",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1730799.php",
+  "publishedAt": "2026-10-25T11:45",
+  "title": "Wohnungsbrand - toter Mann aufgefunden",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-10-24",
+    "street": "Emmentaler Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "A fire broke out in a flat in Reinickendorf and firefighters found the body of a 27-year-old male tenant. Police say there is no indication of third-party involvement so far, and the cause of death is still under investigation.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.044Z"
+}

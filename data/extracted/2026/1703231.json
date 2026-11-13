@@ -1,0 +1,21 @@
+{
+  "id": "1703231",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703231.php",
+  "publishedAt": "2026-08-14T12:21",
+  "title": "Frau beschädigt Wahlplakate und greift Polizist an",
+  "location": "Mitte",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-08-13",
+    "street": "Brunnenstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A 43-year-old woman damaged election posters on a lamppost in Brunnenstraße and struck out at police officers. One officer was hurt on the arm and the case was taken over by the state security unit.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.032Z"
+}

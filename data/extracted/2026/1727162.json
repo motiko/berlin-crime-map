@@ -1,0 +1,21 @@
+{
+  "id": "1727162",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727162.php",
+  "publishedAt": "2026-10-17T13:12",
+  "title": "Scheibe mit Stein eingeworfen",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-10-17",
+    "street": "Krossener Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Unknown persons allegedly threw a stone through the display window of a coffee chain branch overnight. The police Staatsschutz is investigating a possible political motive.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.966Z"
+}

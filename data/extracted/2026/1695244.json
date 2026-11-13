@@ -1,0 +1,21 @@
+{
+  "id": "1695244",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695244.php",
+  "publishedAt": "2026-07-19T16:07",
+  "title": "Brandstiftung an einer Arztpraxis",
+  "location": "Spandau",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-07-18",
+    "street": "Galenstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Spandau",
+    "summaryEn": "A man set several waste containers on fire against the wall of a medical practice in Galenstraße, and the flames spread to the building facade. He then turned himself in at a federal police station; nobody was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.962Z"
+}

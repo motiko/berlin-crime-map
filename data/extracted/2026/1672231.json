@@ -1,0 +1,21 @@
+{
+  "id": "1672231",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672231.php",
+  "publishedAt": "2026-05-19T14:08",
+  "title": "Mutmaßlicher Drogenhändler nach Flucht vorläufig festgenommen",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-05-19",
+    "street": "Ahornallee",
+    "houseNumberOrCrossing": "Henriette-Lustig-Straße",
+    "placeName": null,
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A 30-year-old driver fled a police traffic stop in Köpenick at high speed and was arrested after his car was found parked nearby. Police seized cocaine, ecstasy and cannabis from the car and a later search of his flat.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.046Z"
+}

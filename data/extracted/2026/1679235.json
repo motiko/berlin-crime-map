@@ -1,0 +1,21 @@
+{
+  "id": "1679235",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679235.php",
+  "publishedAt": "2026-06-09T10:17",
+  "title": "Fahrzeuge in Flammen",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-06-09",
+    "street": "Paul-Lincke-Ufer",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Overnight, a car and a motorhome were completely burned out and a third car was damaged by heat in a fire on Paul-Lincke-Ufer in Kreuzberg. A witness heard a loud bang around 1:40 a.m. and alerted the fire brigade and police; nobody was injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.863Z"
+}

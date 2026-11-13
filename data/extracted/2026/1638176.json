@@ -1,0 +1,21 @@
+{
+  "id": "1638176",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1638176.php",
+  "publishedAt": "2026-01-27T17:41",
+  "title": "Zwei Autofahrerinnen und ein Beifahrer nach Verkehrsunfall im Krankenhaus",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-01-27",
+    "street": "Gärtnerstraße",
+    "houseNumberOrCrossing": "Marzahner Straße",
+    "placeName": null,
+    "district": "Lichtenberg",
+    "summaryEn": "Two women and a male passenger were injured in a collision at an intersection in Alt-Hohenschönhausen after a traffic light outage. One driver had no valid driving licence and faces an investigation for driving without a licence.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.385Z"
+}

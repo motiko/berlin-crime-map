@@ -1,0 +1,21 @@
+{
+  "id": "1697665",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697665.php",
+  "publishedAt": "2026-07-27T13:01",
+  "title": "Streit eskaliert – zwei Männer erleiden Stichverletzungen",
+  "location": "Mitte",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-07-26",
+    "street": "Badstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Vorplatz des Einkaufszentrums",
+    "district": "Mitte",
+    "summaryEn": "After a dispute over drug dealing in Gesundbrunnen, two men aged 24 and 25 were stabbed by members of a group. Four suspects were arrested nearby, and a knife and the stolen phone were recovered.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.817Z"
+}

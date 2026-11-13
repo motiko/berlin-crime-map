@@ -1,0 +1,21 @@
+{
+  "id": "1689514",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689514.php",
+  "publishedAt": "2026-07-03T15:24",
+  "title": "Frau bei Wohnungsbrand verstorben",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-07-02",
+    "street": "Lechtaler Weg",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A 58-year-old woman died in a flat fire in a multi-family building in Lichterfelde. A 77-year-old neighbour was treated for suspected smoke inhalation, and the fire is being investigated as possible negligent arson.",
+    "injured": 1,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.711Z"
+}

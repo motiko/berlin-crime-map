@@ -1,0 +1,21 @@
+{
+  "id": "1651913",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1651913.php",
+  "publishedAt": "2026-03-12T13:01",
+  "title": "Beleidigung mit politischem Hintergrund",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-03-11",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahnhof Schlesisches Tor",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A 44-year-old woman allegedly insulted two security staff working for BVG at the entrance to Schlesisches Tor subway station with xenophobic and antisemitic remarks. The State Security unit of the LKA has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.418Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1649541",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1649541.php",
+  "publishedAt": "2026-03-04T15:38",
+  "title": "Mann nach Wohnungsbrand verstorben",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-03-04",
+    "street": "Märkische Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A residential flat fire in an apartment building in Märkische Allee was discovered early in the morning. A 61-year-old man was found unresponsive, died later, and the cause of the fire is still under investigation.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.390Z"
+}

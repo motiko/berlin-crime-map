@@ -1,0 +1,21 @@
+{
+  "id": "1713425",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713425.php",
+  "publishedAt": "2026-09-14T12:04",
+  "title": "Mann durch Faustschlag verletzt",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-09-13",
+    "street": "Welserstraße",
+    "houseNumberOrCrossing": "Geisbergstraße",
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Shortly after midnight, three people ran at a 42-year-old man at a street crossing in Schöneberg, and one of them punched him in the head in an apparent homophobic attack. The man was injured at the ear and taken to hospital; the State Security unit has taken over the investigation.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.055Z"
+}

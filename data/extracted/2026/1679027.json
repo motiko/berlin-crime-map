@@ -1,0 +1,21 @@
+{
+  "id": "1679027",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679027.php",
+  "publishedAt": "2026-06-08T15:45",
+  "title": "Fahrradfahrer und E-Scooter-Fahrer verunfallt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "traffic",
+    "dead": 0,
+    "district": "Friedrichshain-Kreuzberg",
+    "houseNumberOrCrossing": "Bersarinplatz",
+    "incidentDate": "2026-06-07",
+    "injured": 2,
+    "placeName": null,
+    "street": "Petersburger Straße",
+    "summaryEn": "A cyclist overtaking an e-scooter rider on Petersburger Straße in Friedrichshain touched the scooter, and both fell. The 48-year-old cyclist suffered multiple fractures and a skull base fracture.",
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.029Z"
+}

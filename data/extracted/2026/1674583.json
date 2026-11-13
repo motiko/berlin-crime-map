@@ -1,0 +1,21 @@
+{
+  "id": "1674583",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674583.php",
+  "publishedAt": "2026-05-27T11:54",
+  "title": "Bedrohung im Straßenverkehr",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-05-26",
+    "street": "Treskowallee",
+    "houseNumberOrCrossing": "Rolandseck",
+    "placeName": "Karlshorst",
+    "district": "Lichtenberg",
+    "summaryEn": "After a traffic dispute, a 45-year-old van driver allegedly threatened a 25-year-old motorcyclist with a replica handgun in Karlshorst. Police stopped the van, seized the pistol and magazine, and the driver faces charges of threatening with weapons.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "blank-firing gun"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.698Z"
+}

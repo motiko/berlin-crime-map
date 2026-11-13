@@ -1,0 +1,21 @@
+{
+  "id": "1703515",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703515.php",
+  "publishedAt": "2026-08-16T13:19",
+  "title": "Mehrfach gegen den Kopf getreten",
+  "location": "Mitte",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-08-15",
+    "street": "Europaplatz",
+    "houseNumberOrCrossing": null,
+    "placeName": "Europaplatz",
+    "district": "Mitte",
+    "summaryEn": "A 37-year-old man repeatedly kicked a 43-year-old man lying on the ground at Europaplatz in Mitte, causing a serious head injury. BVG employees intervened and held the suspect until federal police arrived.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.697Z"
+}

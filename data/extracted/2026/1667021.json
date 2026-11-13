@@ -1,0 +1,21 @@
+{
+  "id": "1667021",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667021.php",
+  "publishedAt": "2026-05-03T12:44",
+  "title": "Homophober und fremdenfeindlicher Angriff in der U-Bahn",
+  "location": "Mitte",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-05-02",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahnhof Rosa-Luxemburg-Platz",
+    "district": "Mitte",
+    "summaryEn": "A man on the U2 subway line harassed a young woman and then assaulted her male companion with homophobic and xenophobic insults, while her female friend was kicked. The suspect was arrested, and the Staatsschutz took over the investigation.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.039Z"
+}

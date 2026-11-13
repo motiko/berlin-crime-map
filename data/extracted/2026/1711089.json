@@ -1,0 +1,21 @@
+{
+  "id": "1711089",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711089.php",
+  "publishedAt": "2026-09-08T01:10",
+  "title": "Vermisste 36-jährige Frau wieder da",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2026-09-07",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "A 36-year-old woman who had been reported missing is safe again. She went to a hospital on her own and received medical care.",
+    "injured": null,
+    "dead": null,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.913Z"
+}

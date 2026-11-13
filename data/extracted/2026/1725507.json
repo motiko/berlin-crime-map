@@ -1,0 +1,21 @@
+{
+  "id": "1725507",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1725507.php",
+  "publishedAt": "2026-10-14T11:48",
+  "title": "Schussabgabe eines Polizeibeamten",
+  "location": "Mitte",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-10-13",
+    "street": "Karl-Liebknecht-Straße",
+    "houseNumberOrCrossing": "Spandauer Straße",
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A police officer fired a shot at a 40-year-old driver who fled and allegedly drove at an officer during a stop after dangerous driving through Mitte. The driver was hit in the leg and taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.891Z"
+}

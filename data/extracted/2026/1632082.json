@@ -1,0 +1,21 @@
+{
+  "id": "1632082",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1632082.php",
+  "publishedAt": "2026-01-10T11:36",
+  "title": "Großflächige Sachbeschädigungen mit kommunistischen Symbolen und Parolen",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-01-09",
+    "street": "Gudrunstraße",
+    "houseNumberOrCrossing": "Siegfriedstraße",
+    "placeName": "U-Bahnhof Lichtenberg",
+    "district": "Lichtenberg",
+    "summaryEn": "Unknown persons sprayed large communist slogans and symbols on building facades and a subway station exit in Lichtenberg. Police Staatsschutz (political crime unit) has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.414Z"
+}

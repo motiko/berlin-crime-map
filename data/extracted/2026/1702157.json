@@ -1,0 +1,21 @@
+{
+  "id": "1702157",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702157.php",
+  "publishedAt": "2026-08-12T12:35",
+  "title": "Schüsse auf einen Mann",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-08-11",
+    "street": "Eschenbachstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Bar in der Eschenbachstraße",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A 40-year-old man allegedly shot another 40-year-old man several times in a bar in Baumschulenweg and then fled. The victim was taken to hospital; the Homicide Commission is investigating an attempted killing.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.960Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1711566",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711566.php",
+  "publishedAt": "2026-09-08T14:22",
+  "title": "Wahlplakate durch Feuer beschädigt",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-09-08",
+    "street": "Osteweg",
+    "houseNumberOrCrossing": "Seehofstraße",
+    "placeName": "Lichterfelde",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "Unknown persons set election posters on several lampposts on fire in Lichterfelde early in the morning. Police and fire brigade extinguished the fires, and the State Security unit is investigating.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.851Z"
+}

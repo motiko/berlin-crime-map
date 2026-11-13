@@ -1,0 +1,21 @@
+{
+  "id": "1662255",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662255.php",
+  "publishedAt": "2026-04-19T16:16",
+  "title": "Scharfe Schusswaffe gefunden",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-04-19",
+    "street": "Krossener Straße",
+    "houseNumberOrCrossing": "Karl-Marx-Allee/Straße der Pariser Kommune",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Police arrested four suspects after drug handovers on Krossener Straße and a search of an apartment found a firearm, about 300 grams of cocaine, over 1,500 LSD strips and cash. One suspect resisted arrest and kicked officers.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.901Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1695048",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695048.php",
+  "publishedAt": "2026-07-17T13:20",
+  "title": "Senior in Wohnung beraubt und verletzt",
+  "location": "Pankow",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-07-16",
+    "street": "Berliner Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "Several unknown perpetrators forced their way into a flat in Weißensee by knocking, attacked the 72-year-old tenant with a baseball bat and iron bar, and searched the apartment. The tenant was injured and sprayed with pepper spray before the suspects fled.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "baseball bat and iron bar"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.969Z"
+}

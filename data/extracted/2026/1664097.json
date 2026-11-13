@@ -1,0 +1,21 @@
+{
+  "id": "1664097",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664097.php",
+  "publishedAt": "2026-04-23T15:32",
+  "title": "Mutmaßlicher Wohnungseinbrecher festgenommen",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-04-22",
+    "street": "Plauener Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Alt Hohenschönhausen",
+    "district": "Lichtenberg",
+    "summaryEn": "Police arrested a 22-year-old suspected of two apartment break-ins in Alt Hohenschönhausen after a caretaker reported markings on apartment doors. Stolen computer accessories linked to one burglary were found in his car.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.010Z"
+}

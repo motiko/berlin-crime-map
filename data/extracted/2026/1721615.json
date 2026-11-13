@@ -1,0 +1,21 @@
+{
+  "id": "1721615",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721615.php",
+  "publishedAt": "2026-10-05T14:53",
+  "title": "Auseinandersetzungen nach Fußballspiel",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-10-04",
+    "street": "Waldschulallee",
+    "houseNumberOrCrossing": null,
+    "placeName": "Stadion an der Waldschulallee",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "After a football match in Westend, about 50 away fans tried to reach home fans and attacked police, who used pepper spray and detained five men. Two detained people were treated for eye irritation.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "pepper spray"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.706Z"
+}

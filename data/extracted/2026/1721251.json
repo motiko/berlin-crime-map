@@ -1,0 +1,21 @@
+{
+  "id": "1721251",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721251.php",
+  "publishedAt": "2026-10-04T14:16",
+  "title": "Schussabgabe auf ein Restaurant",
+  "location": "Mitte",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-10-04",
+    "street": "Gotzkowskystraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "Bullet holes were found in the window front of a restaurant in Moabit, and the owner alerted police around 13:10. Nobody was inside during the incident, and investigations into the background are ongoing.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.946Z"
+}

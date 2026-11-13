@@ -1,0 +1,21 @@
+{
+  "id": "1727209",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727209.php",
+  "publishedAt": "2026-10-18T11:47",
+  "title": "Falscher Paketbote und Komplizen rauben Frau aus",
+  "location": "Pankow",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-10-17",
+    "street": "Paracelsusstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "Three men, one posing as a parcel courier, forced their way into a 74-year-old woman's apartment, knocked her to the ground, threatened her and stole jewelry. She complained of neck pain but did not need medical treatment.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.803Z"
+}

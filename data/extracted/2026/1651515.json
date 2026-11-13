@@ -1,0 +1,21 @@
+{
+  "id": "1651515",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1651515.php",
+  "publishedAt": "2026-03-11T13:46",
+  "title": "Verletzte bei Wohnungsbrand",
+  "location": "Spandau",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-03-11",
+    "street": "Stadtrandstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Falkenhagener Feld",
+    "district": "Spandau",
+    "summaryEn": "A fire broke out in a flat in a residential building in Falkenhagener Feld overnight. One resident was seriously hurt, two others were treated for smoke inhalation, and 19 flats are uninhabitable.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.373Z"
+}

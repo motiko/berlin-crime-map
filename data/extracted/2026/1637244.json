@@ -1,0 +1,21 @@
+{
+  "id": "1637244",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1637244.php",
+  "publishedAt": "2026-01-24T17:41",
+  "title": "Trickdiebstahl in Wohnung – Seniorin bestohlen",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-01-23",
+    "street": "Geisbergstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Two unknown women posed as cleaners and visited an 87-year-old woman in her apartment, then left and did not return. The woman later noticed cash and jewelry were missing.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.440Z"
+}

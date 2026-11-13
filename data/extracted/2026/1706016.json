@@ -1,0 +1,21 @@
+{
+  "id": "1706016",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706016.php",
+  "publishedAt": "2026-08-23T10:38",
+  "title": "Mit Gullydeckel in Supermarkt eingebrochen",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-08-22",
+    "street": "Königin-Luise-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "Two unknown men broke into a supermarket on Königin-Luise-Straße at around 0:30 using a manhole cover and stole large quantities of tobacco products and e-cigarettes. They fled before police arrived.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.990Z"
+}

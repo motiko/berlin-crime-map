@@ -1,0 +1,21 @@
+{
+  "id": "1664549",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664549.php",
+  "publishedAt": "2026-04-24T13:27",
+  "title": "Festnahmen nach Raubüberfällen auf Spätverkaufsstellen",
+  "location": "Mitte",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-04-22",
+    "street": "Martin-Opitz-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "Police arrested two suspects (27 and 29) in a raid on an apartment in Wedding, linked to six armed robberies of late-night shops in Mitte between February and April 2026. Both were remanded in custody.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.927Z"
+}

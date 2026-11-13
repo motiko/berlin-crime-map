@@ -1,0 +1,21 @@
+{
+  "id": "1630225",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1630225.php",
+  "publishedAt": "2026-01-05T14:08",
+  "title": "Mann bei Straßenraub verletzt",
+  "location": "Spandau",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-01-04",
+    "street": "Brunsbütteler Damm",
+    "houseNumberOrCrossing": "Haberlandweg",
+    "placeName": null,
+    "district": "Spandau",
+    "summaryEn": "Four unknown assailants attacked a 27-year-old man at a street corner in Spandau in the evening, beating and stabbing him before stealing his backpack and cash. The man was taken to hospital for outpatient treatment with bruises, contusions and cuts.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.378Z"
+}

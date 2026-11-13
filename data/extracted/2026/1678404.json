@@ -1,0 +1,21 @@
+{
+  "id": "1678404",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678404.php",
+  "publishedAt": "2026-06-06T16:11",
+  "title": "Mann flüchtet im Auto vor Polizeikontrolle - Festnahme",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-06-05",
+    "street": "Friesenstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Gropiusstadt",
+    "district": "Neukölln",
+    "summaryEn": "A 34-year-old man fled from a traffic stop in a stolen car at high speed, running red lights and driving on the pavement, before being arrested in Goldammerstraße. Police found a blank-firing pistol, suspected stolen e-scooters and burglary tools in the car.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.024Z"
+}

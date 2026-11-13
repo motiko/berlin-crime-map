@@ -1,0 +1,21 @@
+{
+  "id": "1678095",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678095.php",
+  "publishedAt": "2026-06-05T10:40",
+  "title": "Nach Fahrstreifenwechsel mitgeschleift – Kradfahrer im Krankenhaus",
+  "location": "Mitte",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-06-04",
+    "street": "Seestraße",
+    "houseNumberOrCrossing": "Cornelius-Fredericks-Straße",
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A truck changing lanes on Seestraße struck and dragged a motorcyclist, who suffered serious leg fractures. The motorcyclist was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.997Z"
+}

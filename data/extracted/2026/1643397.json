@@ -1,0 +1,21 @@
+{
+  "id": "1643397",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1643397.php",
+  "publishedAt": "2026-02-14T13:11",
+  "title": "Verkehrsunfall – Fußgängerin verletzt",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-02-13",
+    "street": "Falkenberger Chaussee",
+    "houseNumberOrCrossing": "Welsestraße",
+    "placeName": "Neu-Höhenschonhausen",
+    "district": "Lichtenberg",
+    "summaryEn": "A 20-year-old driver struck a 15-year-old pedestrian crossing the road in Neu-Höhenschonhausen on the evening before publication. The pedestrian suffered head and internal injuries and was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.465Z"
+}

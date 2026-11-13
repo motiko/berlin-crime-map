@@ -1,0 +1,21 @@
+{
+  "id": "1648370",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1648370.php",
+  "publishedAt": "2026-03-02T14:38",
+  "title": "Flucht vor der Polizei auf der Autobahn",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-03-01",
+    "street": "BAB 100",
+    "houseNumberOrCrossing": "Anschlussstelle Treptower Park",
+    "placeName": "Britzer Tunnel",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A driver fled from a plainclothes police patrol on the A100 motorway after a speeding offence, driving on the hard shoulder and ramming two cars before escaping. Nobody was injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.369Z"
+}

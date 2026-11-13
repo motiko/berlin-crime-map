@@ -1,0 +1,21 @@
+{
+  "id": "1711488",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1711488.php",
+  "publishedAt": "2026-09-08T12:23",
+  "title": "Brand in einem Restaurant",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-09-08",
+    "street": "Schöneberger Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Restaurant",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A fire was reported at a restaurant on Schöneberger Straße in the early hours after bangs were heard. The flames had already gone out when officers arrived, and no one was hurt; police are investigating suspected attempted arson.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.672Z"
+}

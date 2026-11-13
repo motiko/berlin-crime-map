@@ -1,0 +1,21 @@
+{
+  "id": "1726523",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1726523.php",
+  "publishedAt": "2026-10-13T10:30",
+  "title": "Mutmaßlicher Einbrecher festgenommen",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-10-12",
+    "street": "Katzbachstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Witnesses heard a shop window break at a convenience store and saw a man leave; police arrested a 39-year-old suspect nearby with allegedly stolen goods.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.028Z"
+}

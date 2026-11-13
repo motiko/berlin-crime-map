@@ -1,0 +1,21 @@
+{
+  "id": "1690627",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690627.php",
+  "publishedAt": "2026-07-07T12:53",
+  "title": "Unter Drogeneinfluss vor Polizei geflüchtet und Verkehrsunfall verursacht",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-06",
+    "street": "Frobenstraße",
+    "houseNumberOrCrossing": "Köthener Brücke/Reichpietschufer/Köthener Straße/Hallesches Ufer",
+    "placeName": "Nelly-Sachs-Park",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A scooter rider under the influence of drugs fled a police check at high speed, running red lights and riding on pavements. He crashed into a car at an intersection and was injured; he had no licence and the scooter was stolen.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.694Z"
+}

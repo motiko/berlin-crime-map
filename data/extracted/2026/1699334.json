@@ -1,0 +1,21 @@
+{
+  "id": "1699334",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699334.php",
+  "publishedAt": "2026-08-02T13:46",
+  "title": "Mehrere Verletzte nach Auseinandersetzung",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-08-01",
+    "street": "Dominicusstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Several men fought in front of a bar in Dominicusstraße in Schöneberg; baseball bats, glass bottles and a knife were reportedly used. One 32-year-old was stabbed and three suspects aged 23, 33 and 34 were temporarily arrested.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.846Z"
+}

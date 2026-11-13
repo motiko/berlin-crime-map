@@ -1,0 +1,21 @@
+{
+  "id": "1669801",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669801.php",
+  "publishedAt": "2026-05-10T12:28",
+  "title": "Überfall auf Tankstelle",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-05-10",
+    "street": "Rhinstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Tankstelle",
+    "district": "Lichtenberg",
+    "summaryEn": "Several unknown men entered a petrol station in Alt-Hohenschönhausen early in the morning, held an employee and stole a safe. They emptied a powder fire extinguisher in the sales area and fled in a waiting vehicle.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.703Z"
+}

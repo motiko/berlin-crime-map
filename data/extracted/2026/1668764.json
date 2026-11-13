@@ -1,0 +1,21 @@
+{
+  "id": "1668764",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668764.php",
+  "publishedAt": "2026-05-07T10:31",
+  "title": "Festnahme nach Schüssen in Neukölln",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2023-04-23",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Anita-Berber-Park",
+    "district": "Neukölln",
+    "summaryEn": "A 20-year-old suspect was arrested ten days after shots were fired at a 27-year-old and a 29-year-old in Anita-Berber-Park on 23 April 2026. He was also allegedly involved in another shooting in the park on 2 May 2026 and in a later theft of a police officer's phone.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.843Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1713185",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713185.php",
+  "publishedAt": "2026-09-12T14:11",
+  "title": "Einbruch in Kunstauktionshaus",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-09-12",
+    "street": "Bleibtreustraße",
+    "houseNumberOrCrossing": "Schlüterstraße",
+    "placeName": "Kunstauktionshaus",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Unknown perpetrators broke into an art auction house in Charlottenburg in the early morning, smashing the entrance door and display cases and stealing antique cups and porcelain. The State Criminal Police Office's art crime unit has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.013Z"
+}

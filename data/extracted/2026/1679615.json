@@ -1,0 +1,21 @@
+{
+  "id": "1679615",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679615.php",
+  "publishedAt": "2026-06-09T15:03",
+  "title": "Kind angefahren – Fahrzeugführer flüchtet vom Unfallort",
+  "location": "Mitte",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-06-08",
+    "street": "Willdenowstraße",
+    "houseNumberOrCrossing": "2",
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A car driver struck a seven-year-old girl crossing Willdenowstraße in Wedding and then left the scene before emergency services arrived. The child suffered a head wound and knee pain and was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.925Z"
+}

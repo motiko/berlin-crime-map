@@ -1,0 +1,21 @@
+{
+  "id": "1716373",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716373.php",
+  "publishedAt": "2026-09-20T11:05",
+  "title": "Polizeiliche Einsatzmaßnahmen an kriminalitätsbelasteten Orten",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-09-19",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Warschauer Brücke, Alexanderplatz, Görlitzer Park/Wrangelkiez, Kottbusser Tor",
+    "district": null,
+    "summaryEn": "Police Direktion 5 carried out overnight control and presence measures at crime hotspots, including checks and some dispersal orders. The most serious case in the report was a homophobically motivated assault near Uber Platz, where a 20-year-old suspect was identified.",
+    "injured": null,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.903Z"
+}

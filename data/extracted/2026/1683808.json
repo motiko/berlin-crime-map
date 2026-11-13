@@ -1,0 +1,21 @@
+{
+  "id": "1683808",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683808.php",
+  "publishedAt": "2026-06-19T11:43",
+  "title": "Drei Verletzte Personen nach Verkehrsunfall",
+  "location": "Pankow",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-06-18",
+    "street": "Danziger Straße",
+    "houseNumberOrCrossing": "Prenzlauer Allee",
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "A car turning left collided with an oncoming car at the Danziger Straße/Prenzlauer Allee junction, which then hit a cyclist and several objects. Three people were injured, including a 52-year-old cyclist with serious injuries.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.044Z"
+}

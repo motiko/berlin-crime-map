@@ -1,0 +1,21 @@
+{
+  "id": "1638413",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1638413.php",
+  "publishedAt": "2026-01-28T12:45",
+  "title": "Jugendlicher verletzt und fremdenfeindlich beleidigt",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-01-27",
+    "street": "Gorkistraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "A 14-year-old was pushed and xenophobically insulted during an argument with a 45-year-old man, and a passing pedestrian then punched the man. The police Staatsschutz is handling the case.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.399Z"
+}

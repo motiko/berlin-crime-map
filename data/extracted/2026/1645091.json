@@ -1,0 +1,21 @@
+{
+  "id": "1645091",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1645091.php",
+  "publishedAt": "2026-02-19T16:13",
+  "title": "Überfall auf Hotel",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-02-19",
+    "street": "Franklinstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Hotel",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A masked man threatened a hotel receptionist with a knife at around 2 a.m. and fled with cash. The 21-year-old employee was not injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.427Z"
+}

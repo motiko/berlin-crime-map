@@ -1,0 +1,21 @@
+{
+  "id": "1730685",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1730685.php",
+  "publishedAt": "2026-10-23T16:47",
+  "title": "Informationstafel zerkratzt – Sachbeschädigung mit antisemitischem Hintergrund",
+  "location": "Pankow",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-10-22",
+    "street": "Berliner Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "ehemaliges Jüdisches Waisenhaus (Bibliothek)",
+    "district": "Pankow",
+    "summaryEn": "An unknown person scratched an information board at a library entrance with a broken beer bottle and made antisemitic remarks. The Staatsschutz (political crime unit) has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "broken bottle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.820Z"
+}

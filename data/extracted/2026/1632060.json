@@ -1,0 +1,21 @@
+{
+  "id": "1632060",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1632060.php",
+  "publishedAt": "2026-01-09T16:47",
+  "title": "Waffen in Bar gefunden",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "raid",
+    "incidentDate": "2026-01-08",
+    "street": "Lübbener Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Bar",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "During a premises inspection at a bar in Kreuzberg, police found several firearms with ammunition hidden in a pool table and arrested two men aged 27 and 29. The weapons, magazines and ammunition were seized.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.412Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1726797",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726797.php",
+  "publishedAt": "2026-10-16T13:09",
+  "title": "Festnahmen nach Angriff auf Heranwachsende",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-10-15",
+    "street": "Uhlandstraße",
+    "houseNumberOrCrossing": "Berliner Straße",
+    "placeName": "Wilmersdorf",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Two 18-year-olds were attacked by a group of youths in Wilmersdorf; one was stabbed in the back and the other was robbed of his phone, bank card and music box. Two suspects were arrested nearby and a third fled.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.844Z"
+}

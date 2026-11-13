@@ -1,0 +1,21 @@
+{
+  "id": "1629637",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1629637.php",
+  "publishedAt": "2026-01-01T17:18",
+  "title": "Polizist bei Fahrzeugüberprüfung mitgeschleift – Fahrer flüchtet",
+  "location": "Mitte",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-01-01",
+    "street": "Seestraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "During a vehicle check on Seestraße, a driver started his car and dragged a plainclothes police officer several metres before fleeing. The officer fell to the road and was injured.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.417Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1708335",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708335.php",
+  "publishedAt": "2026-08-29T14:04",
+  "title": "Von Personengruppe geschlagen und beleidigt",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-08-29",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahnhof Kaulsdorf",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A seven-person group attacked two women, aged 21 and 22, at Kaulsdorf U-Bahn station after they declined to talk to them. A 46-year-old passerby who came to help was struck in the face with a beer bottle.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": "bottle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.914Z"
+}

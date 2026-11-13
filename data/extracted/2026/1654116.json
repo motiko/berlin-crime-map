@@ -1,0 +1,21 @@
+{
+  "id": "1654116",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1654116.php",
+  "publishedAt": "2026-03-19T11:48",
+  "title": "Nationalfahnen angezündet und Flugblätter verteilt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "political",
+    "dead": null,
+    "district": "Mitte",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-03-18",
+    "injured": 0,
+    "placeName": "Platz des 18. März",
+    "street": null,
+    "summaryEn": "An unknown woman publicly burned two national flags, one of Germany and one of Iran, at Platz des 18. März and distributed leaflets, some containing Nazi symbols. The State Protection unit is investigating.",
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.420Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1708254",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708254.php",
+  "publishedAt": "2026-08-28T15:57",
+  "title": "Einer Polizeikontrolle entzogen und Unfall verursacht",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-08-28",
+    "street": "Britzer Straße",
+    "houseNumberOrCrossing": "An der alten Gärtnerei",
+    "placeName": "Mariendorf",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 17-year-old motorcyclist without a helmet fled a police traffic check at high speed and crashed into a street lamp in Mariendorf. He was seriously injured and taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.943Z"
+}

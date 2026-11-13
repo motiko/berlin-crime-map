@@ -1,0 +1,21 @@
+{
+  "id": "1555980",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1555980.php",
+  "publishedAt": "2026-06-24T07:01",
+  "title": "Mann nach Gewalttat gesucht – Polizei bittet um Mithilfe",
+  "location": "Mitte",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2025-04-29",
+    "street": "Alexanderplatz",
+    "houseNumberOrCrossing": null,
+    "placeName": "S-Bahnhof Alexanderplatz",
+    "district": "Mitte",
+    "summaryEn": "Police are seeking a suspect in connection with a group assault on a 36-year-old man in front of the S-Bahn station Alexanderplatz, in which the victim was stabbed in the thigh with a knife. The incident occurred on 29 April 2025 shortly before 22:30.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.032Z"
+}

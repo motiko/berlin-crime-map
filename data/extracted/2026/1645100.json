@@ -1,0 +1,21 @@
+{
+  "id": "1645100",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1645100.php",
+  "publishedAt": "2026-02-19T16:25",
+  "title": "Ermittlungserfolg – Festnahmen und Schusswaffen beschlagnahmt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "raid",
+    "incidentDate": "2026-02-18",
+    "street": "Wollankstraße",
+    "houseNumberOrCrossing": "Soldiner Straße",
+    "placeName": "Gesundbrunnen",
+    "district": "Mitte",
+    "summaryEn": "Police with about 160 officers raided a venue on Wollankstraße and nearby locations in Gesundbrunnen, seizing five firearms. Three people were arrested and handed over to the BAO Ferrum task force.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.366Z"
+}

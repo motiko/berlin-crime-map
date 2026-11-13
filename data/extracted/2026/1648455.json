@@ -1,0 +1,21 @@
+{
+  "id": "1648455",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1648455.php",
+  "publishedAt": "2026-03-02T16:30",
+  "title": "Rettungskräfte mit Schusswaffe bedroht",
+  "location": "Spandau",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-03-01",
+    "street": "Paula-Hirschfeld-Steig",
+    "houseNumberOrCrossing": null,
+    "placeName": "Hakenfelde",
+    "district": "Spandau",
+    "summaryEn": "A man threatened emergency responders with a blank-firing pistol at an apartment in Hakenfelde after treating a domestic violence injury. He was arrested and the weapon was seized.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "blank-firing pistol"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.340Z"
+}

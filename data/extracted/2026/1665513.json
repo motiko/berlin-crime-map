@@ -1,0 +1,21 @@
+{
+  "id": "1665513",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665513.php",
+  "publishedAt": "2026-04-28T10:47",
+  "title": "Sachbeschädigungen mit antisemitischem Hintergrund – Wer hat etwas gesehen?",
+  "location": "Pankow",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-04-25",
+    "street": "Ueckermünder Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "Unknown perpetrators sprayed antisemitic slogans and swastikas on building walls in Ueckermünder Straße over the past weekend and on the night of 11 April. The State Protection unit appeals for witnesses.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.938Z"
+}

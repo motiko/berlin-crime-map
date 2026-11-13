@@ -1,0 +1,21 @@
+{
+  "id": "1659003",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659003.php",
+  "publishedAt": "2026-04-06T13:49",
+  "title": "Griff zur Dienstwaffe durch DEIG-Einsatz verhindert",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-04-04",
+    "street": "Wassersportallee",
+    "houseNumberOrCrossing": null,
+    "placeName": "Imbiss an der Wassersportallee",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "After a dispute and threat at a snack bar in Grünau, police arrested a 20-year-old man who attacked officers and tried to grab an officer's service weapon, which was prevented. Two officers were injured and unable to continue duty, and the man suffered a cut to the head.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.785Z"
+}

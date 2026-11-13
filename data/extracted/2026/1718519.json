@@ -1,0 +1,21 @@
+{
+  "id": "1718519",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718519.php",
+  "publishedAt": "2026-09-30T09:53",
+  "title": "Autofahrerin bei Verkehrsunfall lebensbedrohlich verletzt",
+  "location": "Spandau",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-09-26",
+    "street": "Groß-Glienicker Weg",
+    "houseNumberOrCrossing": null,
+    "placeName": "Gatow",
+    "district": "Spandau",
+    "summaryEn": "A 41-year-old woman driving alone left the road and hit a tree in Gatow, suffering life-threatening injuries. She later died in hospital, in the night to Monday (report dated 2026-09-30).",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.678Z"
+}

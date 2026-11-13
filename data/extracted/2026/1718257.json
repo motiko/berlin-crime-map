@@ -1,0 +1,21 @@
+{
+  "id": "1718257",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718257.php",
+  "publishedAt": "2026-09-25T11:03",
+  "title": "Kinder auf Tretrollern angefahren",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-09-24",
+    "street": "Bergstraße",
+    "houseNumberOrCrossing": "Schönhauser Straße",
+    "placeName": null,
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "Two ten-year-old boys on scooters were hit by a car while crossing Bergstraße in Steglitz. Both were injured and taken to hospital; the driver was not hurt.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.018Z"
+}

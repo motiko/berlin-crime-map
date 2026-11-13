@@ -1,0 +1,21 @@
+{
+  "id": "1637479",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1637479.php",
+  "publishedAt": "2026-01-26T12:34",
+  "title": "Schüsse in Wohnung – mehrere Verletzte",
+  "location": "Mitte",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-01-25",
+    "street": "Wichmannstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "Several shots were fired in an apartment after a family dispute, injuring four people, two with life-threatening wounds. Attempted manslaughter investigations were opened by a homicide unit.",
+    "injured": 4,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.429Z"
+}

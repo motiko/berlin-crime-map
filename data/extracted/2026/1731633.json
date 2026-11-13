@@ -1,0 +1,21 @@
+{
+  "id": "1731633",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1731633.php",
+  "publishedAt": "2026-10-27T14:33",
+  "title": "Festnahme nach Handel mit Pyrotechnik",
+  "location": "Mitte",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-10-26",
+    "street": "Leipziger Straße",
+    "houseNumberOrCrossing": "Axel-Springer-Straße",
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A teenager was arrested for illegally selling fireworks after pepper-spraying officers and bystanders during the attempted escape. Over 2,000 pyrotechnic items, a blank-firing gun, a knife and forged documents were seized from his home.",
+    "injured": 4,
+    "dead": 0,
+    "weaponType": "pepper spray"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.682Z"
+}

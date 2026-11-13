@@ -1,0 +1,21 @@
+{
+  "id": "1638389",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1638389.php",
+  "publishedAt": "2026-01-28T12:01",
+  "title": "Brand in Krankenhauszimmer",
+  "location": "Mitte",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-01-27",
+    "street": "Heinz-Galinski-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Krankenhaus Gesundbrunnen",
+    "district": "Mitte",
+    "summaryEn": "A fire broke out in a hospital patient room overnight, spreading from an object near the bed to the mattress. Fourteen people were injured, including the 71-year-old patient, emergency workers and hospital staff; police are investigating aggravated arson.",
+    "injured": 14,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.454Z"
+}

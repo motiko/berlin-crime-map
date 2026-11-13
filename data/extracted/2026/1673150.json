@@ -1,0 +1,21 @@
+{
+  "id": "1673150",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673150.php",
+  "publishedAt": "2026-05-21T11:51",
+  "title": "Mann homophob beleidigt und geschlagen",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-05-21",
+    "street": "Am Treptower Park",
+    "houseNumberOrCrossing": "Rethelstraße",
+    "placeName": "Bus-Haltestelle Rethelstraße (BVG-Linie N60)",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A 35-year-old man was insulted with homophobic remarks and punched in the head by a 23-year-old on a night bus. The State Security unit has taken over the investigation for possible hate crime.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.850Z"
+}

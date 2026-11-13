@@ -1,0 +1,21 @@
+{
+  "id": "1692314",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692314.php",
+  "publishedAt": "2026-07-11T13:55",
+  "title": "Streit eskaliert – Angriff mit Schlagring auf jungen Mann",
+  "location": "Mitte",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-07-11",
+    "street": "Rathausstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "Two people were fighting outside a bar in Rathausstraße. When an 18-year-old tried to break it up, one of them allegedly struck him repeatedly in the face with a knuckleduster, leaving him with a facial laceration.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knuckleduster"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.984Z"
+}

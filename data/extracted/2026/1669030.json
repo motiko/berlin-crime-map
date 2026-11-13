@@ -1,0 +1,21 @@
+{
+  "id": "1669030",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669030.php",
+  "publishedAt": "2026-05-07T14:58",
+  "title": "Festnahmen nach Wohnungseinbruch",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-05-06",
+    "street": "Reichnerweg",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Police arrested two suspected burglars, aged 27 and 28, in an apartment in a multi-family building after a resident reported noises from a neighboring flat. A third suspect fled.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.979Z"
+}

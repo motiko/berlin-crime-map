@@ -1,0 +1,21 @@
+{
+  "id": "1717101",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717101.php",
+  "publishedAt": "2026-09-22T11:37",
+  "title": "Überfall auf Geldtransporter – Zeuginnen und Zeugen gesucht",
+  "location": "Mitte",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2023-01-30",
+    "street": "Nordstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Virchow-Klinikum",
+    "district": "Mitte",
+    "summaryEn": "Unknown suspects threatened a cash-transport driver (38) with a weapon on the Virchow Clinic grounds and stole several cash boxes. The suspects fled in an anthracite Audi A3.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.959Z"
+}

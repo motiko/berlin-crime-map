@@ -1,0 +1,21 @@
+{
+  "id": "1721243",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721243.php",
+  "publishedAt": "2026-10-04T11:44",
+  "title": "Auseinandersetzung im Hotel",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-10-03",
+    "street": "Kaiser-Friedrich-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Hotel",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A group of about ten people attacked two guests in a hotel stairwell in Charlottenburg, and one of them threatened a 20-year-old with a weapon and a knife. Two 17-year-old guests were also punched while the group fled, and three suspects were arrested and released after identification measures.",
+    "injured": 4,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.712Z"
+}

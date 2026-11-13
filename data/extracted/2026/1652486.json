@@ -1,0 +1,21 @@
+{
+  "id": "1652486",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1652486.php",
+  "publishedAt": "2026-03-14T14:25",
+  "title": "Toter Mann nach Wohnungsbrand geborgen",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-03-13",
+    "street": "Bottroper Weg",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "A flat fire in a residential building in Tegel left one man dead, likely the 63-year-old occupant, and damaged several other flats. Six residents were taken to hospital with suspected smoke inhalation.",
+    "injured": 6,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.428Z"
+}

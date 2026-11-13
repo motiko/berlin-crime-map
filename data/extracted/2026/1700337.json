@@ -1,0 +1,21 @@
+{
+  "id": "1700337",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700337.php",
+  "publishedAt": "2026-08-06T12:32",
+  "title": "Zwei Polizeibeamte bei Verkehrsunfall verletzt",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-08-05",
+    "street": "Bundesautobahn 103",
+    "houseNumberOrCrossing": "Filandastraße/Saarstraße",
+    "placeName": "Tunnel Friedenau",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A police patrol car responding to an emergency collided with a car in the Friedenau tunnel on the A103 after a lane change. Two police officers were injured, and the patrol car was no longer roadworthy.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.944Z"
+}

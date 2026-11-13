@@ -1,0 +1,21 @@
+{
+  "id": "1691178",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691178.php",
+  "publishedAt": "2026-07-08T11:42",
+  "title": "20-Jähriger nach Raubserie in Berlin festgenommen",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2025-01-01",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "A 20-year-old suspect was arrested in Rudow over a series of robberies in which men were lured to meetings via dating apps and robbed at gunpoint or with threats in 2025. The main accomplice was previously sentenced to five years in prison.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.729Z"
+}

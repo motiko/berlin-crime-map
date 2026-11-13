@@ -1,0 +1,21 @@
+{
+  "id": "1660428",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660428.php",
+  "publishedAt": "2026-04-13T13:37",
+  "title": "Zwei Männer festgenommen und Falschgeld beschlagnahmt",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "fraud",
+    "incidentDate": "2026-04-12",
+    "street": "Alt-Friedrichsfelde",
+    "houseNumberOrCrossing": null,
+    "placeName": "Parkplatz an der Straße Alt-Friedrichsfelde",
+    "district": "Lichtenberg",
+    "summaryEn": "Police arrested two men in a car on a parking area on Alt-Friedrichsfelde while they were allegedly handing over counterfeit money. More than 20,000 euros in fake banknotes were seized, and one officer was slightly injured when the driver rammed a police vehicle.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.953Z"
+}

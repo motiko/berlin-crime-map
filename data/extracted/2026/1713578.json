@@ -1,0 +1,21 @@
+{
+  "id": "1713578",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713578.php",
+  "publishedAt": "2026-09-15T00:01",
+  "title": "Vermisster Tourist wieder wohlbehalten bei Freunden",
+  "location": "Pankow",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2026-09-13",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Prenzlauer Berg",
+    "district": "Pankow",
+    "summaryEn": "A 31-year-old tourist reported missing since 14 September 2026 has been found safe. He had been taken to hospital in a helpless state on 13 September and was discharged on 14 September.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.823Z"
+}

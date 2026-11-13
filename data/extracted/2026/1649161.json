@@ -1,0 +1,21 @@
+{
+  "id": "1649161",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1649161.php",
+  "publishedAt": "2026-03-04T10:00",
+  "title": "Bilanz zur Verkehrssicherheitslage 2025 in Berlin",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-03-04",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "Annual road safety review for Berlin covering 2025: 137,373 traffic accidents, 37 people killed and 1,840 seriously injured. Both the number of killed and seriously injured fell compared with 2024.",
+    "injured": 1840,
+    "dead": 37,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.351Z"
+}

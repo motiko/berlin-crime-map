@@ -1,0 +1,21 @@
+{
+  "id": "1659001",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659001.php",
+  "publishedAt": "2026-04-06T11:32",
+  "title": "Rollerfahrerin nach Verkehrsunfall verstorben",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "traffic",
+    "dead": 1,
+    "district": "Lichtenberg",
+    "houseNumberOrCrossing": "Atzpodienstraße",
+    "incidentDate": "2026-04-05",
+    "injured": 0,
+    "placeName": null,
+    "street": "Frankfurter Allee",
+    "summaryEn": "A 50-year-old woman riding a scooter crashed on Frankfurter Allee in Lichtenberg after leaving the road and hitting a median kerb, then collided with an oncoming car. She died at the scene despite resuscitation attempts.",
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.701Z"
+}

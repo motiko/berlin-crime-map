@@ -1,0 +1,21 @@
+{
+  "id": "1701057",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1701057.php",
+  "publishedAt": "2026-08-09T14:14",
+  "title": "Falscher Stromzählerableser – Auseinandersetzung nach versuchtem Trickdiebstahl",
+  "location": "Mitte",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-08-08",
+    "street": "Singerstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A suspected distraction thief posing as a meter reader entered an 86-year-old man's flat in Singerstraße and opened cupboards. When his son and a neighbour confronted him, he punched the son and fled without stolen goods.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.961Z"
+}

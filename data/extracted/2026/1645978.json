@@ -1,0 +1,21 @@
+{
+  "id": "1645978",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1645978.php",
+  "publishedAt": "2026-02-23T16:06",
+  "title": "Jugendliche mit Messer angegriffen",
+  "location": "Spandau",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-02-23",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahnhof Rathaus Spandau",
+    "district": "Spandau",
+    "summaryEn": "Two teenage girls attempted to rob a 15-year-old and her 14-year-old friend at the Rathaus Spandau subway station, and the 15-year-old was threatened with a knife and injured on one hand. The attackers fled without loot.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.400Z"
+}

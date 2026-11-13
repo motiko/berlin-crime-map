@@ -1,0 +1,21 @@
+{
+  "id": "1709657",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709657.php",
+  "publishedAt": "2026-09-02T12:12",
+  "title": "Motorradfahrer nach Verkehrsunfall in intensivmedizinischer Behandlung",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-09-01",
+    "street": "Köpenicker Landstraße",
+    "houseNumberOrCrossing": "Baumschulenstraße",
+    "placeName": "Baumschulenweg",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A car turning left at a junction collided with a motorcyclist, a 55-year-old man, who was seriously injured and needed intensive care. The driver, a 31-year-old woman, was treated as an outpatient.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.872Z"
+}

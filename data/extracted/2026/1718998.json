@@ -1,0 +1,21 @@
+{
+  "id": "1718998",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718998.php",
+  "publishedAt": "2026-09-28T13:52",
+  "title": "Live-Einbruchversuch und Experten-Tipps: Polizei Berlin zeigt wirksame Sicherungstechnik am Tag des Einbruchschutzes am 25. Oktober 2026",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-10-25",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Polizeipräsidium",
+    "district": null,
+    "summaryEn": "Berlin police and the tischler guild invite the public to a burglary-prevention day at police headquarters on 25 October 2026, featuring a live break-in demonstration. The event runs from 12 to 16 noon and is not an incident.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.869Z"
+}

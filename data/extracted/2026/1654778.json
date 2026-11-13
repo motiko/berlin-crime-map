@@ -1,0 +1,21 @@
+{
+  "id": "1654778",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1654778.php",
+  "publishedAt": "2026-03-22T14:03",
+  "title": "Brandstifter festgenommen",
+  "location": "Spandau",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-03-22",
+    "street": "Pillnitzer Weg",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Spandau",
+    "summaryEn": "A 38-year-old man entered an apartment building on Pillnitzer Weg in Staaken and left shortly after; residents found burning waste in the ground-floor hallway and put it out. The man was arrested nearby on suspicion of serious arson.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.354Z"
+}

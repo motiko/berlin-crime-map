@@ -1,0 +1,21 @@
+{
+  "id": "1720392",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720392.php",
+  "publishedAt": "2026-10-01T11:49",
+  "title": "Storno in Handfesseln – Räuberisch erpresste Fahrt endet mit vier Festnahmen",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-09-30",
+    "street": "Saalestraße",
+    "houseNumberOrCrossing": "Unstrutstraße",
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "A food delivery courier was robbed at knifepoint by a group of five young people, who took his phone and ordered a ride using his account. Four suspects were arrested after police stopped the ride vehicle.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.906Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1658981",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1658981.php",
+  "publishedAt": "2026-04-03T13:47",
+  "title": "Raubüberfall– Tatverdächtige festgenommen",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-04-03",
+    "street": "Köpenicker Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Schlosspark Biesdorf",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "Two men robbed a 22-year-old on his way home, hitting him on the head with a beer bottle and taking his belongings. Two suspects, aged 17 and 20, were arrested nearby and a machete and a starter pistol were seized.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "beer bottle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.711Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1662469",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662469.php",
+  "publishedAt": "2026-04-20T11:32",
+  "title": "Auseinandersetzung mit Reizgas, Messer und Machete",
+  "location": "Mitte",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-04-20",
+    "street": "Genter Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Parkplatz",
+    "district": "Mitte",
+    "summaryEn": "Around 20 people were involved in a brawl in a car park in Wedding overnight; three men were hurt, one with stab wounds, and tear gas was used. Police seized several knives and a machete and arrested one 20-year-old.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.985Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1654752",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1654752.php",
+  "publishedAt": "2026-03-20T16:54",
+  "title": "Durchsuchungsbeschlüsse wegen des Verdachts des Handeltreibens mit Betäubungsmitteln vollstreckt",
+  "location": "Berlin/Brandenburg",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-03-19",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "Police and prosecutors searched six residential and other addresses in Berlin and Brandenburg in an investigation into cocaine delivery by rented cars. One suspect was arrested, and weapons, forged documents and silver bars were seized.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.379Z"
+}

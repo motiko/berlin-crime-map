@@ -1,0 +1,21 @@
+{
+  "id": "1644813",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1644813.php",
+  "publishedAt": "2026-02-19T11:01",
+  "title": "Transphober Angriff",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-02-18",
+    "street": "Frobenstraße",
+    "houseNumberOrCrossing": "Bülowstraße",
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 22-year-old man allegedly attacked a 40-year-old trans woman in Schöneberg late at night, hitting her on the head with a phone and insulting her. Police arrested him shortly after in a nearby snack bar; the State Security unit is investigating.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.452Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1638852",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1638852.php",
+  "publishedAt": "2026-01-29T13:04",
+  "title": "Autofahrer fährt Kind an",
+  "location": "Pankow",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-01-28",
+    "street": "Achillesstraße",
+    "houseNumberOrCrossing": "Bucher Chaussee",
+    "placeName": "Karow",
+    "district": "Pankow",
+    "summaryEn": "A 52-year-old driver hit a seven-year-old girl who stepped onto the road from behind a stopped bus in Karow. The child suffered head injuries and the driver was also taken to hospital with chest pain.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.458Z"
+}

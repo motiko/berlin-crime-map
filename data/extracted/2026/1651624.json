@@ -1,0 +1,21 @@
+{
+  "id": "1651624",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1651624.php",
+  "publishedAt": "2026-06-03T10:35",
+  "title": "Zwei Männer durch Schüsse verletzt – Zielfahndung nimmt einen Tatverdächtigen fest",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-03-10",
+    "street": "Böckhstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Two brothers were injured by gunshots in a dispute in Kreuzberg. A suspect was arrested on 2026-06-01 in Schöneberg and placed in pretrial detention.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.898Z"
+}

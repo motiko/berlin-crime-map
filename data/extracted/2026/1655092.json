@@ -1,0 +1,21 @@
+{
+  "id": "1655092",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1655092.php",
+  "publishedAt": "2026-03-23T13:10",
+  "title": "Blitzeinbruch mit Auto in Einkaufszentrum",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-03-23",
+    "street": "Schloßstraße",
+    "houseNumberOrCrossing": "Markelstraße",
+    "placeName": "Einkaufszentrum in Steglitz",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "Three unknown suspects drove a car through the locked entrance of a retail store in a shopping centre in Steglitz around 3:30 a.m., smashed display cases and stole jewellery and watches. They fled in a second vehicle parked nearby.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.383Z"
+}

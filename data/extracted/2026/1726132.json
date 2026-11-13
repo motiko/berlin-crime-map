@@ -1,0 +1,21 @@
+{
+  "id": "1726132",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726132.php",
+  "publishedAt": "2026-10-15T10:51",
+  "title": "Mann bedroht Ehefrau und Kinder – Festnahme",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-10-14",
+    "street": "Agnes-Hacker-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Altglienicke",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A man threatened to kill his wife and three children at a single-family home in Altglienicke, and the wife and children locked themselves in a bedroom. Special operations police arrested the 52-year-old man, who was slightly injured, and a no-return order was issued against him.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.947Z"
+}

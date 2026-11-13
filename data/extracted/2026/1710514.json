@@ -1,0 +1,21 @@
+{
+  "id": "1710514",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710514.php",
+  "publishedAt": "2026-09-04T11:25",
+  "title": "Seniorin mit Bierflasche geschlagen",
+  "location": "Mitte",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-09-03",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahnhof Schillingstraße",
+    "district": "Mitte",
+    "summaryEn": "An unknown woman struck an 87-year-old woman on the head with a full beer bottle while on a U5 train at Schillingstraße station. The victim suffered a bleeding head wound and was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "bottle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.010Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1681436",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681436.php",
+  "publishedAt": "2026-06-13T12:26",
+  "title": "Bewaffneter Überfall auf Schnellrestaurant",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-06-13",
+    "street": "Wendenschloßstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A masked man robbed a fast-food restaurant in Köpenick around 2 a.m., demanding the till open at gunpoint. He fled with the cash drawer after a shot failed to fire, and nobody was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.721Z"
+}

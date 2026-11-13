@@ -1,0 +1,21 @@
+{
+  "id": "1719543",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719543.php",
+  "publishedAt": "2026-09-29T14:25",
+  "title": "Leichnam aus Tegeler See geborgen – Mordkommission und Staatsanwaltschaft ermitteln",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-09-28",
+    "street": "Tegeler See",
+    "houseNumberOrCrossing": null,
+    "placeName": "Tegeler See",
+    "district": "Reinickendorf",
+    "summaryEn": "A body was found floating in Lake Tegel and recovered by the fire brigade. A homicide unit is investigating after an autopsy confirmed suspicion of a killing.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.877Z"
+}

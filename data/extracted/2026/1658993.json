@@ -1,0 +1,21 @@
+{
+  "id": "1658993",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1658993.php",
+  "publishedAt": "2026-04-04T12:36",
+  "title": "Brand auf Diakoniegelände",
+  "location": "Spandau",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-04-04",
+    "street": "Schönwalder Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": "Diakoniegelände in Hakenfelde",
+    "district": "Spandau",
+    "summaryEn": "Several wheelie bins caught fire overnight at a waste area on a Diakonie site in Hakenfelde, destroying five bins and damaging a nearby building's canopy. The state criminal police fire unit is taking over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.820Z"
+}

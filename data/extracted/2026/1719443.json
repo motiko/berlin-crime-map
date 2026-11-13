@@ -1,0 +1,21 @@
+{
+  "id": "1719443",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719443.php",
+  "publishedAt": "2026-09-29T12:43",
+  "title": "Festnahme nach Einbruch in Bäckerei",
+  "location": "Pankow",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-09-28",
+    "street": "Dietzgenstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "Two men broke into a bakery in Niederschönhausen overnight; a witness alerted police, who arrested one suspect nearby while the second fled. Burglary tools and a small amount of narcotics were seized.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.715Z"
+}

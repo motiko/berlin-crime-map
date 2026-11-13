@@ -1,0 +1,21 @@
+{
+  "id": "1732557",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1732557.php",
+  "publishedAt": "2026-10-29T11:09",
+  "title": "Explosion auf Balkon eines Mehrfamilienhauses",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "explosion",
+    "incidentDate": "2026-10-29",
+    "street": "Ullsteinstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "An explosion occurred on a balcony of an apartment building in Tempelhof overnight. No one was injured, and the state criminal police explosives unit has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "explosive"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.896Z"
+}

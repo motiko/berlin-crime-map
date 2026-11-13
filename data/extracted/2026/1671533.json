@@ -1,0 +1,21 @@
+{
+  "id": "1671533",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671533.php",
+  "publishedAt": "2026-05-17T15:16",
+  "title": "Erfolgreiche Ortung nach Wohnungseinbruch - Festnahmen",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-05-15",
+    "street": "Riemannstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Stolen headphones from a burglary in an apartment were located by their tracker at a hotel in Kaulsdorf, and four men were arrested. Stolen goods and burglary tools were found in the hotel room.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.804Z"
+}

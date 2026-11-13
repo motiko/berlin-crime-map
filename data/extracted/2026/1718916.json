@@ -1,0 +1,21 @@
+{
+  "id": "1718916",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718916.php",
+  "publishedAt": "2026-09-28T12:38",
+  "title": "Mann mutmaßlich durch Messerstich verletzt",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-09-27",
+    "street": "Fulhamer Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": "Fennpfuhl-Parkanlage",
+    "district": "Neukölln",
+    "summaryEn": "A 30-year-old man was pepper-sprayed by a group in a park in Britz and stabbed in the buttock while fleeing. Two companions were also pepper-sprayed and suffered eye irritation.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.742Z"
+}

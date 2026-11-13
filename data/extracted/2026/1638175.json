@@ -1,0 +1,21 @@
+{
+  "id": "1638175",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1638175.php",
+  "publishedAt": "2026-01-27T17:36",
+  "title": "Volksverhetzung bei Gedenkveranstaltung",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "political",
+    "dead": 0,
+    "district": "Charlottenburg-Wilmersdorf",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-01-27",
+    "injured": 0,
+    "placeName": "Theodor-Heuss-Platz",
+    "street": null,
+    "summaryEn": "A 59-year-old woman made antisemitic statements at a commemoration event for the liberation of Auschwitz and insulted a teenage participant. Police detained her at the scene and the State Protection unit is investigating.",
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.434Z"
+}

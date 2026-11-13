@@ -1,0 +1,21 @@
+{
+  "id": "1681744",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681744.php",
+  "publishedAt": "2026-06-15T13:19",
+  "title": "Polizei Berlin erlässt Allgemeinverfügung zum 17. Juni 2026",
+  "location": "Mitte",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-06-17",
+    "street": "Heinrich-von-Gagern-Straße",
+    "houseNumberOrCrossing": "Platz der Republik",
+    "placeName": "Gedenkort für Polen 1939-1945",
+    "district": "Mitte",
+    "summaryEn": "Police issued a general order banning public assemblies, marches and rallies at the Memorial for Poland 1939-1945 in Berlin-Mitte on 17 June 2026 to protect the commemoration. The restriction runs from 6 a.m. to 10 p.m.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.846Z"
+}

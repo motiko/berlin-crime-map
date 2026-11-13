@@ -1,0 +1,21 @@
+{
+  "id": "1702099",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702099.php",
+  "publishedAt": "2026-08-12T12:55",
+  "title": "Frau vermisst – Polizei bittet um Mithilfe",
+  "location": "Pankow",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2026-08-03",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "A 58-year-old woman with a medical condition left her supported housing on the evening of 3 August 2026 and has not returned. Police have published photos and ask for public help in the search.",
+    "injured": 0,
+    "dead": null,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.815Z"
+}

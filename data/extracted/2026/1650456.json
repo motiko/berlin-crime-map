@@ -1,0 +1,21 @@
+{
+  "id": "1650456",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1650456.php",
+  "publishedAt": "2026-03-08T13:58",
+  "title": "Frau bei Messerangriff verletzt",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-03-08",
+    "street": "Alt-Marzahn",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A 27-year-old woman was stabbed in the lower body in an apartment in Alt-Marzahn around 1 a.m. A 21-year-old man was arrested at the scene on suspicion of domestic violence.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.421Z"
+}

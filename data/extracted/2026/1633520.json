@@ -1,0 +1,21 @@
+{
+  "id": "1633520",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1633520.php",
+  "publishedAt": "2026-01-14T14:16",
+  "title": "Fußgänger bei Verkehrsunfall mit Straßenbahn verletzt",
+  "location": "Pankow",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-01-14",
+    "street": "Greifswalder Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "A tram struck a 63-year-old pedestrian on Greifswalder Straße shortly after 1:15 a.m. The pedestrian suffered a head injury and was taken to hospital; the tram driver was treated for shock.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.471Z"
+}

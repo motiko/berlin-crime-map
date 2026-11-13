@@ -1,0 +1,21 @@
+{
+  "id": "1700998",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700998.php",
+  "publishedAt": "2026-08-08T11:46",
+  "title": "Wahlkampfhelfer beim Plakatieren angefahren",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "political",
+    "dead": 0,
+    "district": "Treptow-Köpenick",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-08-06",
+    "injured": 1,
+    "placeName": "Adlershof",
+    "street": "Ernst-Ruska-Ufer",
+    "summaryEn": "A 47-year-old campaign helper putting up election posters was hit from behind by a cyclist and fell, suffering injuries. The cyclist fled, and the police Staatsschutz unit is investigating.",
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.895Z"
+}

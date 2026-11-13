@@ -1,0 +1,21 @@
+{
+  "id": "1727383",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727383.php",
+  "publishedAt": "2026-10-19T12:42",
+  "title": "Beifahrerin ebenfalls im Krankenhaus verstorben",
+  "location": "Spandau",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-17",
+    "street": "Prisdorfer Straße",
+    "houseNumberOrCrossing": "Brunsbütteler Damm",
+    "placeName": null,
+    "district": "Spandau",
+    "summaryEn": "An 82-year-old driver collided with another car at an intersection in Spandau and later died in hospital; his 84-year-old passenger also died of her injuries two days later. The other driver was unhurt.",
+    "injured": 0,
+    "dead": 2,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.713Z"
+}

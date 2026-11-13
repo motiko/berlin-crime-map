@@ -1,0 +1,21 @@
+{
+  "id": "1627261",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1627261.php",
+  "publishedAt": "2026-05-06T15:07",
+  "title": "Bedrohung im öffentlichen Nahverkehr – Tatverdächtiger ermittelt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2025-07-17",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahnhof Gleisdreieck",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A suspect is reported to have pointed a weapon-like object at several passengers in a U2 subway train on 17 July 2025. A 42-year-old suspect has since been identified, and investigations continue.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "weapon-like object"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.947Z"
+}

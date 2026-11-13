@@ -1,0 +1,21 @@
+{
+  "id": "1645532",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1645532.php",
+  "publishedAt": "2026-02-21T13:19",
+  "title": "Schüsse mit Schreckschusspistole abgegeben",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-02-21",
+    "street": "Frankfurter Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "After an argument on a sidewalk, a 22-year-old fired several shots from a blank-firing pistol past a 37-year-old man in the early hours. The 37-year-old reported ear pain but declined medical treatment; the suspect was taken into custody and later released.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "blank-firing gun"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.392Z"
+}

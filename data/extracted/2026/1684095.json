@@ -1,0 +1,21 @@
+{
+  "id": "1684095",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684095.php",
+  "publishedAt": "2026-06-21T17:36",
+  "title": "Ermittlungen nach rassistischen und antisemitischen Vorfällen beim Deutschlandspiel",
+  "location": "Pankow",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-06-20",
+    "street": "Friedensstraße",
+    "houseNumberOrCrossing": "Am Friedrichshain",
+    "placeName": "Spätkauf",
+    "district": "Pankow",
+    "summaryEn": "Several men made racist and antisemitic remarks while watching a World Cup match outside a late-night shop in Prenzlauer Berg; a 40-year-old allegedly showed a far-right gesture and was about 2 per mille drunk. Police are investigating, including for incitement of hatred.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.834Z"
+}

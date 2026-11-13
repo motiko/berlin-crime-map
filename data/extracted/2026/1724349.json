@@ -1,0 +1,21 @@
+{
+  "id": "1724349",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724349.php",
+  "publishedAt": "2026-10-12T12:55",
+  "title": "3. Seniorensicherheitstag 2026 der Polizei Berlin",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-10-13",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "Berlin police announce the 3rd Senior Safety Day on 13 October 2026, with crime and traffic prevention events at several locations across the city. Events include a market stand in Spandau, a Biesdorf-Center event in Marzahn and a truck-based turning-safety session in Friedrichshain.",
+    "injured": null,
+    "dead": null,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.917Z"
+}

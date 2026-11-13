@@ -1,0 +1,21 @@
+{
+  "id": "1708330",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708330.php",
+  "publishedAt": "2026-08-29T12:28",
+  "title": "Mit Drogen vor der Polizei geflüchtet - Festnahme",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-08-28",
+    "street": "Sybelstraße",
+    "houseNumberOrCrossing": "Gervinusstraße",
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "After a traffic stop attempt, a driver fled police on foot and discarded a bag, which contained about one kilogram of suspected cocaine. The 37-year-old man was arrested and cash was seized.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.036Z"
+}

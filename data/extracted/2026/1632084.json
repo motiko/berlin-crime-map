@@ -1,0 +1,21 @@
+{
+  "id": "1632084",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1632084.php",
+  "publishedAt": "2026-01-10T14:45",
+  "title": "Gestohlene Kopfhörer führten zu Drogen - Festnahme",
+  "location": "Mitte",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-01-09",
+    "street": "Soldiner Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "Police recovered stolen headphones in an apartment on Soldiner Straße and found over one kilogram of suspected heroin and cash. A 31-year-old man was arrested on suspicion of drug trafficking.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.388Z"
+}

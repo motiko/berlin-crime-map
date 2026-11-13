@@ -1,0 +1,21 @@
+{
+  "id": "1696371",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696371.php",
+  "publishedAt": "2026-07-22T11:38",
+  "title": "Mann durch wegrollendes Auto verletzt",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-21",
+    "street": "Gebrüder-Hirth-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Bohnsdorf",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A 68-year-old man was run over by his own car, which rolled backwards from a parked position in Bohnsdorf, and suffered internal injuries. The car also damaged two parked vehicles before stopping; he is not in danger of his life.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.063Z"
+}

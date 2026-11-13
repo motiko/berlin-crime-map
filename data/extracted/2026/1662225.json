@@ -1,0 +1,21 @@
+{
+  "id": "1662225",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662225.php",
+  "publishedAt": "2026-04-18T12:12",
+  "title": "Tödlicher Verkehrsunfall",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "traffic",
+    "dead": 1,
+    "injured": 1,
+    "district": "Neukölln",
+    "incidentDate": "2026-04-17",
+    "street": "Buckower Damm",
+    "houseNumberOrCrossing": "Gutschmidtstraße",
+    "placeName": "Britz",
+    "summaryEn": "A car and an e-scooter collided on Buckower Damm in Britz on the evening of 17 April. A 14-year-old e-scooter rider died and a 14-year-old passenger was seriously injured; the 42-year-old driver was taken into police custody for blood tests after alcohol was detected.",
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.935Z"
+}

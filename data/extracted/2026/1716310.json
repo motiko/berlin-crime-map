@@ -1,0 +1,21 @@
+{
+  "id": "1716310",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716310.php",
+  "publishedAt": "2026-09-19T13:48",
+  "title": "Polizisten mit Waffe bedroht - Wohnungsdurchsuchung",
+  "location": "Spandau",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-09-19",
+    "street": "Grenadierstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Spandau",
+    "summaryEn": "Police responding to a disturbance in a Spandau apartment building were threatened with a starter pistol by a 38-year-old man, who was subdued and arrested. A search of his flat found further weapons, including a crossbow and an axe.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "blank-firing gun"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.737Z"
+}

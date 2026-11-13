@@ -1,0 +1,21 @@
+{
+  "id": "1649947",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1649947.php",
+  "publishedAt": "2026-03-05T15:45",
+  "title": "Waffen und Sprengstoff beschlagnahmt",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "raid",
+    "incidentDate": "2026-03-04",
+    "street": "Schlangenbader Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Police seized an unlawfully possessed firearm and black powder during a weapons storage inspection at a flat and vehicle of a 79-year-old man. The Berlin LKA is investigating under explosives and weapons laws.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.363Z"
+}

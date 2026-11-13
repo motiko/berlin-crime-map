@@ -1,0 +1,21 @@
+{
+  "id": "1634657",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1634657.php",
+  "publishedAt": "2026-01-18T13:49",
+  "title": "Schüsse auf Lokal",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-01-18",
+    "street": "Schönleinstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Unknown perpetrators fired several shots at a closed café on Schönleinstraße around 3 a.m. Nobody was inside or hurt; bullet holes were found in the shop windows and cartridge cases on the pavement.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.349Z"
+}

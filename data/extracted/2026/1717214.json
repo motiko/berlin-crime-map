@@ -1,0 +1,21 @@
+{
+  "id": "1717214",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717214.php",
+  "publishedAt": "2026-09-22T14:08",
+  "title": "Tödlicher Verkehrsunfall – Zeuginnen und Zeugen gesucht",
+  "location": "Pankow",
+  "extraction": {
+    "category": "traffic",
+    "dead": 1,
+    "district": "Pankow",
+    "houseNumberOrCrossing": "Bornholmer Straße",
+    "incidentDate": "2026-09-19",
+    "injured": null,
+    "placeName": "Bösebrücke",
+    "street": "Osloer Straße",
+    "summaryEn": "A 31-year-old driver speeding in a BMW lost control on the Bösebrücke bridge early on 19 September 2026 and crashed onto the S-Bahn tracks below, dying at the scene. Police are seeking witnesses and video footage.",
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.809Z"
+}

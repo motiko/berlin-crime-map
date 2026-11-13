@@ -1,0 +1,21 @@
+{
+  "id": "1689480",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689480.php",
+  "publishedAt": "2026-07-06T12:22",
+  "title": "Raubüberfall auf Grillimbiss",
+  "location": "Mitte",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2025-11-22",
+    "street": "Brunnenstraße",
+    "houseNumberOrCrossing": "78",
+    "placeName": "Tatlises Grill",
+    "district": "Mitte",
+    "summaryEn": "An unknown man entered a grill snack bar on Brunnenstraße, talked with an employee, then used physical force to take cash and fled, possibly in a waiting car. Police published surveillance images seeking the suspect.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.971Z"
+}

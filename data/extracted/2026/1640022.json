@@ -1,0 +1,21 @@
+{
+  "id": "1640022",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1640022.php",
+  "publishedAt": "2026-02-03T11:26",
+  "title": "Mutmaßlicher Räuber durch Kopfhörer überführt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-02-02",
+    "street": "Grimmstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "An 18-year-old was robbed in Kreuzberg after being punched in the face and forced to withdraw more cash from an ATM. A 18-year-old suspect was arrested in Schleiermacherstraße with the stolen headphones and cash.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.349Z"
+}

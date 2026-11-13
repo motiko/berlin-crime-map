@@ -1,0 +1,21 @@
+{
+  "id": "1705977",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705977.php",
+  "publishedAt": "2026-08-22T15:25",
+  "title": "Mann mit Cuttermesser verletzt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-08-22",
+    "street": "Kottbusser Tor",
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahnhof Kottbusser Tor",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A 39-year-old man allegedly injured a 37-year-old man with a box cutter on the U8 platform at Kottbusser Tor after the victim said he was pro-Israel. The Staatsschutz has taken over the investigation.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.765Z"
+}

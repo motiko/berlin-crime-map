@@ -1,0 +1,21 @@
+{
+  "id": "1660413",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660413.php",
+  "publishedAt": "2026-04-13T13:17",
+  "title": "In der Straßenbahn sexuell belästigt – Helfer verletzt",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-04-12",
+    "street": "Straßenbahn",
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahnhof Hellersdorf",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "In a tram in Hellersdorf, three suspects sexually harassed a woman. When a 36-year-old man and his companion intervened, they were physically attacked near the U-Bahnhof Hellersdorf stop.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.054Z"
+}

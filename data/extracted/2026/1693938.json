@@ -1,0 +1,21 @@
+{
+  "id": "1693938",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1693938.php",
+  "publishedAt": "2026-07-15T12:22",
+  "title": "E-Scooter-Fahrer nach Verkehrsunfall verstorben",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-15",
+    "street": "Blücherstraße",
+    "houseNumberOrCrossing": "Urbanstraße",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A 50-year-old e-scooter rider died after colliding with a car at the Blücherstraße/Urbanstraße junction in the early hours. Traffic accident investigators have taken over the case.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.972Z"
+}

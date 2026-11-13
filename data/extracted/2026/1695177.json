@@ -1,0 +1,21 @@
+{
+  "id": "1695177",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695177.php",
+  "publishedAt": "2026-07-17T16:54",
+  "title": "Festnahmen und Durchsuchungen in Berlin nach Schussabgaben",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-07-16",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Spandau",
+    "summaryEn": "Police and prosecutors executed six search warrants across Berlin against five suspects linked to shots fired at a house in Spandau on 1 May 2026 and an attempted coerced payment in June 2026. Three suspects were arrested and arrest warrants are being sought.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.884Z"
+}

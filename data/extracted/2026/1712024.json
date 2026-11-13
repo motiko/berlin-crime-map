@@ -1,0 +1,21 @@
+{
+  "id": "1712024",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712024.php",
+  "publishedAt": "2026-09-09T15:00",
+  "title": "Baustellenbrand am Bundeskanzleramt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-09-09",
+    "street": "Bettina-von-Armin-Ufer",
+    "houseNumberOrCrossing": "Paul-Löbe-Allee",
+    "placeName": "Bundeskanzleramt",
+    "district": "Mitte",
+    "summaryEn": "Several small fires were found at a pedestrian protection tunnel at a construction site near the Federal Chancellery early in the morning. The fires were extinguished by the fire brigade and no one was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.756Z"
+}

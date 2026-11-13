@@ -1,0 +1,21 @@
+{
+  "id": "1710758",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710758.php",
+  "publishedAt": "2026-09-05T15:40",
+  "title": "Fünf Versammlungen vor dem Russischem Haus",
+  "location": "Mitte",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-09-04",
+    "street": "Friedrichstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Russisches Haus",
+    "district": "Mitte",
+    "summaryEn": "Five rival demonstrations took place near the Russian House on Friday evening, largely without disruption. During the events, a 63-year-old man and a 61-year-old woman were investigated for resisting and assaulting police officers; the woman and two officers were slightly injured.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.791Z"
+}

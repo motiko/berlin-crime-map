@@ -1,0 +1,21 @@
+{
+  "id": "1424822",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2024/pressemitteilung.1424822.php",
+  "publishedAt": "2026-07-21T11:00",
+  "title": "Toter identifiziert",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2023-12-15",
+    "street": "Havel",
+    "houseNumberOrCrossing": null,
+    "placeName": "Insel Schwanenwerder",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A man whose body was found in the Havel at Schwanenwerder island in December 2023 has now been identified. The case was handled by the State Criminal Police Office, which had sought public help with his identity.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.759Z"
+}

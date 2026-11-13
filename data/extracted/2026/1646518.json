@@ -1,0 +1,21 @@
+{
+  "id": "1646518",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1646518.php",
+  "publishedAt": "2026-02-24T15:08",
+  "title": "Drei Autos nach Brandstiftung nicht mehr fahrbereit",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-02-23",
+    "street": "Zingster Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Lichtenberg",
+    "summaryEn": "Three cars were set on fire overnight in Neu-Hohenschönhausen after a man was seen at the first vehicle, who fled. All three cars were rendered undriveable and nobody was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.432Z"
+}

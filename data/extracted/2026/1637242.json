@@ -1,0 +1,21 @@
+{
+  "id": "1637242",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1637242.php",
+  "publishedAt": "2026-01-25T11:30",
+  "title": "Beifahrer im Krankenhaus verstorben",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "traffic",
+    "dead": 1,
+    "district": "Reinickendorf",
+    "houseNumberOrCrossing": "Lindauer Allee",
+    "incidentDate": "2026-01-23",
+    "injured": 0,
+    "placeName": null,
+    "street": "Aroser Allee",
+    "summaryEn": "A car crashed into a parked truck on Aroser Allee in the early hours and the driver fled the scene. The 16-year-old passenger, who was critically injured, died in hospital the following day.",
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.367Z"
+}

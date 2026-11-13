@@ -1,0 +1,21 @@
+{
+  "id": "1673352",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673352.php",
+  "publishedAt": "2026-05-21T16:36",
+  "title": "Parkbänke mit Farbe beschmiert",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-05-21",
+    "street": "Edwin-Redslob-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Spielplatz in Dahlem",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "Six Middle East-related slogans were sprayed in silver paint on the backrests of four park benches, reported by a passerby. The state security unit has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.956Z"
+}

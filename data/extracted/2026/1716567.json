@@ -1,0 +1,21 @@
+{
+  "id": "1716567",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716567.php",
+  "publishedAt": "2026-09-21T10:59",
+  "title": "Brand auf Schulgelände",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-09-20",
+    "street": "Lauenburger Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Schulgelände",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A fire broke out at the cafeteria building in a school yard in Steglitz and was extinguished by the fire brigade. A 49-year-old suspect was arrested on the school grounds.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.853Z"
+}

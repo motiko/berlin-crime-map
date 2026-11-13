@@ -1,0 +1,21 @@
+{
+  "id": "1662030",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662030.php",
+  "publishedAt": "2026-04-17T13:03",
+  "title": "Mutmaßlicher Brandstifter festgenommen",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-04-17",
+    "street": "Buschkrugallee",
+    "houseNumberOrCrossing": null,
+    "placeName": "Hufeisensiedlung",
+    "district": "Neukölln",
+    "summaryEn": "Police arrested a 36-year-old suspected arsonist in Britz after a series of six fires in the Hufeisensiedlung area and an adjacent allotment colony. No one was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.902Z"
+}

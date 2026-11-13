@@ -1,0 +1,21 @@
+{
+  "id": "1728164",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1728164.php",
+  "publishedAt": "2026-10-20T12:12",
+  "title": "An Bushaltestelle angefahren",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-19",
+    "street": "Rotkopfweg",
+    "houseNumberOrCrossing": null,
+    "placeName": "Bushaltestelle Rotkopfweg",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 72-year-old woman was struck by the right mirror of a bus at a bus stop in Mariendorf shortly before 18:00. She suffered fractures to her legs and hip and was admitted to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.790Z"
+}

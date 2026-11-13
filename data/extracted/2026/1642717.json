@@ -1,0 +1,21 @@
+{
+  "id": "1642717",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1642717.php",
+  "publishedAt": "2026-02-12T12:28",
+  "title": "Schüsse auf eine Wohnungstür",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "shooting",
+    "dead": 0,
+    "district": "Treptow-Köpenick",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-02-11",
+    "injured": 0,
+    "placeName": null,
+    "street": "Grünauer Straße",
+    "summaryEn": "Unknown persons fired several shots at the front door of an apartment in a multi-family building in Köpenick. Nobody was in the apartment and nobody was hurt.",
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.442Z"
+}

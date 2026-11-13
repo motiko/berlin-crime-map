@@ -1,0 +1,21 @@
+{
+  "id": "1641396",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1641396.php",
+  "publishedAt": "2026-02-07T17:53",
+  "title": "Gefährliche Körperverletzung durch Stichverletzungen",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-02-07",
+    "street": "Sonnenallee",
+    "houseNumberOrCrossing": "Michael-Bohnen-Ring",
+    "placeName": "Bushaltestelle Michael-Bohnen-Ring",
+    "district": "Neukölln",
+    "summaryEn": "A 19-year-old man was stabbed several times after being approached by a group of five masked youths at a bus stop on Sonnenallee. The attackers fled toward the Köllnische Heide S-Bahn station, and the victim underwent emergency surgery.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.404Z"
+}

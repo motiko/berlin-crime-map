@@ -1,0 +1,21 @@
+{
+  "id": "1658994",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1658994.php",
+  "publishedAt": "2026-04-04T14:04",
+  "title": "Unbekannte attackieren zwei Männer",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-04-04",
+    "street": "Winterfeldtstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Two 32-year-old men were attacked by unknown assailants after leaving a bar in the early hours, with racist insults and kicks to the head. Both suffered headaches and one a cut, and the State Security unit took over the investigation.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.811Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1717584",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717584.php",
+  "publishedAt": "2026-09-23T14:05",
+  "title": "14-jähriger E-Scooter-Fahrer flüchtet vor Verkehrskontrolle – Beamter setzt DEIG ein",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-09-22",
+    "street": "Müggelheimer Damm",
+    "houseNumberOrCrossing": "Salvador-Allende-Straße",
+    "placeName": null,
+    "district": "Treptow-Köpenick",
+    "summaryEn": "During a traffic check in Köpenick, a 14-year-old e-scooter rider sped off and crashed, then fled on foot and was hit by a police taser (DEIG). He was treated by paramedics for a torso injury and released to his father.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "electroshock device (DEIG)"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.720Z"
+}

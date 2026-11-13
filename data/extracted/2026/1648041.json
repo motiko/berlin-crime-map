@@ -1,0 +1,21 @@
+{
+  "id": "1648041",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1648041.php",
+  "publishedAt": "2026-02-28T12:08",
+  "title": "Mutmaßlicher Raub mit Messer",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-02-27",
+    "street": "Edenkobener Steg",
+    "houseNumberOrCrossing": "Albrechtstraße",
+    "placeName": null,
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "Three unknown men allegedly robbed a 20-year-old man of his backpack at knifepoint, and one of them injured him with a knife. The victim was treated as an outpatient and the investigation is ongoing.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.377Z"
+}

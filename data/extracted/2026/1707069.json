@@ -1,0 +1,21 @@
+{
+  "id": "1707069",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707069.php",
+  "publishedAt": "2026-08-26T10:38",
+  "title": "Zwei Personen bei Angriff verletzt – Tatverdächtiger festgenommen",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-08-26",
+    "street": "Lohmühlenstraße",
+    "houseNumberOrCrossing": "Kiefholzstraße",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A 17-year-old sprayed pepper spray at two people, then injured a 28-year-old man with a pointed object. Two people were hurt and the suspect was arrested shortly afterwards.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "pointed object"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.991Z"
+}

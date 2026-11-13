@@ -1,0 +1,21 @@
+{
+  "id": "1648747",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1648747.php",
+  "publishedAt": "2026-03-03T11:42",
+  "title": "Mehrere Polizisten bei Festnahme verletzt",
+  "location": "Spandau",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-03-02",
+    "street": "Blasewitzer Ring",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Spandau",
+    "summaryEn": "A 19-year-old man resisted arrest and kicked and hit police officers, injuring several of them. His father and an acquaintance then tried to stop the police measures with physical force, and officers used pepper spray.",
+    "injured": 4,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.457Z"
+}

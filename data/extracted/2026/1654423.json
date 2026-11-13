@@ -1,0 +1,21 @@
+{
+  "id": "1654423",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1654423.php",
+  "publishedAt": "2026-03-20T09:12",
+  "title": "Farbschmiererei – Staatsschutz ermittelt",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-03-19",
+    "street": "Residenzstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "Plainclothes officers arrested a 21-year-old man who was spraying an antisemitic slogan on a clothing shop's facade on Residenzstraße. The slogan was made illegible and the case was handed to the Staatsschutz.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.381Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1712011",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712011.php",
+  "publishedAt": "2026-09-09T14:51",
+  "title": "Queere Person angegriffen",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-09-08",
+    "street": "Motzstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Two unknown suspects allegedly approached a 38-year-old person on an e-scooter on Motzstraße and punched them, causing a facial injury. The attack is being investigated by the state security unit (Staatsschutz) as a possible anti-queer hate crime.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.741Z"
+}

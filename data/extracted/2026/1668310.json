@@ -1,0 +1,21 @@
+{
+  "id": "1668310",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668310.php",
+  "publishedAt": "2026-05-06T11:40",
+  "title": "Streit eskaliert – Distanzelektroimpulsgerät eingesetzt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-05-05",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Görlitzer Park",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A dispute in Görlitzer Park escalated, with one man hitting another on the head with a glass bottle and threatening officers with broken bottles. Police used a taser after the man began injuring himself and was then taken to hospital for psychiatric care.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "glass bottle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.859Z"
+}

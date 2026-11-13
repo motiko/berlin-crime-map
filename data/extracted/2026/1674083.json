@@ -1,0 +1,21 @@
+{
+  "id": "1674083",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674083.php",
+  "publishedAt": "2026-05-26T12:50",
+  "title": "Schüsse vor Lokal",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-05-25",
+    "street": "Quickborner Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Lübars",
+    "district": "Reinickendorf",
+    "summaryEn": "After an argument between two groups near a restaurant in Lübars, several shots were fired. The people involved fled, and police secured several cartridge casings; no injuries were reported.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.903Z"
+}

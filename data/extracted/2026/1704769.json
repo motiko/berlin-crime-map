@@ -1,0 +1,21 @@
+{
+  "id": "1704769",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1704769.php",
+  "publishedAt": "2026-08-19T12:23",
+  "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-08-18",
+    "street": "Senftenberger Ring",
+    "houseNumberOrCrossing": "Calauer Straße",
+    "placeName": "Märkisches Viertel",
+    "district": "Reinickendorf",
+    "summaryEn": "Around 6:45 a.m., a man allegedly struck several election posters with a pole at a junction in Märkisches Viertel, was arrested after boarding a bus, and the posters were damaged. The State Security unit is investigating; the case is one of several election-related vandalism reports on this day.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "pole"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.735Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1724608",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724608.php",
+  "publishedAt": "2026-10-12T17:19",
+  "title": "Ermittlungen der BAO Ferrum nach mutmaßlicher Sprengstoffexplosion",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "explosion",
+    "incidentDate": "2026-10-12",
+    "street": "Stuttgarter Platz",
+    "houseNumberOrCrossing": null,
+    "placeName": "Stuttgarter Platz",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Suspected explosive device detonated overnight at Stuttgarter Platz, damaging two vehicles, a third vehicle and apartment windows nearby. The state criminal police task force BAO Ferrum took over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "explosive"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.970Z"
+}

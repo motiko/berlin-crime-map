@@ -1,0 +1,21 @@
+{
+  "id": "1719143",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719143.php",
+  "publishedAt": "2026-09-30T11:19",
+  "title": "13-Jährige wieder da",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2026-09-29",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A 13-year-old girl who had been missing since 23 September 2026 has been found. She went to a youth welfare facility on her own and is being looked after there.",
+    "injured": 0,
+    "dead": null,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.842Z"
+}

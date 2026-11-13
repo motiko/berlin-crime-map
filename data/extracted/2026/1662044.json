@@ -1,0 +1,21 @@
+{
+  "id": "1662044",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662044.php",
+  "publishedAt": "2026-04-21T11:45",
+  "title": "Nach Verkehrsunfall – Fahrradfahrer verstorben",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-04-16",
+    "street": "Mühlenstraße",
+    "houseNumberOrCrossing": "Mildred-Harnack-Straße",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A 65-year-old cyclist who collided with another cyclist at a red light on Mühlenstraße later died in hospital from his injuries. The 14-year-old cyclist was unhurt.",
+    "injured": 1,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.849Z"
+}

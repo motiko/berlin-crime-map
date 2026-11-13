@@ -1,0 +1,21 @@
+{
+  "id": "1634658",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1634658.php",
+  "publishedAt": "2026-06-08T16:12",
+  "title": "Nach gewalttätigen Ausschreitungen im Olympiastadion - Polizei bittet um Mithilfe",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-06-08",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Olympiastadion",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Police are still seeking public help to identify people sought over violent disorder at the Olympiastadion football match of 17 January 2026, in which police officers were attacked and several injured. A police officer initially suspected of involvement was ruled out.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.705Z"
+}

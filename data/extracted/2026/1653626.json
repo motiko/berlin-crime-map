@@ -1,0 +1,21 @@
+{
+  "id": "1653626",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1653626.php",
+  "publishedAt": "2026-03-18T11:19",
+  "title": "Mit Schreckschusswaffe geschossen",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-03-17",
+    "street": "Columbiadamm",
+    "houseNumberOrCrossing": null,
+    "placeName": "Sportanlage am Columbiadamm",
+    "district": "Neukölln",
+    "summaryEn": "After a dispute involving several people at a sports ground, a man aged 18 allegedly fired a blank-firing pistol several times at two people fleeing. He was arrested at the scene of the dispute and later released; the investigation continues.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "blank-firing gun"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.387Z"
+}

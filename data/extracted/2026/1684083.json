@@ -1,0 +1,21 @@
+{
+  "id": "1684083",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684083.php",
+  "publishedAt": "2026-06-20T11:17",
+  "title": "Frau geschlagen, getreten und fremdenfeindlich beleidigt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-06-19",
+    "street": "Lausitzer Platz",
+    "houseNumberOrCrossing": null,
+    "placeName": "Lausitzer Platz",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A 23-year-old woman was attacked by two men at Lausitzer Platz, insulted with a presumed xenophobic motive, and kicked and beaten after falling to the ground. Staatsschutz has taken over the investigation.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.003Z"
+}

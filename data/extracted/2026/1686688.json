@@ -1,0 +1,21 @@
+{
+  "id": "1686688",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686688.php",
+  "publishedAt": "2026-06-27T15:00",
+  "title": "Queerfeindlicher Angriff",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-06-27",
+    "street": "Yorckstraße",
+    "houseNumberOrCrossing": "Gneisenaustraße",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Two unknown men attacked a non-binary person and a trans woman at a junction in Kreuzberg early in the morning after insults, injuring both. The Staatsschutz is investigating the case as queerphobic.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.845Z"
+}

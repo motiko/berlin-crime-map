@@ -1,0 +1,21 @@
+{
+  "id": "1712424",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712424.php",
+  "publishedAt": "2026-09-11T15:03",
+  "title": "Toter identifiziert",
+  "location": "Berlin/Brandenburg",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-07-19",
+    "street": "Warschauer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "S-Bahnhof Warschauer Straße",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A homeless man was identified after he fell down stairs at Warschauer Straße S-Bahn station on 19 July 2026 and later died in hospital on 21 July. No external force was apparent.",
+    "injured": null,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.812Z"
+}

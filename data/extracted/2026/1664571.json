@@ -1,0 +1,21 @@
+{
+  "id": "1664571",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664571.php",
+  "publishedAt": "2026-04-24T14:01",
+  "title": "Unbekannter schießt auf 27-Jährigen – BAO Ferrum und Ermittlungsgruppe Telum ermitteln",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-04-23",
+    "street": "Hermannstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Anita-Berber-Park",
+    "district": "Neukölln",
+    "summaryEn": "A 27-year-old man was grazed in the leg by a bullet in Anita-Berber-Park after a group confronted him and a companion, one of them with a pistol. Police are investigating the shooting as an attempted homicide.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.005Z"
+}

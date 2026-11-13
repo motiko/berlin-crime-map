@@ -1,0 +1,21 @@
+{
+  "id": "1692511",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692511.php",
+  "publishedAt": "2026-07-13T11:30",
+  "title": "Motorradfahrer nach Unfall verletzt",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-12",
+    "street": "Bernauer Straße",
+    "houseNumberOrCrossing": "Maienwerderweg",
+    "placeName": "Tegel",
+    "district": "Reinickendorf",
+    "summaryEn": "A motorcyclist (53) rear-ended a car on Bernauer Straße in Tegel, fell, and collided with a cyclist (57). The motorcyclist and cyclist were injured, and the road was closed for about an hour.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.063Z"
+}

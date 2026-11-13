@@ -1,0 +1,21 @@
+{
+  "id": "1723186",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723186.php",
+  "publishedAt": "2026-10-08T15:34",
+  "title": "Drei Fahrzeuge auf Parkplatz in Brand geraten",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-10-07",
+    "street": "Altenhofer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Großraumparkplatz in Alt-Hohenschönhausen",
+    "district": "Lichtenberg",
+    "summaryEn": "Three vehicles caught fire on a public parking lot in Alt-Hohenschönhausen overnight; two were completely burned out. Nobody was hurt, and a fire-investigation unit is probing suspected arson.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.955Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1668422",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668422.php",
+  "publishedAt": "2026-05-06T13:34",
+  "title": "Denkmal beschmiert",
+  "location": "Mitte",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-05-05",
+    "street": "Cora-Berliner-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Holocaust-Mahnmal",
+    "district": "Mitte",
+    "summaryEn": "Antisemitic graffiti with inflammatory content was found on a stele of the Holocaust memorial around 10:15 and removed by a security firm. The state security unit has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.851Z"
+}

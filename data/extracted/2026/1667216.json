@@ -1,0 +1,21 @@
+{
+  "id": "1667216",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667216.php",
+  "publishedAt": "2026-05-04T12:04",
+  "title": "Nach Streit um Grillverbot – Mann verletzt",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-05-03",
+    "street": "Lincolnstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Lichtenberg",
+    "summaryEn": "After a dispute over a barbecue ban in a courtyard, a 36-year-old man was attacked with pepper spray and punched by two men, suffering serious facial injuries. The suspects fled before police arrived.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "pepper spray"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.760Z"
+}

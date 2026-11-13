@@ -1,0 +1,21 @@
+{
+  "id": "1648044",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1648044.php",
+  "publishedAt": "2026-02-28T13:49",
+  "title": "Sachbeschädigung an Zugangstor im Görlitzer Park",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-02-28",
+    "street": "Glogauer Straße",
+    "houseNumberOrCrossing": "Glogauer Straße",
+    "placeName": "Görlitzer Park",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A swing gate at the Görlitzer Park access point was found damaged in the morning after its lower mounting bolt had been cut through with a tool. The state security unit (Staatsschutz) has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.431Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1650685",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1650685.php",
+  "publishedAt": "2026-03-09T13:43",
+  "title": "Versuchte Sprengung eines Geldautomaten",
+  "location": "Mitte",
+  "extraction": {
+    "category": "explosion",
+    "incidentDate": "2026-03-08",
+    "street": "Beusselstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "Unknown perpetrators attempted to blow open a cash machine with explosives around 4 a.m. and damaged the machine. The State Criminal Police Office's specialist unit has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "explosive"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.424Z"
+}

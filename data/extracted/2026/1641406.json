@@ -1,0 +1,21 @@
+{
+  "id": "1641406",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1641406.php",
+  "publishedAt": "2026-02-08T14:40",
+  "title": "Verkehrsunfall zwischen Radfahrer und Tram",
+  "location": "Pankow",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-02-07",
+    "street": "Schönhauser Allee",
+    "houseNumberOrCrossing": "Wichertstraße",
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "A cyclist crossing against a red light collided with a tram on Schönhauser Allee in Prenzlauer Berg. A 65-year-old woman in the tram was slightly injured after the emergency braking and was taken to hospital for outpatient treatment.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.420Z"
+}

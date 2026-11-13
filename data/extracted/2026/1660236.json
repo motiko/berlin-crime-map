@@ -1,0 +1,21 @@
+{
+  "id": "1660236",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660236.php",
+  "publishedAt": "2026-04-12T15:27",
+  "title": "Polizist mit Pfefferspray angegriffen",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-04-11",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "S-Bahnhof Tegel",
+    "district": "Reinickendorf",
+    "summaryEn": "After police were called to S-Bahn Tegel over people surfing on a train, a 15-year-old sprayed an officer with pepper spray as he pursued them. The officer was injured and treated in hospital, and the teenager was handed over to his parents.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "pepper spray"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.675Z"
+}

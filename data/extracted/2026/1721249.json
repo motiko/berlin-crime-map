@@ -1,0 +1,21 @@
+{
+  "id": "1721249",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721249.php",
+  "publishedAt": "2026-10-04T13:19",
+  "title": "Widerstand und tätlicher Angriff - Polizist bei Festnahme verletzt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-10-04",
+    "street": "Warschauer Brücke",
+    "houseNumberOrCrossing": null,
+    "placeName": "Warschauer Brücke",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "After a suspected assault, a 20-year-old man resisted arrest and injured a police officer. The officer was hurt in the shoulder and finger and had to end his shift.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.838Z"
+}

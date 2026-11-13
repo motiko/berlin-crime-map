@@ -1,0 +1,21 @@
+{
+  "id": "1674007",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674007.php",
+  "publishedAt": "2026-05-26T11:24",
+  "title": "Raub in Lieferdienstfiliale",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-05-26",
+    "street": "Baumschulenstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Treptow-Köpenick",
+    "summaryEn": "Two masked men threatened an employee of a fast-food delivery outlet with knives shortly after midnight and took cash from the till. The employee was not hurt and called the police.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.940Z"
+}

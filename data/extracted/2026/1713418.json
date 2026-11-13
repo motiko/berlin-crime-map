@@ -1,0 +1,21 @@
+{
+  "id": "1713418",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713418.php",
+  "publishedAt": "2026-10-07T14:40",
+  "title": "Fußgänger verstorben",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "traffic",
+    "dead": 1,
+    "district": "Steglitz-Zehlendorf",
+    "houseNumberOrCrossing": "Sundgauer Straße",
+    "incidentDate": "2026-09-13",
+    "injured": 0,
+    "placeName": "Zehlendorf",
+    "street": "Berliner Straße",
+    "summaryEn": "An 85-year-old pedestrian struck by a reversing vehicle on Berliner Straße in Zehlendorf on 13 September 2026 died in hospital the following evening. The driver of a service vehicle was involved in the collision.",
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.039Z"
+}

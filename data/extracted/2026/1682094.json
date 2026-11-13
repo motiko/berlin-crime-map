@@ -1,0 +1,21 @@
+{
+  "id": "1682094",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682094.php",
+  "publishedAt": "2026-06-16T10:25",
+  "title": "Israelfeindliche Farbschmiererei",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-06-15",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahnhof Wittenbergplatz",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Two anti-Israel graffiti were found on the forecourt of Wittenbergplatz U-Bahn station after a witness alerted police on the evening before publication. Police covered up both works, and the State Security department has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.818Z"
+}

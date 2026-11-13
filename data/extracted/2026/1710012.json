@@ -1,0 +1,21 @@
+{
+  "id": "1710012",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710012.php",
+  "publishedAt": "2026-09-03T10:08",
+  "title": "Senior betrogen – Wer erkennt den Tatverdächtigen?",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "fraud",
+    "incidentDate": "2026-04-09",
+    "street": "Hansastraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Lichtenberg",
+    "summaryEn": "An 87-year-old man was defrauded by callers posing as a hospital doctor, who handed over jewelry and gold to a collector at his home in Alt-Hohenschönhausen. Police are searching for an unknown suspect shown on surveillance footage.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.761Z"
+}

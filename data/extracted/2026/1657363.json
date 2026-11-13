@@ -1,0 +1,21 @@
+{
+  "id": "1657363",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1657363.php",
+  "publishedAt": "2026-03-29T11:57",
+  "title": "Bewaffneter Mann in Kreuzberg festgenommen",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "raid",
+    "incidentDate": "2026-03-28",
+    "street": "Yorckstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Plainclothes officers arrested a 24-year-old man who allegedly drew and loaded a firearm during an confrontation between two cars in Kreuzberg. The loaded gun was found under a vehicle, and knives, pepper spray and suspected narcotics were also seized.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.712Z"
+}

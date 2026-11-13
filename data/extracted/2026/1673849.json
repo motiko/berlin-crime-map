@@ -1,0 +1,21 @@
+{
+  "id": "1673849",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673849.php",
+  "publishedAt": "2026-05-25T14:51",
+  "title": "Mann erleidet lebensbedrohliche Verletzungen",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-05-24",
+    "street": "Conradstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "A 38-year-old man with life-threatening stab and cut wounds arrived at a hospital in Reinickendorf; the apartment of a dormitory in Conradstraße was identified as the presumed scene, and a 37-year-old woman was temporarily arrested and later released.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.000Z"
+}

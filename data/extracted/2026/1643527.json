@@ -1,0 +1,21 @@
+{
+  "id": "1643527",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1643527.php",
+  "publishedAt": "2026-02-16T11:14",
+  "title": "Mann mit Schussverletzung im Krankenhaus",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-02-16",
+    "street": "Herbertstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Shortly after 3 a.m., a masked man allegedly shot a 19-year-old in the leg in Herbertstraße, Schöneberg, then fled by car. The injured man went to a nearby fire station and was admitted to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.412Z"
+}

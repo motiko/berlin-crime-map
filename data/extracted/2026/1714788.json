@@ -1,0 +1,21 @@
+{
+  "id": "1714788",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1714788.php",
+  "publishedAt": "2026-09-16T14:47",
+  "title": "Sachbeschädigungen an Wahlplakaten im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-09-15",
+    "street": "Uhlandstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Several election posters were damaged or set on fire overnight in Mahlsdorf, Köpenick and Wilmersdorf ahead of the Berlin state election. The State Protection unit is investigating all cases.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.790Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1670979",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1670979.php",
+  "publishedAt": "2026-05-13T13:07",
+  "title": "Radfahrer flüchtet vor Kontrolle und verletzt Polizeikräfte",
+  "location": "Mitte",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-05-12",
+    "street": "Beusselstraße",
+    "houseNumberOrCrossing": "Siemensstraße",
+    "placeName": "Beusselbrücke",
+    "district": "Mitte",
+    "summaryEn": "A cyclist fled a traffic check in Moabit and struck a police officer with his bicycle, then resisted arrest. Two officers were injured and went off duty after outpatient treatment.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.011Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1631634",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1631634.php",
+  "publishedAt": "2026-01-08T14:11",
+  "title": "Mutmaßliches Kokstaxi aufgespürt – zwei Festnahmen",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-01-07",
+    "street": "Uhlandstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Plainclothes officers stopped a car in Uhlandstraße after noticing cannabis odour and found numerous dealing packets of cannabis, amphetamine, cocaine and ecstasy. Both occupants, aged 25 and 35, were arrested.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.456Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1687716",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687716.php",
+  "publishedAt": "2026-06-30T11:46",
+  "title": "Tätlicher Angriff und Widerstand - mehrere verletzte Einsatzkräfte",
+  "location": "Pankow",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-06-29",
+    "street": "Malmöer Straße",
+    "houseNumberOrCrossing": "Czarnikauer Straße",
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "A 38-year-old man resisted police and attacked officers in Prenzlauer Berg, injuring a police officer's nose and climbing onto a patrol car roof. Twelve officers were treated for irritation after pepper spray was used, and two patrol cars were damaged.",
+    "injured": 13,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.734Z"
+}

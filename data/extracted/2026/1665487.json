@@ -1,0 +1,21 @@
+{
+  "id": "1665487",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665487.php",
+  "publishedAt": "2026-04-28T10:26",
+  "title": "Nationalsozialistische Parole gerufen - Festnahmen",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "political",
+    "dead": 0,
+    "district": "Charlottenburg-Wilmersdorf",
+    "houseNumberOrCrossing": "Niebuhrstraße",
+    "incidentDate": "2026-04-27",
+    "injured": 0,
+    "placeName": null,
+    "street": "Wilmersdorfer Straße",
+    "summaryEn": "Three men allegedly shouted a Nazi slogan and threw glass bottles at Wilmersdorfer Straße; two men aged 68 and 75 were arrested and later released. The state security unit is investigating the use of unconstitutional symbols.",
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.854Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1694916",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694916.php",
+  "publishedAt": "2026-07-17T09:55",
+  "title": "Scharfe Schusswaffe sichergestellt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-07-16",
+    "street": "Zimmerstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A loaded firearm was seized after a witness saw an unknown man leave it under a parked car on Zimmerstraße the previous evening. The car had left the spot shortly afterwards, and the investigation is handled by a LKA specialist unit.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.857Z"
+}

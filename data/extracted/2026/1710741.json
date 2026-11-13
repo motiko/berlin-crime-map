@@ -1,0 +1,21 @@
+{
+  "id": "1710741",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710741.php",
+  "publishedAt": "2026-09-05T11:04",
+  "title": "Schwerer Raub in Nachtklub",
+  "location": "Mitte",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-09-05",
+    "street": "Alexanderstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Nachtklub",
+    "district": "Mitte",
+    "summaryEn": "A 33-year-old club security employee allegedly forced a 22-year-old man and his companion into an elevator, held a suspected firearm to his forehead, threatened him, and stole a cigarette pack. No firearm was found during the police search of the club.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.905Z"
+}

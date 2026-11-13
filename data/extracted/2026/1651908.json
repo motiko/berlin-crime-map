@@ -1,0 +1,21 @@
+{
+  "id": "1651908",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1651908.php",
+  "publishedAt": "2026-03-12T12:58",
+  "title": "Körperverletzung nach Streit in Gaststätte – Wirt verletzt",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-03-11",
+    "street": "Wilhelminenhofstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Treptow-Köpenick",
+    "summaryEn": "After a dispute over refused alcohol service, a 63-year-old guest allegedly punched a 54-year-old pub owner in the face, and the owner later returned to the bar with a serious head injury. The owner was taken to hospital; police are investigating for assault.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.448Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1678391",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678391.php",
+  "publishedAt": "2026-06-05T17:17",
+  "title": "Ermittlungen gegen eine Dienstkraft der Polizei Berlin wegen des Verdachts eines Gewaltdelikts",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-01-01",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Westend",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Police are investigating an off-duty Berlin police officer suspected of involvement in a violent altercation in Westend at the beginning of the year. The investigation by a Landeskriminalamt unit is ongoing, and possible disciplinary measures are being examined.",
+    "injured": null,
+    "dead": null,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.681Z"
+}

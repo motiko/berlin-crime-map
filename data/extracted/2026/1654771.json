@@ -1,0 +1,21 @@
+{
+  "id": "1654771",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1654771.php",
+  "publishedAt": "2026-03-21T11:35",
+  "title": "Mann nach Überfall mit Stichverletzungen im Krankenhaus",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-03-21",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Österreichpark",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A 38-year-old man was attacked by several unknown people in a park in Charlottenburg around 1:30 a.m., using pepper spray and a pointed object. He suffered stab wounds to the legs and was taken to hospital; no property was taken.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.348Z"
+}

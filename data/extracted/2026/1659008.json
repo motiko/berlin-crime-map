@@ -1,0 +1,21 @@
+{
+  "id": "1659008",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659008.php",
+  "publishedAt": "2026-04-06T16:31",
+  "title": "Beschädigung eines Oberlichtes",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-04-05",
+    "street": "Namslaustraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "A hole was found in the transom window of a shop display on Namslaustraße, with a projectile resembling shotgun ammunition found inside. An unknown man reportedly took the projectile and left a stone before fleeing.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.873Z"
+}

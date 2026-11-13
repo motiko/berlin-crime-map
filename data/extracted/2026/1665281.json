@@ -1,0 +1,21 @@
+{
+  "id": "1665281",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665281.php",
+  "publishedAt": "2026-04-27T17:33",
+  "title": "Schüsse auf Fahrschule",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-04-26",
+    "street": "Scharnweberstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "An unknown masked man fired several shots at the shop windows of a driving school in the early hours. He then fled, and police are investigating for property damage.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.927Z"
+}

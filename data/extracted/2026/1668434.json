@@ -1,0 +1,21 @@
+{
+  "id": "1668434",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668434.php",
+  "publishedAt": "2026-05-06T13:46",
+  "title": "Geschäftsmann überfallen, Mitarbeiter erleidet Stichverletzung",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-05-05",
+    "street": "Gerlinger Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "Two men robbed a businessman of his day's takings in a backpack on Gerlinger Straße, threatening him with a firearm. An accomplice stabbed the businessman's employee in the thigh with a pointed object during the robbery.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "firearm, pointed object"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.031Z"
+}

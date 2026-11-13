@@ -1,0 +1,21 @@
+{
+  "id": "1710683",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710683.php",
+  "publishedAt": "2026-09-04T15:35",
+  "title": "Mann verursacht mehrere Verkehrsunfälle und greift Polizeibeamten an",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-09-03",
+    "street": "Am Eichenquast",
+    "houseNumberOrCrossing": null,
+    "placeName": "Buckow",
+    "district": "Neukölln",
+    "summaryEn": "A 47-year-old man caused several hit-and-run traffic accidents with parked cars in Buckow, then fled the scene. He was later found nearby, resisted police and headbutted an officer, injuring the officer.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.766Z"
+}

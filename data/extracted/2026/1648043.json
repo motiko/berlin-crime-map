@@ -1,0 +1,21 @@
+{
+  "id": "1648043",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1648043.php",
+  "publishedAt": "2026-02-28T13:46",
+  "title": "Verkehrsunfall nach mutmaßlichem Rennen",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-02-27",
+    "street": "Alt-Friedrichsfelde",
+    "houseNumberOrCrossing": "Charlottenstraße",
+    "placeName": "Friedrichsfelde",
+    "district": "Lichtenberg",
+    "summaryEn": "A 19-year-old driver rear-ended a car on Alt-Friedrichsfelde after a suspected street race with an unidentified vehicle. Two women were slightly injured and treated as outpatients; the driver's licence and car were seized.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.459Z"
+}

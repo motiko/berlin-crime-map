@@ -1,0 +1,21 @@
+{
+  "id": "1661536",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661536.php",
+  "publishedAt": "2026-04-16T10:55",
+  "title": "Steinwürfe auf U-Bahn",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-04-15",
+    "street": "Louis-Lewin-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahn between Louis-Lewin-Straße and Hönow stations",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "Two stones were thrown at a moving U-Bahn train between the Louis-Lewin-Straße and Hönow stations, destroying two windows. Nobody was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.869Z"
+}

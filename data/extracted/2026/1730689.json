@@ -1,0 +1,21 @@
+{
+  "id": "1730689",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1730689.php",
+  "publishedAt": "2026-10-23T16:54",
+  "title": "Fahrzeuge durch Brand beschädigt",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-10-23",
+    "street": "Sonnenallee",
+    "houseNumberOrCrossing": "Thiemannstraße",
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "A motorhome parked on Sonnenallee was set on fire and two other vehicles were damaged by the flames. Police and fire brigade responded, and the road was closed for about an hour.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.875Z"
+}

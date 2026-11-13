@@ -1,0 +1,21 @@
+{
+  "id": "1673829",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673829.php",
+  "publishedAt": "2026-05-23T10:35",
+  "title": "Auf Mann geschossen – Verletzter im Krankenhaus",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-05-22",
+    "street": "Naunynstraße",
+    "houseNumberOrCrossing": "Leuschnerdamm",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A 25-year-old man was shot in the legs during an argument on Naunynstraße in Kreuzberg. The shooter fled and the injured man was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.062Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1730742",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1730742.php",
+  "publishedAt": "2026-10-24T12:09",
+  "title": "Zwei Männer mit Messer verletzt",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-10-24",
+    "street": "Pannierstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "Three unknown attackers were refused entry to a bar in Pannierstraße, attacked a female employee and then stabbed two men who came to her aid. Both men were injured, were operated on and are not in danger of their lives.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.942Z"
+}

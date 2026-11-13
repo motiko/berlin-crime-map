@@ -1,0 +1,21 @@
+{
+  "id": "1687106",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687106.php",
+  "publishedAt": "2026-06-29T11:21",
+  "title": "Kind bei Verkehrsunfall verletzt",
+  "location": "Spandau",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-06-28",
+    "street": "Daumstraße",
+    "houseNumberOrCrossing": "Schwielowseestraße",
+    "placeName": "Haselhorst",
+    "district": "Spandau",
+    "summaryEn": "An 11-year-old riding an e-scooter collided with a car on Daumstraße in Haselhorst and was injured. The 52-year-old driver was unhurt.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.685Z"
+}

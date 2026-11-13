@@ -1,0 +1,21 @@
+{
+  "id": "1678402",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678402.php",
+  "publishedAt": "2026-06-06T15:03",
+  "title": "Sachbeschädigung an Zugangstor zum Görlitzer Park",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-06-06",
+    "street": "Görlitzer Straße",
+    "houseNumberOrCrossing": "Oppelner Straße",
+    "placeName": "Görlitzer Park",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Unknown perpetrators smeared a substance into the lock cylinder of a park gate, so it can no longer be closed. The State Security unit of the LKA has taken over the investigation for criminal damage.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.996Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1702668",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702668.php",
+  "publishedAt": "2026-08-13T11:36",
+  "title": "Wahlplakate von Laternen entfernt – Tatverdächtiger festgenommen",
+  "location": "Pankow",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-08-12",
+    "street": "Schönhauser Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "Election posters were removed from lampposts in Prenzlauer Berg by cutting their cable ties. A 57-year-old male suspect was arrested, and the State Security unit is investigating.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.761Z"
+}

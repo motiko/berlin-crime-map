@@ -1,0 +1,21 @@
+{
+  "id": "1639869",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1639869.php",
+  "publishedAt": "2026-02-02T16:13",
+  "title": "Auseinandersetzung mit Messern",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-02-01",
+    "street": "Bismarckstraße",
+    "houseNumberOrCrossing": "Wilmersdorfer Straße",
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A 19-year-old and a companion were attacked by a group of four men on Bismarckstraße, with knives, a glass bottle and pepper spray used. The 19-year-old was injured and taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.372Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1692043",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692043.php",
+  "publishedAt": "2026-07-10T11:02",
+  "title": "Ermittlungen wegen queerfeindlichen Angriffs und Beleidigung",
+  "location": "Spandau",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-07-09",
+    "street": "Rauchstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Spandau",
+    "summaryEn": "A 51-year-old non-binary person was insulted and attacked by three unknown youths in Hakenfelde, with objects thrown and fireworks set off nearby. The person was unharmed, and the police state protection unit is investigating a possible queer-hostile motive.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.868Z"
+}

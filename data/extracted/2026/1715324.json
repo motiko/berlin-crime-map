@@ -1,0 +1,21 @@
+{
+  "id": "1715324",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715324.php",
+  "publishedAt": "2026-09-17T13:06",
+  "title": "Hotel überfallen",
+  "location": "Spandau",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-09-16",
+    "street": "Ohmstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Hotel in Siemensstadt",
+    "district": "Spandau",
+    "summaryEn": "Two men entered a hotel reception at night, threatened the receptionist with a firearm and demanded money. The receptionist was punched in the face, the pair fled without money, and he was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.896Z"
+}

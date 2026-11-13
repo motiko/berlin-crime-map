@@ -1,0 +1,21 @@
+{
+  "id": "1723880",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723880.php",
+  "publishedAt": "2026-10-10T14:53",
+  "title": "Fahrradfahrerin bei Verkehrsunfall verletzt",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-09",
+    "street": "Tempelhofer Damm",
+    "houseNumberOrCrossing": "Manfred-von-Richthofen-Straße",
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 12-year-old girl on a bicycle collided with a car at a junction on Tempelhofer Damm in the morning. She suffered head, back and pelvis injuries and was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.942Z"
+}

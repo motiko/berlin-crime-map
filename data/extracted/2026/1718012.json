@@ -1,0 +1,21 @@
+{
+  "id": "1718012",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718012.php",
+  "publishedAt": "2026-09-24T14:49",
+  "title": "Bauarbeiter bei Auseinandersetzungen verletzt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-09-23",
+    "street": "Gürtelstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Two construction workers were injured in attacks from a building during a construction site dispute in Friedrichshain, including a bottle thrown at one of them. Police halted the construction work temporarily, and the state security unit took over the investigation.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "glass bottle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.807Z"
+}

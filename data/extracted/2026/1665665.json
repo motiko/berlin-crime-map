@@ -1,0 +1,21 @@
+{
+  "id": "1665665",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665665.php",
+  "publishedAt": "2026-04-28T13:00",
+  "title": "Tätergruppen schlugen und traten auf Mann ein",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-04-28",
+    "street": "Scheelestraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "Around 0:30 a 19-year-old man was attacked by several groups of men on Scheelestraße and then at a nearby playground, where pepper spray was used and he was beaten and kicked. The attackers fled when a witness intervened.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.727Z"
+}

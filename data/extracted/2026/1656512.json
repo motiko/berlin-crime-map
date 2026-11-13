@@ -1,0 +1,21 @@
+{
+  "id": "1656512",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1656512.php",
+  "publishedAt": "2026-03-26T11:21",
+  "title": "Zwei Männer bei Auseinandersetzung verletzt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-03-25",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Volkspark Humboldthain",
+    "district": "Mitte",
+    "summaryEn": "Two men aged 39 and 46 were injured in a clash with a group of unknown people in Volkspark Humboldthain, Gesundbrunnen, in the evening. The suspects were stabbed with a knife and attacked with pepper spray, then fled toward Gesundbrunnen U-Bahn station.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.746Z"
+}

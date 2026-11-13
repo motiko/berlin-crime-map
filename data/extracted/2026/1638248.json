@@ -1,0 +1,21 @@
+{
+  "id": "1638248",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1638248.php",
+  "publishedAt": "2026-01-28T09:05",
+  "title": "Computerbetrug",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "fraud",
+    "incidentDate": "2025-07-14",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Filiale der Berliner Volksbank",
+    "district": null,
+    "summaryEn": "Police seek a suspected member of a gang that committed computer fraud: on 14 July 2025 an unknown woman presented a forged passport at a bank branch and obtained an activation code for a business online banking account. The group then made unauthorized transfers of six-figure sums from the victims' accounts.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.460Z"
+}

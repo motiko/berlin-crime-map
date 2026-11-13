@@ -1,0 +1,21 @@
+{
+  "id": "1690458",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690458.php",
+  "publishedAt": "2026-07-07T09:42",
+  "title": "Raub auf ein Pfandleihhaus – Tatverdächtige flüchten",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-07-06",
+    "street": "Kottbusser Damm",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Several masked suspects forced their way into a pawnshop, threatened staff with a firearm and fled with jewelry after spraying fire extinguisher powder. Four employees suffered respiratory irritation and declined medical treatment.",
+    "injured": 4,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.045Z"
+}

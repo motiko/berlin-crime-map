@@ -1,0 +1,21 @@
+{
+  "id": "1634644",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1634644.php",
+  "publishedAt": "2026-01-17T13:15",
+  "title": "Brandstifter festgenommen",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-01-16",
+    "street": "Märkische Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "Burning debris was found and extinguished in front of a flat door on the 10th floor of an apartment building, and a 25-year-old suspected of arson was arrested. Nobody was injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.354Z"
+}

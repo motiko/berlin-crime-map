@@ -1,0 +1,21 @@
+{
+  "id": "1632090",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1632090.php",
+  "publishedAt": "2026-01-11T14:58",
+  "title": "Schlafende Wohnungslose attackiert",
+  "location": "Mitte",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-01-11",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "S- und U-Bahnhof Alexanderplatz",
+    "district": "Mitte",
+    "summaryEn": "A man attacked a 43-year-old woman sleeping on the ground near Alexanderplatz station around midnight, hitting and kicking her head and trying to take her sleeping bag. She fled before police arrived and the woman declined medical treatment.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.459Z"
+}

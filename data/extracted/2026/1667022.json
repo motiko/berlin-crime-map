@@ -1,0 +1,21 @@
+{
+  "id": "1667022",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667022.php",
+  "publishedAt": "2026-05-05T11:49",
+  "title": "E-Scooter-Fahrerin nach Verkehrsunfall verstorben",
+  "location": "Mitte",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-05-04",
+    "street": "Schützenstraße",
+    "houseNumberOrCrossing": "Charlottenstraße",
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A 59-year-old e-scooter rider was hit by a car at a junction in Mitte and later died of her injuries. The driver of the car was a 62-year-old man.",
+    "injured": 1,
+    "dead": 1,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.033Z"
+}

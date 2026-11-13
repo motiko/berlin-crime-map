@@ -1,0 +1,21 @@
+{
+  "id": "1713187",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713187.php",
+  "publishedAt": "2026-09-12T14:25",
+  "title": "Antisemitischer Angriff",
+  "location": "Mitte",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-09-11",
+    "street": "Torstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A 43-year-old woman was insulted antisemitically and attacked with a broken glass bottle by two men on Torstraße in the early hours. She suffered cuts to one hand and was taken to hospital; the state security unit is investigating.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "broken glass bottle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.857Z"
+}

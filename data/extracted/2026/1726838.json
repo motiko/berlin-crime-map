@@ -1,0 +1,21 @@
+{
+  "id": "1726838",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726838.php",
+  "publishedAt": "2026-10-16T13:24",
+  "title": "Erneut Schüsse auf Café",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "shooting",
+    "dead": 0,
+    "district": "Neukölln",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-10-16",
+    "injured": 0,
+    "placeName": null,
+    "street": "Silbersteinstraße",
+    "summaryEn": "Shots were fired from a car at a closed café on Silbersteinstraße early in the morning, damaging its shop window. Nobody was hurt, and the LKA task force BAO Ferrum has taken over the investigation.",
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.914Z"
+}

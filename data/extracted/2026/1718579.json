@@ -1,0 +1,21 @@
+{
+  "id": "1718579",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718579.php",
+  "publishedAt": "2026-09-27T13:57",
+  "title": "Flucht vor Polizeikontrolle endete mit Verkehrsunfall",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "traffic",
+    "dead": 0,
+    "district": "Tempelhof-Schöneberg",
+    "houseNumberOrCrossing": "Mariendorfer Damm",
+    "incidentDate": "2026-09-26",
+    "injured": 0,
+    "placeName": "Mariendorf",
+    "street": "Bahnstraße",
+    "summaryEn": "A driver fled a police check at high speed, running several red lights, and crashed into a parked excavator in a dead-end street. He then reversed into a police vehicle; both occupants were arrested and nobody was hurt.",
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.053Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1652495",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1652495.php",
+  "publishedAt": "2026-03-15T16:46",
+  "title": "Festnahme und Haftbefehl nach zwei Wohnungseinbrüchen",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-03-14",
+    "street": "Reinickes Hof",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "A suspected burglar was arrested in Reinickendorf after a resident reported suspicious noises and a man fleeing with a backpack from an apartment building. Stolen goods from two break-ins were recovered, and a judge issued an arrest warrant.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.411Z"
+}

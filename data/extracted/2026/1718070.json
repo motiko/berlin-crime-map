@@ -1,0 +1,21 @@
+{
+  "id": "1718070",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718070.php",
+  "publishedAt": "2026-09-24T16:24",
+  "title": "Allgemeinverfügung zur Kampfmittelbeseitigung am 30. September 2026",
+  "location": "Spandau",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-09-30",
+    "street": "Bundesstraße 2 (Potsdamer Chaussee)",
+    "houseNumberOrCrossing": null,
+    "placeName": "Berlin-Gatow",
+    "district": "Spandau",
+    "summaryEn": "A general order establishes a restricted zone from 9:30 on 30 September 2026 for ordnance clearance in Brandenburg, extending into Berlin-Gatow. Roads, public transport and gatherings are restricted until the zone is lifted.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.999Z"
+}

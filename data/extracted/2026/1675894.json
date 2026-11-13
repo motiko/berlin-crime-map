@@ -1,0 +1,21 @@
+{
+  "id": "1675894",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675894.php",
+  "publishedAt": "2026-06-01T08:32",
+  "title": "Diebstahl und Computerbetrug",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "fraud",
+    "incidentDate": "2025-01-24",
+    "street": "Hasenheide",
+    "houseNumberOrCrossing": "119",
+    "placeName": null,
+    "district": null,
+    "summaryEn": "Two unknown suspects allegedly stole two bank cards and PINs sent by post and made transfers and cash withdrawals between 24 January and 3 February 2025, including at an ATM on Hasenheide. The police are seeking the suspects.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.789Z"
+}

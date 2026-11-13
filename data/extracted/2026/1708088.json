@@ -1,0 +1,21 @@
+{
+  "id": "1708088",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708088.php",
+  "publishedAt": "2026-08-28T12:16",
+  "title": "Zehnjähriger geschlagen und homophob beleidigt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-08-27",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Schule in Tiergarten",
+    "district": "Mitte",
+    "summaryEn": "A ten-year-old boy was insulted with a homophobic remark and kicked and choked by a classmate during break at a school. The boy was hurt on the neck, and the State Protection unit was informed.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.745Z"
+}

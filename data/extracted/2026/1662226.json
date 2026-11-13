@@ -1,0 +1,21 @@
+{
+  "id": "1662226",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662226.php",
+  "publishedAt": "2026-04-18T13:20",
+  "title": "Schussabgaben von Unbekannten",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "shooting",
+    "dead": 0,
+    "district": "Neukölln",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-04-18",
+    "injured": 0,
+    "placeName": "Rudow",
+    "street": "Kapaunenstraße",
+    "summaryEn": "Unknown persons fired shots in the night on Kapaunenstraße in Rudow, with cartridges and cases found on the street. Nobody was injured and no damage to residential buildings was found.",
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.886Z"
+}

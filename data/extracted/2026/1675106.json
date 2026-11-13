@@ -1,0 +1,21 @@
+{
+  "id": "1675106",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675106.php",
+  "publishedAt": "2026-05-28T12:16",
+  "title": "Mann bei Verkehrsunfall verletzt",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-05-27",
+    "street": "Elgersburger Straße",
+    "houseNumberOrCrossing": "Delbrückstraße",
+    "placeName": "Schmargendorf",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "An ambulance with blue lights and siren collided with a cyclist at a junction in Schmargendorf on the evening before publication. The 79-year-old cyclist fell and was taken to hospital with injuries.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.984Z"
+}

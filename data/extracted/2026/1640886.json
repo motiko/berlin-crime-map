@@ -1,0 +1,21 @@
+{
+  "id": "1640886",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1640886.php",
+  "publishedAt": "2026-02-05T13:24",
+  "title": "Fußgänger von Autofahrerin angefahren",
+  "location": "Spandau",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-02-05",
+    "street": "Heerstraße",
+    "houseNumberOrCrossing": "Pillnitzer Weg",
+    "placeName": "Staaken",
+    "district": "Spandau",
+    "summaryEn": "A 57-year-old woman driving a car struck a 64-year-old pedestrian crossing Heerstraße in Staaken early in the morning. The pedestrian suffered fractures and a head laceration and was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.430Z"
+}

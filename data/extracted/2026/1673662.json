@@ -1,0 +1,21 @@
+{
+  "id": "1673662",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673662.php",
+  "publishedAt": "2026-05-22T14:42",
+  "title": "Handwerker von Bewohnerin beleidigt, eingesperrt und bedroht",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-05-21",
+    "street": "Heilmannring",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A 63-year-old woman racially insulted a 28-year-old craftsman, blocked his exit from her flat and threatened him with a pepper spray device. Police Staatsschutz took over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "pepper spray device"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.686Z"
+}

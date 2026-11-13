@@ -1,0 +1,21 @@
+{
+  "id": "1654770",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1654770.php",
+  "publishedAt": "2026-03-21T16:58",
+  "title": "Mann mit Schussverletzungen – Zeuginnen und Zeugen gesucht",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-03-21",
+    "street": "Brandenburgische Straße",
+    "houseNumberOrCrossing": "Gieselerstraße",
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A 23-year-old man with gunshot wounds and a 22-year-old man with facial injuries were found on Brandenburgische Straße in Wilmersdorf. The homicide unit is investigating and seeking witnesses.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.404Z"
+}

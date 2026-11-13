@@ -1,0 +1,21 @@
+{
+  "id": "1679603",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1679603.php",
+  "publishedAt": "2026-06-09T14:49",
+  "title": "Fahrradfahrerin fährt Kind an",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-06-08",
+    "street": "Königsallee",
+    "houseNumberOrCrossing": "Rathenauplatz",
+    "placeName": "Grunewald",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A 29-year-old cyclist hit a five-year-old girl who had allegedly stepped out between parked cars on Königsallee in Grunewald. The child suffered a broken leg and the cyclist was also injured.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.877Z"
+}

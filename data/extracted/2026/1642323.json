@@ -1,0 +1,21 @@
+{
+  "id": "1642323",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1642323.php",
+  "publishedAt": "2026-02-11T11:27",
+  "title": "Festnahmen nach schwerer Brandstiftung",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-02-10",
+    "street": "Frankfurter Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Lichtenberg",
+    "summaryEn": "Two suspects, a 45-year-old woman and a 39-year-old man, were arrested after a serious arson fire in a 16th-floor apartment on Frankfurter Allee. Both were injured and treated at the scene.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.457Z"
+}

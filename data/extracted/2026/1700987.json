@@ -1,0 +1,21 @@
+{
+  "id": "1700987",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700987.php",
+  "publishedAt": "2026-08-08T11:04",
+  "title": "Unbekannter entwendet Regenbogenflaggen",
+  "location": "Pankow",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-08-08",
+    "street": "Eberswalder Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "An unknown man tore down two rainbow flags from the front windows of a bar in Prenzlauer Berg and fled toward the Eberswalder Straße U-Bahn station. The incident was reported around 3:50 a.m., and investigations are ongoing.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.840Z"
+}

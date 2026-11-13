@@ -1,0 +1,21 @@
+{
+  "id": "1675847",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675847.php",
+  "publishedAt": "2026-05-30T14:04",
+  "title": "Polizist von flüchtendem Auto angefahren – Schussabgabe",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-05-29",
+    "street": "Buchholzer Straße",
+    "houseNumberOrCrossing": "Herthaplatz/Waldemarstraße",
+    "placeName": "Herthaplatz",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "After a stolen-plate car was stopped and its 35-year-old passenger arrested, the driver hit an officer with the car while fleeing. The officer's service weapon fired a shot during the incident; the officer was treated as an outpatient.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.904Z"
+}

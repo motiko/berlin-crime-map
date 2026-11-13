@@ -1,0 +1,21 @@
+{
+  "id": "1706328",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706328.php",
+  "publishedAt": "2026-08-24T13:50",
+  "title": "Wohnungsraub mit Schusswaffen",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-08-23",
+    "street": "Kurfürstenstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Two masked suspects forced their way into a 73-year-old man's flat in Mariendorf, demanded valuables and searched the apartment before fleeing. They were reportedly armed with firearms; the man was not hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.042Z"
+}

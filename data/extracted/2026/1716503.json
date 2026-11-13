@@ -1,0 +1,21 @@
+{
+  "id": "1716503",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716503.php",
+  "publishedAt": "2026-09-21T10:26",
+  "title": "Raubüberfall auf Lokal",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-09-20",
+    "street": "Goebelstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Two unknown youths entered a restaurant in Charlottenburg-Nord, one brandished a firearm while the other took a cash register and both fled. A 60-year-old female customer was pushed from a chair and injured.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.043Z"
+}

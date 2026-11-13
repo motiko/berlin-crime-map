@@ -1,0 +1,21 @@
+{
+  "id": "1650416",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1650416.php",
+  "publishedAt": "2026-03-06T17:11",
+  "title": "Brand in Einfamilienhaus – Mann tot aufgefunden",
+  "location": "Spandau",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-03-05",
+    "street": "Fahremundstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Wilhelmstadt",
+    "district": "Spandau",
+    "summaryEn": "A fire broke out in a residential house in Wilhelmstadt, with six residents escaping unhurt. An 81-year-old bedridden resident was found dead in his room after the building burned almost completely.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.454Z"
+}

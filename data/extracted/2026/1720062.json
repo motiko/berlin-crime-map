@@ -1,0 +1,21 @@
+{
+  "id": "1720062",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720062.php",
+  "publishedAt": "2026-10-02T12:06",
+  "title": "Keine Straftat – Geplante Nachbeschriftungsarbeiten",
+  "location": "Pankow",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-09-29",
+    "street": "Am Bürgerpark",
+    "houseNumberOrCrossing": null,
+    "placeName": "Friedhof Niederschönhausen",
+    "district": "Pankow",
+    "summaryEn": "Grave slabs at a cemetery honoring victims of National Socialism were found smeared with black paint, initially reported as vandalism. Police later determined the paint work was a planned relabeling job by a stonemason company, so no crime occurred.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.909Z"
+}

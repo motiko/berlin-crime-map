@@ -1,0 +1,21 @@
+{
+  "id": "1689511",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689511.php",
+  "publishedAt": "2026-07-03T15:18",
+  "title": "Polizei warnt vor falschen Pflegedienstmitarbeitenden",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": null,
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "Police warn of a rising number of distraction thefts by suspects posing as care service staff who enter seniors' homes and steal money and valuables. The suspects are mostly two women and the thefts occur citywide.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.761Z"
+}

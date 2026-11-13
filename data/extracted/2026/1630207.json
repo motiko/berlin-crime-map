@@ -1,0 +1,21 @@
+{
+  "id": "1630207",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1630207.php",
+  "publishedAt": "2026-01-05T13:46",
+  "title": "Autofahrer fährt Fußgänger an",
+  "location": "Mitte",
+  "extraction": {
+    "category": "traffic",
+    "dead": 0,
+    "district": "Mitte",
+    "houseNumberOrCrossing": "Brüsseler Straße",
+    "incidentDate": "2026-01-04",
+    "injured": 2,
+    "placeName": null,
+    "street": "Genter Straße",
+    "summaryEn": "A car driver lost control while swerving at a car pulling out and struck a 27-year-old pedestrian getting into a parked car in Wedding. The pedestrian suffered rib and pelvis fractures and underwent emergency surgery; the driver was also hurt and five parked cars were damaged.",
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.464Z"
+}

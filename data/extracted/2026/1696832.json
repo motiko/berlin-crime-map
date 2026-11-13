@@ -1,0 +1,21 @@
+{
+  "id": "1696832",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696832.php",
+  "publishedAt": "2026-07-23T11:01",
+  "title": "Mann schießt mit Schreckschusswaffe",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-07-22",
+    "street": "Alte Hellersdorfer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Libertypark",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A man fired two blank shots into the air with a starter pistol in a park in Hellersdorf and then threatened a witness who confronted him. Nobody was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "blank-firing gun"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.998Z"
+}

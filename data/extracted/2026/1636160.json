@@ -1,0 +1,21 @@
+{
+  "id": "1636160",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1636160.php",
+  "publishedAt": "2026-01-21T16:24",
+  "title": "Fußgängerin von Auto angefahren",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-01-20",
+    "street": "Wiesenweg",
+    "houseNumberOrCrossing": "Siemensdamm",
+    "placeName": "Lankwitz",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A 37-year-old driver struck a 55-year-old woman crossing Wiesenweg in Lankwitz while turning left. The woman was taken to hospital with head injuries.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.474Z"
+}

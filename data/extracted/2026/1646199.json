@@ -1,0 +1,21 @@
+{
+  "id": "1646199",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1646199.php",
+  "publishedAt": "2026-02-24T10:51",
+  "title": "Nach Verkehrsunfall verstorben",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-02-23",
+    "street": "Mariendorfer Damm",
+    "houseNumberOrCrossing": "Hundsteinweg",
+    "placeName": "Mariendorf",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 35-year-old driver died after his car skidded and hit a tree on Mariendorfer Damm late at night. The road was closed in the stadteinwärts direction during the accident investigation.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.333Z"
+}

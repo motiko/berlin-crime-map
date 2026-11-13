@@ -1,0 +1,21 @@
+{
+  "id": "1663350",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1663350.php",
+  "publishedAt": "2026-04-24T14:32",
+  "title": "Junge Frau wieder da",
+  "location": "Mitte",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2026-04-21",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "S-Bahnhof Gesundbrunnen",
+    "district": "Mitte",
+    "summaryEn": "A 25-year-old woman who is cognitively impaired went missing on 21 April 2026 after leaving Gesundbrunnen S-Bahn station. She was found safe on 23 April and returned to her home.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.058Z"
+}

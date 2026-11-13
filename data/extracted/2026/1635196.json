@@ -1,0 +1,21 @@
+{
+  "id": "1635196",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1635196.php",
+  "publishedAt": "2026-01-19T15:42",
+  "title": "Mitarbeitende des BVG-Sicherheitspersonals angegriffen",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-01-18",
+    "street": "Hermannplatz",
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahnhof Hermannplatz",
+    "district": "Neukölln",
+    "summaryEn": "A group of seven men allegedly attacked four BVG security staff at Hermannplatz underground station after being asked not to smoke on the platform. Two of the staff were taken to hospital with injuries.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.467Z"
+}

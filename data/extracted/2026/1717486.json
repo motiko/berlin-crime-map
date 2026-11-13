@@ -1,0 +1,21 @@
+{
+  "id": "1717486",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717486.php",
+  "publishedAt": "2026-09-23T11:27",
+  "title": "Nach Brand in Seniorenheim – Patient im Krankenhaus verstorben",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-09-19",
+    "street": "Waldemarstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Seniorenpflegeeinrichtung",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A fire broke out in a room of a Kreuzberg care home for seniors, and 27 residents were evacuated. A 61-year-old resident was found dead, and a 74-year-old who was seriously injured later died in hospital; investigators suspect negligent arson.",
+    "injured": 27,
+    "dead": 2,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.983Z"
+}

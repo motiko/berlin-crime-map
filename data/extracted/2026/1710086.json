@@ -1,0 +1,21 @@
+{
+  "id": "1710086",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710086.php",
+  "publishedAt": "2026-09-03T11:32",
+  "title": "Kind bei Verkehrsunfall verletzt",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-09-02",
+    "street": "Märkische Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": "S-Bahnhof Ahrensfelde",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A nine-year-old girl ran onto the road from the pavement and was hit by a car on Märkische Allee. She was taken to hospital with a head injury and grazes; police say her life was not in danger.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.029Z"
+}

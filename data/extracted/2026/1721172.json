@@ -1,0 +1,21 @@
+{
+  "id": "1721172",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721172.php",
+  "publishedAt": "2026-10-03T10:32",
+  "title": "Gedenksteine mit Farbe besprüht – Tatverdächtiger festgenommen",
+  "location": "Pankow",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-10-02",
+    "street": "Greifswalder Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "A 46-year-old man allegedly spray-painted several memorial stones laid in the pavement on Greifswalder Straße and was temporarily detained. The case was taken over by the state security unit (Staatsschutz).",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.947Z"
+}

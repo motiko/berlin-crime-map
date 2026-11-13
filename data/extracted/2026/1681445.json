@@ -1,0 +1,21 @@
+{
+  "id": "1681445",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681445.php",
+  "publishedAt": "2026-06-14T13:43",
+  "title": "Festnahme nach Verdacht des unerlaubten Handels mit Betäubungsmitteln",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-06-13",
+    "street": "Wilhelminenhofstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Oberschöneweide",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "Police arrested a 36-year-old suspected drug dealer who barricaded himself in his flat in Oberschöneweide after a cannabis plantation was found. Over 5 kg of cannabis was seized, and the flat was partly set alight before a special unit forced entry.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.829Z"
+}

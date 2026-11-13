@@ -1,0 +1,21 @@
+{
+  "id": "1713242",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713242.php",
+  "publishedAt": "2026-09-13T13:01",
+  "title": "Mehrere Verletzte nach Verkehrsunfall mit BVG-Bus",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-09-12",
+    "street": "Fulhamer Allee",
+    "houseNumberOrCrossing": "Alt-Britz",
+    "placeName": "Britz",
+    "district": "Neukölln",
+    "summaryEn": "A BVG bus left the road and hit a tree on Fulhamer Allee in Britz late at night, injuring 15 people. A 25-year-old passenger's leg was trapped and freed by the fire brigade.",
+    "injured": 15,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.928Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1690853",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690853.php",
+  "publishedAt": "2026-07-07T15:58",
+  "title": "Schleuser sollen Sprachzertifikate gefälscht haben – Durchsuchungsbeschlüsse vollstreckt",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "fraud",
+    "incidentDate": "2026-07-07",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "Police executed search warrants at five residences and one business premises in Wedding, Kreuzberg and Lichterfelde over suspected forged language certificates and residence confirmations used for people-smuggling. Four suspects were found during the searches, and no arrests were made.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.007Z"
+}

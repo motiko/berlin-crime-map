@@ -1,0 +1,21 @@
+{
+  "id": "1689392",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689392.php",
+  "publishedAt": "2026-07-03T13:22",
+  "title": "Durchsuchungen und Festnahme wegen Raubtat am S-Bahnhof Karlshorst",
+  "location": "bundeslandübergreifend",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-05-09",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "S-Bahnhof Karlshorst",
+    "district": "Lichtenberg",
+    "summaryEn": "Five suspects, aged 14 to 21, were charged over a group assault and robbery of a 31-year-old man at Karlshorst station on 9 May 2026; police raided seven addresses in several states. The victim was hospitalised, and one suspect was arrested for threatening a pursuer with a blank-firing pistol.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife and blank-firing pistol"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.961Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1709850",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709850.php",
+  "publishedAt": "2026-09-02T16:30",
+  "title": "E-Scooter-Fahrerin bei Kollision mit Lkw verletzt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-09-01",
+    "street": "Mehringbrücke",
+    "houseNumberOrCrossing": "Hallesches Ufer/ Wilhelmstraße",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "An e-scooter rider was seriously injured after colliding with a truck at a junction in Kreuzberg. The traffic light reportedly showed red for the scooter rider.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.883Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1691180",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691180.php",
+  "publishedAt": "2026-07-08T12:37",
+  "title": "Haftbefehl wegen Verstößen gegen das Waffengesetz vollstreckt",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "raid",
+    "incidentDate": "2026-07-07",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Amtsgericht Tiergarten",
+    "district": null,
+    "summaryEn": "A 35-year-old man was arrested in a courtroom after a hearing on a weapons law violation, under an arrest warrant for a later offence in May 2026 when he was found with a firearm and magazines. Two more firearms and ammunition were seized during a search of his residence.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.858Z"
+}

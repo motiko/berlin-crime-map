@@ -1,0 +1,21 @@
+{
+  "id": "1692328",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692328.php",
+  "publishedAt": "2026-07-12T11:07",
+  "title": "Scharfe Schusswaffe bei Personenüberprüfung im Hosenbund gefunden – Haftbefehl erlassen",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-07-10",
+    "street": "Wittmannsdorfer Straße",
+    "houseNumberOrCrossing": "Schierker Straße",
+    "placeName": "Körnerpark",
+    "district": "Neukölln",
+    "summaryEn": "Police found a loaded firearm and suspected cocaine on a 39-year-old man during a patrol check at Körnerpark. He was arrested and a judge issued an arrest warrant.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.691Z"
+}

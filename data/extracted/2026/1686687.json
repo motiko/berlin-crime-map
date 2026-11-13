@@ -1,0 +1,21 @@
+{
+  "id": "1686687",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686687.php",
+  "publishedAt": "2026-06-27T13:09",
+  "title": "Gegenseitig beleidigt und geschlagen",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-06-27",
+    "street": "Stendaler Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Imbiss",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "Two groups insulted each other with xenophobic remarks and then fought at a snack bar, using chairs. Three men and one teenager suffered minor injuries and were treated at the scene; a specialist unit took over the investigation.",
+    "injured": 4,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.925Z"
+}

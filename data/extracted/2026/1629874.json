@@ -1,0 +1,21 @@
+{
+  "id": "1629874",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1629874.php",
+  "publishedAt": "2026-01-02T15:21",
+  "title": "Verkehrsunfall mit Polizeibeteiligung",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "traffic",
+    "dead": 0,
+    "district": "Marzahn-Hellersdorf",
+    "houseNumberOrCrossing": "Blumberger Damm",
+    "incidentDate": "2026-01-01",
+    "injured": 4,
+    "placeName": "Biesdorf",
+    "street": "Cecilienstraße",
+    "summaryEn": "A police vehicle using emergency rights collided with a car at the Cecilienstraße/Blumberger Damm crossing in Biesdorf. Four people, including the two occupants of the car and two police officers, were treated for injuries.",
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.368Z"
+}

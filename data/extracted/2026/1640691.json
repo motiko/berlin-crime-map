@@ -1,0 +1,21 @@
+{
+  "id": "1640691",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1640691.php",
+  "publishedAt": "2026-02-04T17:42",
+  "title": "Tote Person nach Feuer in einem Bungalow entdeckt",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-02-04",
+    "street": "Brigittenweg",
+    "houseNumberOrCrossing": null,
+    "placeName": "Altglienicke",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A fire broke out in a bungalow in Altglienicke in the night, and firefighters found one dead person inside. Police arson investigators have taken over the ongoing inquiry.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.450Z"
+}

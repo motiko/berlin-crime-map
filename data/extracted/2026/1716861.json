@@ -1,0 +1,21 @@
+{
+  "id": "1716861",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716861.php",
+  "publishedAt": "2026-09-21T15:17",
+  "title": "Koordinierte internationale Kontrollmaßnahmen in indischen Restaurants wegen des Verdachts des Menschenhandels zum Zwecke der Arbeitsausbeutung",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "raid",
+    "incidentDate": "2026-09-18",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "Police, customs and Europol carried out coordinated checks on Indian restaurants in Berlin over suspected labour exploitation and human trafficking. Two restaurants were inspected, with 27 employees and one manager checked, and two main suspects were arrested in the Netherlands.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.727Z"
+}

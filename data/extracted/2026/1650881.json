@@ -1,0 +1,21 @@
+{
+  "id": "1650881",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1650881.php",
+  "publishedAt": "2026-03-10T10:01",
+  "title": "Körperverletzung nach Streit im Straßenverkehr",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-03-09",
+    "street": "Alte Hellersdorfer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "After a traffic dispute, a cyclist allegedly kicked a car's mirror and then beat a 44-year-old driver, who fell to the ground and was injured. Passers-by intervened, and the cyclist fled.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.402Z"
+}

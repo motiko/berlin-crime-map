@@ -1,0 +1,21 @@
+{
+  "id": "1731396",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1731396.php",
+  "publishedAt": "2026-10-27T10:46",
+  "title": "Lkw-Fahrerin fährt Fußgängerin um",
+  "location": "Mitte",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-26",
+    "street": "Prinzenallee",
+    "houseNumberOrCrossing": "Badstraße",
+    "placeName": "Gesundbrunnen",
+    "district": "Mitte",
+    "summaryEn": "A truck turned right into Prinzenallee and struck a 31-year-old pedestrian crossing from Badstraße, running over her in part. The woman was seriously injured and taken to hospital for emergency surgery.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.867Z"
+}

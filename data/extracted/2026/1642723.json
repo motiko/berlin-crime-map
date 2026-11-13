@@ -1,0 +1,21 @@
+{
+  "id": "1642723",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1642723.php",
+  "publishedAt": "2026-02-15T11:37",
+  "title": "Mutter und Kind nach Wohnungsbrand verstorben",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-02-11",
+    "street": "Dolgenseestraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Lichtenberg",
+    "summaryEn": "A residential building fire in Friedrichsfelde killed a nine-month-old infant; the mother and five-year-old brother later died of their injuries. The cause is still under investigation by the state criminal police.",
+    "injured": 44,
+    "dead": 3,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.435Z"
+}

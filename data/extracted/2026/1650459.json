@@ -1,0 +1,21 @@
+{
+  "id": "1650459",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1650459.php",
+  "publishedAt": "2026-03-08T16:42",
+  "title": "Vor der Polizei geflüchtet, verunfallt und festgenommen",
+  "location": "Spandau",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-03-07",
+    "street": "Magistratsweg",
+    "houseNumberOrCrossing": "Brunsbütteler Damm",
+    "placeName": "Staaken",
+    "district": "Spandau",
+    "summaryEn": "A 25-year-old driver fled from police at high speed in Staaken and lost control at a junction, colliding with five parked cars. He was arrested shortly afterwards and had no driving licence.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.453Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1702256",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702256.php",
+  "publishedAt": "2026-08-12T14:40",
+  "title": "Dachgeschoss abgebrannt",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-08-11",
+    "street": "Arno-Philippsthal-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Biesdorf",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A fire broke out in a top-floor flat of a residential building in Biesdorf and spread to the roof structure and neighbouring flats. 28 people suffered smoke inhalation and the whole building was made uninhabitable.",
+    "injured": 28,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.954Z"
+}

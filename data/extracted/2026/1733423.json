@@ -1,0 +1,21 @@
+{
+  "id": "1733423",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733423.php",
+  "publishedAt": "2026-10-31T13:55",
+  "title": "Senior fährt gegen Baum",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-30",
+    "street": "Spandauer Damm",
+    "houseNumberOrCrossing": "Lindenallee",
+    "placeName": "Westend",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "An 86-year-old driver lost consciousness briefly and crashed into a tree on Spandauer Damm in Westend. He and his 85-year-old wife, the passenger, were injured.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.692Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1726361",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726361.php",
+  "publishedAt": "2026-10-15T14:56",
+  "title": "Kleinkrafträder gestohlen - Festnahmen",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-10-14",
+    "street": "Südostallee",
+    "houseNumberOrCrossing": null,
+    "placeName": "Johannisthal",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "Two teenagers suspected of scooter theft were arrested after police stopped them on a stolen small motorcycle in Johannisthal. A second stolen scooter was recovered from Hubertusstraße.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.796Z"
+}

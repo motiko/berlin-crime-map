@@ -1,0 +1,21 @@
+{
+  "id": "1640095",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1640095.php",
+  "publishedAt": "2026-02-03T12:55",
+  "title": "Baucontainer und Mofa in Brand gesetzt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-02-02",
+    "street": "Straße der Pariser Kommune",
+    "houseNumberOrCrossing": "Franz-Mehring-Platz",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "An unknown person set fire to a moped and other items next to a construction container used as shelter by homeless people, and the fire spread to the container. No one was inside, and the fire brigade extinguished the flames.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.388Z"
+}

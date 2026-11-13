@@ -1,0 +1,21 @@
+{
+  "id": "1666993",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666993.php",
+  "publishedAt": "2026-05-01T15:28",
+  "title": "Brennende Pkw",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-05-01",
+    "street": "Niemegker Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "Two cars were destroyed by fire in Marzahn early in the morning, and a third vehicle was damaged by the heat. Nobody was hurt, and an arson unit is investigating.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.865Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1732112",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1732112.php",
+  "publishedAt": "2026-10-28T14:34",
+  "title": "Mann durch Schüsse lebensgefährlich verletzt – Mordkommission ermittelt",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "shooting",
+    "dead": 0,
+    "district": "Tempelhof-Schöneberg",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-10-27",
+    "injured": 1,
+    "placeName": null,
+    "street": "Nahariyastraße",
+    "summaryEn": "A 31-year-old man was seriously injured after several shots were fired at him in Lichtenrade. A homicide unit is investigating an attempted killing, and the unknown perpetrator fled.",
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.775Z"
+}

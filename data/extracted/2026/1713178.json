@@ -1,0 +1,21 @@
+{
+  "id": "1713178",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713178.php",
+  "publishedAt": "2026-09-12T12:42",
+  "title": "Schüsse auf Friseurgeschäft",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-09-12",
+    "street": "Tempelhofer Damm",
+    "houseNumberOrCrossing": "Burgemeisterstraße",
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Shots were fired at a hairdresser's shopfront on Tempelhofer Damm around 7 a.m., leaving bullet holes in two shop windows. Nobody was injured, and the perpetrator fled in a vehicle; police secured cartridge cases.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.910Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1730811",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1730811.php",
+  "publishedAt": "2026-10-25T13:06",
+  "title": "Mit gestohlenem Roller vor Polizei geflüchtet - Festnahmen",
+  "location": "Spandau",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-25",
+    "street": "Falkenseer Chaussee",
+    "houseNumberOrCrossing": "Bramwaldweg",
+    "placeName": "Falkenhagener Feld",
+    "district": "Spandau",
+    "summaryEn": "Two suspected scooter thieves fled from police on a stolen scooter, ran red lights and crashed into a police vehicle. Both were arrested with minor injuries and released after police measures.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.744Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1720036",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720036.php",
+  "publishedAt": "2026-09-30T14:09",
+  "title": "Schüsse von Motorroller in Treptow-Köpenick",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-09-29",
+    "street": "Berberitzenweg",
+    "houseNumberOrCrossing": null,
+    "placeName": "Baumschulenweg",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "Two unknown men on a scooter fired several shots at three men on a pavement in Baumschulenweg around 20:30. Two of the men were hit in the legs and taken to hospital; the third was unharmed.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.899Z"
+}

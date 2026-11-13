@@ -1,0 +1,21 @@
+{
+  "id": "1718008",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1718008.php",
+  "publishedAt": "2026-09-24T14:30",
+  "title": "Berlin startet mit KI-gestütztem Videoschutz",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-09-24",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Kottbusser Tor",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Berlin police are launching a pilot project using AI-assisted video surveillance at crime-burdened locations, starting at Kottbusser Tor with a roughly four-week camera configuration phase before test operation. No incident occurred.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.933Z"
+}

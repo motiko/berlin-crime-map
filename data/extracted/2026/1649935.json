@@ -1,0 +1,21 @@
+{
+  "id": "1649935",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1649935.php",
+  "publishedAt": "2026-03-05T15:15",
+  "title": "Autofahrerin fährt Fußgänger an",
+  "location": "Spandau",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-03-04",
+    "street": "Brunsbütteler Damm",
+    "houseNumberOrCrossing": "Päwesiner Weg",
+    "placeName": "Bushaltestelle Päwesiner Weg",
+    "district": "Spandau",
+    "summaryEn": "A 58-year-old woman driving a car reversed while pulling away from the kerb at a bus stop in Staaken and struck a 32-year-old pedestrian. The pedestrian fell onto the road and was taken to hospital with head and arm injuries.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.462Z"
+}

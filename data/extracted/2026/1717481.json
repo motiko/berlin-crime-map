@@ -1,0 +1,21 @@
+{
+  "id": "1717481",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717481.php",
+  "publishedAt": "2026-09-23T11:19",
+  "title": "Frau bei Sturz in Linienbus lebensgefährlich verletzt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "traffic",
+    "dead": 0,
+    "district": "Mitte",
+    "houseNumberOrCrossing": "Mühlendamm",
+    "incidentDate": "2026-09-22",
+    "injured": 1,
+    "placeName": "Bushaltestelle Nikolaiviertel",
+    "street": "Mühlendamm",
+    "summaryEn": "An 84-year-old woman was seriously injured when she fell inside a bus in Mitte after the driver pulled away from a stop. She hit her head on a handrail and was taken to hospital.",
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.763Z"
+}

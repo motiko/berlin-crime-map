@@ -1,0 +1,21 @@
+{
+  "id": "1683388",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683388.php",
+  "publishedAt": "2026-06-18T14:10",
+  "title": "Gebissen und Widerstand geleistet – zwei Polizeibeamte verletzt",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-06-17",
+    "street": "Schillerstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Police were called to a threat in an apartment and a 30-year-old man resisted officers, biting one of them. Two police officers were injured, one of whom was treated in hospital.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.716Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1639459",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1639459.php",
+  "publishedAt": "2026-01-31T11:04",
+  "title": "21-Jähriger stirbt in Wohnung - Mordkommission ermittelt",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-01-31",
+    "street": "Hultschiner Damm",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A 21-year-old man was found dead with stab wounds in an apartment in Mahlsdorf, and the homicide unit has taken over the investigation. A 30-year-old suspect was arrested near the scene.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.475Z"
+}

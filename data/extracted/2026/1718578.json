@@ -1,0 +1,21 @@
+{
+  "id": "1718578",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718578.php",
+  "publishedAt": "2026-09-27T13:43",
+  "title": "Auto vollständig ausgebrannt",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-09-27",
+    "street": "Keplerstraße",
+    "houseNumberOrCrossing": "Olbersstraße",
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A parked BMW was set on fire on Keplerstraße in the early morning and burned out completely, damaging two neighbouring cars and a street tree. Arson is being investigated by a fire unit of the Berlin LKA; no one was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.769Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1721169",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721169.php",
+  "publishedAt": "2026-10-03T09:50",
+  "title": "Messerangriff auf Jugendlichen",
+  "location": "Mitte",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-10-02",
+    "street": "Gartenstraße",
+    "houseNumberOrCrossing": "Feldstraße",
+    "placeName": "Parkanlage Gartenstraße/Feldstraße, Gesundbrunnen",
+    "district": "Mitte",
+    "summaryEn": "A 15-year-old was stabbed several times in the buttocks with a knife by a man in a park after an argument with a group of people. He was taken to hospital for inpatient treatment.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.887Z"
+}

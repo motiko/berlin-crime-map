@@ -1,0 +1,21 @@
+{
+  "id": "1629775",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1629775.php",
+  "publishedAt": "2026-01-02T11:37",
+  "title": "Schüsse auf Wohnungstür",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-01-01",
+    "street": "Karl-Marx-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "An unknown person fired several shots at an apartment door in an apartment building's stairwell on New Year's Eve. The residents were inside at the time, and nobody was injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.352Z"
+}

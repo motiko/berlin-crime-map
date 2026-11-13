@@ -1,0 +1,21 @@
+{
+  "id": "1653231",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1653231.php",
+  "publishedAt": "2026-03-18T11:18",
+  "title": "Vermisste wieder da",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2026-03-12",
+    "street": "Bachstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A 77-year-old woman with dementia who had been missing since 12 March 2026 has been found alive and is receiving medical care in hospital. She was found after a public appeal led hospital staff to recognise her.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.436Z"
+}

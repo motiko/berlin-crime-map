@@ -1,0 +1,21 @@
+{
+  "id": "1660089",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660089.php",
+  "publishedAt": "2026-04-10T13:22",
+  "title": "Fußgänger bei Verkehrsunfall verletzt",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-04-09",
+    "street": "Hohenzollerndamm",
+    "houseNumberOrCrossing": "Forckenbeckstraße",
+    "placeName": "Schmargendorf",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "An 82-year-old pedestrian stepped onto Hohenzollerndamm in Schmargendorf and was struck by a car around 12:40. The pedestrian suffered fractures and a head wound and was taken to hospital; the driver was unhurt.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.878Z"
+}

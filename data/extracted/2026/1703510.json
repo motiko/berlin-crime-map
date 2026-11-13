@@ -1,0 +1,21 @@
+{
+  "id": "1703510",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703510.php",
+  "publishedAt": "2026-08-16T11:57",
+  "title": "Autofahrer und Begleiter greifen Pedelecfahrer an",
+  "location": "Mitte",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-08-15",
+    "street": "Alexanderstraße",
+    "houseNumberOrCrossing": "Stralauer Straße",
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A car driver and his passenger attacked a 21-year-old cyclist after blocking him with their car on the bike lane. The victim suffered serious facial injuries and was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.743Z"
+}

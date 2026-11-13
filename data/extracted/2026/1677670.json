@@ -1,0 +1,21 @@
+{
+  "id": "1677670",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1677670.php",
+  "publishedAt": "2026-06-04T14:34",
+  "title": "Spezialeinsatzkräfte nehmen bewaffneten Mann fest",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "raid",
+    "incidentDate": "2026-06-03",
+    "street": "Oschatzer Ring",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "Special forces arrested a 37-year-old man in his Hellersdorf flat after he reportedly went door to door in an apartment block holding a weapon. Police seized two blank-firing guns, an air pistol, two machetes, fireworks and suspected narcotics.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "machete"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.716Z"
+}

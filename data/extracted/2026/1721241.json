@@ -1,0 +1,21 @@
+{
+  "id": "1721241",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721241.php",
+  "publishedAt": "2026-10-04T11:36",
+  "title": "Unbekannter Kradfahrer entzieht sich einer Verkehrskontrolle, fährt Einsatzwagen an und flüchtet",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-03",
+    "street": "Seidelstraße",
+    "houseNumberOrCrossing": "Avenue Jean Mermoz",
+    "placeName": "Niederneuendorfer Allee",
+    "district": "Spandau",
+    "summaryEn": "An unknown motorcyclist fled a traffic stop at night, speeding through red lights and colliding with a police vehicle that had been blocked across the road. He escaped towards Henningsdorf and police lost contact with him.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.936Z"
+}

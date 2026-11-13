@@ -1,0 +1,21 @@
+{
+  "id": "1667006",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667006.php",
+  "publishedAt": "2026-05-02T14:28",
+  "title": "Verkehrsunfall mit mehreren Verletzten und Schaulustigen",
+  "location": "Spandau",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-05-01",
+    "street": "Ruhlebener Straße",
+    "houseNumberOrCrossing": "Grunewaldstraße",
+    "placeName": null,
+    "district": "Spandau",
+    "summaryEn": "An 81-year-old driver turning at the junction collided with an oncoming car, pushing it into four parked vehicles; three people were injured. Three bystanders were later investigated for photographing the injured.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.882Z"
+}

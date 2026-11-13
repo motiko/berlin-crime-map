@@ -1,0 +1,21 @@
+{
+  "id": "1668704",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668704.php",
+  "publishedAt": "2026-06-01T16:10",
+  "title": "Mutmaßliches Gewaltverbrechen – Zweiter Tatverdächtiger in Untersuchungshaft",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-04-23",
+    "street": "Wolfacher Pfad",
+    "houseNumberOrCrossing": "3",
+    "placeName": "Waldgabelung, Waidmannslust",
+    "district": "Reinickendorf",
+    "summaryEn": "Investigators are treating as a homicide the April 2026 abduction of a man in Waidmannslust, who was taken in a white van; a second suspect, aged 32, was remanded in custody on 29 May 2026. A male body found in a forest near Potsdam on 22 May 2026 is being examined for identity.",
+    "injured": 0,
+    "dead": null,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.995Z"
+}

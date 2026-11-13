@@ -1,0 +1,21 @@
+{
+  "id": "1646201",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1646201.php",
+  "publishedAt": "2026-02-24T10:53",
+  "title": "Kind angefahren und verletzt",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "traffic",
+    "dead": 0,
+    "district": "Treptow-Köpenick",
+    "houseNumberOrCrossing": "S-Bahnhof Baumschulenweg",
+    "incidentDate": "2026-02-23",
+    "injured": 1,
+    "placeName": "S-Bahnhof Baumschulenweg",
+    "street": "Baumschulenstraße",
+    "summaryEn": "A 63-year-old driver hit a 13-year-old boy who ran onto the road past a stopped bus in Baumschulenweg. The boy was seriously injured in the head and taken to hospital.",
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.422Z"
+}

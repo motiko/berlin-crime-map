@@ -1,0 +1,21 @@
+{
+  "id": "1721644",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721644.php",
+  "publishedAt": "2026-10-05T15:38",
+  "title": "Zwei Personen bei Auseinandersetzung zwischen Jugendgruppen verletzt",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-10-04",
+    "street": "Schönefelder Chaussee",
+    "houseNumberOrCrossing": "Venusstraße",
+    "placeName": "Altglienicke",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "After shots were reported in Altglienicke, police found two injured teenagers, one with stab wounds, in a fight between youth groups. No firearms or ammunition were found, but an airsoft gun was seized.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.966Z"
+}

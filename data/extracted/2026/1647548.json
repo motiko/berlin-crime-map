@@ -1,0 +1,21 @@
+{
+  "id": "1647548",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1647548.php",
+  "publishedAt": "2026-02-26T16:51",
+  "title": "Autofahrer durch Personengruppe angegriffen",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-02-25",
+    "street": "Friedrichstraße",
+    "houseNumberOrCrossing": "Mehringplatz",
+    "placeName": "Mehringplatz",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A group attacked an 18-year-old driver in his car at the Mehringplatz/Friedrichstraße crossing around 11 p.m., smashing a window and beating and kicking him. The victim was taken to hospital with injuries to the head, arm and torso.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.451Z"
+}

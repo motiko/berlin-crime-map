@@ -1,0 +1,21 @@
+{
+  "id": "1713533",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1713533.php",
+  "publishedAt": "2026-09-14T16:58",
+  "title": "Vermisster Senior wieder im Kreise seiner Familie",
+  "location": "Spandau",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2026-09-14",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Spandau",
+    "summaryEn": "A 91-year-old man with advanced dementia, reported missing since 13 September 2026, has been found safe by relatives in a green area near his home. The police press release is an update to the original missing-person appeal.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.889Z"
+}

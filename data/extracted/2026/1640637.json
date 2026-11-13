@@ -1,0 +1,21 @@
+{
+  "id": "1640637",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1640637.php",
+  "publishedAt": "2026-02-04T15:21",
+  "title": "Polizisten bedroht – Distanzelektroimpulsgerät gegen Tatverdächtigen eingesetzt",
+  "location": "Pankow",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-02-03",
+    "street": "Buschsperlingweg",
+    "houseNumberOrCrossing": null,
+    "placeName": "Französisch Buchholz",
+    "district": "Pankow",
+    "summaryEn": "Police were called to a garden allotment hut after a threat report and a man was threatened officers. When he left the hut and ran at a policeman, he was hit with a stun device and arrested; he was taken to hospital.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.419Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1637262",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1637262.php",
+  "publishedAt": "2026-01-25T14:39",
+  "title": "In den Gegenverkehr geraten – Verkehrsunfall mit mehreren Verletzten",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-01-24",
+    "street": "Wupperstraße",
+    "houseNumberOrCrossing": "Dahlemer Weg",
+    "placeName": null,
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A 66-year-old driver lost control of his car and crashed head-on into an oncoming vehicle driven by a 51-year-old woman in Zehlendorf. Three people were injured, one of them seriously enough to be taken to hospital.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.466Z"
+}

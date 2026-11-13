@@ -1,0 +1,21 @@
+{
+  "id": "1695241",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695241.php",
+  "publishedAt": "2026-07-19T12:48",
+  "title": "Motorradfahrer bei Verkehrsunfall tödlich verletzt",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-18",
+    "street": "Vorarlberger Damm",
+    "houseNumberOrCrossing": "Sachsendamm",
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 19-year-old car driver pulling out of a parking bay to turn collided with a 19-year-old motorcyclist on Vorarlberger Damm. The motorcyclist died at the scene despite resuscitation attempts, and two other people were treated in hospital.",
+    "injured": 2,
+    "dead": 1,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.754Z"
+}

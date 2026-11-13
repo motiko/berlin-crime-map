@@ -1,0 +1,21 @@
+{
+  "id": "1710802",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710802.php",
+  "publishedAt": "2026-09-06T13:06",
+  "title": "Zwölfjährige bei Unfall mit E-Scooter verletzt",
+  "location": "Pankow",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-09-05",
+    "street": "Dietzgenstraße",
+    "houseNumberOrCrossing": "Blankenburger Straße",
+    "placeName": "Niederschönhausen",
+    "district": "Pankow",
+    "summaryEn": "A car collided with an e-scooter at a crossing in Niederschönhausen, throwing its two riders onto the pavement. A 12-year-old girl was hospitalised and her 38-year-old mother was treated as an outpatient; the 73-year-old driver was unhurt.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.803Z"
+}

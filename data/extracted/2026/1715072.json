@@ -1,0 +1,21 @@
+{
+  "id": "1715072",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1715072.php",
+  "publishedAt": "2026-09-17T09:35",
+  "title": "Heranwachsende angegriffen - Polizei Berlin sucht Zeuginnen und Zeugen",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-03-25",
+    "street": "Jessnerstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Two unknown attackers assaulted a 19-year-old woman and a 19-year-old man in Friedrichshain, causing abrasions and cuts. The attackers allegedly shouted right-wing extremist slogans, and the case is handled by the State Protection unit.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.818Z"
+}

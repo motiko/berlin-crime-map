@@ -1,0 +1,21 @@
+{
+  "id": "1721247",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721247.php",
+  "publishedAt": "2026-10-04T13:08",
+  "title": "Reizstoff gesprüht – zwei Verletzte",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-10-03",
+    "street": "Hellersdorfer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "An unknown person sprayed irritant gas at an event in Hellersdorf, injuring a 17-year-old woman. A 17-year-old man who followed the attacker was also sprayed and kicked, and both were treated as outpatients.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "irritant spray"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.842Z"
+}

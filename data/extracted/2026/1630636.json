@@ -1,0 +1,21 @@
+{
+  "id": "1630636",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1630636.php",
+  "publishedAt": "2026-01-06T13:32",
+  "title": "Trickdiebstahl bei Seniorin",
+  "location": "Pankow",
+  "extraction": {
+    "category": "fraud",
+    "incidentDate": "2026-01-05",
+    "street": "Immanuelkirchstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "Two unknown men posing as a criminal police officer and an electricity network employee gained access to a 91-year-old woman's flat, obtained her PIN and stole her bank card. The pair fled in an unknown direction.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.346Z"
+}

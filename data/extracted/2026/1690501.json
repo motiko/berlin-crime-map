@@ -1,0 +1,21 @@
+{
+  "id": "1690501",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690501.php",
+  "publishedAt": "2026-07-07T10:37",
+  "title": "Fahrradfahrer nach Unfall verletzt",
+  "location": "Spandau",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-06",
+    "street": "Neuendorfer Straße",
+    "houseNumberOrCrossing": "Eiswerderstraße",
+    "placeName": "Hakenfelde",
+    "district": "Spandau",
+    "summaryEn": "A car turning left collided with a 64-year-old cyclist on Neuendorfer Straße in Hakenfelde, causing the cyclist to fall. The cyclist was taken to hospital with back injuries.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.836Z"
+}

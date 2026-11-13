@@ -1,0 +1,21 @@
+{
+  "id": "1708076",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708076.php",
+  "publishedAt": "2026-08-28T12:04",
+  "title": "Schlägerei nach Streitigkeiten",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-08-28",
+    "street": "Stollberger Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "Several suspects beat and insulted a 26-year-old kiosk employee at a snack bar in Hellersdorf after he asked to close, and a passer-by was also drawn into the fight. Three suspects were arrested and the employee was treated in hospital for a head injury.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "bottle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.911Z"
+}

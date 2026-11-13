@@ -1,0 +1,21 @@
+{
+  "id": "1641744",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1641744.php",
+  "publishedAt": "2026-02-09T15:42",
+  "title": "Schüsse auf Lokal",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-02-09",
+    "street": "Konstanzer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Bullet holes were found in the door frame and transom of a bar on Konstanzer Straße, with the door frame apparently damaged days earlier and the transom shots reportedly fired overnight. No one was inside and nobody was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.470Z"
+}

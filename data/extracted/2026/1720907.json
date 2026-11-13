@@ -1,0 +1,21 @@
+{
+  "id": "1720907",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720907.php",
+  "publishedAt": "2026-10-02T11:43",
+  "title": "Unbekannte Person flüchtet nach Unfall mit vierjährigem Kind",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-01",
+    "street": "Zossener Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Hellersdorf",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A four-year-old boy was struck by a vehicle on Zossener Straße in Hellersdorf and taken to hospital for outpatient treatment. The unidentified driver, possibly of a van, left the scene.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.746Z"
+}

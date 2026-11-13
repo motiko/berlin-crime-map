@@ -1,0 +1,21 @@
+{
+  "id": "1654365",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1654365.php",
+  "publishedAt": "2026-03-19T17:10",
+  "title": "Mann angegriffen und verletzt",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-03-19",
+    "street": "Uferweg",
+    "houseNumberOrCrossing": "Massantebrücke",
+    "placeName": "Massantebrücke",
+    "district": "Neukölln",
+    "summaryEn": "Two unknown men attacked a 21-year-old on a riverside path in Rudow after demanding his belongings, stabbing him in the leg several times. He was taken to hospital for inpatient treatment.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.391Z"
+}

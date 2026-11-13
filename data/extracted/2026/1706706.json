@@ -1,0 +1,21 @@
+{
+  "id": "1706706",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1706706.php",
+  "publishedAt": "2026-08-25T12:37",
+  "title": "Radfahrerin bei Unfall erheblich verletzt",
+  "location": "Pankow",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-08-24",
+    "street": "Danziger Straße",
+    "houseNumberOrCrossing": "Kollwitzstraße",
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "A van driver allegedly ran a red light at the Danziger Straße junction in Prenzlauer Berg and struck a cyclist who had entered on green. The 74-year-old cyclist suffered serious head and face injuries.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.028Z"
+}

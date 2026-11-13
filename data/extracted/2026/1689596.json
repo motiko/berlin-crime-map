@@ -1,0 +1,21 @@
+{
+  "id": "1689596",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689596.php",
+  "publishedAt": "2026-07-04T17:00",
+  "title": "Frau bei Auseinandersetzung mit Messer verletzt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-07-04",
+    "street": "Stromstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A 41-year-old man allegedly stabbed his 79-year-old mother with a knife in an apartment in Moabit. The woman fled, neighbours alerted police, and the suspect was arrested nearby.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.905Z"
+}

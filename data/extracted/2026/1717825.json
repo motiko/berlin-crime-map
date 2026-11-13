@@ -1,0 +1,21 @@
+{
+  "id": "1717825",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717825.php",
+  "publishedAt": "2026-09-24T11:07",
+  "title": "Seniorin fährt Kind an",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-09-23",
+    "street": "Spandauer Damm",
+    "houseNumberOrCrossing": "Königin-Elisabeth-Straße",
+    "placeName": "Westend",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A 92-year-old driver hit a 13-year-old girl crossing Spandauer Damm in Westend and ran over her, causing a leg fracture. The driver was also treated at hospital and released.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.012Z"
+}

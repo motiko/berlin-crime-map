@@ -1,0 +1,21 @@
+{
+  "id": "1721903",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721903.php",
+  "publishedAt": "2026-10-06T12:16",
+  "title": "Geldausgabeautomat gesprengt",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "explosion",
+    "incidentDate": "2026-10-06",
+    "street": "Weißenhöher Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Einkaufszentrum",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "Unknown perpetrators blew up a freestanding cash machine inside a shopping centre in Biesdorf in the early hours. They fled without any money and no suspects were found in a search.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "explosive"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.982Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1682948",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682948.php",
+  "publishedAt": "2026-06-17T16:13",
+  "title": "Allgemeinverfügung anlässlich des zweiten nationalen Veteranentages – Einschränkungen im Berliner Regierungsviertel",
+  "location": "Mitte",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-06-21",
+    "street": "Ludwig-Erhard-Ufer",
+    "houseNumberOrCrossing": null,
+    "placeName": "Regierungsviertel (Spreebogenpark)",
+    "district": "Mitte",
+    "summaryEn": "Police issued a general order closing roads and areas in the government district on 21 June 2026 from 8 to 20 hours for the second national Veterans Day. Parking and public assemblies are banned in the marked zones during these hours.",
+    "injured": null,
+    "dead": null,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.752Z"
+}

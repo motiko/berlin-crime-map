@@ -1,0 +1,21 @@
+{
+  "id": "1703440",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703440.php",
+  "publishedAt": "2026-08-15T14:29",
+  "title": "Mann angefahren und anschließend geflüchtet",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-08-14",
+    "street": "Kantstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A driver struck a sleeping 52-year-old man at a car lift exit of a commercial building and then fled the scene. The man suffered serious injuries and was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.732Z"
+}

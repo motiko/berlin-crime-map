@@ -1,0 +1,21 @@
+{
+  "id": "1669670",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669670.php",
+  "publishedAt": "2026-05-08T15:28",
+  "title": "Tätlicher Angriff auf Polizeibeamte – Distanzelektroimpulsgerät eingesetzt",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-05-08",
+    "street": "Pallasstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Hostel",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "After a dispute at a hostel, a 32-year-old man attacked police officers who escorted him out and tried to grab an officer's service weapon. He was arrested after a stun device was used, and one officer and the man were hurt.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.696Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1673483",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673483.php",
+  "publishedAt": "2026-05-22T11:03",
+  "title": "Schüsse auf fahrendes Auto",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-05-21",
+    "street": "Urbanstraße",
+    "houseNumberOrCrossing": "Grimmstraße",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Shots were fired at a moving car on Urbanstraße from a motor scooter, with a pillion passenger firing from the median strip. The 7th homicide unit is investigating for attempted murder; the occupants were not injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.882Z"
+}

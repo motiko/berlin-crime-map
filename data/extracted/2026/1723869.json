@@ -1,0 +1,21 @@
+{
+  "id": "1723869",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723869.php",
+  "publishedAt": "2026-10-10T11:11",
+  "title": "Frau wird von Sattelzug angefahren und tödlich verletzt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-09",
+    "street": "Holländerstraße",
+    "houseNumberOrCrossing": "Belfaster Straße",
+    "placeName": "Wedding",
+    "district": "Mitte",
+    "summaryEn": "A 59-year-old woman was fatally struck by a semi-trailer truck while crossing Holländerstraße in Wedding. The truck driver left the scene without stopping.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.032Z"
+}

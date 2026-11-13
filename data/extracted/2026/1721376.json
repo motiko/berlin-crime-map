@@ -1,0 +1,21 @@
+{
+  "id": "1721376",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1721376.php",
+  "publishedAt": "2026-10-05T10:42",
+  "title": "Kind auf E-Scooter bei Unfall verletzt",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-04",
+    "street": "Geraer Ring",
+    "houseNumberOrCrossing": "Greizer Straße",
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A twelve-year-old on an e-scooter collided with a car changing lanes on Geraer Ring and fell, injuring his knee and hip. He was taken to hospital for outpatient treatment and later released; proceedings were opened for violating compulsory insurance rules.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.841Z"
+}

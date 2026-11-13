@@ -1,0 +1,21 @@
+{
+  "id": "1657366",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1657366.php",
+  "publishedAt": "2026-03-29T14:20",
+  "title": "Bedrohung mit Schusswaffe",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-03-28",
+    "street": "Forster Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A 42-year-old delivery driver was threatened with a handgun by a resident of an apartment building in Hellersdorf. A special forces unit later arrested the 49-year-old man in his flat and seized the firearm.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "handgun"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.679Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1641486",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1641486.php",
+  "publishedAt": "2026-02-09T11:08",
+  "title": "U-Bahnhof mit Farbe beschmiert",
+  "location": "Mitte",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-02-08",
+    "street": "Seestraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahnhof Seestraße",
+    "district": "Mitte",
+    "summaryEn": "A 50-year-old man was detained at Seestraße subway station after BVG security found a large multicolored graffiti on a wall. The State Security unit (Staatsschutz) has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.385Z"
+}

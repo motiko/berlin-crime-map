@@ -1,0 +1,21 @@
+{
+  "id": "1712632",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712632.php",
+  "publishedAt": "2026-09-10T17:17",
+  "title": "Waffe nach Verkehrsüberprüfung gefunden",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-09-10",
+    "street": "Skalitzer Straße",
+    "houseNumberOrCrossing": "Schlesisches Tor",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "After a traffic check on an e-scooter in Kreuzberg, police found suspected cocaine and cannabis and a firearm with a loaded magazine during a search of the man's apartment. He was released after police measures were completed.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.718Z"
+}

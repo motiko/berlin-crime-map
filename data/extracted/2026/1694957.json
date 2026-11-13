@@ -1,0 +1,21 @@
+{
+  "id": "1694957",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1694957.php",
+  "publishedAt": "2026-07-17T11:02",
+  "title": "Pyrotechnik explodiert – Mehrere Verletzte",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "explosion",
+    "incidentDate": "2026-07-16",
+    "street": "Käthe-Dorsch-Ring",
+    "houseNumberOrCrossing": null,
+    "placeName": "Gropiusstadt",
+    "district": "Neukölln",
+    "summaryEn": "Unknown persons allegedly set off several pyrotechnic devices in Käthe-Dorsch-Ring in Gropiusstadt around 20:40, injuring three children and a woman. Police are investigating for causing an explosion and dangerous bodily injury.",
+    "injured": 4,
+    "dead": 0,
+    "weaponType": "explosive"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.920Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1687326",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687326.php",
+  "publishedAt": "2026-06-29T14:26",
+  "title": "Sicherheitskooperation (SiKoop) der Länder führt gemeinsame Aktionswoche gegen Straftaten zum Nachteil von älteren Menschen (SÄM) durch",
+  "location": "bundesweit",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-06-29",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "Berlin and four other German states launch a joint action week (29 June to 5 July 2026) on crime against older people, mainly fraud such as phone scams and fake shops. Berlin police are running more than 40 prevention events citywide.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.972Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1674049",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674049.php",
+  "publishedAt": "2026-05-26T12:18",
+  "title": "Fensterscheiben eines Anti-Gewalt-Projekts beschädigt und beschmiert",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-05-25",
+    "street": "Bülowstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Windows of an anti-violence project facility in Schöneberg were damaged by a stone and a paint smear was found on another pane. The state security unit has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.696Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1687359",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687359.php",
+  "publishedAt": "2026-06-29T14:51",
+  "title": "Scharfe Schusswaffe beschlagnahmt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-06-28",
+    "street": "Paul-Lincke-Ufer",
+    "houseNumberOrCrossing": "Hobrechtbrücke",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Witnesses reported a man holding a firearm in Kreuzberg; police detained him at Hobrechtbrücke and seized a live handgun with a loaded magazine and a knife. No shots were reported.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.808Z"
+}

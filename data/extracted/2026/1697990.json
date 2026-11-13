@@ -1,0 +1,21 @@
+{
+  "id": "1697990",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697990.php",
+  "publishedAt": "2026-07-28T12:19",
+  "title": "Knallgeräusch löst Polizeieinsatz aus",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-07-27",
+    "street": "Falckensteinstraße",
+    "houseNumberOrCrossing": "Wrangelstraße",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A loud bang reported in Falckensteinstraße was followed by a power outage affecting several buildings in the area. A short circuit in a nearby transformer station is believed to have caused the outage, and no one was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.738Z"
+}

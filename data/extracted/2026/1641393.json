@@ -1,0 +1,21 @@
+{
+  "id": "1641393",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1641393.php",
+  "publishedAt": "2026-02-07T16:53",
+  "title": "Mann nach mehreren Straftaten und Flucht vor der Polizei festgenommen",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-02-06",
+    "street": "Lea-Grundig-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A 31-year-old man broke into a flat, threatened and robbed the 45-year-old resident, then stole a vehicle and damaged a swimming hall before a chase and arrest. Police also found suspected narcotics and a police officer was slightly injured.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.441Z"
+}

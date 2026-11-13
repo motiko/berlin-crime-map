@@ -1,0 +1,21 @@
+{
+  "id": "1637239",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1637239.php",
+  "publishedAt": "2026-01-24T11:44",
+  "title": "Jugendlicher nach Starkstromschlag im Gleisbett verstorben",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-01-24",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahnhof Deutsche Oper",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A 17-year-old died after an electric shock on the track bed at Deutsche Oper underground station while trying to retrieve an object that had fallen there. Police found no indication of third-party involvement; the death investigation is ongoing.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.436Z"
+}

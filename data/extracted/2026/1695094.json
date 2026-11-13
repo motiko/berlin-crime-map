@@ -1,0 +1,21 @@
+{
+  "id": "1695094",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695094.php",
+  "publishedAt": "2026-07-17T14:28",
+  "title": "Radfahrer bei Ausweichmanöver gegen geparktes Auto geprallt",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-16",
+    "street": "Triftstraße",
+    "houseNumberOrCrossing": "21",
+    "placeName": "Wittenau",
+    "district": "Reinickendorf",
+    "summaryEn": "A 24-year-old cyclist swerved to avoid a car overtaking too closely, crashed into a parked car and was injured. The driver did not stop and fled the scene.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.059Z"
+}

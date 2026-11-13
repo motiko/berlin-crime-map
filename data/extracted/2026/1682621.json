@@ -1,0 +1,21 @@
+{
+  "id": "1682621",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682621.php",
+  "publishedAt": "2026-06-17T11:15",
+  "title": "Einbrecher mithilfe des DEIG festgenommen",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-06-16",
+    "street": "Göttinger Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A 29-year-old suspected burglar forced entry into an apartment and armed himself with a kitchen knife. Police arrested him after using a conducted energy device (DEIG) when he approached officers, and he was taken to hospital.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.989Z"
+}

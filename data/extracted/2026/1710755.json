@@ -1,0 +1,21 @@
+{
+  "id": "1710755",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710755.php",
+  "publishedAt": "2026-09-05T15:26",
+  "title": "Räuberische Erpressung",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-09-04",
+    "street": "Stallschreiberstraße",
+    "houseNumberOrCrossing": "Alexandrinenstraße",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Three masked people demanded cash from a 24-year-old man on a pavement in Kreuzberg, beat and kicked him when he could not pay, and demanded further payment for the next day. The man reported that the same group had been extorting money from him since 2023.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.771Z"
+}

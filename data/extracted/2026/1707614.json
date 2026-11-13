@@ -1,0 +1,21 @@
+{
+  "id": "1707614",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707614.php",
+  "publishedAt": "2026-08-27T13:46",
+  "title": "Mutmaßliche Einbrecher festgenommen",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-08-27",
+    "street": "Potsdamer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Police were alerted to a suspected break-in in an apartment building in Schöneberg after a resident saw two masked people in the stairwell. Two men aged 19 and 20 were arrested in the building's elevator, and fresh break-in traces were found at an apartment door.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.813Z"
+}

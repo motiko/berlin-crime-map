@@ -1,0 +1,21 @@
+{
+  "id": "1709102",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709102.php",
+  "publishedAt": "2026-09-01T10:16",
+  "title": "Autofahrer fährt Fußgängerin an",
+  "location": "Pankow",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-08-31",
+    "street": "Hauptstraße",
+    "houseNumberOrCrossing": "Schillerstraße",
+    "placeName": "Wilhelmsruh",
+    "district": "Pankow",
+    "summaryEn": "A car turning left collided with an 86-year-old pedestrian crossing at a crosswalk in Wilhelmsruh. The woman fell, suffered a head injury and was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.737Z"
+}

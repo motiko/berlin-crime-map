@@ -1,0 +1,21 @@
+{
+  "id": "1667023",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667023.php",
+  "publishedAt": "2026-05-03T14:46",
+  "title": "Schüsse auf ein Café",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-05-03",
+    "street": "Potsdamer Straße",
+    "houseNumberOrCrossing": "Großgörschenstraße",
+    "placeName": "Café in Schöneberg",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "An unknown person fired shots at a café on the corner of Potsdamer Straße and Großgörschenstraße at about 4:50 am and fled. Police found damage to the building facade; nobody was injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.989Z"
+}

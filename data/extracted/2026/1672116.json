@@ -1,0 +1,21 @@
+{
+  "id": "1672116",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672116.php",
+  "publishedAt": "2026-05-19T11:46",
+  "title": "Brandstiftung im Gewerbegebiet",
+  "location": "Pankow",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-05-18",
+    "street": "Blankenburger Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Gewerbegebiet Heinersdorf",
+    "district": "Pankow",
+    "summaryEn": "A deliberate fire broke out in a commercial area in Heinersdorf, spreading to a commercial hall, storage containers and vehicles. The building owner suffered a minor burn while trying to extinguish it.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.738Z"
+}

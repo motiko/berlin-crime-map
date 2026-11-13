@@ -1,0 +1,21 @@
+{
+  "id": "1713049",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1713049.php",
+  "publishedAt": "2026-09-11T14:15",
+  "title": "Polizei Berlin lädt zum 45. Tag der offenen Tür ein",
+  "location": "Spandau",
+  "extraction": {
+    "category": "other",
+    "incidentDate": null,
+    "street": "Charlottenburger Chaussee",
+    "houseNumberOrCrossing": null,
+    "placeName": "Polizeigelände Charlottenburger Chaussee",
+    "district": "Spandau",
+    "summaryEn": "Berlin police announce their 45th open day on Sunday, 13 September 2026, at their Charlottenburger Chaussee site in Spandau, running 10:00 to 18:00. The event includes information stands, demonstrations, themed parks and recruitment information.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.930Z"
+}

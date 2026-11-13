@@ -1,0 +1,21 @@
+{
+  "id": "1667004",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667004.php",
+  "publishedAt": "2026-05-02T14:10",
+  "title": "Mann bei Auseinandersetzung verletzt",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-05-02",
+    "street": "Bismarckstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A 28-year-old man was attacked by a group in the Charlottenburg nightlife area after a verbal dispute escalated, and was stabbed and cut in the neck, abdomen and back. He underwent emergency surgery; police say his life is no longer in danger.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.928Z"
+}

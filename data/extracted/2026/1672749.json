@@ -1,0 +1,21 @@
+{
+  "id": "1672749",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1672749.php",
+  "publishedAt": "2026-05-20T13:57",
+  "title": "Schüsse auf Mehrfamilienhaus",
+  "location": "Mitte",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-05-19",
+    "street": "Grüntaler Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "Shots were fired at an apartment building on Grüntaler Straße in the night from Monday to Tuesday; a bullet hole was found in a living room window the next day. No one was in the room at the time.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.845Z"
+}

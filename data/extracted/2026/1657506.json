@@ -1,0 +1,21 @@
+{
+  "id": "1657506",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1657506.php",
+  "publishedAt": "2026-03-30T10:30",
+  "title": "Polizeibeamte bei Festnahme verletzt",
+  "location": "Pankow",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-03-29",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "S-Bahnhof Karow",
+    "district": "Pankow",
+    "summaryEn": "A 37-year-old man struck a police officer in the face and resisted arrest after being questioned about a theft from a clothing container. Two officers were injured, one seriously enough to end his shift.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.715Z"
+}

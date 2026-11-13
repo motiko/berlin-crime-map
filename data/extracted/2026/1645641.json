@@ -1,0 +1,21 @@
+{
+  "id": "1645641",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1645641.php",
+  "publishedAt": "2026-02-23T10:42",
+  "title": "Mehrere Verletzte nach Verkehrsunfall mit BVG-Bus",
+  "location": "Spandau",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-02-22",
+    "street": "Gatower Straße",
+    "houseNumberOrCrossing": "Zur Haveldüne",
+    "placeName": "Gatow",
+    "district": "Spandau",
+    "summaryEn": "A car crossed into oncoming traffic on Gatower Straße in Gatow and collided with a BVG bus, which then hit a tree. Thirteen people were injured, including the driver, and the road was closed for about eight hours.",
+    "injured": 13,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.433Z"
+}

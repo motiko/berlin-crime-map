@@ -1,0 +1,21 @@
+{
+  "id": "1691725",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691725.php",
+  "publishedAt": "2026-07-09T14:35",
+  "title": "Verkehrsunfall mit Rettungswagen bei Sonder- und Wegerechtsfahrt im Kreuzungsbereich",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-08",
+    "street": "Am Rosenhag",
+    "houseNumberOrCrossing": "Hönower Straße",
+    "placeName": "Mahlsdorf",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A car collided at an intersection with an ambulance responding under emergency rights, pushing the car into a waiting van. All three vehicles were rendered undriveable.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.745Z"
+}

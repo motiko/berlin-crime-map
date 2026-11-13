@@ -1,0 +1,21 @@
+{
+  "id": "1716068",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716068.php",
+  "publishedAt": "2026-09-18T13:18",
+  "title": "Schussabgabe durch Polizeibeamten",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-09-18",
+    "street": "Ritterstraße",
+    "houseNumberOrCrossing": "Segitzdamm",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "In the night, a police officer fired a shot at a car whose driver had sped toward an officer after a pepper-spray attack on a colleague. The car escaped toward Wassertorplatz despite the shot.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.971Z"
+}

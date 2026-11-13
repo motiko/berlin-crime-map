@@ -1,0 +1,21 @@
+{
+  "id": "1683863",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683863.php",
+  "publishedAt": "2026-06-19T12:50",
+  "title": "Angegriffen, randaliert und Einsatzfahrzeug beschädigt",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-06-18",
+    "street": "Albrechtstraße",
+    "houseNumberOrCrossing": "Schlossstraße",
+    "placeName": "Jugendeinrichtung in der Albrechtstraße",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "Two men aged 44 and 47 allegedly rioted at a youth facility, attacked a caregiver and a passer-by, and later damaged two police vehicles during arrest and transport. One suspect was taken to hospital for psychiatric reasons.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.684Z"
+}

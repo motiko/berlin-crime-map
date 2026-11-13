@@ -1,0 +1,21 @@
+{
+  "id": "1632088",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1632088.php",
+  "publishedAt": "2026-01-11T14:30",
+  "title": "Passanten und Einsatzkräfte angegriffen",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-01-10",
+    "street": "Reichenberger Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A 36-year-old man attacked a police patrol and bystanders after reporting an alleged theft of cash in Kreuzberg. He was arrested, sustained a facial injury, and is being investigated for incitement, assault and resisting officers.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.458Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1667007",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667007.php",
+  "publishedAt": "2026-05-02T14:31",
+  "title": "Mit Pfefferspray in Moschee gesprüht - Tatverdächtige festgenommen",
+  "location": "Mitte",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-05-01",
+    "street": "Drontheimer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Moschee in Gesundbrunnen",
+    "district": "Mitte",
+    "summaryEn": "Two men entered a mosque in Gesundbrunnen and allegedly sprayed animal repellent spray in the hallway and prayer room while about 100 people were present. One suspect was detained by bystanders and police, and the 59-year-old was taken to hospital for chest pain not linked to the incident.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "animal repellent spray"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.852Z"
+}

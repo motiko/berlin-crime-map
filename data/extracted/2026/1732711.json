@@ -1,0 +1,21 @@
+{
+  "id": "1732711",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1732711.php",
+  "publishedAt": "2026-10-29T13:53",
+  "title": "Farbschmiererei an Parteibüro",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-10-28",
+    "street": "Cecilienplatz",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "Paint was sprayed on a window frame of a party office at Cecilienplatz in Hellersdorf. The political police unit (Staatsschutz) has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.973Z"
+}

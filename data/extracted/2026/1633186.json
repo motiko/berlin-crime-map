@@ -1,0 +1,21 @@
+{
+  "id": "1633186",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1633186.php",
+  "publishedAt": "2026-01-13T17:12",
+  "title": "Mann nach Wohnungsbrand verstorben",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-01-13",
+    "street": "Buggenhagenstraße",
+    "houseNumberOrCrossing": "Erich-Kuttner-Straße",
+    "placeName": "Fennpfuhl",
+    "district": "Lichtenberg",
+    "summaryEn": "A kitchen fire broke out in a fourth-floor apartment in a residential building in Fennpfuhl, and a 44-year-old resident was found unresponsive. He died in hospital shortly afterwards; the investigation is handled by a fire unit of the LKA.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.383Z"
+}

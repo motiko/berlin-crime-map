@@ -1,0 +1,21 @@
+{
+  "id": "1678401",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678401.php",
+  "publishedAt": "2026-06-06T12:32",
+  "title": "Tödlicher Verkehrsunfall",
+  "location": "Pankow",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-06-05",
+    "street": "Charlottenstraße",
+    "houseNumberOrCrossing": "Buchholzer Straße",
+    "placeName": "Niederschönhausen",
+    "district": "Pankow",
+    "summaryEn": "A 56-year-old driver turning left struck an 85-year-old pedestrian at a crossing in Niederschönhausen. The pedestrian died in hospital from head injuries the following night.",
+    "injured": 1,
+    "dead": 1,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.813Z"
+}

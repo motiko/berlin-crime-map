@@ -1,0 +1,21 @@
+{
+  "id": "1691360",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1691360.php",
+  "publishedAt": "2026-07-08T15:58",
+  "title": "Autofahrerinnen ungebremst miteinander kollidiert",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-07",
+    "street": "Märkische Allee",
+    "houseNumberOrCrossing": "Wuhletalstraße",
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "Two car drivers collided at an intersection in Marzahn, causing one car to roll over and hit a traffic sign. A pedestrian and a passenger were injured, and both vehicles were badly damaged.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.787Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1684576",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1684576.php",
+  "publishedAt": "2026-06-22T16:21",
+  "title": "Nach Auseinandersetzung und Widerstand – DEIG eingesetzt",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-06-21",
+    "street": "Kaiser-Friedrich-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A 25-year-old man threatened a café employee, then was attacked by relatives of the employee and was injured. Police used a distance electroshock device against a 28-year-old who resisted arrest, and an officer was hurt.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.958Z"
+}

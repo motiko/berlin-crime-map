@@ -1,0 +1,21 @@
+{
+  "id": "1669807",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1669807.php",
+  "publishedAt": "2026-05-10T16:20",
+  "title": "Sachbeschädigung an Synagoge",
+  "location": "Mitte",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-05-09",
+    "street": "Tucholskystraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Synagoge",
+    "district": "Mitte",
+    "summaryEn": "Police found paint graffiti covering about 2 by 8 metres on the roof of a synagogue, along with damage to the perimeter fence. No political motive has been identified so far.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.700Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1671523",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671523.php",
+  "publishedAt": "2026-05-16T17:25",
+  "title": "Frau beschädigt Wahlplakat und bedroht Personen mit Holzlatte",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-05-16",
+    "street": "Johannisthaler Chaussee",
+    "houseNumberOrCrossing": null,
+    "placeName": "Gropiusstadt",
+    "district": "Neukölln",
+    "summaryEn": "A woman damaged an election poster at a party information stand with a wooden plank and threatened a party employee with it. She also repeatedly entered the roadway, forcing drivers to brake or swerve; she was arrested and taken to hospital.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "wooden plank"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.006Z"
+}

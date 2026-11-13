@@ -1,0 +1,21 @@
+{
+  "id": "1717930",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717930.php",
+  "publishedAt": "2026-09-24T13:29",
+  "title": "Sachbeschädigung durch Feuer und Farbschmiererei",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-09-24",
+    "street": "Marktstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Rummelsburg",
+    "district": "Lichtenberg",
+    "summaryEn": "Overnight, a large graffiti inscription was found on a building facade and window front in Marktstraße, and a fire damaged office furnishings inside the building. Nobody was hurt; the State Security unit (Staatsschutz) took over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.691Z"
+}

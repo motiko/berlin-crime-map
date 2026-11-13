@@ -1,0 +1,21 @@
+{
+  "id": "1690252",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1690252.php",
+  "publishedAt": "2026-07-06T16:18",
+  "title": "Mehrere Fahrzeuge in Flammen",
+  "location": "Spandau",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-07-06",
+    "street": "Heerstraße",
+    "houseNumberOrCrossing": "Jaczostraße",
+    "placeName": "Wilhelmstadt",
+    "district": "Spandau",
+    "summaryEn": "Several cars and trucks were set on fire on Heerstraße in Wilhelmstadt overnight, and firefighters extinguished the vehicles. Six cars, three trucks and a trailer were damaged, and nobody was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.017Z"
+}

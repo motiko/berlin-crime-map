@@ -1,0 +1,21 @@
+{
+  "id": "1649560",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1649560.php",
+  "publishedAt": "2026-03-04T16:15",
+  "title": "Vor der Polizei geflüchtet und festgenommen",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-03-04",
+    "street": "Michael-Brückner-Straße",
+    "houseNumberOrCrossing": "Schnellerstraße",
+    "placeName": "Niederschöneweide",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A 29-year-old driver fled from police in a rental car at high speed in Niederschöneweide and was stopped after a chase. Officers found suspected narcotics and a knife in the car, and the driver was later released.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.445Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1681512",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681512.php",
+  "publishedAt": "2026-06-15T09:27",
+  "title": "Mehrere Fahrzeuge in Brand gesetzt",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-06-15",
+    "street": "Landsberger Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Lichtenberg",
+    "summaryEn": "Six company vehicles were set on fire and burned out on the fenced premises of a telecommunications company in Alt-Hohenschönhausen. A passerby reported the blaze around 1:50 a.m., and arson is suspected.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.769Z"
+}

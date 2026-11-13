@@ -1,0 +1,21 @@
+{
+  "id": "1723117",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723117.php",
+  "publishedAt": "2026-10-08T14:53",
+  "title": "Radfahrer von Lkw-Fahrer angefahren",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "traffic",
+    "dead": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "houseNumberOrCrossing": "Gotzkowskybrücke",
+    "incidentDate": "2026-10-07",
+    "injured": 1,
+    "placeName": null,
+    "street": "Franklinstraße",
+    "summaryEn": "A 79-year-old truck driver turned left on Franklinstraße and hit a cyclist, who was seriously injured. The road was closed to traffic for about three hours during the police investigation.",
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.673Z"
+}

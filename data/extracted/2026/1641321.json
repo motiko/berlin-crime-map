@@ -1,0 +1,21 @@
+{
+  "id": "1641321",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1641321.php",
+  "publishedAt": "2026-02-06T15:01",
+  "title": "Verdacht des Arzneimittelhandels - Wohnungsdurchsuchung",
+  "location": "Spandau",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-02-05",
+    "street": "Parkstraße",
+    "houseNumberOrCrossing": "Neuendorfer Straße",
+    "placeName": "Hakenfelde",
+    "district": "Spandau",
+    "summaryEn": "Police searched a flat in Hakenfelde on suspicion of illegal medicine trafficking after plainclothes officers found prescription drugs and a pepper spray and telescopic baton in a driver's car. A loaded service pistol that had been stolen from police 15 years earlier was found during the search.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.351Z"
+}

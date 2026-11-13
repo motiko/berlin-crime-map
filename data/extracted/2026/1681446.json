@@ -1,0 +1,21 @@
+{
+  "id": "1681446",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681446.php",
+  "publishedAt": "2026-06-14T14:39",
+  "title": "Mit einem Einsatzwagen zusammengestoßen und verletzt",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-06-13",
+    "street": "Treskowallee",
+    "houseNumberOrCrossing": "Hegemeisterweg",
+    "placeName": "Karlshorst",
+    "district": "Lichtenberg",
+    "summaryEn": "A motorcyclist fleeing police at high speed and running red lights crashed into a police vehicle that had blocked Treskowallee. The 22-year-old rider suffered a leg abrasion and was treated on scene.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.755Z"
+}

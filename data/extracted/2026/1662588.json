@@ -1,0 +1,21 @@
+{
+  "id": "1662588",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662588.php",
+  "publishedAt": "2026-04-20T13:59",
+  "title": "Auseinandersetzung nach Fußballspiel",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-04-19",
+    "street": "Oschatzer Ring",
+    "houseNumberOrCrossing": null,
+    "placeName": "Sportplatz am Oschatzer Ring",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "After a football match, around 20 people allegedly attacked two players and a spectator of the visiting team with punches, kicks and shoves. One attacker allegedly tried to hit a player with a fire extinguisher in the changing room, but witnesses prevented it.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": "fire extinguisher"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.890Z"
+}

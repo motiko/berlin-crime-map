@@ -1,0 +1,21 @@
+{
+  "id": "1733476",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733476.php",
+  "publishedAt": "2026-11-01T11:47",
+  "title": "Schüsse auf Mehrfamilienhaus",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-11-01",
+    "street": "Wedellstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Lankwitz",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "Shots were fired at an apartment building in Lankwitz overnight; several bullet holes were found in the front door and adjacent glass. No one was injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.841Z"
+}

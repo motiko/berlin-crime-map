@@ -1,0 +1,21 @@
+{
+  "id": "1733480",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1733480.php",
+  "publishedAt": "2026-11-01T12:21",
+  "title": "Schüsse vor Restaurant",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-11-01",
+    "street": "Knesebeckstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Several shots were fired from a vehicle in front of a restaurant in Knesebeckstraße shortly before 5 a.m., after an earlier dispute in which an employee was threatened with a firearm. No one inside was injured, and the perpetrators fled; casings were secured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.693Z"
+}

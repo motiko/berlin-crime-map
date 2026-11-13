@@ -1,0 +1,21 @@
+{
+  "id": "1673477",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673477.php",
+  "publishedAt": "2026-05-22T10:48",
+  "title": "Autodiebe auf frischer Tat festgenommen",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-05-22",
+    "street": "Ringbahnstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Two men aged 33 and 34 were arrested while allegedly tampering with a car on Ringbahnstraße after a resident alerted police. Tools, diagnostic devices and license plates were found in their vehicle, and the car was seized.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.708Z"
+}

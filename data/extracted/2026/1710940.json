@@ -1,0 +1,21 @@
+{
+  "id": "1710940",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710940.php",
+  "publishedAt": "2026-09-07T10:29",
+  "title": "Transperson mit Schusswaffe bedroht",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-09-07",
+    "street": "Mehringplatz",
+    "houseNumberOrCrossing": null,
+    "placeName": "Mehringplatz",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "An 18-year-old trans person sitting on a bench at Mehringplatz was threatened with a firearm by two unknown men after disclosing their gender identity. The suspects fled before police arrived, and the state security unit has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.830Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1665265",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665265.php",
+  "publishedAt": "2026-04-27T17:12",
+  "title": "Vielzahl an Straftaten bei Flucht vor Polizei",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-04-27",
+    "street": "Koppelweg",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "Plainclothes officers caught a 22-year-old loading construction material from a building site into a car in Britz; the group fled, crashing into parked cars, and the driver was arrested after a chase on foot. Investigators are pursuing charges including aggravated gang theft and attempted dangerous bodily injury.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.828Z"
+}

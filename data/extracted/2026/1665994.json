@@ -1,0 +1,21 @@
+{
+  "id": "1665994",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665994.php",
+  "publishedAt": "2026-04-29T09:53",
+  "title": "Zwölfjähriger Radfahrer bei Unfall verletzt",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-04-28",
+    "street": "Seydlitzstraße",
+    "houseNumberOrCrossing": "Kaiser-Wilhelm-Straße",
+    "placeName": "Lankwitz",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A twelve-year-old cyclist was injured after colliding with a car at a crossing in Lankwitz. The 41-year-old driver was unhurt, and police are investigating which traffic lights were showing.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.943Z"
+}

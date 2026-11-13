@@ -1,0 +1,21 @@
+{
+  "id": "1705976",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705976.php",
+  "publishedAt": "2026-08-22T15:10",
+  "title": "Fremdenfeindlich beleidigt und geschlagen",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-08-21",
+    "street": "Frankfurter Allee",
+    "houseNumberOrCrossing": "Möllendorffstraße",
+    "placeName": "Straßenbahn M 16 / Haltestelle Möllendorffstraße",
+    "district": "Lichtenberg",
+    "summaryEn": "A 52-year-old woman was verbally harassed with xenophobic insults, pushed and struck in the face after a dispute on tram line M 16 and at the stop Möllendorffstraße. The State Security unit has taken over the investigation.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.042Z"
+}

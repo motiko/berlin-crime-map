@@ -1,0 +1,21 @@
+{
+  "id": "1702929",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1702929.php",
+  "publishedAt": "2026-08-13T16:16",
+  "title": "Festnahme einer mutmaßlichen Diebesbande auf frischer Tat",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-08-12",
+    "street": "Fritz-Erler-Allee",
+    "houseNumberOrCrossing": "Johannisthaler Chaussee",
+    "placeName": "Gropiusstadt",
+    "district": "Neukölln",
+    "summaryEn": "Three suspects aged 25, 34 and 35 allegedly broke into two apartments in Gropiusstadt on the same morning and stole jewelry, coins and cash. The trio was arrested by LKA officers later that day after being found with the loot and burglary tools.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.865Z"
+}

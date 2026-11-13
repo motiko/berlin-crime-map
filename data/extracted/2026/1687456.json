@@ -1,0 +1,21 @@
+{
+  "id": "1687456",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1687456.php",
+  "publishedAt": "2026-06-29T16:27",
+  "title": "Festnahmen nach räuberischer Erpressung und Schussabgabe – BAO Ferrum ermittelt",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-06-29",
+    "street": "Tempelhofer Weg",
+    "houseNumberOrCrossing": "Gottlieb-Dunkel-Straße",
+    "placeName": "Bistro",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Masked men threatened a bistro employee with a firearm and demanded money; a shot was fired during a struggle before they fled. Four suspects aged 23 to 28 were arrested shortly afterwards.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.965Z"
+}

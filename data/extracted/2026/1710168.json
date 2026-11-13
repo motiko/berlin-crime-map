@@ -1,0 +1,21 @@
+{
+  "id": "1710168",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710168.php",
+  "publishedAt": "2026-09-03T13:48",
+  "title": "Neun scharfe Schusswaffen beschlagnahmt",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "raid",
+    "incidentDate": "2026-09-02",
+    "street": "Johannisthaler Chaussee",
+    "houseNumberOrCrossing": "Fanny-Zobel-Brücke",
+    "placeName": "Baumschulenweg",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "Police checked a 38-year-old man's van after an suspected drug deal and seized nine firearms, three in the vehicle and six in a garden plot. The man was arrested for resisting officers and is to be brought before a judge.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.962Z"
+}

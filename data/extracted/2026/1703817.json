@@ -1,0 +1,21 @@
+{
+  "id": "1703817",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1703817.php",
+  "publishedAt": "2026-08-17T13:38",
+  "title": "Erheblich verletzter Radfahrer",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-08-16",
+    "street": "Albrechtstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A 47-year-old cyclist hit an opened car door on Albrechtstraße and fell, suffering serious injuries. He was taken to hospital by ambulance.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.817Z"
+}

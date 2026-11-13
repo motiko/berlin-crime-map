@@ -1,0 +1,21 @@
+{
+  "id": "1680627",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680627.php",
+  "publishedAt": "2026-06-11T11:23",
+  "title": "Notoperation nach Angriff mit Messer",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-06-11",
+    "street": "Märkische Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A 39-year-old man was stabbed in his apartment in the night, and a 43-year-old man was arrested as a suspect. The injured man was taken to hospital in life-threatening condition and underwent emergency surgery.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.860Z"
+}

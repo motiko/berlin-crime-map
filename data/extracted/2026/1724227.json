@@ -1,0 +1,21 @@
+{
+  "id": "1724227",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724227.php",
+  "publishedAt": "2026-10-12T10:56",
+  "title": "Seniorin um Bankkarte betrogen – Wer erkennt die Tatverdächtigen?",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "fraud",
+    "incidentDate": "2026-07-25",
+    "street": "Wittenbergplatz",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 66-year-old woman was tricked by a phone caller posing as a bank employee into handing over her bank card and PIN; a man collected the card at her flat and cash was withdrawn at a bank branch. Police are seeking two unknown suspects via CCTV images.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.885Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1692331",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1692331.php",
+  "publishedAt": "2026-07-12T13:40",
+  "title": "Mit Schusswaffe bedroht - Festnahmen",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-07-10",
+    "street": "Borussiastraße",
+    "houseNumberOrCrossing": "Ringbahnstraße/Tempelhofer Damm",
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Three men met on Borussiastraße over a money claim, and one allegedly threatened a 23-year-old with a firearm to press the demand. Police arrested the group after a chase and seized a live handgun and ammunition.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.757Z"
+}

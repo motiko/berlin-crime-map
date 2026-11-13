@@ -1,0 +1,21 @@
+{
+  "id": "1680282",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1680282.php",
+  "publishedAt": "2026-06-10T14:46",
+  "title": "Festnahme nach Taschendiebstahl",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-06-09",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "U-Bahnhof Frankfurter Tor",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "An 18-year-old was arrested after allegedly pickpocketing an 89-year-old man's wallet at Frankfurter Tor subway station. The wallet was returned to the victim, and the suspect was taken into custody pending an arrest warrant.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.828Z"
+}

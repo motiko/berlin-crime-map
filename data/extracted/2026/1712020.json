@@ -1,0 +1,21 @@
+{
+  "id": "1712020",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712020.php",
+  "publishedAt": "2026-09-09T15:03",
+  "title": "Bronzeskulpturen entwendet – Polizei bittet um Mithilfe",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-08-25",
+    "street": "Fuggerstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Garten der Fugger-Klinik",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Three bronze sculptures were stolen from the garden of a clinic between 25 and 26 August 2026. Police are asking for information on their whereabouts.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.912Z"
+}

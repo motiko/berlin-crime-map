@@ -1,0 +1,21 @@
+{
+  "id": "1648057",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1648057.php",
+  "publishedAt": "2026-03-01T15:31",
+  "title": "E-Scooter-Fahrerin bei Unfall verletzt",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-02-28",
+    "street": "Roedernallee",
+    "houseNumberOrCrossing": "Flottenstraße",
+    "placeName": null,
+    "district": "Reinickendorf",
+    "summaryEn": "A 16-year-old e-scooter rider was hit by a car turning left at a junction in Reinickendorf and was injured. She was taken to hospital for inpatient treatment.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.359Z"
+}

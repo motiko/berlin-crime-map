@@ -1,0 +1,21 @@
+{
+  "id": "1673014",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673014.php",
+  "publishedAt": "2026-05-21T09:55",
+  "title": "Mit Messer angegriffen und beraubt",
+  "location": "Spandau",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-05-21",
+    "street": "Kurstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Spandau",
+    "summaryEn": "A masked man attacked a 19-year-old employee of a convenience store with a knife as he was closing the shop, cutting his thigh, and then demanded cash and fled with the money. The employee was taken to hospital for outpatient treatment.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.998Z"
+}

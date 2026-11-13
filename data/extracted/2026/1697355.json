@@ -1,0 +1,21 @@
+{
+  "id": "1697355",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697355.php",
+  "publishedAt": "2026-07-24T14:32",
+  "title": "Körperliche Auseinandersetzung zwischen mehreren Personen",
+  "location": "Mitte",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-07-23",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Kleiner Tiergarten",
+    "district": "Mitte",
+    "summaryEn": "Four men got into a verbal and physical fight in a park in Moabit around 17:30, with a dog involved. Several people were injured, some with a glass bottle, a hammer and a knife, and the dog was stabbed.",
+    "injured": 4,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.794Z"
+}

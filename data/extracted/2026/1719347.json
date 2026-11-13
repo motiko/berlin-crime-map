@@ -1,0 +1,21 @@
+{
+  "id": "1719347",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1719347.php",
+  "publishedAt": "2026-09-29T10:44",
+  "title": "Regenbogenbank erneut beschädigt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-09-29",
+    "street": "Ahornsteig",
+    "houseNumberOrCrossing": null,
+    "placeName": "Großer Tiergarten",
+    "district": "Mitte",
+    "summaryEn": "Unknown persons damaged a rainbow memorial bench in Großer Tiergarten that had been set up after the attack on the Berlin CSD. The Staatsschutz is investigating, as the bench was also destroyed twice earlier in September.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.837Z"
+}

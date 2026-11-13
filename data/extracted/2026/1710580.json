@@ -1,0 +1,21 @@
+{
+  "id": "1710580",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710580.php",
+  "publishedAt": "2026-09-04T13:02",
+  "title": "Beleidigung und Nötigung im Zusammenhang mit der Wahl zum Abgeordnetenhaus von Berlin",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-09-03",
+    "street": "Schloßstraße",
+    "houseNumberOrCrossing": "Grunewaldstraße",
+    "placeName": null,
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A 38-year-old party member replacing election posters at a Steglitz intersection was insulted and then blocked by an unknown man, who left after an acquaintance intervened. The case is handled by the state security unit (Staatsschutz).",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.962Z"
+}

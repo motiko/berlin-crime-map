@@ -1,0 +1,21 @@
+{
+  "id": "1718571",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1718571.php",
+  "publishedAt": "2026-09-27T12:43",
+  "title": "Heranwachsender mit Messer verletzt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-09-26",
+    "street": "Karl-Liebknecht-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Parkplatz eines Einkaufsmarktes",
+    "district": "Mitte",
+    "summaryEn": "An 18-year-old was stabbed several times with a knife in a dispute with a group on a supermarket car park. The suspected attacker, a 13-year-old, has been identified.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.840Z"
+}

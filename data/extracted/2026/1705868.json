@@ -1,0 +1,21 @@
+{
+  "id": "1705868",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705868.php",
+  "publishedAt": "2026-08-21T14:21",
+  "title": "Brandstiftung an einem Späti",
+  "location": "Mitte",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-08-20",
+    "street": "Amsterdamer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "An unknown masked person threw an incendiary device at a convenience store in Wedding overnight, and it bounced off the awning and set a parked car on fire. Witnesses extinguished the fire and nobody was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "incendiary device"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.952Z"
+}

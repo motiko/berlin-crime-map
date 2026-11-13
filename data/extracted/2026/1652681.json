@@ -1,0 +1,21 @@
+{
+  "id": "1652681",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1652681.php",
+  "publishedAt": "2026-03-16T09:50",
+  "title": "Motorradfahrer fährt Seniorin an",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-03-15",
+    "street": "Akazienstraße",
+    "houseNumberOrCrossing": "Grunewaldstraße",
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A motorcyclist hit an 85-year-old woman crossing Akazienstraße in Schöneberg; both fell. The woman suffered life-threatening injuries and remains in critical condition, while the motorcyclist was slightly hurt.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.357Z"
+}

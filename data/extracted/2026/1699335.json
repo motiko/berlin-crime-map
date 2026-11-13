@@ -1,0 +1,21 @@
+{
+  "id": "1699335",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1699335.php",
+  "publishedAt": "2026-08-02T14:08",
+  "title": "Fahrradfahrer umgefahren und geflüchtet",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-08-01",
+    "street": "Alt-Rudow",
+    "houseNumberOrCrossing": "Ehrenpreisweg",
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "A car driver hit an 80-year-old cyclist in Rudow and drove off without helping. The cyclist was taken to hospital, and a 38-year-old man who admitted to driving without a licence later came forward.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.733Z"
+}

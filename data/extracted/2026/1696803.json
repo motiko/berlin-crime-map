@@ -1,0 +1,21 @@
+{
+  "id": "1696803",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696803.php",
+  "publishedAt": "2026-07-23T10:28",
+  "title": "Mann bei Streit mit Messer verletzt – Tatverdächtiger festgenommen",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-07-22",
+    "street": "Falkenhausenweg",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "After an argument in Lankwitz, a 33-year-old man was stabbed in the upper body with a knife by a 31-year-old man, who was arrested shortly afterwards. The victim was hospitalized with non-life-threatening injuries.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.014Z"
+}

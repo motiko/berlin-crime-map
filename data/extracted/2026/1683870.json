@@ -1,0 +1,21 @@
+{
+  "id": "1683870",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1683870.php",
+  "publishedAt": "2026-06-19T12:57",
+  "title": "Polizeikontrolle entzogen und Verkehrsunfälle verursacht",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-06-19",
+    "street": "Brandenburgische Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A 19-year-old driver without a driving licence fled a police traffic check on the A100 at about 2:45 a.m., causing several collisions. He was briefly detained on foot before being released after his identity was checked.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.967Z"
+}

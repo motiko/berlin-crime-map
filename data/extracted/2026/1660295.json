@@ -1,0 +1,21 @@
+{
+  "id": "1660295",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1660295.php",
+  "publishedAt": "2026-04-13T10:54",
+  "title": "Brandstiftung in Friseursalon",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-04-13",
+    "street": "Lichtenrader Damm",
+    "houseNumberOrCrossing": "Buckower Chaussee",
+    "placeName": "Friseursalon",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Unknown persons smashed the window of a hairdressing salon in Lichtenrade and set a couch on fire with an unknown liquid. Firefighters extinguished the blaze and prevented it spreading to a neighbouring hotel; nobody was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.831Z"
+}

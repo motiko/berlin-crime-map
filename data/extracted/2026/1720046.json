@@ -1,0 +1,21 @@
+{
+  "id": "1720046",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720046.php",
+  "publishedAt": "2026-09-30T14:20",
+  "title": "Fußgänger nach Zusammenstoß im Krankenhaus",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-09-30",
+    "street": "Blumberger Damm",
+    "houseNumberOrCrossing": "Elisabethstraße",
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A 30-year-old pedestrian stepped from a central refuge onto Blumberger Damm shortly after midnight and was struck by a car. He suffered serious head injuries and was kept in hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.062Z"
+}

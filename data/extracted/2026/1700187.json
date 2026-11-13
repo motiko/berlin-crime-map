@@ -1,0 +1,21 @@
+{
+  "id": "1700187",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1700187.php",
+  "publishedAt": "2026-08-06T09:48",
+  "title": "Zahlungsstreit endet mit Messerangriff",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-08-05",
+    "street": "Scharnweberstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Imbiss",
+    "district": "Reinickendorf",
+    "summaryEn": "After a dispute over a payment at a snack bar, one of three unknown men allegedly stabbed a 36-year-old who tried to intervene. The victim was taken to hospital and underwent emergency surgery.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.729Z"
+}

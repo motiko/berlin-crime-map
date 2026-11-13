@@ -1,0 +1,21 @@
+{
+  "id": "1670361",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1670361.php",
+  "publishedAt": "2026-05-12T11:15",
+  "title": "Radfahrer bei Verkehrsunfall verletzt",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-05-11",
+    "street": "Eisenhutweg",
+    "houseNumberOrCrossing": "7",
+    "placeName": "Johannisthal",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "An elderly cyclist crossed a road without watching traffic and collided with a car in Johannisthal. The cyclist suffered serious, life-threatening head injuries and was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.887Z"
+}

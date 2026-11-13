@@ -1,0 +1,21 @@
+{
+  "id": "1709239",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1709239.php",
+  "publishedAt": "2026-09-01T12:23",
+  "title": "Sprengung auf dem Sprengplatz Grunewald",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "explosion",
+    "incidentDate": "2026-09-03",
+    "street": "Kronprinzessinnenweg",
+    "houseNumberOrCrossing": null,
+    "placeName": "Sprengplatz Grunewald",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "Police will detonate a World War II bomb found and defused last week at the Grunewald demolition site on 3 September 2026, between 10 and 13 hours. A 500-metre safety zone will be set up, and residents within it will be asked to leave.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "explosive"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.783Z"
+}

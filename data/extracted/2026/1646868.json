@@ -1,0 +1,21 @@
+{
+  "id": "1646868",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1646868.php",
+  "publishedAt": "2026-02-25T13:05",
+  "title": "Mit Stichverletzungen im Krankenhaus",
+  "location": "Mitte",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-02-25",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A 24-year-old woman with multiple stab wounds and a 24-year-old man with a leg stab wound were treated at a hospital in Mitte after an alleged attack in Neukölln by her former partner. A knife with blood traces was seized.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.391Z"
+}

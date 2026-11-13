@@ -1,0 +1,21 @@
+{
+  "id": "1716297",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1716297.php",
+  "publishedAt": "2026-09-19T11:43",
+  "title": "Festnahme nach Brandstiftung an Wohnmobilen",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-09-18",
+    "street": "Nordring",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A motorhome caught fire on a car dealer's premises in Marzahn, spreading to nine other motorhomes; a 21-year-old suspect was arrested nearby. Nobody was injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.868Z"
+}

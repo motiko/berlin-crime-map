@@ -1,0 +1,21 @@
+{
+  "id": "1707546",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1707546.php",
+  "publishedAt": "2026-08-27T12:23",
+  "title": "Festnahmen nach Sachbeschädigungen an Wahlplakaten",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-08-27",
+    "street": "Erna-Samuel-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "Several police incidents overnight involved damage to election posters in Berlin, handled by the State Protection unit. In Mitte, a 27-year-old man and 28-year-old woman were arrested at the scene after damaging and removing posters and were released after identification measures.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.995Z"
+}

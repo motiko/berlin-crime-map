@@ -1,0 +1,21 @@
+{
+  "id": "1674885",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1674885.php",
+  "publishedAt": "2026-05-27T16:16",
+  "title": "E-Scooter-Fahrer bei Verkehrsunfall verletzt",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-05-27",
+    "street": "Goethestraße",
+    "houseNumberOrCrossing": "Lichtenrader Damm",
+    "placeName": "Lichtenrade",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A car driver allegedly ran a red light at a junction in Lichtenrade and collided with an e-scooter rider on the crossing. The 49-year-old scooter rider was thrown several meters and suffered head and spinal injuries; he was taken to hospital with no life-threatening injuries.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.921Z"
+}

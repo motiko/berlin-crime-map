@@ -1,0 +1,21 @@
+{
+  "id": "1729638",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1729638.php",
+  "publishedAt": "2026-10-22T11:51",
+  "title": "Mann durch Stich ins Gesäß verletzt",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-10-22",
+    "street": "Donaustraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Schulhof",
+    "district": "Neukölln",
+    "summaryEn": "A 20-year-old man was stabbed in the buttock in the courtyard of a school in Donaustraße overnight. He was taken to hospital and admitted; no suspects were found at the scene.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.060Z"
+}

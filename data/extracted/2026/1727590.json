@@ -1,0 +1,21 @@
+{
+  "id": "1727590",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727590.php",
+  "publishedAt": "2026-10-19T14:09",
+  "title": "Mutmaßlicher Drogenkäufer leistet Widerstand und verletzt Polizeikräfte",
+  "location": "Spandau",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-10-18",
+    "street": "Walldürner Weg",
+    "houseNumberOrCrossing": null,
+    "placeName": "Hakenfelde",
+    "district": "Spandau",
+    "summaryEn": "Plainclothes officers observed a suspected drug deal in Hakenfelde. The suspected buyer, a 57-year-old man, resisted arrest, struck an officer and injured him and a female officer.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.760Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1678413",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678413.php",
+  "publishedAt": "2026-06-07T13:04",
+  "title": "Steine von Autobahnbrücke getreten",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-06-06",
+    "street": "Kaiserdammbrücke",
+    "houseNumberOrCrossing": null,
+    "placeName": "Westend",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A 73-year-old woman was arrested after allegedly pushing paving stones from a bridge onto the A100 motorway and threatening a witness with a stone. No vehicles were hit and no one was injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.750Z"
+}

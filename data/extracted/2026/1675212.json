@@ -1,0 +1,21 @@
+{
+  "id": "1675212",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675212.php",
+  "publishedAt": "2026-05-28T14:34",
+  "title": "Verkehrsunfall mit drei Verletzten",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-05-27",
+    "street": "Wuhletalstraße",
+    "houseNumberOrCrossing": "Märkische Allee",
+    "placeName": null,
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A car collision at a junction in Marzahn injured three people on the morning of 27 May 2026. One car was thrown against a lamp post, which had to be removed by the fire service.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.779Z"
+}

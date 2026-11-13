@@ -1,0 +1,21 @@
+{
+  "id": "1697717",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697717.php",
+  "publishedAt": "2026-07-27T14:33",
+  "title": "Mit Luftdruckgewehr auf Passanten geschossen – Tatverdächtiger vorläufig festgenommen",
+  "location": "Spandau",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-07-26",
+    "street": "Falkenseer Damm",
+    "houseNumberOrCrossing": "Groenerstraße",
+    "placeName": null,
+    "district": "Spandau",
+    "summaryEn": "In the early hours, a man was hit by an air rifle pellet on Falkenseer Damm in Spandau and suffered a superficial skin injury. A 28-year-old suspect was arrested in a nearby flat, where police seized an air rifle, a blank pistol, a butterfly knife and an axe.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "air rifle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.957Z"
+}

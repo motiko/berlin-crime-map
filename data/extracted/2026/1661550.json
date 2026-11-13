@@ -1,0 +1,21 @@
+{
+  "id": "1661550",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1661550.php",
+  "publishedAt": "2026-04-16T11:17",
+  "title": "Feuer vor Supermarkt gelegt",
+  "location": "Spandau",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-04-16",
+    "street": "Pichelswerderstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Spandau",
+    "summaryEn": "Three unknown individuals set fire to wooden chairs and two e-scooters in front of a supermarket entrance in the night. One attacker pointed a knife at a 15-year-old-age witness group member after being confronted; nobody was injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.966Z"
+}

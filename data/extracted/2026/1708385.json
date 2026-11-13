@@ -1,0 +1,21 @@
+{
+  "id": "1708385",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708385.php",
+  "publishedAt": "2026-08-30T11:03",
+  "title": "Sachbeschädigungen durch Farbschmierereien",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-08-26",
+    "street": "Dudenstraße",
+    "houseNumberOrCrossing": "Boelckestraße",
+    "placeName": "Bayernring",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Between 26 and 27 August 2026, unknown persons sprayed 18 politically worded graffiti on building facades and a supermarket in Tempelhof. The State Security unit of the State Criminal Police Office has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.839Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1686898",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686898.php",
+  "publishedAt": "2026-06-28T16:02",
+  "title": "Mann erleidet Stichverletzung und Augenreizung – mutmaßlicher Täter flüchtet",
+  "location": "Pankow",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-06-27",
+    "street": "Greifswalder Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "A 33-year-old man was sprayed with irritant gas and stabbed in the upper body during an argument outside a supermarket. The unknown suspect fled with a female companion, and the man was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.728Z"
+}

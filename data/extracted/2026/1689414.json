@@ -1,0 +1,21 @@
+{
+  "id": "1689414",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689414.php",
+  "publishedAt": "2026-07-03T13:46",
+  "title": "Versuchte gefährliche Körperverletzung nach Verkehrsunfall",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-07-02",
+    "street": "Klara-Weyl-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Lichtenberg",
+    "summaryEn": "After a traffic collision in which a six-year-old girl was lightly hurt, a 44-year-old man ran at the driver with a utility knife and was stopped when an officer drew his service weapon. He was arrested and later released, and investigations are ongoing.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.942Z"
+}

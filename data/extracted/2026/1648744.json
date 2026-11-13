@@ -1,0 +1,21 @@
+{
+  "id": "1648744",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1648744.php",
+  "publishedAt": "2026-03-03T11:27",
+  "title": "Umzäunung des Görlitzer Parks beschädigt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-03-02",
+    "street": "Görlitzer Park",
+    "houseNumberOrCrossing": null,
+    "placeName": "Görlitzer Park",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Overnight, damage was found on the fence of Görlitzer Park in Kreuzberg, including bicycle locks fitted to six access gates and adhesive in the locks. Police removed the locks so the gates could be closed, and a specialist unit is investigating.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.472Z"
+}

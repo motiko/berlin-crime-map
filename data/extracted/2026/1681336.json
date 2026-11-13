@@ -1,0 +1,21 @@
+{
+  "id": "1681336",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1681336.php",
+  "publishedAt": "2026-06-12T14:17",
+  "title": "Durchsuchungsbeschlüsse wegen Erpressung vollstreckt",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "raid",
+    "incidentDate": "2026-06-11",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "Police executed search warrants in several flats in Tempelhof, Hellersdorf and Kreuzberg in an attempted aggravated extortion investigation. Two firearms, over one hundred rounds of ammunition, drugs and scales were seized and three suspects arrested.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.004Z"
+}

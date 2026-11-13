@@ -1,0 +1,21 @@
+{
+  "id": "1678762",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1678762.php",
+  "publishedAt": "2026-06-08T12:43",
+  "title": "Festnahme nach Räderdiebstahl",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-06-07",
+    "street": "Michaelkirchstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "Two men were seen removing wheels from a parked car in Mitte and fled in a rental vehicle. Police later found the vehicle, five tyre sets and suspected tools, and arrested a 19-year-old man at his Neukölln flat.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.719Z"
+}

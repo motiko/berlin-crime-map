@@ -1,0 +1,21 @@
+{
+  "id": "1708389",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1708389.php",
+  "publishedAt": "2026-08-30T12:03",
+  "title": "Unfall mit verletzter Person und fünf beschädigten Autos",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-08-29",
+    "street": "Segelfliegerdamm",
+    "houseNumberOrCrossing": "Trützschlerstraße",
+    "placeName": "Johannisthal",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "An 84-year-old driver crashed on Segelfliegerdamm in Johannisthal, hitting parked cars and overturning onto the roof. Four parked cars were damaged and the driver was seriously hurt, requiring hospital treatment.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.867Z"
+}

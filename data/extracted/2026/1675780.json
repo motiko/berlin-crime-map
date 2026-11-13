@@ -1,0 +1,21 @@
+{
+  "id": "1675780",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675780.php",
+  "publishedAt": "2026-05-29T16:43",
+  "title": "Lkw-Fahrer kollidiert mit mehreren geparkten Fahrzeugen",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-05-28",
+    "street": "Bismarckstraße",
+    "houseNumberOrCrossing": "Sophie-Charlotte-Platz",
+    "placeName": "Sophie-Charlotte-Platz",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A truck driver ran a red light on Bismarckstraße in Charlottenburg and collided with several parked vehicles, including police vehicles, before coming to a stop in a tree. The 49-year-old driver was injured and taken to hospital; indications point to a medical emergency.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.725Z"
+}

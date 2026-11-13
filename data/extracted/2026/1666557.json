@@ -1,0 +1,21 @@
+{
+  "id": "1666557",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666557.php",
+  "publishedAt": "2026-04-30T10:27",
+  "title": "Sachbeschädigungen an Zaunanlage des Görlitzer Parks",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-04-29",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Görlitzer Park",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Overnight, police found damage to the fence system of Görlitzer Park, including tampered locks on two gates. One gate could not be properly locked and was secured with a chain lock.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.786Z"
+}

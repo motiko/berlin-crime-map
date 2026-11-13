@@ -1,0 +1,21 @@
+{
+  "id": "1731009",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1731009.php",
+  "publishedAt": "2026-10-26T12:26",
+  "title": "Stichverletzung nach körperlicher Auseinandersetzung",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-10-25",
+    "street": "Tempelhofer Damm",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Police separated two men in a physical fight on Tempelhofer Damm in the evening. One man, aged 24, had a stab wound to the upper body and was taken to hospital; a knife was found in a nearby parked car.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.980Z"
+}

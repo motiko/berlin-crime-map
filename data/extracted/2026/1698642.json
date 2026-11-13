@@ -1,0 +1,21 @@
+{
+  "id": "1698642",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698642.php",
+  "publishedAt": "2026-07-30T11:30",
+  "title": "Umfangreiche Einsatzmaßnahmen zur Bekämpfung der Schusswaffenkriminalität – BAO Ferrum und EG Telum vollstrecken Durchsuchungsbeschlüsse",
+  "location": "bundeslandübergreifend",
+  "extraction": {
+    "category": "raid",
+    "incidentDate": "2026-07-28",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "Police raided twelve properties in Berlin and Hamburg in a coordinated operation against weapons trafficking, seizing seven firearms, ammunition and about 6,000 euros plus large cash sums. Six suspects aged 40 and 66 are investigated; the people found were released after the measures.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.035Z"
+}

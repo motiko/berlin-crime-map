@@ -1,0 +1,21 @@
+{
+  "id": "1710753",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710753.php",
+  "publishedAt": "2026-09-05T15:18",
+  "title": "Versuchte räuberische Erpressung",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "robbery",
+    "dead": 0,
+    "district": "Neukölln",
+    "houseNumberOrCrossing": null,
+    "incidentDate": "2026-09-04",
+    "injured": 0,
+    "placeName": null,
+    "street": "Roseggerstraße",
+    "summaryEn": "Two men aged 20 and 22 allegedly demanded a mid-four-figure sum from a 23-year-old at a hair salon and in front of it, threatening violence and snatching his phone. The suspects were arrested shortly after and released after police measures.",
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.061Z"
+}

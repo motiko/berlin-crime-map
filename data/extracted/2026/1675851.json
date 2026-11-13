@@ -1,0 +1,21 @@
+{
+  "id": "1675851",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1675851.php",
+  "publishedAt": "2026-05-30T16:40",
+  "title": "In Auseinandersetzung lebensgefährlich verletzt",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-05-29",
+    "street": "Prinzregentenstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A brawl between groups of young men on Prinzregentenstraße in Wilmersdorf left an 18-year-old with a life-threatening stab wound; he is no longer in mortal danger. One suspect turned himself in later that day.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.835Z"
+}

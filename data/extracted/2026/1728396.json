@@ -1,0 +1,21 @@
+{
+  "id": "1728396",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1728396.php",
+  "publishedAt": "2026-10-20T16:40",
+  "title": "Unbekannte Personen stehlen Fahrräder und flüchten vor der Polizei",
+  "location": "Spandau",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-10-20",
+    "street": "Parkviertelallee",
+    "houseNumberOrCrossing": "Kladower Damm",
+    "placeName": null,
+    "district": "Spandau",
+    "summaryEn": "Unknown persons loaded stolen bicycles into a van in Kladow and fled from police, who later stopped the vehicle on Kladower Damm. Five occupants escaped on foot, and a female resident lost consciousness during the search and was taken to hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.002Z"
+}

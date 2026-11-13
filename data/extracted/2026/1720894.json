@@ -1,0 +1,21 @@
+{
+  "id": "1720894",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1720894.php",
+  "publishedAt": "2026-10-02T11:26",
+  "title": "20-Jährige bei E-Scooter-Unfall verletzt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-01",
+    "street": "Helmut-Kohl-Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": "Tiergarten",
+    "district": "Mitte",
+    "summaryEn": "A 20-year-old on an e-scooter was seriously injured after colliding with a car driving in a bus lane on Helmut-Kohl-Allee in Tiergarten. The woman was taken to hospital with head injuries, and police say her life was not in danger.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.906Z"
+}

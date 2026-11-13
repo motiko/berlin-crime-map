@@ -1,0 +1,21 @@
+{
+  "id": "1662229",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1662229.php",
+  "publishedAt": "2026-04-18T15:24",
+  "title": "Seniorin nach Verkehrsunfall im Krankenhaus verstorben",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-04-04",
+    "street": "Königstraße",
+    "houseNumberOrCrossing": "Wannseebrücke",
+    "placeName": "Wannsee",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A car struck an 81-year-old pedestrian who stepped onto the road with a shopping trolley near Wannsee bridge. She later died in hospital; the cause of death is still under investigation.",
+    "injured": 1,
+    "dead": 1,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.997Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1653935",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1653935.php",
+  "publishedAt": "2026-03-18T17:52",
+  "title": "Verkehrsunfall bei Einsatzfahrt",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "traffic",
+    "dead": 0,
+    "district": "Reinickendorf",
+    "houseNumberOrCrossing": "Schildower Straße",
+    "incidentDate": "2026-03-17",
+    "injured": 3,
+    "placeName": "Hermsdorf",
+    "street": "Berliner Straße",
+    "summaryEn": "Two police officers responding to an emergency call collided with a turning car at Hermsdorf while driving with sirens and lights. Two officers and the 83-year-old driver were hurt, and the road was closed during the investigation.",
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.343Z"
+}

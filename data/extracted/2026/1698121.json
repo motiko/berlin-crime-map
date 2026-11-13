@@ -1,0 +1,21 @@
+{
+  "id": "1698121",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698121.php",
+  "publishedAt": "2026-07-28T16:18",
+  "title": "Sachbeschädigung in Parkanlage",
+  "location": "Mitte",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-07-28",
+    "street": "Ahornsteig",
+    "houseNumberOrCrossing": null,
+    "placeName": "Tiergarten",
+    "district": "Mitte",
+    "summaryEn": "Unknown persons damaged a vase and set fire to a cardboard heart in a park area in Tiergarten. The case was reported to police on the same day and taken over by the State Protection unit (Staatsschutz).",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.053Z"
+}

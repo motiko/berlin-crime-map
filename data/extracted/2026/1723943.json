@@ -1,0 +1,21 @@
+{
+  "id": "1723943",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1723943.php",
+  "publishedAt": "2026-10-11T12:54",
+  "title": "Alkoholisierter Mann schlägt Nachbarn, greift Polizeibeamte an und leistet Widerstand bei Festnahme – DEIG-Einsatz",
+  "location": "Mitte",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-10-11",
+    "street": "Hochstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A drunk man hit his neighbour with a key ring in a residential building in Gesundbrunnen, then resisted arrest and was subdued with a stun device (DEIG). Police officers were not injured.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "key ring"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.802Z"
+}

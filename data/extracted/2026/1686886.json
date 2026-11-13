@@ -1,0 +1,21 @@
+{
+  "id": "1686886",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1686886.php",
+  "publishedAt": "2026-06-28T13:19",
+  "title": "Verkehrsunfall mit Polizeibeteiligung",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-06-27",
+    "street": "Wilhelmstraße",
+    "houseNumberOrCrossing": "Tempelhofer Ufer",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A police vehicle responding to an emergency collided with a car at an intersection in Kreuzberg. Two police officers were taken to hospital for outpatient treatment, and the 26-year-old driver of the car was unhurt.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.903Z"
+}

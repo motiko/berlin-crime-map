@@ -1,0 +1,21 @@
+{
+  "id": "1695161",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1695161.php",
+  "publishedAt": "2026-07-17T15:49",
+  "title": "Mann bei Messerangriff am Auge verletzt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-07-17",
+    "street": "Görlitzer Straße",
+    "houseNumberOrCrossing": "Skalitzer Straße",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A 36-year-old man was stabbed in the eye by one of three attackers outside a snack bar in Kreuzberg early in the morning. A passerby intervened, and the attackers fled.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.038Z"
+}

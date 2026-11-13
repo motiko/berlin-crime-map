@@ -1,0 +1,21 @@
+{
+  "id": "1659477",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1659477.php",
+  "publishedAt": "2026-04-08T10:58",
+  "title": "Mann nach Auseinandersetzung im Krankenhaus – Mordkommission ermittelt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-04-08",
+    "street": "Alt-Moabit",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A 30-year-old man was seriously injured with a knife outside a bar in Moabit after trying to mediate a dispute. The 25-year-old suspect was arrested and the 1st Homicide Commission has taken over the investigation.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.734Z"
+}

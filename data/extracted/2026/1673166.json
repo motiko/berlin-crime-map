@@ -1,0 +1,21 @@
+{
+  "id": "1673166",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673166.php",
+  "publishedAt": "2026-05-21T12:12",
+  "title": "Durchsuchungen und Festnahmen nach unerlaubten Handel mit Betäubungsmitteln",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-05-20",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": null,
+    "summaryEn": "Police and prosecutors searched apartments, warehouses and an illegal gambling venue in Berlin, Brandenburg, Saxony and Saxony-Anhalt over alleged drug trafficking. Eight suspects were investigated, and three people were arrested.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.863Z"
+}

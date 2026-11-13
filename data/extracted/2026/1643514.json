@@ -1,0 +1,21 @@
+{
+  "id": "1643514",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1643514.php",
+  "publishedAt": "2026-02-16T10:55",
+  "title": "Autofahrer stößt mit Tram zusammen",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-02-15",
+    "street": "Allee der Kosmonauten",
+    "houseNumberOrCrossing": "Eitelstraße",
+    "placeName": "Helene-Weigel-Platz",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "A 78-year-old car driver turning left collided with a tram on Allee der Kosmonauten in Marzahn. The driver and one passenger were injured, and tram traffic was interrupted until about 18:00.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.462Z"
+}

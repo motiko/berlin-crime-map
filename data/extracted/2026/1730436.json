@@ -1,0 +1,21 @@
+{
+  "id": "1730436",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1730436.php",
+  "publishedAt": "2026-10-23T12:43",
+  "title": "Scharfe Schusswaffe nach Flucht vor der Polizei beschlagnahmt",
+  "location": "Spandau",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-10-23",
+    "street": "Ruhlebener Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Tankstelle",
+    "district": "Spandau",
+    "summaryEn": "After a fleeing car was stopped near Charlottenburger Chaussee, police arrested the 20-year-old driver, who had a loaded firearm in his waistband, and seized the car with forged plates. The driver faces charges including illegal street racing and weapons offences.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.963Z"
+}

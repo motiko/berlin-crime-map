@@ -1,0 +1,21 @@
+{
+  "id": "1655686",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1655686.php",
+  "publishedAt": "2026-03-24T14:11",
+  "title": "Antisemitisch beleidigt und geschlagen",
+  "location": "Pankow",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-03-23",
+    "street": "Oderberger Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "A 37-year-old woman was arrested after allegedly insulting a 39-year-old man antisemitically and striking him on the head in Oderberger Straße. The State Security unit has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.422Z"
+}

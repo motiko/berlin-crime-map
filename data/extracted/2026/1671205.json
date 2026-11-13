@@ -1,0 +1,21 @@
+{
+  "id": "1671205",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1671205.php",
+  "publishedAt": "2026-05-14T16:40",
+  "title": "DEIG-Einsatz gegen verhaltensauffälligen Mann mit Baseballschläger",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-05-14",
+    "street": "Kurfürstenstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A 33-year-old man allegedly threatened a 50-year-old visitor with a baseball bat and locked him in the flat, which led to a police operation. Officers used a taser on the suspect, who was arrested and taken to hospital.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "baseball bat"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.937Z"
+}

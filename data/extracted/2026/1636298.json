@@ -1,0 +1,21 @@
+{
+  "id": "1636298",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1636298.php",
+  "publishedAt": "2026-03-02T13:49",
+  "title": "Raubüberfall auf Hotel – Öffentlichkeitsfahndung erledigt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2025-10-25",
+    "street": "Fischerinsel",
+    "houseNumberOrCrossing": "12",
+    "placeName": "Hotel an der Fischerinsel",
+    "district": "Mitte",
+    "summaryEn": "An armed man with a knife robbed a hotel reception at about 4:20 a.m. and fled by taxi. The suspect has since been identified, and the investigation continues.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.403Z"
+}

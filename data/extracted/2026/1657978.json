@@ -1,0 +1,21 @@
+{
+  "id": "1657978",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1657978.php",
+  "publishedAt": "2026-03-31T10:14",
+  "title": "Brand in Mehrfamilienhaus – Haus vorsorglich evakuiert",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-03-30",
+    "street": "Potsdamer Straße",
+    "houseNumberOrCrossing": "Bülowstraße",
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A fire broke out in a top-floor flat of an apartment building on Potsdamer Straße in the evening, after a loud bang and falling facade parts were reported. The fire was extinguished, the wings were evacuated, and nobody was injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.937Z"
+}

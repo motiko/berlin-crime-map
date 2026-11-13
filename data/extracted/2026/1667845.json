@@ -1,0 +1,21 @@
+{
+  "id": "1667845",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667845.php",
+  "publishedAt": "2026-05-05T12:23",
+  "title": "Fünfköpfige Personengruppe angegriffen",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-05-05",
+    "street": "Spandauer Damm",
+    "houseNumberOrCrossing": "Klausenerplatz",
+    "placeName": "Klausenerplatz",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Two unknown attackers sprayed a group of five men with pepper spray near Klausenerplatz around 1 a.m., then stabbed one 27-year-old man. The attackers fled by car; the injured man was taken to hospital, and the other two suffered eye irritation.",
+    "injured": 3,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.744Z"
+}

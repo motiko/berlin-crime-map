@@ -1,0 +1,21 @@
+{
+  "id": "1696363",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1696363.php",
+  "publishedAt": "2026-07-22T11:29",
+  "title": "Mann und Hund von Autofahrer angefahren",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-21",
+    "street": "Sonnenallee",
+    "houseNumberOrCrossing": "Maresch- und Ederstraße",
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "A car driver hit a 32-year-old man and his dog on Sonnenallee in Neukölln around midnight while the man was trying to catch the dog. The man suffered head and torso injuries and was admitted to hospital; the dog died at the scene.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.015Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1710056",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1710056.php",
+  "publishedAt": "2026-09-03T10:57",
+  "title": "Mann beschädigt Wahlplakat, entblößt sich und leistet Widerstand bei Festnahme",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-09-02",
+    "street": "Schlesische Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A man allegedly tore down an election poster and exposed himself to plainclothes officers who identified themselves, then resisted arrest. The 48-year-old was taken to a prison after an existing detention warrant was found.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.722Z"
+}

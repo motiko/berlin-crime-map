@@ -1,0 +1,21 @@
+{
+  "id": "1726211",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1726211.php",
+  "publishedAt": "2026-10-15T12:06",
+  "title": "Sachbeschädigungen an Parteibüros – eine Festnahme",
+  "location": "berlinweit",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-10-15",
+    "street": "Markgrafenstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Overnight, political posters were put up on several party offices in Britz, Kreuzberg and Wilmersdorf, causing property damage. One 25-year-old woman was provisionally arrested and later released, and the State Security unit has taken over the investigation.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.697Z"
+}

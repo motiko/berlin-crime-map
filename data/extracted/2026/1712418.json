@@ -1,0 +1,21 @@
+{
+  "id": "1712418",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1712418.php",
+  "publishedAt": "2026-09-10T12:08",
+  "title": "31 Verletzte nach Reizgaseinsatz in Jugendherberge",
+  "location": "Mitte",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-09-09",
+    "street": "Köpenicker Straße",
+    "houseNumberOrCrossing": "Adalbertstraße",
+    "placeName": "Jugendherberge",
+    "district": "Mitte",
+    "summaryEn": "An group of 8 to 10 people stormed a youth hostel and sprayed pepper spray at a school group of about 30 teenagers. 31 people were treated for eye and airway irritation, and the attackers fled before police arrived.",
+    "injured": 31,
+    "dead": 0,
+    "weaponType": "pepper spray"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.913Z"
+}

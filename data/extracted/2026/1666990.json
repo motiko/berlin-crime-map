@@ -1,0 +1,21 @@
+{
+  "id": "1666990",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666990.php",
+  "publishedAt": "2026-05-01T13:14",
+  "title": "Parkscheinautomat gesprengt",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "explosion",
+    "incidentDate": "2026-05-01",
+    "street": "Wolffring",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "Unknown perpetrators blew up a parking ticket machine in Tempelhof overnight; a witness discovered it around 0:30 and alerted police. A parked car was lightly damaged by flying metal parts.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "explosive"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.726Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1717056",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1717056.php",
+  "publishedAt": "2026-09-22T10:49",
+  "title": "Raub mit Schusswaffe",
+  "location": "Spandau",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-09-21",
+    "street": "Askanierring",
+    "houseNumberOrCrossing": null,
+    "placeName": "Hinterhof",
+    "district": "Spandau",
+    "summaryEn": "Five suspects robbed a 23-year-old man during a planned phone purchase in a backyard, one of them holding an apparent firearm to his head. Cash, a bag and a phone were taken, and the suspects fled.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm (apparent)"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.807Z"
+}

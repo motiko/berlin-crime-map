@@ -1,0 +1,21 @@
+{
+  "id": "1640683",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1640683.php",
+  "publishedAt": "2026-02-04T16:35",
+  "title": "Nach Einbruch Flüssigkeit verschüttet",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-02-04",
+    "street": "Gustav-Kirchhoff-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Adlershof",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "Unknown offenders broke into an office of a research institute in Adlershof overnight and forced open a safe, stealing precious metals. They poured a liquid over the scene, possibly to destroy evidence, before fleeing.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.448Z"
+}

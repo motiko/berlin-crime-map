@@ -1,0 +1,21 @@
+{
+  "id": "1727163",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1727163.php",
+  "publishedAt": "2026-10-17T13:24",
+  "title": "Fußgängerin nach Zusammenstoß mit Auto verletzt",
+  "location": "Pankow",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-10-16",
+    "street": "Berliner Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "U- und S-Bahnhof Pankow",
+    "district": "Pankow",
+    "summaryEn": "A pedestrian crossing Berliner Straße from a tram stop was hit by a car in the right lane and suffered a serious foot injury. The 69-year-old driver was unhurt, and a bus driver had avoided an earlier collision by braking.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.057Z"
+}

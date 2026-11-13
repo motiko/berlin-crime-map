@@ -1,0 +1,21 @@
+{
+  "id": "1689597",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689597.php",
+  "publishedAt": "2026-07-04T18:10",
+  "title": "Polizeibeamter bei Festnahme nach mutmaßlichem Drogenhandel verletzt",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "drugs",
+    "incidentDate": "2026-07-04",
+    "street": "Mecklenburgische Straße",
+    "houseNumberOrCrossing": "Heidelberger Platz",
+    "placeName": "Heidelberger Platz",
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Police arrested a 35-year-old driver after observing a suspected drug handover near Heidelberg Square in Schmargendorf. A 42-year-old resisted arrest, biting and striking an officer, who was injured.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.027Z"
+}

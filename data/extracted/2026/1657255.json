@@ -1,0 +1,21 @@
+{
+  "id": "1657255",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1657255.php",
+  "publishedAt": "2026-03-27T15:23",
+  "title": "Allgemeinverfügungen erlassen – Einschränkungen im Bezirk Mitte",
+  "location": "Mitte",
+  "extraction": {
+    "category": "other",
+    "incidentDate": "2026-03-27",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "Ritz Carlton, Schloss Bellevue, Bundeskanzleramt",
+    "district": "Mitte",
+    "summaryEn": "Police issued temporary general orders banning assemblies and carrying of weapons and knives in several areas of Mitte around a state visit on 29-30 March 2026. The restricted zones cover the Ritz Carlton, Schloss Bellevue and the Federal Chancellery.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.957Z"
+}

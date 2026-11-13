@@ -1,0 +1,21 @@
+{
+  "id": "1689591",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1689591.php",
+  "publishedAt": "2026-07-04T15:19",
+  "title": "Schüsse auf Firmengebäude und geparktes Fahrzeug",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-07-04",
+    "street": "Wexstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Bullet holes were found in a company building and a company vehicle parked in front of it in Wilmersdorf. Several cartridge casings were secured, and no one was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.904Z"
+}

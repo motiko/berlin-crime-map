@@ -1,0 +1,21 @@
+{
+  "id": "1699292",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1699292.php",
+  "publishedAt": "2026-07-31T15:44",
+  "title": "Bedrohung mit Messer – DEIG-Einsatz",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "knife",
+    "incidentDate": "2026-07-30",
+    "street": "Martin-Wagner-Ring",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "A 77-year-old man allegedly threatened a neighbour with a knife in Britz after an argument. Police used a taser on him during an apartment search; the knife turned out to be a replica.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.876Z"
+}

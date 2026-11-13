@@ -1,0 +1,21 @@
+{
+  "id": "1668869",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1668869.php",
+  "publishedAt": "2026-05-07T11:47",
+  "title": "Mann leistet Widerstand bei Festnahme nach Bedrohung",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-05-06",
+    "street": "Friedlander Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Friedhof",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A 30-year-old man who had escaped from a hospital was detained at a cemetery after holding two glass bottles and ignoring police commands; he was subdued with a conducted energy device. He resisted arrest and a police officer was injured in the arm.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.952Z"
+}

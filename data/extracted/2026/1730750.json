@@ -1,0 +1,21 @@
+{
+  "id": "1730750",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/pressemitteilung.1730750.php",
+  "publishedAt": "2026-10-24T14:00",
+  "title": "Einsatz nach Bedrohung endet mit Angriff auf Polizeibeamten",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-10-24",
+    "street": "Landsberger Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": "Hotel in Fennpfuhl",
+    "district": "Lichtenberg",
+    "summaryEn": "After a hotel guest threatened hotel staff early in the morning, a 17-year-old struck a police officer in the face with a beer can, and officers also restrained the 47-year-old guest. The officer suffered facial injuries and was treated in hospital.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.759Z"
+}

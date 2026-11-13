@@ -1,0 +1,21 @@
+{
+  "id": "1705919",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705919.php",
+  "publishedAt": "2026-08-21T21:55",
+  "title": "Gesuchter Vermisster wieder untergebracht",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2026-08-21",
+    "street": "Helsingforser Platz",
+    "houseNumberOrCrossing": null,
+    "placeName": "Helsingforser Platz",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A 20-year-old man reported missing from a psychiatric ward, who was considered a danger to others, was found and taken back into care at Helsingforser Platz in Friedrichshain. He is back under supervision at the hospital.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.051Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1705979",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705979.php",
+  "publishedAt": "2026-08-23T15:00",
+  "title": "Tote Frau gefunden – Polizei und Staatsanwaltschaft bitten um Mithilfe",
+  "location": "Pankow",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-08-21",
+    "street": "Prenzlauer Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": "Zeiss-Großplanetarium",
+    "district": "Pankow",
+    "summaryEn": "A 46-year-old woman was found dead in bushes near the Zeiss-Großplanetarium in Prenzlauer Berg. Police homicide unit is investigating the death as a killing and has asked the public for information.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.922Z"
+}

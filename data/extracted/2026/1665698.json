@@ -1,0 +1,21 @@
+{
+  "id": "1665698",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1665698.php",
+  "publishedAt": "2026-04-28T13:23",
+  "title": "Autofahrerin fährt Fußgänger an",
+  "location": "Pankow",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-04-27",
+    "street": "Buschallee",
+    "houseNumberOrCrossing": "Sulzfelder Straße",
+    "placeName": null,
+    "district": "Pankow",
+    "summaryEn": "An 81-year-old driver hit a 32-year-old pedestrian who allegedly crossed on red at the Buschallee and Sulzfelder Straße junction in Weißensee. The pedestrian suffered head and upper-body injuries, including fractures, and was hospitalized.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.796Z"
+}

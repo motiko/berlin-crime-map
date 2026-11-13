@@ -1,0 +1,21 @@
+{
+  "id": "1640459",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1640459.php",
+  "publishedAt": "2026-02-04T12:09",
+  "title": "Geldautomatensprengung verhindert",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "explosion",
+    "incidentDate": "2026-02-04",
+    "street": "Wustrower Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Einkaufszentrum",
+    "district": "Lichtenberg",
+    "summaryEn": "Unknown offenders attempted to blow up an ATM in Neu-Hohenschönhausen overnight, but fled when a security guard noticed them around 3:40 a.m. No explosion occurred.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "explosive"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.461Z"
+}

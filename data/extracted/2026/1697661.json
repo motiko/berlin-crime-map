@@ -1,0 +1,21 @@
+{
+  "id": "1697661",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697661.php",
+  "publishedAt": "2026-07-27T12:53",
+  "title": "Auffahrunfall mit mehreren beteiligten Polizeifahrzeugen",
+  "location": "Steglitz-Zehlendorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-07-26",
+    "street": "BAB 115",
+    "houseNumberOrCrossing": "Spanische Allee",
+    "placeName": "Nikolassee",
+    "district": "Steglitz-Zehlendorf",
+    "summaryEn": "A convoy of eight police vehicles with lights and siren on the A115 in Nikolassee was involved in a multi-vehicle collision with a civilian car. Six emergency vehicles and one other car were damaged, and nobody was injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.940Z"
+}

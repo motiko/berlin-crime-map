@@ -1,0 +1,21 @@
+{
+  "id": "1724332",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1724332.php",
+  "publishedAt": "2026-10-12T12:40",
+  "title": "Schussabgaben auf Einfamilienhaus",
+  "location": "Reinickendorf",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-10-11",
+    "street": "Borgsdorfer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Märkisches Viertel",
+    "district": "Reinickendorf",
+    "summaryEn": "Shots were fired around 7 a.m. on Borgsdorfer Straße in the Märkisches Viertel, leaving bullet holes in a house façade. Two people reportedly fled in a vehicle; nobody was injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.060Z"
+}

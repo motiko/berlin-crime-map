@@ -1,0 +1,21 @@
+{
+  "id": "1664735",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1664735.php",
+  "publishedAt": "2026-04-25T11:21",
+  "title": "Polizist nach Steinwürfen verletzt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-04-25",
+    "street": "Rigaer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Several stones were thrown at a police patrol car in Rigaer Straße while officers protected firefighters extinguishing a lamp post fire. One officer was injured and the patrol car's windscreen was damaged.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.017Z"
+}

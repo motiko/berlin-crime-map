@@ -1,0 +1,21 @@
+{
+  "id": "1654363",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1654363.php",
+  "publishedAt": "2026-03-19T17:05",
+  "title": "Mit Drogen im Auto geflüchtet - Unfall",
+  "location": "Mitte",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-03-19",
+    "street": "Weinbergsweg",
+    "houseNumberOrCrossing": "Invalidenstraße/Gartenstraße",
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "A 24-year-old driver fled police at high speed through several red lights and crashed into a wall and traffic light at Invalidenstraße/Gartenstraße. Nearly 100 suspected drug units and cash were found in the car and on the passenger, a 22-year-old who was slightly injured.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.370Z"
+}

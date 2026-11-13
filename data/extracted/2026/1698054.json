@@ -1,0 +1,21 @@
+{
+  "id": "1698054",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1698054.php",
+  "publishedAt": "2026-07-28T14:18",
+  "title": "Ermittlungen nach Schussabgaben führen zur Festnahme eines Tatverdächtigen",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-03-13",
+    "street": "Karl-Marx-Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "In March 2026, several shots were fired during an altercation on Karl-Marx-Straße, injuring an uninvolved 24-year-old in the leg. A 40-year-old suspect was arrested on 24 July 2026 in Sonnenallee.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.059Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1673831",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1673831.php",
+  "publishedAt": "2026-05-23T12:59",
+  "title": "Reizstoff in Straßenbahn versprüht",
+  "location": "Lichtenberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-05-22",
+    "street": "Gehrenseestraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Alt-Hohenschönhausen",
+    "district": "Lichtenberg",
+    "summaryEn": "Two unidentified teenagers sprayed irritant gas inside a tram (line M5) in Alt-Hohenschönhausen, affecting about five passengers. The suspects fled at the Gehrenseestraße stop.",
+    "injured": 5,
+    "dead": 0,
+    "weaponType": "irritant spray"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.918Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1639463",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1639463.php",
+  "publishedAt": "2026-01-31T15:07",
+  "title": "Über die Fahrbahn gerannt - Autofahrer fährt zwei Kinder an",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-01-30",
+    "street": "Blissestraße",
+    "houseNumberOrCrossing": "Uhlandstraße",
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "A car driver hit two nine-year-old girls who ran into the road against a red pedestrian light at a junction in Wilmersdorf. Both girls were taken to hospital with their guardians.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.411Z"
+}

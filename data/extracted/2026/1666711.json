@@ -1,0 +1,21 @@
+{
+  "id": "1666711",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666711.php",
+  "publishedAt": "2026-04-30T17:07",
+  "title": "Vermisster Jugendlicher wieder im Kreis seiner Familie",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "missing",
+    "incidentDate": "2026-04-30",
+    "street": null,
+    "houseNumberOrCrossing": null,
+    "placeName": "S-Bahnhof Grünau",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A missing 16-year-old boy was found safe at Grünau S-Bahn station after a citizen tip and was returned to his mother. He had been missing since 29 April 2026 after leaving a tram in Pankow.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.876Z"
+}

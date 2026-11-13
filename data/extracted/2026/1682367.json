@@ -1,0 +1,21 @@
+{
+  "id": "1682367",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1682367.php",
+  "publishedAt": "2026-06-16T14:41",
+  "title": "Randalierer im Kaufhaus festgenommen",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "assault",
+    "incidentDate": "2026-06-15",
+    "street": "Tauentzienstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Kaufhaus restaurant",
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A drunk 43-year-old man threw food and a glass in a department store restaurant and then resisted police, biting and headbutting officers. Two officers were lightly injured and the man was taken to a hospital for psychiatric care.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:18.025Z"
+}

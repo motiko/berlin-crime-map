@@ -1,0 +1,21 @@
+{
+  "id": "1629707",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1629707.php",
+  "publishedAt": "2026-01-02T09:33",
+  "title": "Kältebus eines gemeinnützigen Vereins in Brand gesetzt",
+  "location": "Mitte",
+  "extraction": {
+    "category": "fire",
+    "incidentDate": "2026-01-01",
+    "street": "Lehrter Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Mitte",
+    "summaryEn": "Arson was committed on a cold-weather bus of a charity on a parking lot in Lehrter Straße, and security staff held the suspect until police arrived. A 43-year-old man was arrested and is to be brought before a judge.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.400Z"
+}

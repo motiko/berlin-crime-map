@@ -1,0 +1,21 @@
+{
+  "id": "1666631",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1666631.php",
+  "publishedAt": "2026-04-30T11:28",
+  "title": "Festnahme nach Fahrzeugdiebstahl, verbotenem Kraftfahrzeugrennen und mehreren Verkehrsdelikten",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-04-29",
+    "street": "Wendenschloßstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Stadion An der Alten Försterei",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "After a car theft and a chase through Köpenick, police fired two shots at the vehicle and arrested the 35-year-old driver at the stadium car park. The driver was not hit, but one officer was injured during the arrest.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.681Z"
+}

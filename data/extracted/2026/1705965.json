@@ -1,0 +1,21 @@
+{
+  "id": "1705965",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1705965.php",
+  "publishedAt": "2026-09-03T14:54",
+  "title": "Raubüberfall vor Wohnhaus – Polizei sucht Zeuginnen und Zeugen",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-08-22",
+    "street": "Wederstraße",
+    "houseNumberOrCrossing": "89",
+    "placeName": null,
+    "district": "Neukölln",
+    "summaryEn": "Three unknown men attacked a man with a knife in front of a residential building at around 00:30 and stole his shoulder bag before fleeing. A related earlier report describes a 36-year-old stabbed near a kiosk on the same street, who was robbed of cash and an ID document.",
+    "injured": 1,
+    "dead": 0,
+    "weaponType": "knife"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.768Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "1640486",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1640486.php",
+  "publishedAt": "2026-02-04T13:02",
+  "title": "Verdacht der Schussabgabe auf Lokal",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-02-04",
+    "street": "Otto-Suhr-Allee",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Charlottenburg-Wilmersdorf",
+    "summaryEn": "Suspected shot fired at a bar in Otto-Suhr-Allee around 3:20 a.m.; a bullet went through the metal cladding of the outer wall and lodged in the ceiling inside. No one was in the affected area and nobody was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:51:16.446Z"
+}

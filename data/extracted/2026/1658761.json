@@ -1,0 +1,21 @@
+{
+  "id": "1658761",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1658761.php",
+  "publishedAt": "2026-04-02T10:26",
+  "title": "Geschäftseinbruch mit Auto",
+  "location": "Tempelhof-Schöneberg",
+  "extraction": {
+    "category": "burglary",
+    "incidentDate": "2026-04-01",
+    "street": "Eresburgstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": null,
+    "district": "Tempelhof-Schöneberg",
+    "summaryEn": "A shop's entrance door was forced open with a vehicle around 3:15 a.m. and a fireplace was stolen from the entrance area. Police found the damage during a patrol and investigations are ongoing.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.754Z"
+}

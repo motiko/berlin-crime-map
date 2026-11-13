@@ -1,0 +1,21 @@
+{
+  "id": "1667019",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1667019.php",
+  "publishedAt": "2026-05-03T11:46",
+  "title": "Jugendlicher und Mann nach erlittenen Schussverletzungen in Krankenhäusern",
+  "location": "Neukölln",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-05-02",
+    "street": "Hermannstraße",
+    "houseNumberOrCrossing": "Leinestraße",
+    "placeName": "Anita-Berber-Park",
+    "district": "Neukölln",
+    "summaryEn": "Two men, aged 17 and 25, were shot in the legs on Hermannstraße in Neukölln, and the unknown shooter fled. Both were taken to hospital, and the 25-year-old needed emergency surgery but is not in danger of his life.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.875Z"
+}

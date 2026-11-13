@@ -1,0 +1,21 @@
+{
+  "id": "1697457",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1697457.php",
+  "publishedAt": "2026-07-26T20:23",
+  "title": "Anschlag im Umfeld des Christopher Street Day - Tatverdächtiger bei Polizeieinsatz erschossen",
+  "location": "bezirksübergreifend",
+  "extraction": {
+    "category": "homicide",
+    "incidentDate": "2026-07-26",
+    "street": "Ruhlebener Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Gartenkolonie",
+    "district": "Spandau",
+    "summaryEn": "A 21-year-old suspect in an attack near the Christopher Street Day events was shot dead by special forces during a police operation in a garden colony after allegedly attacking them with a stabbing weapon. Investigations are ongoing.",
+    "injured": 0,
+    "dead": 1,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-13T14:52:17.730Z"
+}
