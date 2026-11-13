@@ -1,5 +1,5 @@
 {
-  "_note": "Reports with a known correct category, checked by hand. `pnpm eval` re-extracts them and fails on any mismatch. Add a case whenever a misclassification is found.",
+  "_note": "Reports with a known correct category, checked by hand. `pnpm eval` re-extracts them and fails on any mismatch. Add a case whenever a misclassification is found. Optional summaryMatches / summaryNotMatches check the wording of the English summary.",
   "cases": [
     {
       "id": "1735173",
@@ -140,6 +140,28 @@
       "id": "1727134",
       "expected": "assault",
       "why": "Group beat and kicked a man's head, attempted killing: assault, not other"
+    },
+    {
+      "id": "1671040",
+      "expected": [
+        "raid",
+        "shooting"
+      ],
+      "why": "BAO Ferrum arrest in the shootings investigation (raid or shooting both defensible); a criminal 'Gruppierung' is a gang",
+      "summaryMatches": "\\bgang\\b",
+      "summaryNotMatches": "\\bclan"
+    },
+    {
+      "id": "1726313",
+      "expected": "raid",
+      "why": "'kriminelle Vereinigung' is a criminal gang",
+      "summaryMatches": "\\bgang\\b"
+    },
+    {
+      "id": "1689603",
+      "expected": "political",
+      "why": "Two political 'Gruppierungen' clash: groups, not gangs",
+      "summaryNotMatches": "\\bgang"
     }
   ]
 }

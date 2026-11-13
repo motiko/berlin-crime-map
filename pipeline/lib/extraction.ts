@@ -138,6 +138,31 @@ export async function extract(report: RawReport, apiKey: string, maxAttempts = 4
     }
     const data = (await res.json()) as ChatResponse;
     if (!res.ok || data.error) throw new Error(`OpenRouter ${res.status}: ${data.error?.message ?? 'request failed'}`);
-    return parseChatResponse(data);
+    return finalize(parseChatResponse(data), report);
   }
+}
+
+/**
+ * Fixed translations, applied after extraction instead of in the prompt: every wording rule
+ * added to the prompt shifted borderline categories in `pnpm eval`. Only the
+ * summary text changes, never the category.
+ *
+ * When the German report speaks of a criminal "Gruppierung" or a "kriminelle Vereinigung",
+ * the summary says "gang", not "group". "Bande" already comes out as "gang". Political
+ * cases and a "Personengruppe" (a group of people) keep "group"; "group of ..." is kept too.
+ */
+export function gangWording(summary: string, body: string, category: string): string {
+  if (category === 'political') return summary;
+  const criminalOrganisation = /kriminelle[nr]? Vereinigung/.test(body);
+  const gruppierung = /Gruppierung/.test(body) && !/Personengruppe/.test(body);
+  if (!criminalOrganisation && !gruppierung) return summary;
+  return summary
+    .replace(/\bcriminal (?:group|organi[sz]ation|network)(s?)\b/gi, (_m, plural: string) => `criminal gang${plural}`)
+    .replace(/\b(g)roup(s?)\b(?! of\b)/gi, (_m, g: string, plural: string) => `${g === 'G' ? 'G' : 'g'}ang${plural}`);
+}
+
+/** Post-processing for every extraction, direct or batch. */
+export function finalize(result: ExtractResult, report: RawReport): ExtractResult {
+  const x = result.extraction;
+  return { ...result, extraction: { ...x, summaryEn: gangWording(x.summaryEn, report.body, x.category) } };
 }

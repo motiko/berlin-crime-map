@@ -23,8 +23,12 @@ if (!apiKey) {
 
 interface Case {
   id: string;
-  expected: Category;
+  /** The right category, or several when more than one is defensible. */
+  expected: Category | Category[];
   why: string;
+  /** Optional wording checks on the English summary (case-insensitive regular expressions). */
+  summaryMatches?: string;
+  summaryNotMatches?: string;
 }
 const { cases } = await readJson<{ cases: Case[] }>(join(ROOT, 'tests/eval/categories.json'));
 const years = await yearsWithData(RAW_DIR);
@@ -45,9 +49,15 @@ await Promise.all(
     const result = await extract(report, apiKey);
     cost += result.cost;
     const got = result.extraction.category;
-    const ok = got === c.expected;
-    if (!ok) wrong++;
-    console.log(`  ${ok ? 'ok   ' : 'WRONG'} ${c.id}  expected ${c.expected}, got ${got}  (${c.why})`);
+    const summary = result.extraction.summaryEn;
+    const problems = [
+      ![c.expected].flat().includes(got) && `expected ${[c.expected].flat().join(' or ')}, got ${got}`,
+      c.summaryMatches && !new RegExp(c.summaryMatches, 'i').test(summary) && `summary lacks /${c.summaryMatches}/`,
+      c.summaryNotMatches && new RegExp(c.summaryNotMatches, 'i').test(summary) && `summary has /${c.summaryNotMatches}/`,
+    ].filter(Boolean);
+    if (problems.length) wrong++;
+    console.log(`  ${problems.length ? 'WRONG' : 'ok   '} ${c.id}  ${problems.length ? problems.join('; ') : got}  (${c.why})`);
+    if (problems.length && (c.summaryMatches || c.summaryNotMatches)) console.log(`        summary: ${summary}`);
   }),
 );
 

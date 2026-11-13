@@ -19,7 +19,7 @@ import { readdir, rm } from 'node:fs/promises';
 import { join } from 'node:path';
 import type { ExtractedReport, RawReport } from '../shared/types.ts';
 import { FINAL, flaggedRequestId, getBatch, submitBatch } from './lib/batch.ts';
-import { type ExtractResult, MODEL, extract, parseChatResponse } from './lib/extraction.ts';
+import { type ExtractResult, MODEL, extract, finalize, parseChatResponse } from './lib/extraction.ts';
 import { sleep } from './lib/http.ts';
 import {
   BATCH_DIR,
@@ -112,7 +112,7 @@ async function collectAll() {
             throw new Error(item.error?.message ?? `status ${item.response?.status_code}`);
           }
           const report = await readJson<RawReport>(join(RAW_DIR, String(year), `${item.custom_id}.json`));
-          await save(year, report, parseChatResponse(item.response.body));
+          await save(year, report, finalize(parseChatResponse(item.response.body), report));
         } catch (error) {
           totals.failed++;
           console.warn(`  failed ${item.custom_id}: ${(error as Error).message}`);
