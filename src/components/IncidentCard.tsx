@@ -84,13 +84,14 @@ export function IncidentCard({ incident, position, onNewer, onOlder, onClose }: 
               <dd>{harm.join(', ')}</dd>
             </>
           )}
-          <dt>Original title</dt>
-          <dd lang="de">{incident.title}</dd>
+          <dt>Police report</dt>
+          <dd>
+            <a className="source" href={incident.url} target="_blank" rel="noreferrer" lang="de">
+              {incident.title}
+            </a>
+          </dd>
         </dl>
         {PRECISION_NOTE[incident.precision] && <p className="note">{PRECISION_NOTE[incident.precision]}</p>}
-        <a className="source" href={incident.url} target="_blank" rel="noreferrer">
-          Police press release↗
-        </a>
         {incident.news && <NewsLinks links={incident.news} />}
       </div>
 

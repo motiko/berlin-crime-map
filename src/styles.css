@@ -482,10 +482,7 @@ select:hover {
 }
 
 .source {
-  display: inline-block;
-  margin-top: 12px;
   color: var(--ink);
-  font-weight: 600;
   text-underline-offset: 3px;
 }
 
