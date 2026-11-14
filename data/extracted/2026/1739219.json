@@ -1,0 +1,21 @@
+{
+  "id": "1739219",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1739219.php",
+  "publishedAt": "2026-11-13T13:04",
+  "title": "Schüsse auf Imbiss",
+  "location": "Marzahn-Hellersdorf",
+  "extraction": {
+    "category": "shooting",
+    "incidentDate": "2026-11-12",
+    "street": "Chemnitzer Straße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Imbiss, Kaulsdorf",
+    "district": "Marzahn-Hellersdorf",
+    "summaryEn": "Bullet holes were found in the shutter and window of a snack bar in Kaulsdorf after shots were fired at it overnight. No one was inside and nobody was hurt.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-14T13:02:27.315Z"
+}

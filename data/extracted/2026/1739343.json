@@ -1,0 +1,21 @@
+{
+  "id": "1739343",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1739343.php",
+  "publishedAt": "2026-11-13T15:08",
+  "title": "Vor der Polizei geflüchtet – Festnahme",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-11-12",
+    "street": "Skalitzer Straße",
+    "houseNumberOrCrossing": "Lausitzer Platz",
+    "placeName": null,
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A 30-year-old driver fled from a plainclothes police patrol in Kreuzberg at high speed, driving against traffic and on pavements, before being arrested. He was taken for a blood test and is being investigated for hit-and-run, dangerous interference with traffic and drunk driving.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-14T13:02:27.523Z"
+}

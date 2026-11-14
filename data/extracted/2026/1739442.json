@@ -1,0 +1,21 @@
+{
+  "id": "1739442",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1739442.php",
+  "publishedAt": "2026-11-14T10:45",
+  "title": "Trunkenheitsfahrt endet in Verkehrsunfall",
+  "location": "Treptow-Köpenick",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-11-14",
+    "street": "Spindlersfelder Straße",
+    "houseNumberOrCrossing": "Glienicker Straße",
+    "placeName": "Köpenick",
+    "district": "Treptow-Köpenick",
+    "summaryEn": "A 31-year-old woman driving under the influence (about 1.6 per mille) ran a red light, drove the wrong way and crashed into a police vehicle that had been positioned to stop her. Nobody was injured.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-14T13:02:25.572Z"
+}

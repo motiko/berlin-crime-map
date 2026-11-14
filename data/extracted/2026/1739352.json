@@ -1,0 +1,21 @@
+{
+  "id": "1739352",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1739352.php",
+  "publishedAt": "2026-11-13T15:23",
+  "title": "Rassistische Beleidigung und Bedrohung – Polizei bittet um Mithilfe",
+  "location": "Pankow",
+  "extraction": {
+    "category": "political",
+    "incidentDate": "2026-11-07",
+    "street": "Greifswalder Straße",
+    "houseNumberOrCrossing": "Danziger Straße",
+    "placeName": "Straßenbahnhaltestelle Greifswalder Straße/Danziger Straße",
+    "district": "Pankow",
+    "summaryEn": "A 48-year-old man was racially insulted and threatened by a man walking two leashed dogs at a tram stop in Prenzlauer Berg. The suspect left toward Hufelandstraße after the victim raised his hands defensively; police are seeking witnesses.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": null
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-14T13:02:25.576Z"
+}

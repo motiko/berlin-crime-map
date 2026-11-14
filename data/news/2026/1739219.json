@@ -1,0 +1,26 @@
+{
+  "id": "1739219",
+  "searches": [
+    "2026-11-14T13:02:27.547Z"
+  ],
+  "articles": [
+    {
+      "url": "https://www.tag24.de/berlin/crime/schuesse-auf-imbiss-in-kaulsdorf-besitzer-stellt-schaden-beim-oeffnen-fest-3549309",
+      "title": "Berlin: Schüsse auf Imbiss in Kaulsdorf - Besitzer stellt Schaden beim Öffnen fest",
+      "outlet": "tag24.de",
+      "type": "report",
+      "date": "2026-11-13",
+      "confidence": "high",
+      "reason": "Same Kaulsdorf Imbiss in Chemnitzer Straße, 31-year-old owner, 10:20 discovery, no injuries, BAO Ferrum taking over."
+    },
+    {
+      "url": "https://www.morgenpost.de/berlin/article413623688/berlin-brandenburg-blaulicht-news-aktuell-13-november-glaette-unfaelle.html",
+      "title": "Verfolgungsjagd in Kreuzberg: BSR-Mann vereitelt…",
+      "outlet": "morgenpost.de",
+      "type": "round-up",
+      "date": "2026-11-13",
+      "confidence": "high",
+      "reason": "Live news page with a section on the same Kaulsdorf Imbiss shooting: same street, owner, time and investigating unit, though the page covers multiple items."
+    }
+  ]
+}

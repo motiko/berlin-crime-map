@@ -1,0 +1,21 @@
+{
+  "id": "1739346",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1739346.php",
+  "publishedAt": "2026-11-13T15:13",
+  "title": "Raubüberfall auf Spätkauf – Tatverdächtige festgenommen",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "robbery",
+    "incidentDate": "2026-11-12",
+    "street": "Schleiermacherstraße",
+    "houseNumberOrCrossing": null,
+    "placeName": "Spätkauf",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "Two masked men threatened a 24-year-old shop employee with a pistol and a baton and stole cash and his phone from a late-night shop. Two teenagers were arrested nearby the same evening.",
+    "injured": 0,
+    "dead": 0,
+    "weaponType": "firearm"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-14T13:02:27.106Z"
+}

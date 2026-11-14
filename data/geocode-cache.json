@@ -535,6 +535,10 @@
     "lat": 52.58987,
     "lng": 13.41098
   },
+  "Chemnitzer Straße, Marzahn-Hellersdorf, Berlin": {
+    "lat": 52.50418,
+    "lng": 13.58128
+  },
   "Christstraße, Charlottenburg-Wilmersdorf, Berlin": {
     "lat": 52.51667,
     "lng": 13.29051
@@ -2036,6 +2040,10 @@
     "lat": 52.51002,
     "lng": 13.42135
   },
+  "Mierendorffplatz, Charlottenburg-Wilmersdorf, Berlin": {
+    "lat": 52.52634,
+    "lng": 13.30477
+  },
   "Mindener Straße, Charlottenburg-Wilmersdorf, Berlin": {
     "lat": 52.52532,
     "lng": 13.29843
@@ -2769,6 +2777,10 @@
     "lat": 52.47055,
     "lng": 13.30798
   },
+  "Schleiermacherstraße, Friedrichshain-Kreuzberg, Berlin": {
+    "lat": 52.49381,
+    "lng": 13.39953
+  },
   "Schlesische Straße 5, Friedrichshain-Kreuzberg, Berlin": {
     "lat": 52.50033,
     "lng": 13.4429
@@ -2985,6 +2997,10 @@
   "Spichernstraße, Charlottenburg-Wilmersdorf, Berlin": {
     "lat": 52.49645,
     "lng": 13.33101
+  },
+  "Spindlersfelder Straße, Treptow-Köpenick, Berlin": {
+    "lat": 52.44659,
+    "lng": 13.55932
   },
   "Spreestraße, Treptow-Köpenick, Berlin": {
     "lat": 52.45901,

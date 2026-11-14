@@ -1,0 +1,21 @@
+{
+  "id": "1739366",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1739366.php",
+  "publishedAt": "2026-11-13T15:52",
+  "title": "Radfahrer bei Verkehrsunfall verletzt",
+  "location": "Friedrichshain-Kreuzberg",
+  "extraction": {
+    "category": "traffic",
+    "incidentDate": "2026-11-12",
+    "street": "Waldemarstraße",
+    "houseNumberOrCrossing": "Mariannenplatz",
+    "placeName": "Mariannenplatz",
+    "district": "Friedrichshain-Kreuzberg",
+    "summaryEn": "A car turning onto Mariannenplatz collided with a police vehicle using emergency rights at the junction and was thrown into a waiting cyclist. The cyclist suffered serious injuries, including to the head, and the driver was treated and released.",
+    "injured": 2,
+    "dead": 0,
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-14T13:02:25.589Z"
+}

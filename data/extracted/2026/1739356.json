@@ -1,0 +1,21 @@
+{
+  "id": "1739356",
+  "url": "https://www.berlin.de/polizei/polizeimeldungen/2026/pressemitteilung.1739356.php",
+  "publishedAt": "2026-11-13T15:37",
+  "title": "Kind bei Verkehrsunfall verletzt",
+  "location": "Charlottenburg-Wilmersdorf",
+  "extraction": {
+    "category": "traffic",
+    "dead": 0,
+    "district": "Charlottenburg-Wilmersdorf",
+    "houseNumberOrCrossing": "Sömmeringstraße",
+    "incidentDate": "2026-11-12",
+    "injured": 1,
+    "placeName": "Mierendorffplatz",
+    "street": "Mierendorffplatz",
+    "summaryEn": "A 12-year-old boy ran against a red pedestrian light at Mierendorffplatz and was hit by a car. He was injured and taken to hospital.",
+    "weaponType": "vehicle"
+  },
+  "model": "anthropic/claude-haiku-5.5",
+  "extractedAt": "2026-11-14T13:02:25.529Z"
+}
