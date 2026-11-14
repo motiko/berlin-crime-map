@@ -18,6 +18,7 @@ export interface Override {
   category?: Incident['category'];
   injured?: number | null;
   dead?: number | null;
+  summaryEn?: string;
   why: string;
 }
 export const OVERRIDES_FILE = join(ROOT, 'pipeline/overrides.json');
