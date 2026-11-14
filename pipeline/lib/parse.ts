@@ -55,7 +55,7 @@ export function germanDateTimeToIso(value: string): string {
 }
 
 export function reportIdFromUrl(url: string): string {
-  const m = url.match(/pressemitteilung\.(\d+)\.php/);
+  const m = url.match(/pressemitteilung\.(\d+)(?:\.gsg)?\.php/);
   if (!m) throw new Error(`No report id in URL: ${url}`);
   return m[1];
 }

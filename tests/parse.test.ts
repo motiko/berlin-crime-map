@@ -62,6 +62,7 @@ describe('helpers', () => {
 
   it('extracts the report id', () => {
     expect(reportIdFromUrl('/polizei/polizeimeldungen/2025/pressemitteilung.1625253.php')).toBe('1625253');
+    expect(reportIdFromUrl('/polizei/polizeimeldungen/pressemitteilung.902351.gsg.php')).toBe('902351');
   });
 
   it('decodes entities', () => {
