@@ -16,6 +16,14 @@
     "1546047": {
       "summaryEn": "Two men forced their way into an office in Moabit at gunpoint, tied up a 59-year-old man and his wife, and stole money. A security guard caught one of them as he fled; the suspect drew a knife and threatened him, but the guard disarmed him and held him until police arrived.",
       "why": "2025 sample check: the model's summary suggested the guard was stabbed; he was only threatened with a knife"
+    },
+    "1313961": {
+      "summaryEn": "A 30-year-old man was stabbed in the thigh on Wrangelstraße in Kreuzberg. Police arrested the 27-year-old suspect in Görlitzer Park; he stopped breathing after the arrest, was resuscitated by officers and taken to hospital, and was later released into police custody.",
+      "why": "2023 sample check: the model's summary said the suspect died; he was resuscitated, treated and released into custody"
+    },
+    "1284685": {
+      "summaryEn": "A 27-year-old woman died after falling from a sixth-floor balcony in Marzahn during an argument with a man in the flat. A specialist police unit is investigating the still unclear circumstances.",
+      "why": "2023 sample check: the model's summary invented a homicide unit; the text names a specialist unit of Direktion 3 and says the circumstances are unclear"
     }
   }
 }
