@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react';
+import { useDeferredValue, useEffect, useMemo, useState } from 'react';
 import type { LngLatBounds } from 'maplibre-gl';
 import { CATEGORIES, type Category } from '../shared/categories.ts';
 import { nextSelection } from '../shared/selection.ts';
@@ -63,10 +63,13 @@ export function App() {
     };
   }, [index, filters.from, filters.to, attempt]);
 
-  const filtered = useMemo(() => applyFilters(incidents, filters), [incidents, filters]);
+  // Filtering, sorting and redrawing the map can take a few hundred ms on a slow phone with
+  // several years loaded. Deferring keeps typing in the search box responsive.
+  const deferredFilters = useDeferredValue(filters);
+  const filtered = useMemo(() => applyFilters(incidents, deferredFilters), [incidents, deferredFilters]);
   const counts = useMemo(
-    () => countByCategory(applyFilters(incidents, { ...filters, categories: new Set(CATEGORIES) })),
-    [incidents, filters],
+    () => countByCategory(applyFilters(incidents, { ...deferredFilters, categories: new Set(CATEGORIES) })),
+    [incidents, deferredFilters],
   );
   const newestFirst = useMemo(
     () => [...filtered].sort((a, b) => b.date.localeCompare(a.date) || b.publishedAt.localeCompare(a.publishedAt)),
@@ -86,7 +89,7 @@ export function App() {
     return selectedIndex >= 0 && next ? () => setSelectedId(next.id) : null;
   };
 
-  const minDate = index?.years.length ? `${index.years[0].year}-01-01` : today;
+  const minDate = index?.years.length ? `${Math.min(...index.years.map((y) => y.year))}-01-01` : today;
 
   useEffect(() => {
     if (!index || !pendingAll) return;
