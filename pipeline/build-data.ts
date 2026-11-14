@@ -8,10 +8,11 @@
  */
 import { existsSync } from 'node:fs';
 import { join } from 'node:path';
-import type { DataIndex, ExtractedReport, Incident } from '../shared/types.ts';
+import type { DataIndex, ExtractedReport, Incident, RawReport } from '../shared/types.ts';
+import { duplicateIds } from './lib/dedupe.ts';
 import { type GeocodeCache, locate } from './lib/geo.ts';
 import { type NewsRecord, linksToShow } from './lib/news.ts';
-import { DATA, EXTRACTED_DIR, GEOCODE_CACHE, PUBLIC_DATA, ROOT, readJson, readYear, writeJson, yearsWithData } from './lib/store.ts';
+import { DATA, EXTRACTED_DIR, GEOCODE_CACHE, PUBLIC_DATA, RAW_DIR, ROOT, readJson, readYear, writeJson, yearsWithData } from './lib/store.ts';
 
 /** Hand-checked corrections for single reports (pipeline/overrides.json). */
 export interface Override {
@@ -58,13 +59,16 @@ export async function buildData() {
     const news = new Map(
       existsSync(newsDir) ? (await readYear<NewsRecord>(join(DATA, 'news'), year)).map((n) => [n.id, n] as const) : [],
     );
+    // Repeated press releases (same title, day and text): keep only the newest copy.
+    const duplicates = duplicateIds(await readYear<RawReport>(RAW_DIR, year));
     const incidents = (await readYear<ExtractedReport>(EXTRACTED_DIR, year))
+      .filter((r) => !duplicates.has(r.id))
       .map((r) => toIncident(r, cache, overrides[r.id], news.get(r.id)))
       .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt));
     await writeJson(join(PUBLIC_DATA, `${year}.json`), incidents, false);
     index.years.push({ year, count: incidents.length });
     const located = incidents.filter((i) => i.precision === 'street').length;
-    console.log(`${year}: ${incidents.length} incidents, ${located} at street level`);
+    console.log(`${year}: ${incidents.length} incidents, ${located} at street level, ${duplicates.size} repeated releases dropped`);
   }
   await writeJson(join(PUBLIC_DATA, 'index.json'), index);
 }
