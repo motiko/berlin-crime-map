@@ -46,7 +46,7 @@ export function IncidentList({ incidents, total, selectedId, onSelect, busy = fa
     <section ref={listRef} className="list" aria-labelledby="list-label" aria-busy={busy}>
       <h2 id="list-label" className="list-head">
         {incidents.length === total
-          ? `${total.toLocaleString('en-GB')} incidents`
+          ? `${total.toLocaleString('en-GB')} ${total === 1 ? 'incident' : 'incidents'}`
           : `${incidents.length.toLocaleString('en-GB')} of ${total.toLocaleString('en-GB')} incidents in the map view`}
       </h2>
       {incidents.length === 0 ? (

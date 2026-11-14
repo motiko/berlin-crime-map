@@ -1,16 +1,18 @@
-import { useDeferredValue, useEffect, useMemo, useState } from 'react';
+import { useCallback, useDeferredValue, useEffect, useMemo, useRef, useState } from 'react';
 import type { LngLatBounds } from 'maplibre-gl';
 import { CATEGORIES, type Category } from '../shared/categories.ts';
 import { nextSelection } from '../shared/selection.ts';
 import type { DataIndex, Incident } from '../shared/types.ts';
 import { About } from './components/About.tsx';
-import { Filters } from './components/Filters.tsx';
+import { FilterPanel } from './components/FilterPanel.tsx';
+import { ActiveFilters, DateAndDistrict, SearchBox, TimeRange, activeFilters } from './components/Filters.tsx';
 import { IncidentCard } from './components/IncidentCard.tsx';
 import { IncidentList } from './components/IncidentList.tsx';
 import { MapView } from './components/MapView.tsx';
 import { StatsBar } from './components/StatsBar.tsx';
 import { loadIndex, loadRange } from './lib/data.ts';
 import { type Filters as FilterState, applyFilters, countByCategory, formatDate, isoDaysAgo } from './lib/filter.ts';
+import { useIsPhone, useSheet } from './lib/useSheet.ts';
 import { RANGES, parseUrl, toSearch } from './lib/urlState.ts';
 
 const today = new Date().toISOString().slice(0, 10);
@@ -40,6 +42,10 @@ export function App() {
   const [bounds, setBounds] = useState<LngLatBounds | null>(null);
   const [selectedId, setSelectedId] = useState<string | null>(initial.incident);
   const [aboutOpen, setAboutOpen] = useState(false);
+  const [filtersOpen, setFiltersOpen] = useState(false);
+  const filtersButton = useRef<HTMLButtonElement>(null);
+  const phone = useIsPhone();
+  const sheet = useSheet('half');
 
   useEffect(() => {
     loadIndex().then(setIndex, (e: Error) => setError(e.message));
@@ -106,44 +112,88 @@ export function App() {
 
   const setCategories = (categories: Set<Category>) => setFilters((f) => ({ ...f, categories }));
 
+  const filterCount = activeFilters(filters, minDate, today).length;
+  const filterProps = { value: filters, minDate, maxDate: today, onChange: setFilters };
+  const closeFilters = useCallback(() => setFiltersOpen(false), []);
+
   return (
     <div className="app">
-      <aside className="panel">
-        <header className="brand">
-          <div>
-            <h1>Berlin Crime Map</h1>
-            <p className="tagline">Every Berlin police press release, placed on the map.</p>
-            {index && <p className="updated">Updated {formatDate(index.updatedAt)}</p>}
-          </div>
-          <button type="button" className="link" onClick={() => setAboutOpen(true)}>
-            About
+      <aside
+        className="panel"
+        data-sheet={phone ? sheet.state : undefined}
+        data-dragging={sheet.dragging || undefined}
+        hidden={phone && !!selected ? true : undefined}
+        style={{ '--panel-top': `${sheet.peekPx}px`, ...(phone && { height: sheet.height }) } as React.CSSProperties}
+        aria-label="Incidents and filters"
+      >
+        <div ref={sheet.peekRef} className="panel-top">
+          <button
+            type="button"
+            className="grip"
+            aria-label={sheet.state === 'full' ? 'Show less of the list' : 'Show more of the list'}
+            {...sheet.gripProps}
+          >
+            <span aria-hidden="true" />
           </button>
-        </header>
-
-        <Filters value={filters} minDate={minDate} maxDate={today} onChange={setFilters} />
-        <StatsBar
-          counts={counts}
-          selected={filters.categories}
-          onSelect={(c) => setCategories(nextSelection(CATEGORIES, filters.categories, c))}
-          onAll={() => setCategories(new Set(CATEGORIES))}
-        />
-
-        {error ? (
-          <div className="error" role="alert">
-            <p>Could not load the data: {error}</p>
-            <button type="button" className="primary" onClick={() => setAttempt((n) => n + 1)}>
-              Try again
+          <header className="brand">
+            <h1>Berlin Crime Map</h1>
+            <button type="button" className="link" onClick={() => setAboutOpen(true)}>
+              About
             </button>
+            <p className="tagline">
+              Every Berlin police press release, placed on the map.
+              {index && <span className="updated"> Updated {formatDate(index.updatedAt)}.</span>}
+            </p>
+          </header>
+
+          <div className="toolbar">
+            <TimeRange {...filterProps} />
+            <div className="toolbar-row">
+              <SearchBox value={filters} onChange={setFilters} />
+              <button
+                ref={filtersButton}
+                type="button"
+                className="chip filters-button"
+                aria-expanded={filtersOpen}
+                aria-controls="filter-panel"
+                onClick={() => setFiltersOpen((o) => !o)}
+              >
+                Filters
+                {filterCount > 0 && <span className="count-badge">{filterCount}</span>}
+              </button>
+            </div>
+            <ActiveFilters {...filterProps} />
           </div>
-        ) : loading && !loadedOnce ? (
-          <div className="skeleton" aria-busy="true" aria-label="Loading incidents…">
-            {Array.from({ length: 6 }, (_, i) => (
-              <div key={i} className="skeleton-row" />
-            ))}
-          </div>
-        ) : (
-          <IncidentList incidents={inView} total={filtered.length} selectedId={selectedId} onSelect={setSelectedId} busy={loading} />
-        )}
+        </div>
+
+        <FilterPanel id="filter-panel" open={filtersOpen} count={filtered.length} onClose={closeFilters} toggleRef={filtersButton}>
+          <DateAndDistrict {...filterProps} />
+          <StatsBar
+            counts={counts}
+            selected={filters.categories}
+            onSelect={(c) => setCategories(nextSelection(CATEGORIES, filters.categories, c))}
+            onAll={() => setCategories(new Set(CATEGORIES))}
+          />
+        </FilterPanel>
+
+        <div className="list-scroll">
+          {error ? (
+            <div className="error" role="alert">
+              <p>Could not load the data: {error}</p>
+              <button type="button" className="primary" onClick={() => setAttempt((n) => n + 1)}>
+                Try again
+              </button>
+            </div>
+          ) : loading && !loadedOnce ? (
+            <div className="skeleton" aria-busy="true" aria-label="Loading incidents…">
+              {Array.from({ length: 6 }, (_, i) => (
+                <div key={i} className="skeleton-row" />
+              ))}
+            </div>
+          ) : (
+            <IncidentList incidents={inView} total={filtered.length} selectedId={selectedId} onSelect={setSelectedId} busy={loading} />
+          )}
+        </div>
       </aside>
 
       <main className="map-wrap">
